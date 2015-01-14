@@ -2,13 +2,13 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-07 05:27+0000\n"
+"POT-Creation-Date: 2015-01-14 12:51+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,1663 +18,10 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#. Translators:
-#. Page Title: Master Firefox OS
-#. Parent Page Title: None
-#: db-strings.txt:7 masterfirefoxos/base/templates/base.html:12
+#: masterfirefoxos/base/templates/base.html:12
 #: masterfirefoxos/base/templates/base.html:40
 msgid "Master Firefox OS"
 msgstr ""
-
-#. Translators:
-#. Page Title: Master Firefox OS
-#. Parent Page Title: None
-#: db-strings.txt:17
-msgid ""
-"Welcome to the Firefox OS global partner and community training hub. "
-"Everything you need to learn to effectively communicate the basics of "
-"Firefox OS is here. Select any topic to get started."
-msgstr ""
-
-#. Translators:
-#. Page Title: Introduction
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:27
-msgid "Introduction"
-msgstr "Einführung"
-
-#. Translators:
-#. Page Title: Introduction
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:37
-msgid "<a href='#m05/t05/p10'>Demo Tips <span>></span></a>"
-msgstr "<a href='#m05/t05/p10'>Vorführ-Tipps <span>></span></a>"
-
-#. Translators:
-#. Page Title: Introduction
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:47 db-strings.txt.py:67
-msgid "Keep the Web in Your Hands"
-msgstr "Behalten Sie das Internet in Ihren Händen"
-
-#. Translators:
-#. Page Title: Introduction
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:57
-msgid ""
-"At Mozilla, we’re out to make a difference, not a profit.<br><br>Our "
-"commitment to keeping the Web open and accessible for all will give your "
-"customers the best of the Web no matter where they go, while keeping them "
-"safe and in control of their online lives."
-msgstr ""
-"Bei Mozilla wollen wir etwas bewegen, nicht Gewinne "
-"erzielen.<br/><br/>Hinter Firefox-OS-Smartphones steht eine weltweite "
-"Gemeinschaft aus Tausenden von Entwicklern, die Innovationen im Sinne Ihrer "
-"Kunden bewirken möchten. Außerdem werden sie mit Rücksicht auf die "
-"Interessen und Bedürfnisse Ihrer Kunden vor Ort entwickelt. Wenn Kunden sich"
-" für Firefox OS entscheiden, helfen sie dabei, eine leuchtendere Zukunft für"
-" das Internet für alle zu schaffen."
-
-#. Translators:
-#. Page Title: Introduction
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:77 db-strings.txt.py:97
-msgid "Have It All"
-msgstr "Alles dabei"
-
-#. Translators:
-#. Page Title: Introduction
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:87
-msgid ""
-"Firefox OS is packed with all the features that made your customers want a "
-"smartphone in the first place: Camera, Gallery, social features, Music and "
-"more.<br><br>Firefox OS users have complete access to apps in the Firefox "
-"Marketplace, without the need for a sign-in. There, they can get all the "
-"popular, big name apps, as well as local content designed to help them get "
-"the most out of the world around them."
-msgstr ""
-"Firefox OS ist voll mit den Funktionen, wegen denen Sie überhaupt ein "
-"Smartphone verwenden möchten: Apps, Karten, Kamera, Galerie, soziale "
-"Funktionen, Musik und mehr.<br/><br/>Mit Firefox OS können Kunden ihr "
-"Online-Leben kontrollieren und das Beste aus dem Internet herausholen, egal "
-"wo sie sind."
-
-#. Translators:
-#. Page Title: Introduction
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:107 db-strings.txt.py:127 db-strings.txt.py:137
-msgid "The Adaptive Phone"
-msgstr "Das anpassbare Handy"
-
-#. Translators:
-#. Page Title: Introduction
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:117
-msgid ""
-"Firefox OS adapts to the needs of customers better than any other phone by "
-"anticipating their needs and instantly delivering the information they "
-"want.<br><br>With Adaptive App Search your customers will get more of what "
-"they’re looking for, exactly when they need it."
-msgstr ""
-"Firefox OS passt sich den Bedürfnissen der Kunden besser an als jedes andere"
-" Handy.<br/><br/>Die adaptive App-Suche liefert Informationen zu jedem Thema"
-" und gibt Ihren Kunden genau, was sie suchen, und das zur richtigen Zeit. "
-"Damit können sie jeden Moment voll ausnutzen."
-
-#. Translators:
-#. Page Title: Introduction
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:147
-msgid "Ready to explore the key benefits of Firefox OS?"
-msgstr "Sind Sie bereit, die Hauptvorteile von Firefox OS zu erkunden?"
-
-#. Translators:
-#. Page Title: Introduction
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:157
-msgid ""
-"Your customers’ needs are always changing. That’s why Firefox OS does the "
-"same — adapting so your customers can live every moment to its "
-"fullest.<br><br>Firefox OS devices are perfect for new smartphone users — "
-"easy to use and full of all the features that customers expect. And because "
-"Firefox OS devices are powered by Mozilla, they’re the perfect choice for "
-"anyone committed to keeping the Web open for all."
-msgstr ""
-"Die Bedürfnisse Ihrer Kunden ändern sich ständig. Smartphones mit Firefox OS"
-" passen sich den Bedürfnissen Ihrer Kunden an, damit sie jeden Augenblick "
-"voll ausleben können.<br/><br/>Sie sind einfach zu verwenden, sind perfekt "
-"für Smartphone-Einsteiger und voll mit den Funktionen, die Kunden erwarten. "
-"Hinter den Firefox-OS-Geräten steht Mozilla  und sie sind die richtige Wahl "
-"für jeden, der sich dafür einsetzt, dass das Internet eine für alle "
-"zugängliche öffentliche Ressource bleibt."
-
-#. Translators:
-#. Page Title: Introduction
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:167
-msgid "A phone that makes every moment count"
-msgstr "Ein Handy, mit dem jeder Augenblick zählt"
-
-#. Translators:
-#. Page Title: Demo Tips
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:177
-msgid "Demo Tips"
-msgstr "Vorführ-Tipps"
-
-#. Translators:
-#. Page Title: Demo Tips
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:187
-msgid "<a href='#m05/t05/p15'>Customer Guide <span>></span></a>"
-msgstr "<a href='#m05/t05/p15'>LEITFADEN ÜBER KUNDEN<span>></span></a>"
-
-#. Translators:
-#. Page Title: Demo Tips
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:197
-msgid "<a href='#m05/t05/p05'><span><</span> Introduction</a>"
-msgstr "<a href='#m05/t05/p05'><span><</span>Einführung</a>"
-
-#. Translators:
-#. Page Title: Demo Tips
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:207
-msgid ""
-"Firefox OS comes preloaded with popular instant messaging and social media "
-"apps, like Facebook, so your customers will be able to stay connected with "
-"friends and family. They can also sync their contacts to the phone, quickly "
-"and easily."
-msgstr ""
-"Im Firefox Marketplace finden Ihre Kunden die tollen Spiele und Apps, die "
-"sie wollen."
-
-#. Translators:
-#. Page Title: Demo Tips
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:217
-msgid "Social and Contact Sync"
-msgstr "Marketplace"
-
-#. Translators:
-#. Page Title: Demo Tips
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:227
-msgid ""
-"With the Camera, Gallery, Music apps and more, Firefox OS will keep your "
-"customers entertained on the go and connected to the things that matter most"
-" to them."
-msgstr ""
-
-#. Translators:
-#. Page Title: Demo Tips
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:237
-msgid "Rich Media Experience"
-msgstr ""
-
-#. Translators:
-#. Page Title: Demo Tips
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:247
-msgid ""
-"Show your customers how easy it is to get apps in Firefox Marketplace, or "
-"from anywhere on the Web with Adaptive App Search. It’s all about giving "
-"users more of what they need, when they need it."
-msgstr ""
-"Zeigen Sie die informativen Kartenfunktionen von Firefox OS, inklusive "
-"Informationen über den ÖPNV."
-
-#. Translators:
-#. Page Title: Demo Tips
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:257
-msgid "Marketplace and Adaptive App Search"
-msgstr "HERE Maps"
-
-#. Translators:
-#. Page Title: Demo Tips
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:267
-msgid ""
-"Firefox OS is intuitive and simple. With a beautifully designed interface, "
-"your customers will find it easy to use from the start. It also supports "
-"dual SIM and several local languages."
-msgstr ""
-
-#. Translators:
-#. Page Title: Demo Tips
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:277
-msgid "Easy to use"
-msgstr ""
-
-#. Translators:
-#. Page Title: Demo Tips
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:287
-msgid ""
-"Firefox OS offers everything your customers want in a smartphone — and more "
-"— at prices that are easy to afford."
-msgstr ""
-"Wenn Sie nur eine Minute Zeit haben, nutzen Sie diese am besten mit dieser "
-"Übersicht."
-
-#. Translators:
-#. Page Title: Demo Tips
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:297
-msgid "Introducing Firefox OS"
-msgstr "Einführung in Firefox OS"
-
-#. Translators:
-#. Page Title: Demo Tips
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:307
-msgid ""
-"Demonstrating the features of Firefox OS and how easy it is to use will be "
-"your best selling tool.<br><br>Browse the demonstration videos below to get "
-"started."
-msgstr ""
-"Eine Vorführung der Funktionen von Firefox OS und seiner einfachen "
-"Bedienbarkeit ist Ihr bestes Verkaufsargument. Was sollten Sie also "
-"zeigen?<br/><br/>Sehen Sie sich für den Anfang die folgenden Vorführvideos "
-"an."
-
-#. Translators:
-#. Page Title: Demo Tips
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:317
-msgid "Demonstrations that matter"
-msgstr "Entscheidende Vorführungen"
-
-#. Translators:
-#. Page Title: Customer Guide
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:327
-msgid "Customer Guide"
-msgstr "Leitfaden über Kunden"
-
-#. Translators:
-#. Page Title: Customer Guide
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:337
-msgid "<a href='#m05/t05/p20'>Key Features <span>></span></a>"
-msgstr "<a href='#m05/t05/p20'>WESENTLICHE FUNKTIONEN<span>></span></a>"
-
-#. Translators:
-#. Page Title: Customer Guide
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:347
-msgid "<a href='#m05/t05/p10'><span><</span> Demo Tips</a>"
-msgstr "<a href='#m05/t05/p10'><span><</span> Vorführ-Tipps</a>"
-
-#. Translators:
-#. Page Title: Customer Guide
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:357
-msgid ""
-"If you know and love Firefox, you’ll love Firefox OS. Firefox OS smartphones"
-" are entirely HTML5-based, bringing the best of the Web to your phone. Plus,"
-" Firefox OS is designed by a community dedicated to keeping the Web "
-"accessible to all. When you choose Firefox OS, you have the full power of "
-"the Web in your hands."
-msgstr ""
-"Wenn Sie Firefox kennen und lieben, werden Sie auch Firefox OS lieben. "
-"Firefox OS Smartphones basieren komplett auf HTML5 und bringen so das Beste "
-"des Internets auf Ihr Handy. Außerdem wird Firefox OS von einer Gemeinschaft"
-" entwickelt, die sich dafür einsetzt, dass das Internet für alle zugänglich "
-"bleibt. Wenn Sie sich für Firefox OS entscheiden, haben Sie die geballte "
-"Macht des Internets in Ihren Händen."
-
-#. Translators:
-#. Page Title: Customer Guide
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:367 db-strings.txt.py:397 db-strings.txt.py:427
-msgid "Here’s what you can say:"
-msgstr "Das können Sie sagen:"
-
-#. Translators:
-#. Page Title: Customer Guide
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:377
-msgid "The Firefox Fan"
-msgstr "Ich liebe Firefox!"
-
-#. Translators:
-#. Page Title: Customer Guide
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:387
-msgid ""
-"Firefox OS is the easiest smartphone you’ll ever use.<br><br>Adaptive App "
-"Search helps you find the things you need simply — and instantly. The user "
-"interface is so intuitive, you will be able to quickly discover and easily "
-"download your favorite apps in no time."
-msgstr ""
-"Firefox OS ist das am einfachsten zu bedienendste Smartphone für den "
-"Einstieg. Die adaptive App-Suche hilft Ihnen, einfach – und sofort – das "
-"Gesuchte zu finden. Die Benutzeroberfläche ist so intuitiv, dass Sie Ihre "
-"Lieblings-Apps schnell finden und herunterladen können, um startklar zu "
-"sein."
-
-#. Translators:
-#. Page Title: Customer Guide
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:407
-msgid "The Uncertain Upgrader"
-msgstr "Der unsichere Aktualisierer"
-
-#. Translators:
-#. Page Title: Customer Guide
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:417
-msgid ""
-"Firefox OS gives you the most value for your money. It has everything you "
-"expect in a smartphone — camera, email, apps from the Firefox Marketplace, "
-"music and more — at the most competitive prices."
-msgstr ""
-"Mit Firefox OS bekommen Sie das Meiste für Ihr Geld. Es hat alles, was Sie "
-"von einem Smartphone erwarten – Kamera, E-Mail, Apps, Musik, Karten und mehr"
-" – und das zu günstigsten Preisen."
-
-#. Translators:
-#. Page Title: Customer Guide
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:437
-msgid "The Value Seeker"
-msgstr "Der Wertsuchende"
-
-#. Translators:
-#. Page Title: Customer Guide
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:447
-msgid ""
-"Firefox OS is the best choice for first time smartphone users. It’s super "
-"easy to use and it adapts to your needs better than any other phone, so you "
-"get more of what you need with less time searching. Plus, it’s packed with "
-"all the features you’d expect, from Camera, to Email, apps from the Firefox "
-"Marketplace, Music and more."
-msgstr ""
-"Firefox OS ist die beste Wahl für Smartphone-Einsteiger. Es lässt sich ganz "
-"einfach bedienen und passt sich Ihren Bedürfnissen besser an als jedes "
-"andere Handy, sodass Sie mehr von dem erhalten, was Sie benötigen, ohne viel"
-" Zeit mit Suchen zu verbringen. Außerdem verfügt es über alle Funktionen, "
-"die Sie erwarten würden, von Kamera bis E-Mail, Apps, Musik, Karten und "
-"mehr."
-
-#. Translators:
-#. Page Title: Customer Guide
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:457
-msgid "Here’s what you can say"
-msgstr "Das können Sie sagen:"
-
-#. Translators:
-#. Page Title: Customer Guide
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:467
-msgid "The Smartphone Rookie"
-msgstr "Der Smartphone-Einsteiger"
-
-#. Translators:
-#. Page Title: Customer Guide
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:477
-msgid ""
-"Understanding your customer’s needs and knowing how to respond on the spot "
-"is critical to any sales opportunity.<br><br>Check out the common customer "
-"segments below, then drag the bar to learn how to best respond to each of "
-"their unique needs."
-msgstr ""
-"Das Verständnis für die Bedürfnisse Ihres Kunden und eine schnelle Reaktion "
-"darauf sind Grundvoraussetzungen für jede "
-"Verkaufsgelegenheit.<br/><br/>Sehen Sie sich die folgenden häufigen "
-"Kundensegmente an und ziehen Sie die Leiste, um zu erfahren, wie Sie auf die"
-" jeweiligen besonderen Bedürfnisse am besten reagieren."
-
-#. Translators:
-#. Page Title: Customer Guide
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:487
-msgid "Who is your ideal Firefox customer?"
-msgstr "Wer ist der ideale Firefox-OS-Kunde?"
-
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:497
-msgid "Key Features"
-msgstr "Wesentliche Funktionen"
-
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:507
-msgid "Features that count"
-msgstr "Funktionen, die zählen"
-
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:517
-msgid ""
-"Firefox OS is packed with the features that your customers expect in a "
-"smartphone. It’s designed to fit their lives perfectly so they can keep pace"
-" with the world around them."
-msgstr ""
-"Firefox OS ist voll mit den Funktionen, die Ihre Kunden in einem Smartphone "
-"erwarten. Es passt sich perfekt an ihre Leben an, damit sie mit der Welt um "
-"sie herum Schritt halten können."
-
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:527
-msgid "Have it all"
-msgstr "Alles dabei"
-
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:537
-msgid "Select the forward arrow to discover the key features of Firefox OS."
-msgstr ""
-"Wählen Sie den Vorwärtspfeil, um die Hauptfunktionen von Firefox OS zu "
-"entdecken."
-
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:547 db-strings.txt.py:1477 db-strings.txt.py:1537
-#: db-strings.txt:1597 db-strings.txt.py:1637
-msgid "Adaptive App Search"
-msgstr "Adaptive App-Suche"
-
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:557
-msgid ""
-"A new way to get what you need right when you need it. Search for anything "
-"and Firefox OS adapts to your request, displaying photos, video, music, news"
-" and more — making it much easier for you to find what you were looking for."
-msgstr ""
-"Eine neue Möglichkeit, um rechtzeitig das zu finden, was Sie benötigen, ohne"
-" mühselig Anwendungen herunterladen zu müssen. Egal was Sie suchen, Firefox "
-"OS passt sich an Ihre Anforderung an und zeigt Fotos und Videos, spielt "
-"Musik und liefert Nachrichten, Karten und mehr – sodass es für Sie viel "
-"einfacher ist zu finden, was Sie eigentlich suchen."
-
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:567
-msgid "Adaptive App Search..."
-msgstr "Adaptive App-Suche..."
-
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:577 db-strings.txt.py:1277
-msgid "Marketplace"
-msgstr "Firefox Marketplace"
-
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:587
-msgid ""
-"Your go-to source for the best apps for Firefox OS. Browse hundreds of free "
-"apps in multiple categories: Games, Tools, Lifestyle and more."
-msgstr ""
-"Ihre Anlaufstelle für die besten Apps für Firefox OS. Durchsuchen Sie "
-"zehntausende von kostenlosen und kostenpflichtigen Apps in mehreren "
-"Kategorien, von Spielen bis Hilfsmittel, Musik, Reise, Sport und mehr."
-
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:597
-msgid "Marketplace..."
-msgstr "Marketplace..."
-
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:607
-msgid "Firefox browser"
-msgstr "Firefox-Browser"
-
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:617 db-strings.txt.py:647
-msgid ""
-"Firefox OS is deeply integrated with your favorite social networks. Easily "
-"sync your Facebook contacts to your phone to keep your community all in one "
-"place."
-msgstr ""
-"Bleiben Sie in Verbindung, mit einfachem Zugang zu Ihren Freunden und "
-"Kollegen, egal wo Sie sind."
-
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:627
-msgid "Firefox browser..."
-msgstr "Firefox-Browser..."
-
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:637 db-strings.txt.py:657 db-strings.txt.py:1307
-msgid "Facebook"
-msgstr "Facebook"
-
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:667 db-strings.txt.py:1167 db-strings.txt.py:1347
-#: db-strings.txt:1457 db-strings.txt.py:1517 db-strings.txt.py:1577
-msgid "Contacts"
-msgstr "Kontakte"
-
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:677
-msgid ""
-"Stay connected, with easy access to your friends and colleagues, wherever "
-"you are."
-msgstr ""
-"Nahtlos integriert in Ihre sozialen Lieblingsnetzwerke. Sie können einfach "
-"Ihre Facebook-Kontakte in Ihr Handy importieren, um Ihre Gemeinschaft an "
-"einem Ort zu versammeln."
-
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:687
-msgid "Contacts..."
-msgstr "Kontakte..."
-
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:697 db-strings.txt.py:1297
-msgid "Camera and Gallery"
-msgstr "Kamera und Galerie"
-
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:707
-msgid ""
-"With built-in style filters for fun, creative shots and lots of ways to "
-"share your photographs, the full-featured camera and photo gallery will have"
-" all your subjects smiling."
-msgstr ""
-"Dank integrierten Stilfiltern für interessante, kreative Fotos und vielen "
-"Möglichkeiten, Ihre Fotos zu teilen, bringen die funktionsbeladene Kamera "
-"und Fotogalerie alle Ihre Motive zum Lächeln."
-
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:717
-msgid "Camera and Gallery..."
-msgstr "Kamera und Galerie..."
-
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:727 db-strings.txt.py:1407
-msgid "FM Radio"
-msgstr "UKW-Radio"
-
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:737
-msgid ""
-"All the audio you want on the go, all on one device. Just plug in your "
-"earphones and start listening."
-msgstr ""
-"Die ganze Musik, die Sie unterwegs möchten, auf einem Gerät. Stecken Sie "
-"einfach Ihre Ohrhörer ein und lauschen Sie der Musik."
-
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:747
-msgid "FM Radio..."
-msgstr "UKW-Radio..."
-
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:757
-msgid "Music and Video"
-msgstr "Karten"
-
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:767
-msgid ""
-"Browse and play your music collection, rate songs and create playlists for "
-"your favorites. Watch videos from your phone, or online via YouTube."
-msgstr ""
-"Sie erhalten eine Satellitenansicht, ÖPNV-Informationen und "
-"Echtzeitverkehrsdaten, können nach Orten von Interesse suchen und sogar Ihre"
-" Karte lokal für einen schnelleren Zugriff unterwegs speichern. Here Maps "
-"kann Ihren Standort erkennen und Ihnen sogar Wegbeschreibungen (Auto, zu Fuß"
-" oder ÖPNV) liefern, um Sie an Ihr Ziel zu bringen."
-
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:777
-msgid "Play it all from your phone, or online via Youtube."
-msgstr "Karten..."
-
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:787
-msgid "Messages and Email"
-msgstr "Musik und Video"
-
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:797
-msgid ""
-"Stay connected easily and conveniently. Set up multiple email accounts, with"
-" support for the most common Exchange, SMTP or IMAP email providers."
-msgstr ""
-"Spielen Sie alles von Ihrem Handy ab oder online über YouTube. Suchen und "
-"spielen Sie Ihre Musiksammlung nach Album oder Interpret ab, bewerten Sie "
-"Titel und erstellen Sie Wiedergabelisten für Ihre Lieblingstitel."
-
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:807
-msgid "Messages and Email..."
-msgstr "Musik und Video..."
-
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:817
-msgid "<a href='#m05/t05/p15'><span><</span> Customer Guide</a>"
-msgstr "<a href='#m05/t05/p15'><span><</span> LEITFADEN ÜBER KUNDEN</a>"
-
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:827
-msgid "<a href='#m05/t05/p25'>Frequently Asked Questions <span>></span></a>"
-msgstr "<a href='#m05/t05/p25'>HÄUFIG GESTELLTE FRAGEN<span>></span></a>"
-
-#. Translators:
-#. Page Title: Frequently Asked Questions
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:837
-msgid "Frequently Asked Questions"
-msgstr "Häufig gestellte Fragen"
-
-#. Translators:
-#. Page Title: Frequently Asked Questions
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:847
-msgid "<a href='#m05/t05/p30'>The Firefox Mission <span>></span></a>"
-msgstr "<a href='#m05/t05/p30'>DIE FIREFOX-MISSION<span>></span></a>"
-
-#. Translators:
-#. Page Title: Frequently Asked Questions
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:857
-msgid "<a href='#m05/t05/p20'><span><</span> Key Features</a>"
-msgstr "<a href='#m05/t05/p20'><span><</span> WESENTLICHE FUNKTIONEN</a>"
-
-#. Translators:
-#. Page Title: Frequently Asked Questions
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:867
-msgid ""
-"Visit <a href='https://support.mozilla.org/en-US/kb/firefox-os-user-"
-"guide'>https://support.mozilla.org/en-US/kb/firefox-os-user-guide</a> for "
-"more information."
-msgstr ""
-"Weitere Informationen finden Sie unter <a "
-"href='https://support.mozilla.org/de/kb/firefox-os-user-"
-"guide'>https://support.mozilla.org/de/kb/firefox-os-user-guide</a>."
-
-#. Translators:
-#. Page Title: Frequently Asked Questions
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:877
-msgid "Where should I go if I have more questions?"
-msgstr "Wo finde ich Antworten auf weitere Fragen?"
-
-#. Translators:
-#. Page Title: Frequently Asked Questions
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:887
-msgid ""
-"Hotmail and Yahoo mail are currently supported with more on the way in the "
-"future."
-msgstr ""
-"Hotmail und Yahoo Mail werden derzeit unterstützt. Weitere E-Mail-Anbieter "
-"werden folgen."
-
-#. Translators:
-#. Page Title: Frequently Asked Questions
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:897
-msgid "What email providers are supported?"
-msgstr "Welche E-Mail-Anbieter werden unterstützt?"
-
-#. Translators:
-#. Page Title: Frequently Asked Questions
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:907
-msgid ""
-"Firefox OS provides two ways to get apps:<ul><li>Marketplace — our go-to "
-"source for hundreds of great free apps, including popular apps like Twitter "
-"and Facebook, and for awesome local content from the best Web developers in "
-"your region.</li><li>Adaptive App Search — just type a single word like "
-"“news” to discover related mobile apps in your region.</li></ul>"
-msgstr ""
-"Firefox OS bietet zwei Möglichkeiten um Apps zu erhalten:<ul><li>Firefox "
-"Marketplace – Unsere Anlaufstelle für tolle Apps wie Twitter und wunderbare "
-"lokale Inhalte von den besten Web-Entwicklern in Ihrer "
-"Region.</li><li>Adaptive App-Suche – Geben Sie einfach ein Wort wie „Sushi“ "
-"ein, um passende mobile Apps in Ihrer Region zu entdecken, die Ihnen von "
-"einem besseren mobilen Erlebnis zur Verfügung gestellt werden, und Ihnen "
-"geben sollen, was Sie möchten.</li><ul>"
-
-#. Translators:
-#. Page Title: Frequently Asked Questions
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:917
-msgid "How do I download and install apps on Firefox OS?"
-msgstr "Wie kann ich Apps für Firefox OS herunterladen und installieren?"
-
-#. Translators:
-#. Page Title: Frequently Asked Questions
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:927
-msgid ""
-"Customers who need support with an app built for Firefox OS will be directed"
-" to the app developer for assistance. If the customer experience with "
-"Firefox OS is negatively impacted by the support incident resulting from the"
-" app, Mozilla may recommend workarounds including uninstalling the app until"
-" the developer provides appropriate assistance."
-msgstr ""
-"Kunden, die Hilfe mit einer für Firefox OS entwickelten App benötigen, "
-"werden an den App-Entwickler weitergeleitet. Wenn das Kundenerlebnis mit "
-"Firefox OS durch die Hilfsanfrage negativ beeinflusst wird, kann Mozilla "
-"Zwischenlösungen empfehlen, inklusive Deinstallation der App, bis der "
-"Entwickler entsprechend Hilfe leistet."
-
-#. Translators:
-#. Page Title: Frequently Asked Questions
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:937
-msgid "What about customer support for apps?"
-msgstr "Wie sieht es mit Kundenunterstützung für Apps aus?"
-
-#. Translators:
-#. Page Title: Frequently Asked Questions
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:947
-msgid ""
-"Firefox OS is built on Web technologies but has offline capabilities for all"
-" the phone’s core functions. That means apps do not require an active "
-"Internet connection to work unless they need to send or receive data."
-msgstr ""
-"Firefox OS basiert auf Web-Technologien, verfügt aber über Offline-"
-"Möglichkeiten für die Kernfunktionen des Handys. Das bedeutet, dass Apps, "
-"die keine ständige Internet-Verbindung benötigen, weiter funktionieren, "
-"außer wenn die App für ihr Funktionieren Daten mit einem anderen System über"
-" das Internet austauschen muss."
-
-#. Translators:
-#. Page Title: Frequently Asked Questions
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:957
-msgid "Do my apps work offline?"
-msgstr "Funktionieren meine Apps offline?"
-
-#. Translators:
-#. Page Title: Frequently Asked Questions
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:967
-msgid ""
-"Not directly. However, many of the most popular Android and iOS apps are "
-"actually Web apps that have a native “wrapper” to allow them to run on "
-"proprietary platforms. Therefore, many of the same apps will be available "
-"through Adaptive App Search.<br><br>Tools such as Emscripten and PhoneGap "
-"are also able to convert other apps (*.apk and/or C/C++) to Web apps."
-msgstr ""
-
-#. Translators:
-#. Page Title: Frequently Asked Questions
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:977
-msgid "Do Android apps work on this phone?"
-msgstr ""
-
-#. Translators:
-#. Page Title: Frequently Asked Questions
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:987
-msgid ""
-"Users can place website bookmarks on the home page to provide direct access "
-"to those sites. Also, by swiping right from the home screen, users can "
-"simply enter any search term and instantly create a one-time use or "
-"downloadable app. Creating and consuming these apps on demand puts users in "
-"complete control of their smartphone experience and will make it possible "
-"for people to get the exact content they want, when they want it."
-msgstr ""
-"Nicht direkt. Allerdings sind viele der beliebtesten Android- und iOS-Apps "
-"eigentlich Web-Apps, die über einen nativen „Wrapper“ verfügen, um auf "
-"proprietären Plattformen zu laufen. Daher werden viele dieser Apps über die "
-"adaptive App-Suche verfügbar sein."
-
-#. Translators:
-#. Page Title: Frequently Asked Questions
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:997
-msgid "What do you mean I can convert mobile sites into apps?"
-msgstr "Funktionieren Android-Apps auf diesem Handy?"
-
-#. Translators:
-#. Page Title: Frequently Asked Questions
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1007
-msgid ""
-"Firefox OS has a robust security model that is battle-hardened from more "
-"than a decade of supporting the open Web. It is designed to protect the user"
-" and system from malicious applications and content."
-msgstr ""
-"Firefox OS hat ein robustes Sicherheitsmodell, das in über einem Jahrzehnt "
-"der Unterstützung für das offene Web erprobt wurde. Es wurde entwickelt, um "
-"den Anwender und das System vor schädlichen Anwendungen und Inhalten zu "
-"schützen."
-
-#. Translators:
-#. Page Title: Frequently Asked Questions
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1017
-msgid "What makes Firefox OS more secure than other phones?"
-msgstr "Was macht Firefox OS sicherer als andere Handys?"
-
-#. Translators:
-#. Page Title: Frequently Asked Questions
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1027
-msgid ""
-"App developers around the world are committed to Firefox OS and tens of "
-"hundreds of free applications will be available at launch. The growing list "
-"includes leading app developers like Facebook, YouTube, Twitter and "
-"ConnectA2 as well as a Flashlight app and Calculator."
-msgstr ""
-"App-Entwickler auf der ganzen Welt setzen sich für Firefox OS ein und "
-"zehntausende kostenloser und kostenpflichtiger Anwendungen werden zum "
-"Verkaufsstart verfügbar sein. Zu der wachsenden Liste gehören führende App-"
-"Entwickler wie Accuweather, Airbnb, Box, Cut the Rope, EA Games, Facebook, "
-"Nokia HERE, MTV Brasil, Pulse News, SoundCloud, SporTV, Time Out und "
-"Twitter."
-
-#. Translators:
-#. Page Title: Frequently Asked Questions
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1037
-msgid "How many and what types of apps will be available?"
-msgstr "Wie viele und welche Typen von Apps werden verfügbar sein?"
-
-#. Translators:
-#. Page Title: Frequently Asked Questions
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1047
-msgid ""
-"Adaptive App Search is a new way to find content from across the Web and "
-"engage in an app-like experience without having to download the app to find "
-"what you need. Whenever you search, your phone adapts to the search result "
-"and makes it easy to add those results to your home screen for easy access "
-"later."
-msgstr ""
-"Die adaptive App-Suche ist eine neue Möglichkeit, Inhalte aus dem gesamten "
-"Internet zu finden und ein App-ähnliches Erlebnis zu haben, ohne sich "
-"mühselig die App herunterladen zu müssen, um zu finden, was Sie suchen. Wann"
-" immer Sie suchen, passt sich Ihr Handy an die Suchergebnisse an und "
-"erleichtert es, diese Ergebnisse für den späteren Zugriff zum "
-"Startbildschirm hinzuzufügen."
-
-#. Translators:
-#. Page Title: Frequently Asked Questions
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1057
-msgid "What is Adaptive App Search?"
-msgstr "Was ist die adaptive App-Suche?"
-
-#. Translators:
-#. Page Title: Frequently Asked Questions
-#. Parent Page Title: Master Firefox OS
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1067 db-strings.txt.py:1797 db-strings.txt.py:1847
-#: db-strings.txt:1897 db-strings.txt.py:1927
-msgid " "
-msgstr " "
-
-#. Translators:
-#. Page Title: Frequently Asked Questions
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1077
-msgid ""
-"By now, you probably have questions and so will your customers! Select each "
-"question for more on Firefox OS."
-msgstr ""
-"Sie haben mittlerweile vermutlich Fragen und Ihre Kunden werden ebenfalls "
-"welche haben! Durch Auswählen der Fragen erhalten Sie weitere Informationen "
-"zu Firefox OS."
-
-#. Translators:
-#. Page Title: Frequently Asked Questions
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1087
-msgid "You have questions? We have answers!"
-msgstr "Sie haben Fragen? Wir haben Antworten!"
-
-#. Translators:
-#. Page Title: The Firefox Mission
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1097
-msgid "The Firefox Mission"
-msgstr "Die Firefox-Mission"
-
-#. Translators:
-#. Page Title: The Firefox Mission
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1107
-msgid "<a href='#m05/t05/p35'>Take The Challenge <span>></span></a>"
-msgstr ""
-"<a href='#m05/t05/p35'>STELLEN SIE SICH DER "
-"HERAUSFORDERUNG<span>></span></a>"
-
-#. Translators:
-#. Page Title: The Firefox Mission
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1117
-msgid "<a href='#m05/t05/p25'><span><</span> Frequently Asked Questions</a>"
-msgstr "<a href='#m05/t05/p25'><span><</span> HÄUFIG GESTELLTE FRAGEN</a>"
-
-#. Translators:
-#. Page Title: The Firefox Mission
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1127
-msgid ""
-"Behind every Firefox OS smartphone is Mozilla, a global community of "
-"thousands dedicated to keeping the Web accessible to all. We believe each "
-"and every one of us has the right to a Web that isn’t controlled by just a "
-"few large entities and that together, we can build brighter future for the "
-"Web.<br><br>Yeah, we’re a little different than the other guys."
-msgstr ""
-"Hinter jeden Firefox-OS-Smartphone steht Mozilla: Eine weltweite "
-"Gemeinschaft aus Tausenden von Menschen, die sich dafür einsetzen, dass das "
-"Internet für alle zugänglich bleibt. Wir glauben nämlich, dass jeder von uns"
-" das Recht auf ein Internet hat, das nicht nur von wenigen großen Akteuren "
-"kontrolliert wird.<br/><br/>Ja, wir sind ein bisschen anders als die "
-"Anderen. Gemeinsam können wir eine leuchtendere Zukunft für das Internet "
-"schaffen."
-
-#. Translators:
-#. Page Title: The Firefox Mission
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1137
-msgid ""
-"Our mission is to promote openness, innovation and opportunity on the Web."
-msgstr ""
-"Unsere Mission ist es, Offenheit, Innovation und Chancen im Internet zu "
-"fördern."
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1147
-msgid "Take the challenge"
-msgstr "Stellen Sie sich der Herausforderung"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1157 db-strings.txt.py:1287 db-strings.txt.py:1467
-#: db-strings.txt:1527 db-strings.txt.py:1587
-msgid "Browser"
-msgstr "Firefox-Browser"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1177
-msgid "Ready to show what you know?"
-msgstr "Sind Sie bereit, Ihr Wissen zu zeigen?"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1187
-msgid ""
-"Think you are almost ready to start selling Firefox OS to your customers? "
-"Put your knowledge to the test and answer these questions to prove you have "
-"what it takes."
-msgstr ""
-"Halten Sie sich für so gut wie bereit, Ihren Kunden Firefox OS zu verkaufen?"
-" Lassen Sie Ihr Wissen arbeiten und beantworten Sie diese Fragen, um zu "
-"zeigen, dass Sie das notwendige Wissen besitzen."
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1197
-msgid "Question 1"
-msgstr "Frage 1"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1207
-msgid "How do you access the Adaptive App Search feature on Firefox OS?"
-msgstr ""
-"Wie greift man in Firefox OS auf die Funktion „Adaptive App-Suche“ zu?"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1217
-msgid "Swipe to the left"
-msgstr "Nach links wischen"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1227
-msgid "Click on the home button."
-msgstr "Auf die Startschaltfläche tippen"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1237
-msgid "Open the Marketplace."
-msgstr "Den Firefox Marketplace öffnen"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1247
-msgid "Open the browser."
-msgstr "Den Firefox-Browser öffnen"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1257
-msgid "Question 2"
-msgstr "Frage 2"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1267
-msgid ""
-"Which of the following apps is preloaded on every Firefox OS phone? Select "
-"all that apply."
-msgstr ""
-"Welche der folgenden Apps sind standardmäßig auf jedem Firefox-OS-Handy "
-"installiert? Wählen Sie alle Zutreffenden aus."
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1317
-msgid "ConnectA2"
-msgstr "E-Mail und SMS"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1327
-msgid "YouTube"
-msgstr "UKW-Radio"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1337
-msgid "Phone"
-msgstr "Musikwiedergabe"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1357
-msgid "Calendar"
-msgstr ""
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1367
-msgid "Clock"
-msgstr ""
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1377
-msgid "Video"
-msgstr ""
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1387
-msgid "Usage"
-msgstr ""
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1397
-msgid "Email and Messages"
-msgstr ""
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1417
-msgid "Music"
-msgstr ""
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1427
-msgid "Question 3"
-msgstr "Frage 3"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1437
-msgid ""
-"Which Firefox OS feature does this icon represent?<br><br><img "
-"src='course/assets/m05/t05/p35/m05-t05-p35-a05-b15-c05.png'/>"
-msgstr ""
-"Was passiert, wenn Sie ein Wort oder Thema, das Sie interessiert, in die "
-"adaptive App-Suche eingeben? Wählen Sie alle Antworten aus, die zutreffen."
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1447 db-strings.txt.py:1507 db-strings.txt.py:1567
-#: db-strings.txt:1627
-msgid "Messages"
-msgstr "SMS"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1487
-msgid "Question 4"
-msgstr "Frage 4"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1497
-msgid ""
-"Which Firefox OS feature does this icon represent?<br><br><img "
-"src='course/assets/m05/t05/p35/m05-t05-p35-a05-b15-c10.png'/>"
-msgstr ""
-"Welche dieser Kundenantworten zeichnen einen idealen Kandidaten für Firefox "
-"OS aus? Wählen Sie alle zutreffenden aus."
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1547
-msgid "Question 5"
-msgstr "Frage 5"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1557
-msgid ""
-"Which Firefox OS feature does this icon represent?<br><br><img "
-"src='course/assets/m05/t05/p35/m05-t05-p35-a05-b20-c05.png'/>"
-msgstr ""
-"Für welche Firefox-OS-Funktion steht dieses Symbol?<br><br><img "
-"src='course/assets/m05/t05/p35/m05-t05-p35-a05-b15-c10.png'/>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1607
-msgid "Question 6"
-msgstr "Frage 6"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1617
-msgid ""
-"Which Firefox OS feature does this icon represent?<br><br><img "
-"src='course/assets/m05/t05/p35/m05-t05-p35-a05-b20-c10.png'/>"
-msgstr ""
-"Für welche Firefox-OS-Funktion steht dieses Symbol?<br><br><img "
-"src='course/assets/m05/t05/p35/m05-t05-p35-a05-b20-c05.png'/>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1647
-msgid "Question 7"
-msgstr "Frage 7"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1657
-msgid ""
-"Your customer wants to understand the biggest benefits of Firefox OS versus "
-"its competitors. Select all of the statements that apply."
-msgstr ""
-"Für welche Firefox-OS-Funktion steht dieses Symbol?<br><br><img "
-"src='course/assets/m05/t05/p35/m05-t05-p35-a05-b20-c10.png'/>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1667
-msgid ""
-"With Adaptive App Search, Firefox OS adapts to you needs better than any "
-"other phone."
-msgstr "SMS "
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1677
-msgid ""
-"With the Firefox Marketplace and dozens of preloaded apps like Email, "
-"Facebook, Camera, Music and more, Firefox OS is packed with the features "
-"you’d expect in a smartphone."
-msgstr "Kontakte"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1687
-msgid ""
-"Since it is built by Firefox, you can feel confident that Firefox OS is "
-"backed by a global community working on your behalf and with your interests "
-"in mind."
-msgstr "Firefox-Browser"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1697
-msgid ""
-"Firefox OS gives you the broadest selection of devices on the market today."
-msgstr "Adaptive App-Suche"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1707
-msgid "Question 8"
-msgstr "Frage 8"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1717
-msgid ""
-"A customer tells you that smartphones seem complicated.  What selling "
-"feature should you lead with?"
-msgstr ""
-"Ihr Kunde möchte die größten Vorteile von Firefox OS gegenüber Mitbewerbern "
-"verstehen. Wählen Sie alle zutreffenden Aussagen aus."
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1727
-msgid ""
-"Firefox OS gives you the most value for your money, with everything you "
-"expect — camera, email, apps, music and more — at the most competitive "
-"prices."
-msgstr ""
-"Mit der adaptiven App-Suche passt sich Firefox besser an Sie an als jedes "
-"andere Handy."
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1737
-msgid ""
-"Firefox OS is the easiest smartphone to get started with. Your favorite apps"
-" are already preloaded and you can easily sync your contacts from Facebook, "
-"too."
-msgstr ""
-"Mit dem Firefox Marketplace und dutzender standardmäßiger Apps, wie E-Mail, "
-"Karte, Facebook, einer Kamera, Musik und weiteren, ist Firefox OS voll von "
-"Funktionen, die Sie von einem Smartphone erwarten würden."
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1747
-msgid ""
-"If you love Firefox, you’ll love Firefox OS. Choosing a Firefox OS device "
-"puts the power of the Web in your hands."
-msgstr ""
-"Da es von Firefox entwickelt wird, können Sie sicher sein, dass hinter "
-"Firefox OS eine weltweite Gemeinschaft steht, die für Sie arbeitet und Ihre "
-"Interessen im Sinn hat."
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1757
-msgid "Question 9"
-msgstr "Frage 9"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1767
-msgid ""
-"A customer tells you that she’s ready to move up from her old feature phone."
-" What selling feature should you lead with?"
-msgstr ""
-"Ein Kunde sagt Ihnen, dass Smartphones kompliziert zu sein scheinen. Welches"
-" Alleinstellungsmerkmal nennen Sie zuerst?"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1777
-msgid "Question 10"
-msgstr "Frage 10"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1787
-msgid ""
-"A customer tells you that he uses Firefox as his desktop browser. With what "
-"selling feature should you lead?"
-msgstr ""
-"Eine Kundin sagt Ihnen, dass Sie bereit ist, sich nach ihrem alten Feature-"
-"Phone ein neues Handy zu kaufen. Welches Alleinstellungsmerkmal nennen Sie "
-"zuerst?"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1807
-msgid "Question 11"
-msgstr "Frage 11"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1817
-msgid ""
-"A customer says to you, “I’m looking for an easy way to stay in touch with "
-"my friends, but I don’t want to spend a lot of money”. Which of the "
-"following statements would be a good response? Select all that apply."
-msgstr ""
-"Ein Kunde sagt Ihnen, dass er Firefox als Desktop-Browser verwendet. Welches"
-" Alleinstellungsmerkmal nennen Sie zuerst?"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1827
-msgid "Question 12"
-msgstr "Frage 12"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1837
-msgid ""
-"A customer says, “I use Firefox on my home computer and I love it, but I "
-"didn’t know they had a mobile OS. Why?” Which of the following statements "
-"would be the most appropriate response to this particular customer? "
-msgstr ""
-"Der Firefox Marketplace bietet Tausende von Apps entweder kostenlos oder zu "
-"sehr niedrigen Preisen."
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1857
-msgid "Question 13"
-msgstr "Frage 13"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1867
-msgid ""
-"Which of the following statements about Adaptive App Search are true? Select"
-" all that apply."
-msgstr ""
-"Ein Kunde sagt: „Ich verwende Firefox auf meinem Heim-Computer und ich liebe"
-" ihn, aber ich wusste nicht, dass es da auch ein Betriebssystem für "
-"Smartphones gibt. Warum?“ Welche der folgenden Aussagen wäre die passendste "
-"Antwort für diesen Kunden?"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1877
-msgid "Question 14"
-msgstr "Frage 14"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1887
-msgid ""
-"While all of these statements are true, which two responses would be most "
-"useful to a first-time smartphone customer?"
-msgstr ""
-"Welche der folgenden Aussagen über die adaptive App-Suche sind wahr? Wählen "
-"Sie alle Zutreffenden aus."
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1907
-msgid "Question 15"
-msgstr "Frage 15"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1917
-msgid ""
-"When you type a word or subject that interests you using Adaptive App Search"
-" what happens? Select all that apply."
-msgstr ""
-"Alle diese Aussagen sind zwar wahr, aber welche wäre die hilfreichste für "
-"einen Kunden, der zum ersten Mal ein Smartphone kauft?"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1937
-msgid "Question 16"
-msgstr "Frage 16"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1947
-msgid ""
-"With Adaptive App Search, you can use an app once, quickly and easily, "
-"without installing it. If you want to use it again later, it’s easy to add "
-"it to your homescreen."
-msgstr ""
-"Für welche Firefox-OS-Funktion steht dieses Symbol?<br><br><img "
-"src='course/assets/m05/t05/p35/m05-t05-p35-a05-b15-c05.png'/>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1957
-msgid "True"
-msgstr "SMS "
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1967
-msgid "False"
-msgstr "Kontakte"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1977
-msgid "Question 17"
-msgstr "Frage 17"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1987
-msgid ""
-"What’s the best response to this customer’s objection? “I’ve heard there are"
-" not many apps.”"
-msgstr ""
-"Mit der adaptiven App-Suche können Sie eine App schnell und einfach einmal "
-"verwenden, ohne sie zu installieren. Wenn Sie sie später erneut verwenden "
-"möchten, können Sie sie ganz einfach zu Ihrem Startbildschirm hinzufügen."
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1997 db-strings.txt.py:2037
-msgid "Question 18"
-msgstr "Frage 20"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:2007
-msgid ""
-"What’s the best response to this customer’s objection? “I’ve never heard of "
-"Firefox OS phones.”"
-msgstr ""
-"Was ist die beste Antwort auf diese Kritik eines Kunden? „Ich habe gehört, "
-"dass es nur wenige Apps gibt.“"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:2017
-msgid "Question 19"
-msgstr "Frage 19"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:2027
-msgid ""
-"What’s the best response to this customer’s objection?<br>“How do I know "
-"this new phone is safe?”"
-msgstr ""
-"Was ist die beste Antwort auf diese Kritik eines Kunden? „Ich habe noch nie "
-"von Firefox-OS-Handys gehört.“"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:2047
-msgid ""
-"Which of these customer responses indicate a ideal candidate for Firefox OS?"
-" Select all that apply."
-msgstr ""
-"Was ist die beste Antwort auf diese Kritik eines Kunden? „Woher weiß ich, "
-"dass dieses neue Handy sicher ist?“"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:2057
-msgid "Get Ready to Sell!"
-msgstr "Bereitmachen zum Verkaufen!"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:2067
-msgid ""
-"If you have worked through the questions and all of the content, then you "
-"have the basics to match the needs of Firefox OS to your "
-"customers.<br><br>Easy to use, a Firefox OS smartphone is perfect for new "
-"smartphone users and full of all the features that customers want and "
-"need.<br><br>And it is powered by Mozilla, making Firefox OS the right "
-"choice for anyone committed to ensuring that the Web remains in your hands!"
-msgstr ""
-"Wenn Sie sich durch die Fragen und den Inhalt gearbeitet haben, dann haben "
-"Sie jetzt das Grundwissen, um Firefox OS und die Bedürfnisse Ihrer Kunden "
-"abzugleichen.<br><br>Ein Firefox-OS-Smartphone ist einfach zu benutzen, "
-"perfekt für Smartphone-Einsteiger und voll mit den Funktionen, die Kunden "
-"wollen und benötigen.<br><br>Und hinter allem steht Mozilla, was Firefox OS "
-"zur richtigen Wahl für jeden macht, der sich dafür engagiert, dass das "
-"Internet in Ihren Händen bleibt!"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:2077
-msgid "<a href='#m05/t05/p30'><span><</span> The Firefox Mission</a>"
-msgstr "<a href='#m05/t05/p30'><span><</span> DIE FIREFOX-MISSION</a>"
 
 #: masterfirefoxos/base/templates/base.html:35
 #: masterfirefoxos/base/templates/base.html:75
@@ -1738,9 +85,937 @@ msgid "Which version do I have?"
 msgstr ""
 
 #: masterfirefoxos/settings/base.py:169
-msgid "English"
+msgid "Bengali"
 msgstr ""
 
 #: masterfirefoxos/settings/base.py:170
+msgid "Croatian"
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:171
+msgid "Czech"
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:172
+msgid "English"
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:173
+msgid "German"
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:174
 msgid "Greek"
 msgstr ""
+
+#: masterfirefoxos/settings/base.py:175
+msgid "Hindi"
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:176
+msgid "Hungarian"
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:177
+msgid "Italian"
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:178
+msgid "Polish"
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:179
+msgid "Portuguese"
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:180
+msgid "Serbian"
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:181
+msgid "Spanish"
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:182
+msgid "Tamil"
+msgstr ""
+
+#~ msgid "Introduction"
+#~ msgstr "Einführung"
+
+#~ msgid "<a href='#m05/t05/p10'>Demo Tips <span>></span></a>"
+#~ msgstr "<a href='#m05/t05/p10'>Vorführ-Tipps <span>></span></a>"
+
+#~ msgid "Keep the Web in Your Hands"
+#~ msgstr "Behalten Sie das Internet in Ihren Händen"
+
+#~ msgid ""
+#~ "At Mozilla, we’re out to make a difference, not a profit.<br><br>Our "
+#~ "commitment to keeping the Web open and accessible for all will give your "
+#~ "customers the best of the Web no matter where they go, while keeping them "
+#~ "safe and in control of their online lives."
+#~ msgstr ""
+#~ "Bei Mozilla wollen wir etwas bewegen, nicht Gewinne erzielen.<br/><br/"
+#~ ">Hinter Firefox-OS-Smartphones steht eine weltweite Gemeinschaft aus "
+#~ "Tausenden von Entwicklern, die Innovationen im Sinne Ihrer Kunden "
+#~ "bewirken möchten. Außerdem werden sie mit Rücksicht auf die Interessen "
+#~ "und Bedürfnisse Ihrer Kunden vor Ort entwickelt. Wenn Kunden sich für "
+#~ "Firefox OS entscheiden, helfen sie dabei, eine leuchtendere Zukunft für "
+#~ "das Internet für alle zu schaffen."
+
+#~ msgid "Have It All"
+#~ msgstr "Alles dabei"
+
+#~ msgid ""
+#~ "Firefox OS is packed with all the features that made your customers want "
+#~ "a smartphone in the first place: Camera, Gallery, social features, Music "
+#~ "and more.<br><br>Firefox OS users have complete access to apps in the "
+#~ "Firefox Marketplace, without the need for a sign-in. There, they can get "
+#~ "all the popular, big name apps, as well as local content designed to help "
+#~ "them get the most out of the world around them."
+#~ msgstr ""
+#~ "Firefox OS ist voll mit den Funktionen, wegen denen Sie überhaupt ein "
+#~ "Smartphone verwenden möchten: Apps, Karten, Kamera, Galerie, soziale "
+#~ "Funktionen, Musik und mehr.<br/><br/>Mit Firefox OS können Kunden ihr "
+#~ "Online-Leben kontrollieren und das Beste aus dem Internet herausholen, "
+#~ "egal wo sie sind."
+
+#~ msgid "The Adaptive Phone"
+#~ msgstr "Das anpassbare Handy"
+
+#~ msgid ""
+#~ "Firefox OS adapts to the needs of customers better than any other phone "
+#~ "by anticipating their needs and instantly delivering the information they "
+#~ "want.<br><br>With Adaptive App Search your customers will get more of "
+#~ "what they’re looking for, exactly when they need it."
+#~ msgstr ""
+#~ "Firefox OS passt sich den Bedürfnissen der Kunden besser an als jedes "
+#~ "andere Handy.<br/><br/>Die adaptive App-Suche liefert Informationen zu "
+#~ "jedem Thema und gibt Ihren Kunden genau, was sie suchen, und das zur "
+#~ "richtigen Zeit. Damit können sie jeden Moment voll ausnutzen."
+
+#~ msgid "Ready to explore the key benefits of Firefox OS?"
+#~ msgstr "Sind Sie bereit, die Hauptvorteile von Firefox OS zu erkunden?"
+
+#~ msgid ""
+#~ "Your customers’ needs are always changing. That’s why Firefox OS does the "
+#~ "same — adapting so your customers can live every moment to its fullest."
+#~ "<br><br>Firefox OS devices are perfect for new smartphone users — easy to "
+#~ "use and full of all the features that customers expect. And because "
+#~ "Firefox OS devices are powered by Mozilla, they’re the perfect choice for "
+#~ "anyone committed to keeping the Web open for all."
+#~ msgstr ""
+#~ "Die Bedürfnisse Ihrer Kunden ändern sich ständig. Smartphones mit Firefox "
+#~ "OS passen sich den Bedürfnissen Ihrer Kunden an, damit sie jeden "
+#~ "Augenblick voll ausleben können.<br/><br/>Sie sind einfach zu verwenden, "
+#~ "sind perfekt für Smartphone-Einsteiger und voll mit den Funktionen, die "
+#~ "Kunden erwarten. Hinter den Firefox-OS-Geräten steht Mozilla  und sie "
+#~ "sind die richtige Wahl für jeden, der sich dafür einsetzt, dass das "
+#~ "Internet eine für alle zugängliche öffentliche Ressource bleibt."
+
+#~ msgid "A phone that makes every moment count"
+#~ msgstr "Ein Handy, mit dem jeder Augenblick zählt"
+
+#~ msgid "Demo Tips"
+#~ msgstr "Vorführ-Tipps"
+
+#~ msgid "<a href='#m05/t05/p15'>Customer Guide <span>></span></a>"
+#~ msgstr "<a href='#m05/t05/p15'>LEITFADEN ÜBER KUNDEN<span>></span></a>"
+
+#~ msgid "<a href='#m05/t05/p05'><span><</span> Introduction</a>"
+#~ msgstr "<a href='#m05/t05/p05'><span><</span>Einführung</a>"
+
+#~ msgid ""
+#~ "Firefox OS comes preloaded with popular instant messaging and social "
+#~ "media apps, like Facebook, so your customers will be able to stay "
+#~ "connected with friends and family. They can also sync their contacts to "
+#~ "the phone, quickly and easily."
+#~ msgstr ""
+#~ "Im Firefox Marketplace finden Ihre Kunden die tollen Spiele und Apps, die "
+#~ "sie wollen."
+
+#~ msgid "Social and Contact Sync"
+#~ msgstr "Marketplace"
+
+#~ msgid ""
+#~ "Show your customers how easy it is to get apps in Firefox Marketplace, or "
+#~ "from anywhere on the Web with Adaptive App Search. It’s all about giving "
+#~ "users more of what they need, when they need it."
+#~ msgstr ""
+#~ "Zeigen Sie die informativen Kartenfunktionen von Firefox OS, inklusive "
+#~ "Informationen über den ÖPNV."
+
+#~ msgid "Marketplace and Adaptive App Search"
+#~ msgstr "HERE Maps"
+
+#~ msgid ""
+#~ "Firefox OS offers everything your customers want in a smartphone — and "
+#~ "more — at prices that are easy to afford."
+#~ msgstr ""
+#~ "Wenn Sie nur eine Minute Zeit haben, nutzen Sie diese am besten mit "
+#~ "dieser Übersicht."
+
+#~ msgid "Introducing Firefox OS"
+#~ msgstr "Einführung in Firefox OS"
+
+#~ msgid ""
+#~ "Demonstrating the features of Firefox OS and how easy it is to use will "
+#~ "be your best selling tool.<br><br>Browse the demonstration videos below "
+#~ "to get started."
+#~ msgstr ""
+#~ "Eine Vorführung der Funktionen von Firefox OS und seiner einfachen "
+#~ "Bedienbarkeit ist Ihr bestes Verkaufsargument. Was sollten Sie also "
+#~ "zeigen?<br/><br/>Sehen Sie sich für den Anfang die folgenden "
+#~ "Vorführvideos an."
+
+#~ msgid "Demonstrations that matter"
+#~ msgstr "Entscheidende Vorführungen"
+
+#~ msgid "Customer Guide"
+#~ msgstr "Leitfaden über Kunden"
+
+#~ msgid "<a href='#m05/t05/p20'>Key Features <span>></span></a>"
+#~ msgstr "<a href='#m05/t05/p20'>WESENTLICHE FUNKTIONEN<span>></span></a>"
+
+#~ msgid "<a href='#m05/t05/p10'><span><</span> Demo Tips</a>"
+#~ msgstr "<a href='#m05/t05/p10'><span><</span> Vorführ-Tipps</a>"
+
+#~ msgid ""
+#~ "If you know and love Firefox, you’ll love Firefox OS. Firefox OS "
+#~ "smartphones are entirely HTML5-based, bringing the best of the Web to "
+#~ "your phone. Plus, Firefox OS is designed by a community dedicated to "
+#~ "keeping the Web accessible to all. When you choose Firefox OS, you have "
+#~ "the full power of the Web in your hands."
+#~ msgstr ""
+#~ "Wenn Sie Firefox kennen und lieben, werden Sie auch Firefox OS lieben. "
+#~ "Firefox OS Smartphones basieren komplett auf HTML5 und bringen so das "
+#~ "Beste des Internets auf Ihr Handy. Außerdem wird Firefox OS von einer "
+#~ "Gemeinschaft entwickelt, die sich dafür einsetzt, dass das Internet für "
+#~ "alle zugänglich bleibt. Wenn Sie sich für Firefox OS entscheiden, haben "
+#~ "Sie die geballte Macht des Internets in Ihren Händen."
+
+#~ msgid "Here’s what you can say:"
+#~ msgstr "Das können Sie sagen:"
+
+#~ msgid "The Firefox Fan"
+#~ msgstr "Ich liebe Firefox!"
+
+#~ msgid ""
+#~ "Firefox OS is the easiest smartphone you’ll ever use.<br><br>Adaptive App "
+#~ "Search helps you find the things you need simply — and instantly. The "
+#~ "user interface is so intuitive, you will be able to quickly discover and "
+#~ "easily download your favorite apps in no time."
+#~ msgstr ""
+#~ "Firefox OS ist das am einfachsten zu bedienendste Smartphone für den "
+#~ "Einstieg. Die adaptive App-Suche hilft Ihnen, einfach – und sofort – das "
+#~ "Gesuchte zu finden. Die Benutzeroberfläche ist so intuitiv, dass Sie Ihre "
+#~ "Lieblings-Apps schnell finden und herunterladen können, um startklar zu "
+#~ "sein."
+
+#~ msgid "The Uncertain Upgrader"
+#~ msgstr "Der unsichere Aktualisierer"
+
+#~ msgid ""
+#~ "Firefox OS gives you the most value for your money. It has everything you "
+#~ "expect in a smartphone — camera, email, apps from the Firefox "
+#~ "Marketplace, music and more — at the most competitive prices."
+#~ msgstr ""
+#~ "Mit Firefox OS bekommen Sie das Meiste für Ihr Geld. Es hat alles, was "
+#~ "Sie von einem Smartphone erwarten – Kamera, E-Mail, Apps, Musik, Karten "
+#~ "und mehr – und das zu günstigsten Preisen."
+
+#~ msgid "The Value Seeker"
+#~ msgstr "Der Wertsuchende"
+
+#~ msgid ""
+#~ "Firefox OS is the best choice for first time smartphone users. It’s super "
+#~ "easy to use and it adapts to your needs better than any other phone, so "
+#~ "you get more of what you need with less time searching. Plus, it’s packed "
+#~ "with all the features you’d expect, from Camera, to Email, apps from the "
+#~ "Firefox Marketplace, Music and more."
+#~ msgstr ""
+#~ "Firefox OS ist die beste Wahl für Smartphone-Einsteiger. Es lässt sich "
+#~ "ganz einfach bedienen und passt sich Ihren Bedürfnissen besser an als "
+#~ "jedes andere Handy, sodass Sie mehr von dem erhalten, was Sie benötigen, "
+#~ "ohne viel Zeit mit Suchen zu verbringen. Außerdem verfügt es über alle "
+#~ "Funktionen, die Sie erwarten würden, von Kamera bis E-Mail, Apps, Musik, "
+#~ "Karten und mehr."
+
+#~ msgid "Here’s what you can say"
+#~ msgstr "Das können Sie sagen:"
+
+#~ msgid "The Smartphone Rookie"
+#~ msgstr "Der Smartphone-Einsteiger"
+
+#~ msgid ""
+#~ "Understanding your customer’s needs and knowing how to respond on the "
+#~ "spot is critical to any sales opportunity.<br><br>Check out the common "
+#~ "customer segments below, then drag the bar to learn how to best respond "
+#~ "to each of their unique needs."
+#~ msgstr ""
+#~ "Das Verständnis für die Bedürfnisse Ihres Kunden und eine schnelle "
+#~ "Reaktion darauf sind Grundvoraussetzungen für jede Verkaufsgelegenheit."
+#~ "<br/><br/>Sehen Sie sich die folgenden häufigen Kundensegmente an und "
+#~ "ziehen Sie die Leiste, um zu erfahren, wie Sie auf die jeweiligen "
+#~ "besonderen Bedürfnisse am besten reagieren."
+
+#~ msgid "Who is your ideal Firefox customer?"
+#~ msgstr "Wer ist der ideale Firefox-OS-Kunde?"
+
+#~ msgid "Key Features"
+#~ msgstr "Wesentliche Funktionen"
+
+#~ msgid "Features that count"
+#~ msgstr "Funktionen, die zählen"
+
+#~ msgid ""
+#~ "Firefox OS is packed with the features that your customers expect in a "
+#~ "smartphone. It’s designed to fit their lives perfectly so they can keep "
+#~ "pace with the world around them."
+#~ msgstr ""
+#~ "Firefox OS ist voll mit den Funktionen, die Ihre Kunden in einem "
+#~ "Smartphone erwarten. Es passt sich perfekt an ihre Leben an, damit sie "
+#~ "mit der Welt um sie herum Schritt halten können."
+
+#~ msgid "Have it all"
+#~ msgstr "Alles dabei"
+
+#~ msgid "Select the forward arrow to discover the key features of Firefox OS."
+#~ msgstr ""
+#~ "Wählen Sie den Vorwärtspfeil, um die Hauptfunktionen von Firefox OS zu "
+#~ "entdecken."
+
+#~ msgid "Adaptive App Search"
+#~ msgstr "Adaptive App-Suche"
+
+#~ msgid ""
+#~ "A new way to get what you need right when you need it. Search for "
+#~ "anything and Firefox OS adapts to your request, displaying photos, video, "
+#~ "music, news and more — making it much easier for you to find what you "
+#~ "were looking for."
+#~ msgstr ""
+#~ "Eine neue Möglichkeit, um rechtzeitig das zu finden, was Sie benötigen, "
+#~ "ohne mühselig Anwendungen herunterladen zu müssen. Egal was Sie suchen, "
+#~ "Firefox OS passt sich an Ihre Anforderung an und zeigt Fotos und Videos, "
+#~ "spielt Musik und liefert Nachrichten, Karten und mehr – sodass es für Sie "
+#~ "viel einfacher ist zu finden, was Sie eigentlich suchen."
+
+#~ msgid "Adaptive App Search..."
+#~ msgstr "Adaptive App-Suche..."
+
+#~ msgid "Marketplace"
+#~ msgstr "Firefox Marketplace"
+
+#~ msgid ""
+#~ "Your go-to source for the best apps for Firefox OS. Browse hundreds of "
+#~ "free apps in multiple categories: Games, Tools, Lifestyle and more."
+#~ msgstr ""
+#~ "Ihre Anlaufstelle für die besten Apps für Firefox OS. Durchsuchen Sie "
+#~ "zehntausende von kostenlosen und kostenpflichtigen Apps in mehreren "
+#~ "Kategorien, von Spielen bis Hilfsmittel, Musik, Reise, Sport und mehr."
+
+#~ msgid "Marketplace..."
+#~ msgstr "Marketplace..."
+
+#~ msgid "Firefox browser"
+#~ msgstr "Firefox-Browser"
+
+#~ msgid ""
+#~ "Firefox OS is deeply integrated with your favorite social networks. "
+#~ "Easily sync your Facebook contacts to your phone to keep your community "
+#~ "all in one place."
+#~ msgstr ""
+#~ "Bleiben Sie in Verbindung, mit einfachem Zugang zu Ihren Freunden und "
+#~ "Kollegen, egal wo Sie sind."
+
+#~ msgid "Firefox browser..."
+#~ msgstr "Firefox-Browser..."
+
+#~ msgid "Facebook"
+#~ msgstr "Facebook"
+
+#~ msgid "Contacts"
+#~ msgstr "Kontakte"
+
+#~ msgid ""
+#~ "Stay connected, with easy access to your friends and colleagues, wherever "
+#~ "you are."
+#~ msgstr ""
+#~ "Nahtlos integriert in Ihre sozialen Lieblingsnetzwerke. Sie können "
+#~ "einfach Ihre Facebook-Kontakte in Ihr Handy importieren, um Ihre "
+#~ "Gemeinschaft an einem Ort zu versammeln."
+
+#~ msgid "Contacts..."
+#~ msgstr "Kontakte..."
+
+#~ msgid "Camera and Gallery"
+#~ msgstr "Kamera und Galerie"
+
+#~ msgid ""
+#~ "With built-in style filters for fun, creative shots and lots of ways to "
+#~ "share your photographs, the full-featured camera and photo gallery will "
+#~ "have all your subjects smiling."
+#~ msgstr ""
+#~ "Dank integrierten Stilfiltern für interessante, kreative Fotos und vielen "
+#~ "Möglichkeiten, Ihre Fotos zu teilen, bringen die funktionsbeladene Kamera "
+#~ "und Fotogalerie alle Ihre Motive zum Lächeln."
+
+#~ msgid "Camera and Gallery..."
+#~ msgstr "Kamera und Galerie..."
+
+#~ msgid "FM Radio"
+#~ msgstr "UKW-Radio"
+
+#~ msgid ""
+#~ "All the audio you want on the go, all on one device. Just plug in your "
+#~ "earphones and start listening."
+#~ msgstr ""
+#~ "Die ganze Musik, die Sie unterwegs möchten, auf einem Gerät. Stecken Sie "
+#~ "einfach Ihre Ohrhörer ein und lauschen Sie der Musik."
+
+#~ msgid "FM Radio..."
+#~ msgstr "UKW-Radio..."
+
+#~ msgid "Music and Video"
+#~ msgstr "Karten"
+
+#~ msgid ""
+#~ "Browse and play your music collection, rate songs and create playlists "
+#~ "for your favorites. Watch videos from your phone, or online via YouTube."
+#~ msgstr ""
+#~ "Sie erhalten eine Satellitenansicht, ÖPNV-Informationen und "
+#~ "Echtzeitverkehrsdaten, können nach Orten von Interesse suchen und sogar "
+#~ "Ihre Karte lokal für einen schnelleren Zugriff unterwegs speichern. Here "
+#~ "Maps kann Ihren Standort erkennen und Ihnen sogar Wegbeschreibungen "
+#~ "(Auto, zu Fuß oder ÖPNV) liefern, um Sie an Ihr Ziel zu bringen."
+
+#~ msgid "Play it all from your phone, or online via Youtube."
+#~ msgstr "Karten..."
+
+#~ msgid "Messages and Email"
+#~ msgstr "Musik und Video"
+
+#~ msgid ""
+#~ "Stay connected easily and conveniently. Set up multiple email accounts, "
+#~ "with support for the most common Exchange, SMTP or IMAP email providers."
+#~ msgstr ""
+#~ "Spielen Sie alles von Ihrem Handy ab oder online über YouTube. Suchen und "
+#~ "spielen Sie Ihre Musiksammlung nach Album oder Interpret ab, bewerten Sie "
+#~ "Titel und erstellen Sie Wiedergabelisten für Ihre Lieblingstitel."
+
+#~ msgid "Messages and Email..."
+#~ msgstr "Musik und Video..."
+
+#~ msgid "<a href='#m05/t05/p15'><span><</span> Customer Guide</a>"
+#~ msgstr "<a href='#m05/t05/p15'><span><</span> LEITFADEN ÜBER KUNDEN</a>"
+
+#~ msgid "<a href='#m05/t05/p25'>Frequently Asked Questions <span>></span></a>"
+#~ msgstr "<a href='#m05/t05/p25'>HÄUFIG GESTELLTE FRAGEN<span>></span></a>"
+
+#~ msgid "Frequently Asked Questions"
+#~ msgstr "Häufig gestellte Fragen"
+
+#~ msgid "<a href='#m05/t05/p30'>The Firefox Mission <span>></span></a>"
+#~ msgstr "<a href='#m05/t05/p30'>DIE FIREFOX-MISSION<span>></span></a>"
+
+#~ msgid "<a href='#m05/t05/p20'><span><</span> Key Features</a>"
+#~ msgstr "<a href='#m05/t05/p20'><span><</span> WESENTLICHE FUNKTIONEN</a>"
+
+#~ msgid ""
+#~ "Visit <a href='https://support.mozilla.org/en-US/kb/firefox-os-user-"
+#~ "guide'>https://support.mozilla.org/en-US/kb/firefox-os-user-guide</a> for "
+#~ "more information."
+#~ msgstr ""
+#~ "Weitere Informationen finden Sie unter <a href='https://support.mozilla."
+#~ "org/de/kb/firefox-os-user-guide'>https://support.mozilla.org/de/kb/"
+#~ "firefox-os-user-guide</a>."
+
+#~ msgid "Where should I go if I have more questions?"
+#~ msgstr "Wo finde ich Antworten auf weitere Fragen?"
+
+#~ msgid ""
+#~ "Hotmail and Yahoo mail are currently supported with more on the way in "
+#~ "the future."
+#~ msgstr ""
+#~ "Hotmail und Yahoo Mail werden derzeit unterstützt. Weitere E-Mail-"
+#~ "Anbieter werden folgen."
+
+#~ msgid "What email providers are supported?"
+#~ msgstr "Welche E-Mail-Anbieter werden unterstützt?"
+
+#~ msgid ""
+#~ "Firefox OS provides two ways to get apps:<ul><li>Marketplace — our go-to "
+#~ "source for hundreds of great free apps, including popular apps like "
+#~ "Twitter and Facebook, and for awesome local content from the best Web "
+#~ "developers in your region.</li><li>Adaptive App Search — just type a "
+#~ "single word like “news” to discover related mobile apps in your region.</"
+#~ "li></ul>"
+#~ msgstr ""
+#~ "Firefox OS bietet zwei Möglichkeiten um Apps zu erhalten:<ul><li>Firefox "
+#~ "Marketplace – Unsere Anlaufstelle für tolle Apps wie Twitter und "
+#~ "wunderbare lokale Inhalte von den besten Web-Entwicklern in Ihrer Region."
+#~ "</li><li>Adaptive App-Suche – Geben Sie einfach ein Wort wie „Sushi“ ein, "
+#~ "um passende mobile Apps in Ihrer Region zu entdecken, die Ihnen von einem "
+#~ "besseren mobilen Erlebnis zur Verfügung gestellt werden, und Ihnen geben "
+#~ "sollen, was Sie möchten.</li><ul>"
+
+#~ msgid "How do I download and install apps on Firefox OS?"
+#~ msgstr "Wie kann ich Apps für Firefox OS herunterladen und installieren?"
+
+#~ msgid ""
+#~ "Customers who need support with an app built for Firefox OS will be "
+#~ "directed to the app developer for assistance. If the customer experience "
+#~ "with Firefox OS is negatively impacted by the support incident resulting "
+#~ "from the app, Mozilla may recommend workarounds including uninstalling "
+#~ "the app until the developer provides appropriate assistance."
+#~ msgstr ""
+#~ "Kunden, die Hilfe mit einer für Firefox OS entwickelten App benötigen, "
+#~ "werden an den App-Entwickler weitergeleitet. Wenn das Kundenerlebnis mit "
+#~ "Firefox OS durch die Hilfsanfrage negativ beeinflusst wird, kann Mozilla "
+#~ "Zwischenlösungen empfehlen, inklusive Deinstallation der App, bis der "
+#~ "Entwickler entsprechend Hilfe leistet."
+
+#~ msgid "What about customer support for apps?"
+#~ msgstr "Wie sieht es mit Kundenunterstützung für Apps aus?"
+
+#~ msgid ""
+#~ "Firefox OS is built on Web technologies but has offline capabilities for "
+#~ "all the phone’s core functions. That means apps do not require an active "
+#~ "Internet connection to work unless they need to send or receive data."
+#~ msgstr ""
+#~ "Firefox OS basiert auf Web-Technologien, verfügt aber über Offline-"
+#~ "Möglichkeiten für die Kernfunktionen des Handys. Das bedeutet, dass Apps, "
+#~ "die keine ständige Internet-Verbindung benötigen, weiter funktionieren, "
+#~ "außer wenn die App für ihr Funktionieren Daten mit einem anderen System "
+#~ "über das Internet austauschen muss."
+
+#~ msgid "Do my apps work offline?"
+#~ msgstr "Funktionieren meine Apps offline?"
+
+#~ msgid ""
+#~ "Users can place website bookmarks on the home page to provide direct "
+#~ "access to those sites. Also, by swiping right from the home screen, users "
+#~ "can simply enter any search term and instantly create a one-time use or "
+#~ "downloadable app. Creating and consuming these apps on demand puts users "
+#~ "in complete control of their smartphone experience and will make it "
+#~ "possible for people to get the exact content they want, when they want it."
+#~ msgstr ""
+#~ "Nicht direkt. Allerdings sind viele der beliebtesten Android- und iOS-"
+#~ "Apps eigentlich Web-Apps, die über einen nativen „Wrapper“ verfügen, um "
+#~ "auf proprietären Plattformen zu laufen. Daher werden viele dieser Apps "
+#~ "über die adaptive App-Suche verfügbar sein."
+
+#~ msgid "What do you mean I can convert mobile sites into apps?"
+#~ msgstr "Funktionieren Android-Apps auf diesem Handy?"
+
+#~ msgid ""
+#~ "Firefox OS has a robust security model that is battle-hardened from more "
+#~ "than a decade of supporting the open Web. It is designed to protect the "
+#~ "user and system from malicious applications and content."
+#~ msgstr ""
+#~ "Firefox OS hat ein robustes Sicherheitsmodell, das in über einem "
+#~ "Jahrzehnt der Unterstützung für das offene Web erprobt wurde. Es wurde "
+#~ "entwickelt, um den Anwender und das System vor schädlichen Anwendungen "
+#~ "und Inhalten zu schützen."
+
+#~ msgid "What makes Firefox OS more secure than other phones?"
+#~ msgstr "Was macht Firefox OS sicherer als andere Handys?"
+
+#~ msgid ""
+#~ "App developers around the world are committed to Firefox OS and tens of "
+#~ "hundreds of free applications will be available at launch. The growing "
+#~ "list includes leading app developers like Facebook, YouTube, Twitter and "
+#~ "ConnectA2 as well as a Flashlight app and Calculator."
+#~ msgstr ""
+#~ "App-Entwickler auf der ganzen Welt setzen sich für Firefox OS ein und "
+#~ "zehntausende kostenloser und kostenpflichtiger Anwendungen werden zum "
+#~ "Verkaufsstart verfügbar sein. Zu der wachsenden Liste gehören führende "
+#~ "App-Entwickler wie Accuweather, Airbnb, Box, Cut the Rope, EA Games, "
+#~ "Facebook, Nokia HERE, MTV Brasil, Pulse News, SoundCloud, SporTV, Time "
+#~ "Out und Twitter."
+
+#~ msgid "How many and what types of apps will be available?"
+#~ msgstr "Wie viele und welche Typen von Apps werden verfügbar sein?"
+
+#~ msgid ""
+#~ "Adaptive App Search is a new way to find content from across the Web and "
+#~ "engage in an app-like experience without having to download the app to "
+#~ "find what you need. Whenever you search, your phone adapts to the search "
+#~ "result and makes it easy to add those results to your home screen for "
+#~ "easy access later."
+#~ msgstr ""
+#~ "Die adaptive App-Suche ist eine neue Möglichkeit, Inhalte aus dem "
+#~ "gesamten Internet zu finden und ein App-ähnliches Erlebnis zu haben, ohne "
+#~ "sich mühselig die App herunterladen zu müssen, um zu finden, was Sie "
+#~ "suchen. Wann immer Sie suchen, passt sich Ihr Handy an die Suchergebnisse "
+#~ "an und erleichtert es, diese Ergebnisse für den späteren Zugriff zum "
+#~ "Startbildschirm hinzuzufügen."
+
+#~ msgid "What is Adaptive App Search?"
+#~ msgstr "Was ist die adaptive App-Suche?"
+
+#~ msgid " "
+#~ msgstr " "
+
+#~ msgid ""
+#~ "By now, you probably have questions and so will your customers! Select "
+#~ "each question for more on Firefox OS."
+#~ msgstr ""
+#~ "Sie haben mittlerweile vermutlich Fragen und Ihre Kunden werden ebenfalls "
+#~ "welche haben! Durch Auswählen der Fragen erhalten Sie weitere "
+#~ "Informationen zu Firefox OS."
+
+#~ msgid "You have questions? We have answers!"
+#~ msgstr "Sie haben Fragen? Wir haben Antworten!"
+
+#~ msgid "The Firefox Mission"
+#~ msgstr "Die Firefox-Mission"
+
+#~ msgid "<a href='#m05/t05/p35'>Take The Challenge <span>></span></a>"
+#~ msgstr ""
+#~ "<a href='#m05/t05/p35'>STELLEN SIE SICH DER HERAUSFORDERUNG<span>></"
+#~ "span></a>"
+
+#~ msgid "<a href='#m05/t05/p25'><span><</span> Frequently Asked Questions</a>"
+#~ msgstr "<a href='#m05/t05/p25'><span><</span> HÄUFIG GESTELLTE FRAGEN</a>"
+
+#~ msgid ""
+#~ "Behind every Firefox OS smartphone is Mozilla, a global community of "
+#~ "thousands dedicated to keeping the Web accessible to all. We believe each "
+#~ "and every one of us has the right to a Web that isn’t controlled by just "
+#~ "a few large entities and that together, we can build brighter future for "
+#~ "the Web.<br><br>Yeah, we’re a little different than the other guys."
+#~ msgstr ""
+#~ "Hinter jeden Firefox-OS-Smartphone steht Mozilla: Eine weltweite "
+#~ "Gemeinschaft aus Tausenden von Menschen, die sich dafür einsetzen, dass "
+#~ "das Internet für alle zugänglich bleibt. Wir glauben nämlich, dass jeder "
+#~ "von uns das Recht auf ein Internet hat, das nicht nur von wenigen großen "
+#~ "Akteuren kontrolliert wird.<br/><br/>Ja, wir sind ein bisschen anders als "
+#~ "die Anderen. Gemeinsam können wir eine leuchtendere Zukunft für das "
+#~ "Internet schaffen."
+
+#~ msgid ""
+#~ "Our mission is to promote openness, innovation and opportunity on the Web."
+#~ msgstr ""
+#~ "Unsere Mission ist es, Offenheit, Innovation und Chancen im Internet zu "
+#~ "fördern."
+
+#~ msgid "Take the challenge"
+#~ msgstr "Stellen Sie sich der Herausforderung"
+
+#~ msgid "Browser"
+#~ msgstr "Firefox-Browser"
+
+#~ msgid "Ready to show what you know?"
+#~ msgstr "Sind Sie bereit, Ihr Wissen zu zeigen?"
+
+#~ msgid ""
+#~ "Think you are almost ready to start selling Firefox OS to your customers? "
+#~ "Put your knowledge to the test and answer these questions to prove you "
+#~ "have what it takes."
+#~ msgstr ""
+#~ "Halten Sie sich für so gut wie bereit, Ihren Kunden Firefox OS zu "
+#~ "verkaufen? Lassen Sie Ihr Wissen arbeiten und beantworten Sie diese "
+#~ "Fragen, um zu zeigen, dass Sie das notwendige Wissen besitzen."
+
+#~ msgid "Question 1"
+#~ msgstr "Frage 1"
+
+#~ msgid "How do you access the Adaptive App Search feature on Firefox OS?"
+#~ msgstr ""
+#~ "Wie greift man in Firefox OS auf die Funktion „Adaptive App-Suche“ zu?"
+
+#~ msgid "Swipe to the left"
+#~ msgstr "Nach links wischen"
+
+#~ msgid "Click on the home button."
+#~ msgstr "Auf die Startschaltfläche tippen"
+
+#~ msgid "Open the Marketplace."
+#~ msgstr "Den Firefox Marketplace öffnen"
+
+#~ msgid "Open the browser."
+#~ msgstr "Den Firefox-Browser öffnen"
+
+#~ msgid "Question 2"
+#~ msgstr "Frage 2"
+
+#~ msgid ""
+#~ "Which of the following apps is preloaded on every Firefox OS phone? "
+#~ "Select all that apply."
+#~ msgstr ""
+#~ "Welche der folgenden Apps sind standardmäßig auf jedem Firefox-OS-Handy "
+#~ "installiert? Wählen Sie alle Zutreffenden aus."
+
+#~ msgid "ConnectA2"
+#~ msgstr "E-Mail und SMS"
+
+#~ msgid "YouTube"
+#~ msgstr "UKW-Radio"
+
+#~ msgid "Phone"
+#~ msgstr "Musikwiedergabe"
+
+#~ msgid "Question 3"
+#~ msgstr "Frage 3"
+
+#~ msgid ""
+#~ "Which Firefox OS feature does this icon represent?<br><br><img "
+#~ "src='course/assets/m05/t05/p35/m05-t05-p35-a05-b15-c05.png'/>"
+#~ msgstr ""
+#~ "Was passiert, wenn Sie ein Wort oder Thema, das Sie interessiert, in die "
+#~ "adaptive App-Suche eingeben? Wählen Sie alle Antworten aus, die zutreffen."
+
+#~ msgid "Messages"
+#~ msgstr "SMS"
+
+#~ msgid "Question 4"
+#~ msgstr "Frage 4"
+
+#~ msgid ""
+#~ "Which Firefox OS feature does this icon represent?<br><br><img "
+#~ "src='course/assets/m05/t05/p35/m05-t05-p35-a05-b15-c10.png'/>"
+#~ msgstr ""
+#~ "Welche dieser Kundenantworten zeichnen einen idealen Kandidaten für "
+#~ "Firefox OS aus? Wählen Sie alle zutreffenden aus."
+
+#~ msgid "Question 5"
+#~ msgstr "Frage 5"
+
+#~ msgid ""
+#~ "Which Firefox OS feature does this icon represent?<br><br><img "
+#~ "src='course/assets/m05/t05/p35/m05-t05-p35-a05-b20-c05.png'/>"
+#~ msgstr ""
+#~ "Für welche Firefox-OS-Funktion steht dieses Symbol?<br><br><img "
+#~ "src='course/assets/m05/t05/p35/m05-t05-p35-a05-b15-c10.png'/>"
+
+#~ msgid "Question 6"
+#~ msgstr "Frage 6"
+
+#~ msgid ""
+#~ "Which Firefox OS feature does this icon represent?<br><br><img "
+#~ "src='course/assets/m05/t05/p35/m05-t05-p35-a05-b20-c10.png'/>"
+#~ msgstr ""
+#~ "Für welche Firefox-OS-Funktion steht dieses Symbol?<br><br><img "
+#~ "src='course/assets/m05/t05/p35/m05-t05-p35-a05-b20-c05.png'/>"
+
+#~ msgid "Question 7"
+#~ msgstr "Frage 7"
+
+#~ msgid ""
+#~ "Your customer wants to understand the biggest benefits of Firefox OS "
+#~ "versus its competitors. Select all of the statements that apply."
+#~ msgstr ""
+#~ "Für welche Firefox-OS-Funktion steht dieses Symbol?<br><br><img "
+#~ "src='course/assets/m05/t05/p35/m05-t05-p35-a05-b20-c10.png'/>"
+
+#~ msgid ""
+#~ "With Adaptive App Search, Firefox OS adapts to you needs better than any "
+#~ "other phone."
+#~ msgstr "SMS "
+
+#~ msgid ""
+#~ "With the Firefox Marketplace and dozens of preloaded apps like Email, "
+#~ "Facebook, Camera, Music and more, Firefox OS is packed with the features "
+#~ "you’d expect in a smartphone."
+#~ msgstr "Kontakte"
+
+#~ msgid ""
+#~ "Since it is built by Firefox, you can feel confident that Firefox OS is "
+#~ "backed by a global community working on your behalf and with your "
+#~ "interests in mind."
+#~ msgstr "Firefox-Browser"
+
+#~ msgid ""
+#~ "Firefox OS gives you the broadest selection of devices on the market "
+#~ "today."
+#~ msgstr "Adaptive App-Suche"
+
+#~ msgid "Question 8"
+#~ msgstr "Frage 8"
+
+#~ msgid ""
+#~ "A customer tells you that smartphones seem complicated.  What selling "
+#~ "feature should you lead with?"
+#~ msgstr ""
+#~ "Ihr Kunde möchte die größten Vorteile von Firefox OS gegenüber "
+#~ "Mitbewerbern verstehen. Wählen Sie alle zutreffenden Aussagen aus."
+
+#~ msgid ""
+#~ "Firefox OS gives you the most value for your money, with everything you "
+#~ "expect — camera, email, apps, music and more — at the most competitive "
+#~ "prices."
+#~ msgstr ""
+#~ "Mit der adaptiven App-Suche passt sich Firefox besser an Sie an als jedes "
+#~ "andere Handy."
+
+#~ msgid ""
+#~ "Firefox OS is the easiest smartphone to get started with. Your favorite "
+#~ "apps are already preloaded and you can easily sync your contacts from "
+#~ "Facebook, too."
+#~ msgstr ""
+#~ "Mit dem Firefox Marketplace und dutzender standardmäßiger Apps, wie E-"
+#~ "Mail, Karte, Facebook, einer Kamera, Musik und weiteren, ist Firefox OS "
+#~ "voll von Funktionen, die Sie von einem Smartphone erwarten würden."
+
+#~ msgid ""
+#~ "If you love Firefox, you’ll love Firefox OS. Choosing a Firefox OS device "
+#~ "puts the power of the Web in your hands."
+#~ msgstr ""
+#~ "Da es von Firefox entwickelt wird, können Sie sicher sein, dass hinter "
+#~ "Firefox OS eine weltweite Gemeinschaft steht, die für Sie arbeitet und "
+#~ "Ihre Interessen im Sinn hat."
+
+#~ msgid "Question 9"
+#~ msgstr "Frage 9"
+
+#~ msgid ""
+#~ "A customer tells you that she’s ready to move up from her old feature "
+#~ "phone. What selling feature should you lead with?"
+#~ msgstr ""
+#~ "Ein Kunde sagt Ihnen, dass Smartphones kompliziert zu sein scheinen. "
+#~ "Welches Alleinstellungsmerkmal nennen Sie zuerst?"
+
+#~ msgid "Question 10"
+#~ msgstr "Frage 10"
+
+#~ msgid ""
+#~ "A customer tells you that he uses Firefox as his desktop browser. With "
+#~ "what selling feature should you lead?"
+#~ msgstr ""
+#~ "Eine Kundin sagt Ihnen, dass Sie bereit ist, sich nach ihrem alten "
+#~ "Feature-Phone ein neues Handy zu kaufen. Welches Alleinstellungsmerkmal "
+#~ "nennen Sie zuerst?"
+
+#~ msgid "Question 11"
+#~ msgstr "Frage 11"
+
+#~ msgid ""
+#~ "A customer says to you, “I’m looking for an easy way to stay in touch "
+#~ "with my friends, but I don’t want to spend a lot of money”. Which of the "
+#~ "following statements would be a good response? Select all that apply."
+#~ msgstr ""
+#~ "Ein Kunde sagt Ihnen, dass er Firefox als Desktop-Browser verwendet. "
+#~ "Welches Alleinstellungsmerkmal nennen Sie zuerst?"
+
+#~ msgid "Question 12"
+#~ msgstr "Frage 12"
+
+#~ msgid ""
+#~ "A customer says, “I use Firefox on my home computer and I love it, but I "
+#~ "didn’t know they had a mobile OS. Why?” Which of the following statements "
+#~ "would be the most appropriate response to this particular customer? "
+#~ msgstr ""
+#~ "Der Firefox Marketplace bietet Tausende von Apps entweder kostenlos oder "
+#~ "zu sehr niedrigen Preisen."
+
+#~ msgid "Question 13"
+#~ msgstr "Frage 13"
+
+#~ msgid ""
+#~ "Which of the following statements about Adaptive App Search are true? "
+#~ "Select all that apply."
+#~ msgstr ""
+#~ "Ein Kunde sagt: „Ich verwende Firefox auf meinem Heim-Computer und ich "
+#~ "liebe ihn, aber ich wusste nicht, dass es da auch ein Betriebssystem für "
+#~ "Smartphones gibt. Warum?“ Welche der folgenden Aussagen wäre die "
+#~ "passendste Antwort für diesen Kunden?"
+
+#~ msgid "Question 14"
+#~ msgstr "Frage 14"
+
+#~ msgid ""
+#~ "While all of these statements are true, which two responses would be most "
+#~ "useful to a first-time smartphone customer?"
+#~ msgstr ""
+#~ "Welche der folgenden Aussagen über die adaptive App-Suche sind wahr? "
+#~ "Wählen Sie alle Zutreffenden aus."
+
+#~ msgid "Question 15"
+#~ msgstr "Frage 15"
+
+#~ msgid ""
+#~ "When you type a word or subject that interests you using Adaptive App "
+#~ "Search what happens? Select all that apply."
+#~ msgstr ""
+#~ "Alle diese Aussagen sind zwar wahr, aber welche wäre die hilfreichste für "
+#~ "einen Kunden, der zum ersten Mal ein Smartphone kauft?"
+
+#~ msgid "Question 16"
+#~ msgstr "Frage 16"
+
+#~ msgid ""
+#~ "With Adaptive App Search, you can use an app once, quickly and easily, "
+#~ "without installing it. If you want to use it again later, it’s easy to "
+#~ "add it to your homescreen."
+#~ msgstr ""
+#~ "Für welche Firefox-OS-Funktion steht dieses Symbol?<br><br><img "
+#~ "src='course/assets/m05/t05/p35/m05-t05-p35-a05-b15-c05.png'/>"
+
+#~ msgid "True"
+#~ msgstr "SMS "
+
+#~ msgid "False"
+#~ msgstr "Kontakte"
+
+#~ msgid "Question 17"
+#~ msgstr "Frage 17"
+
+#~ msgid ""
+#~ "What’s the best response to this customer’s objection? “I’ve heard there "
+#~ "are not many apps.”"
+#~ msgstr ""
+#~ "Mit der adaptiven App-Suche können Sie eine App schnell und einfach "
+#~ "einmal verwenden, ohne sie zu installieren. Wenn Sie sie später erneut "
+#~ "verwenden möchten, können Sie sie ganz einfach zu Ihrem Startbildschirm "
+#~ "hinzufügen."
+
+#~ msgid "Question 18"
+#~ msgstr "Frage 20"
+
+#~ msgid ""
+#~ "What’s the best response to this customer’s objection? “I’ve never heard "
+#~ "of Firefox OS phones.”"
+#~ msgstr ""
+#~ "Was ist die beste Antwort auf diese Kritik eines Kunden? „Ich habe "
+#~ "gehört, dass es nur wenige Apps gibt.“"
+
+#~ msgid "Question 19"
+#~ msgstr "Frage 19"
+
+#~ msgid ""
+#~ "What’s the best response to this customer’s objection?<br>“How do I know "
+#~ "this new phone is safe?”"
+#~ msgstr ""
+#~ "Was ist die beste Antwort auf diese Kritik eines Kunden? „Ich habe noch "
+#~ "nie von Firefox-OS-Handys gehört.“"
+
+#~ msgid ""
+#~ "Which of these customer responses indicate a ideal candidate for Firefox "
+#~ "OS? Select all that apply."
+#~ msgstr ""
+#~ "Was ist die beste Antwort auf diese Kritik eines Kunden? „Woher weiß ich, "
+#~ "dass dieses neue Handy sicher ist?“"
+
+#~ msgid "Get Ready to Sell!"
+#~ msgstr "Bereitmachen zum Verkaufen!"
+
+#~ msgid ""
+#~ "If you have worked through the questions and all of the content, then you "
+#~ "have the basics to match the needs of Firefox OS to your customers."
+#~ "<br><br>Easy to use, a Firefox OS smartphone is perfect for new "
+#~ "smartphone users and full of all the features that customers want and "
+#~ "need.<br><br>And it is powered by Mozilla, making Firefox OS the right "
+#~ "choice for anyone committed to ensuring that the Web remains in your "
+#~ "hands!"
+#~ msgstr ""
+#~ "Wenn Sie sich durch die Fragen und den Inhalt gearbeitet haben, dann "
+#~ "haben Sie jetzt das Grundwissen, um Firefox OS und die Bedürfnisse Ihrer "
+#~ "Kunden abzugleichen.<br><br>Ein Firefox-OS-Smartphone ist einfach zu "
+#~ "benutzen, perfekt für Smartphone-Einsteiger und voll mit den Funktionen, "
+#~ "die Kunden wollen und benötigen.<br><br>Und hinter allem steht Mozilla, "
+#~ "was Firefox OS zur richtigen Wahl für jeden macht, der sich dafür "
+#~ "engagiert, dass das Internet in Ihren Händen bleibt!"
+
+#~ msgid "<a href='#m05/t05/p30'><span><</span> The Firefox Mission</a>"
+#~ msgstr "<a href='#m05/t05/p30'><span><</span> DIE FIREFOX-MISSION</a>"
