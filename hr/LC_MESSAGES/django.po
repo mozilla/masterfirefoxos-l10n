@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-20 16:54+0000\n"
+"POT-Creation-Date: 2015-01-22 11:32+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,124 +19,146 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 
-#: masterfirefoxos/base/templates/base.html:12
-#: masterfirefoxos/base/templates/base.html:40
+#: masterfirefoxos/base/templates/base.html:14
+#: masterfirefoxos/base/templates/base.html:42
+#: masterfirefoxos/base/templates/home.html:17
 msgid "Master Firefox OS"
 msgstr ""
 
-#: masterfirefoxos/base/templates/base.html:35
-#: masterfirefoxos/base/templates/base.html:75
+#: masterfirefoxos/base/templates/base.html:37
+#: masterfirefoxos/base/templates/base.html:79
+#: masterfirefoxos/base/templates/home.html:12
 msgid "Mozilla"
 msgstr ""
 
-#: masterfirefoxos/base/templates/base.html:85
+#: masterfirefoxos/base/templates/base.html:89
 msgid "Source code"
 msgstr ""
 
-#: masterfirefoxos/base/templates/base.html:90
+#: masterfirefoxos/base/templates/base.html:94
 msgid "Contact Us"
 msgstr ""
 
-#: masterfirefoxos/base/templates/base.html:91
+#: masterfirefoxos/base/templates/base.html:95
 msgid "Partner with Us"
 msgstr ""
 
-#: masterfirefoxos/base/templates/base.html:92
+#: masterfirefoxos/base/templates/base.html:96
 msgid "Donate"
 msgstr ""
 
-#: masterfirefoxos/base/templates/base.html:93
+#: masterfirefoxos/base/templates/base.html:97
 msgid "Privacy Policy"
 msgstr ""
 
-#: masterfirefoxos/base/templates/base.html:94
+#: masterfirefoxos/base/templates/base.html:98
 msgid "Legal Notices"
 msgstr ""
 
-#: masterfirefoxos/base/templates/base.html:95
+#: masterfirefoxos/base/templates/base.html:99
 msgid "Report Trademark Abuse"
 msgstr ""
 
-#: masterfirefoxos/base/templates/base.html:99
+#: masterfirefoxos/base/templates/base.html:103
 msgid "Mozilla on Twitter"
 msgstr ""
 
-#: masterfirefoxos/base/templates/base.html:100
+#: masterfirefoxos/base/templates/base.html:104
 msgid "Firefox on Twitter"
 msgstr ""
 
-#: masterfirefoxos/base/templates/base.html:101
+#: masterfirefoxos/base/templates/base.html:105
 msgid "Mozilla on Facebook"
 msgstr ""
 
-#: masterfirefoxos/base/templates/base.html:102
+#: masterfirefoxos/base/templates/base.html:106
 msgid "Firefox on Facebook"
 msgstr ""
 
-#: masterfirefoxos/base/templates/includes/version-switcher.html:2
+#: masterfirefoxos/base/templates/home.html:52
+msgid "Learn more"
+msgstr ""
+
+#: masterfirefoxos/base/templates/includes/nav-information.html:3
+msgid "Home"
+msgstr ""
+
+#: masterfirefoxos/base/templates/includes/nav-information.html:4
+msgid "About"
+msgstr ""
+
+#: masterfirefoxos/base/templates/includes/nav-information.html:5
+msgid "Contact"
+msgstr ""
+
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:3
+msgid "Language"
+msgstr ""
+
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:11
 msgid "Firefox OS version"
 msgstr ""
 
-#: masterfirefoxos/base/templates/includes/version-switcher.html:8
-msgid "Change"
-msgstr ""
-
-#: masterfirefoxos/base/templates/includes/version-switcher.html:9
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:17
 msgid "Which version do I have?"
 msgstr ""
 
-#: masterfirefoxos/settings/base.py:169
-msgid "Bengali"
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:19
+msgid "Change"
 msgstr ""
 
 #: masterfirefoxos/settings/base.py:170
-msgid "Croatian"
+msgid "Bengali"
 msgstr ""
 
 #: masterfirefoxos/settings/base.py:171
-msgid "Czech"
+msgid "Croatian"
 msgstr ""
 
 #: masterfirefoxos/settings/base.py:172
-msgid "English"
+msgid "Czech"
 msgstr ""
 
 #: masterfirefoxos/settings/base.py:173
-msgid "German"
+msgid "English"
 msgstr ""
 
 #: masterfirefoxos/settings/base.py:174
-msgid "Greek"
+msgid "German"
 msgstr ""
 
 #: masterfirefoxos/settings/base.py:175
-msgid "Hindi"
+msgid "Greek"
 msgstr ""
 
 #: masterfirefoxos/settings/base.py:176
-msgid "Hungarian"
+msgid "Hindi"
 msgstr ""
 
 #: masterfirefoxos/settings/base.py:177
-msgid "Italian"
+msgid "Hungarian"
 msgstr ""
 
 #: masterfirefoxos/settings/base.py:178
-msgid "Polish"
+msgid "Italian"
 msgstr ""
 
 #: masterfirefoxos/settings/base.py:179
-msgid "Portuguese"
+msgid "Polish"
 msgstr ""
 
 #: masterfirefoxos/settings/base.py:180
-msgid "Serbian"
+msgid "Portuguese"
 msgstr ""
 
 #: masterfirefoxos/settings/base.py:181
-msgid "Spanish"
+msgid "Serbian"
 msgstr ""
 
 #: masterfirefoxos/settings/base.py:182
+msgid "Spanish"
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:183
 msgid "Tamil"
 msgstr ""
