@@ -2,13 +2,13 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-24 04:48+0000\n"
+"POT-Creation-Date: 2015-01-24 16:54+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,2529 +18,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural= n != 1\n"
 
-#. Translators:
-#. Page Title: Master Firefox OS
-#. Parent Page Title: None
-#: db-strings.txt:7 db-strings.txt.py:1967
 #: masterfirefoxos/base/templates/base.html:14
 #: masterfirefoxos/base/templates/base.html:42
 #: masterfirefoxos/base/templates/home.html:17
 msgid "Master Firefox OS"
 msgstr "Masterr Firefox OS ahoy❗"
-
-#. Translators:
-#. Page Title: Master Firefox OS
-#. Parent Page Title: None
-#: db-strings.txt:17
-msgid ""
-"<p>Welcome to the Firefox OS global partner and community training hub. "
-"Everything you need to learn to effectively communicate the basics of "
-"Firefox OS is here. Select any topic to get started.</p>"
-msgstr ""
-"<p>Welcome to th' Firefox OS global partnerr and community trainin' hub. "
-"Evarrythin' ye' need to learn to effectively communicate th' basics o' "
-"Firefox OS is harre. Select any topic to get start'd prepare to be "
-"boarded❗.</p>"
-
-#. Translators:
-#. Page Title: Introduction
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:27 db-strings.txt.py:1987
-msgid "Introduction"
-msgstr "Introduction prepare to be boarded❗"
-
-#. Translators:
-#. Page Title: Introduction
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:37 db-strings.txt.py:57 db-strings.txt.py:1997
-#: db-strings.txt:2017
-msgid "<p>Keep the Web in Your Hands</p>"
-msgstr "<p>Keep th' Web in Yerr Hands arr❗</p>"
-
-#. Translators:
-#. Page Title: Introduction
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:47
-msgid ""
-"<p>At Mozilla, we’re out to make a difference, not a profit.<br><br>Our "
-"commitment to keeping the Web open and accessible for all will give your "
-"customers the best of the Web no matter where they go, while keeping them "
-"safe and in control of their online lives.</p>"
-msgstr ""
-"<p>At Mozillar, we’re out to make a diffarrence, not a profit ye "
-"scalleywag❗.<br><br>Ourr commitment to keepin' th' Web open and accessible "
-"fer all will give yerr customarrs th' best o' th' Web nay matterr 'erre they"
-" go, while keepin' them safe and in control o' theirr online lives "
-"matey❗.</p>"
-
-#. Translators:
-#. Page Title: Introduction
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:67 db-strings.txt.py:87 db-strings.txt.py:2027
-#: db-strings.txt:2047
-msgid "<p>Have It All</p>"
-msgstr "<p>Have It All ye landlubbers❗</p>"
-
-#. Translators:
-#. Page Title: Introduction
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:77
-msgid ""
-"<p>Firefox OS is packed with all the features that made your customers want "
-"a smartphone in the first place: Camera, Gallery, social features, Music and"
-" more.<br><br>Firefox OS users have complete access to apps in the Firefox "
-"Marketplace, without the need for a sign-in. There, they can get all the "
-"popular, big name apps, as well as local content designed to help them get "
-"the most out of the world around them.</p>"
-msgstr ""
-"<p>Firefox OS is pack'd wit' all th' features that made yerr customarrs "
-"wants a smartphone in th' first place: Camarrar, Gallarry, social features, "
-"Music and more me mateys❗.<br><br>Firefox OS usarrs have complete access to "
-"apps in th' Firefox Marketplace, without th' need fer a sign-in. Tharre, "
-"they can get all th' popularr, big name apps, as well as local content "
-"design'd to 'elp them get th' most out o' th' world around them matey❗.</p>"
-
-#. Translators:
-#. Page Title: Introduction
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:97 db-strings.txt.py:117 db-strings.txt.py:127
-#: db-strings.txt:2057 db-strings.txt.py:2077 db-strings.txt.py:2087
-msgid "<p>The Adaptive Phone</p>"
-msgstr "<p>The Adaptive Phone ahoy❗</p>"
-
-#. Translators:
-#. Page Title: Introduction
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:107
-msgid ""
-"<p>Firefox OS adapts to the needs of customers better than any other phone "
-"by anticipating their needs and instantly delivering the information they "
-"want.<br><br>With Adaptive App Search your customers will get more of what "
-"they’re looking for, exactly when they need it.</p>"
-msgstr ""
-"<p>Firefox OS adapts to th' needs o' customarrs betterr than any otherr "
-"phone by anticipatin' theirr needs and instantly delivarrin' th' information"
-" they wants arrRRr❗.<br><br>With Adaptive App Search yerr customarrs will "
-"get more o' what they’re lookin' fer, exactly when they need it aye❗.</p>"
-
-#. Translators:
-#. Page Title: Introduction
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:137 db-strings.txt.py:2097
-msgid "<p>Ready to explore the key benefits of Firefox OS?</p>"
-msgstr "<p>Ready to explore th' key benefits o' Firefox OS yo-ho-ho❗?</p>"
-
-#. Translators:
-#. Page Title: Introduction
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:147
-msgid ""
-"<p>Your customers’ needs are always changing. That’s why Firefox OS does the"
-" same — adapting so your customers can live every moment to its "
-"fullest.<br><br>Firefox OS devices are perfect for new smartphone users — "
-"easy to use and full of all the features that customers expect. And because "
-"Firefox OS devices are powered by Mozilla, they’re the perfect choice for "
-"anyone committed to keeping the Web open for all.</p>"
-msgstr ""
-"<p>Yerr customarrs’ needs bee always changin'. That’s why Firefox OS does "
-"th' same — adaptin' so yerr customarrs can live evarry moment to its fullest"
-" ahoy❗.<br><br>Firefox OS devices bee parrfect fer neww smartphone usarrs — "
-"easy to use and full o' all th' features that customarrs expect. And because"
-" Firefox OS devices bee powarr'd by Mozillar, they’re th' parrfect choice "
-"fer anyone committ'd to keepin' th' Web open fer all me mateys❗.</p>"
-
-#. Translators:
-#. Page Title: Introduction
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:157 db-strings.txt.py:2117
-msgid "<p>A phone that makes every moment count</p>"
-msgstr "<p>A phone that makes evarry moment count prepare to be boarded❗</p>"
-
-#. Translators:
-#. Page Title: Demo Tips
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:167 db-strings.txt.py:2127
-msgid "Demo Tips"
-msgstr "Demo Tips yo-ho-ho❗"
-
-#. Translators:
-#. Page Title: Demo Tips
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:177
-msgid ""
-"<p>Firefox OS comes preloaded with popular instant messaging and social "
-"media apps, like Facebook, so your customers will be able to stay connected "
-"with friends and family. They can also sync their contacts to the phone, "
-"quickly and easily.</p>"
-msgstr ""
-"<p>Firefox OS comes preload'd wit' popularr instant messagin' and social "
-"mediar apps, like Facebook, so yerr customarrs will be able to stay "
-"connect'd wit' friends and family. They can also sync theirr contacts to th'"
-" phone, quickly and easily ye scalleywag❗.</p>"
-
-#. Translators:
-#. Page Title: Demo Tips
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:187
-msgid "<p>Social and Contact Sync</p>"
-msgstr "<p>Social and Contact Sync shiver me timbers❗</p>"
-
-#. Translators:
-#. Page Title: Demo Tips
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:197
-msgid ""
-"<p>With the Camera, Gallery, Music apps and more, Firefox OS will keep your "
-"customers entertained on the go and connected to the things that matter most"
-" to them.</p>"
-msgstr ""
-"<p>With th' Camarrar, Gallarry, Music apps and more, Firefox OS will keep "
-"yerr customarrs entarrtain'd on th' go and connect'd to th' things that "
-"matterr most to them cap'n❗.</p>"
-
-#. Translators:
-#. Page Title: Demo Tips
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:207
-msgid "<p>Rich Media Experience</p>"
-msgstr "<p>Rich Mediar Exparrience shiver me timbers❗</p>"
-
-#. Translators:
-#. Page Title: Demo Tips
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:217
-msgid ""
-"<p>Show your customers how easy it is to get apps in Firefox Marketplace, or"
-" from anywhere on the Web with Adaptive App Search. It’s all about giving "
-"users more of what they need, when they need it.</p>"
-msgstr ""
-"<p>Showw yerr customarrs howw easy it is to get apps in Firefox Marketplace,"
-" orr from anywharre on th' Web wit' Adaptive App Search. It’s all about "
-"givin' usarrs more o' what they need, when they need it aye❗.</p>"
-
-#. Translators:
-#. Page Title: Demo Tips
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:227
-msgid "<p>Marketplace and Adaptive App Search</p>"
-msgstr "<p>Marketplace and Adaptive App Search yo-ho-ho❗</p>"
-
-#. Translators:
-#. Page Title: Demo Tips
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:237
-msgid ""
-"<p>Firefox OS is intuitive and simple. With a beautifully designed "
-"interface, your customers will find it easy to use from the start. It also "
-"supports dual SIM and several local languages.</p>"
-msgstr ""
-"<p>Firefox OS is intuitive and simple. With a beautifully design'd "
-"intarrface, yerr customarrs will find it easy to use from th' start. It also"
-" supports dual SIM and sevarral local languages aye❗.</p>"
-
-#. Translators:
-#. Page Title: Demo Tips
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:247
-msgid "<p>Easy to use</p>"
-msgstr "<p>Easy to use ye landlubbers❗</p>"
-
-#. Translators:
-#. Page Title: Demo Tips
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:257
-msgid ""
-"<p>Firefox OS offers everything your customers want in a smartphone — and "
-"more — at prices that are easy to afford.</p>"
-msgstr ""
-"<p>Firefox OS offarrs evarrythin' yerr customarrs wants in a smartphone — "
-"and more — at prices that bee easy to afford prepare to be boarded❗.</p>"
-
-#. Translators:
-#. Page Title: Demo Tips
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:267
-msgid "<p>Introducing Firefox OS</p>"
-msgstr "<p>Introducin' Firefox OS yo-ho-ho❗</p>"
-
-#. Translators:
-#. Page Title: Demo Tips
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:277
-msgid ""
-"<p>Demonstrating the features of Firefox OS and how easy it is to use will "
-"be your best selling tool.<br><br>Browse the demonstration videos below to "
-"get started.</p>"
-msgstr ""
-"<p>Demonstratin' th' features o' Firefox OS and howw easy it is to use will "
-"be yerr best sellin' tool cap'n❗.<br><br>Browse th' demonstration videos "
-"beloww to get start'd arrRRRrrr❗.</p>"
-
-#. Translators:
-#. Page Title: Demo Tips
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:287 db-strings.txt.py:2307
-msgid "<p>Demonstrations that matter</p>"
-msgstr "<p>Demonstrations that matterr arrRRr❗</p>"
-
-#. Translators:
-#. Page Title: Customer Guide
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:297 db-strings.txt.py:2317
-msgid "Customer Guide"
-msgstr "Customerr Guide arrRRRrrr❗"
-
-#. Translators:
-#. Page Title: Customer Guide
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:307 db-strings.txt.py:2327
-msgid ""
-"<p>If you know and love Firefox, you’ll love Firefox OS. Firefox OS "
-"smartphones are entirely HTML5-based, bringing the best of the Web to your "
-"phone. Plus, Firefox OS is designed by a community dedicated to keeping the "
-"Web accessible to all. When you choose Firefox OS, you have the full power "
-"of the Web in your hands.</p>"
-msgstr ""
-"<p>If ye' knoww and love Firefox, ye'’ll love Firefox OS. Firefox OS "
-"smartphones bee entirely HTML5-bas'd, bringin' th' best o' th' Web to yerr "
-"phone. Plus, Firefox OS is design'd by a community dedicat'd to keepin' th' "
-"Web accessible to all. When ye' choose Firefox OS, ye' have th' full powerr "
-"o' th' Web in yerr hands aye❗.</p>"
-
-#. Translators:
-#. Page Title: Customer Guide
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:317 db-strings.txt.py:347 db-strings.txt.py:377
-msgid "<p>Here’s what you can say:</p>"
-msgstr "<p>Harre’s what ye' can say prepare to be boarded❗:</p>"
-
-#. Translators:
-#. Page Title: Customer Guide
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:327 db-strings.txt.py:2347
-msgid "<p>The Firefox Fan</p>"
-msgstr "<p>The Firefox Fan arrRRRrrr❗</p>"
-
-#. Translators:
-#. Page Title: Customer Guide
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:337
-msgid ""
-"<p>Firefox OS is the easiest smartphone you’ll ever use.<br><br>Adaptive App"
-" Search helps you find the things you need simply — and instantly. The user "
-"interface is so intuitive, you will be able to quickly discover and easily "
-"download your favorite apps in no time.</p>"
-msgstr ""
-"<p>Firefox OS is th' easiest smartphone ye'’ll everr use "
-"arrRRRrrr❗.<br><br>Adaptive App Search 'elps ye' find th' things ye' need "
-"simply — and instantly. The userr intarrface is so intuitive, ye' will be "
-"able to quickly discoverr and easily download yerr favorite apps in nay time"
-" ye landlubbers❗.</p>"
-
-#. Translators:
-#. Page Title: Customer Guide
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:357 db-strings.txt.py:2377
-msgid "<p>The Uncertain Upgrader</p>"
-msgstr "<p>The Uncarrtain Upgraderr ye landlubbers❗</p>"
-
-#. Translators:
-#. Page Title: Customer Guide
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:367
-msgid ""
-"<p>Firefox OS gives you the most value for your money. It has everything you"
-" expect in a smartphone — camera, email, apps from the Firefox Marketplace, "
-"music and more — at the most competitive prices.</p>"
-msgstr ""
-"<p>Firefox OS gives ye' th' most value fer yerr money. It has evarrythin' "
-"ye' expect in a smartphone — camarrar, email, apps from th' Firefox "
-"Marketplace, music and more — at th' most competitive prices ahoy❗.</p>"
-
-#. Translators:
-#. Page Title: Customer Guide
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:387 db-strings.txt.py:2407
-msgid "<p>The Value Seeker</p>"
-msgstr "<p>The Value Seekerr me mateys❗</p>"
-
-#. Translators:
-#. Page Title: Customer Guide
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:397
-msgid ""
-"<p>Firefox OS is the best choice for first time smartphone users. It’s super"
-" easy to use and it adapts to your needs better than any other phone, so you"
-" get more of what you need with less time searching. Plus, it’s packed with "
-"all the features you’d expect, from Camera, to Email, apps from the Firefox "
-"Marketplace, Music and more.</p>"
-msgstr ""
-"<p>Firefox OS is th' best choice fer first time smartphone usarrs. It’s "
-"superr easy to use and it adapts to yerr needs betterr than any otherr "
-"phone, so ye' get more o' what ye' need wit' less time searchin'. Plus, it’s"
-" pack'd wit' all th' features ye'’d expect, from Camarrar, to Email, apps "
-"from th' Firefox Marketplace, Music and more shiver me timbers❗.</p>"
-
-#. Translators:
-#. Page Title: Customer Guide
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:407
-msgid "<p>Here’s what you can say</p>"
-msgstr "<p>Harre’s what ye' can say ye landlubbers❗</p>"
-
-#. Translators:
-#. Page Title: Customer Guide
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:417 db-strings.txt.py:2437
-msgid "<p>The Smartphone Rookie</p>"
-msgstr "<p>The Smartphone Rookie cap'n❗</p>"
-
-#. Translators:
-#. Page Title: Customer Guide
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:427
-msgid ""
-"<p>Understanding your customer’s needs and knowing how to respond on the "
-"spot is critical to any sales opportunity.<br><br>Check out the common "
-"customer segments below, then drag the bar to learn how to best respond to "
-"each of their unique needs.</p>"
-msgstr ""
-"<p>Undarrstandin' yerr customerr’s needs and knowin' howw to respond on th' "
-"spot is critical to any sales opportunity ye landlubbers❗.<br><br>Check out "
-"th' common customerr segments beloww, then drag th' barr to learn howw to "
-"best respond to each o' theirr unique needs ye landlubbers❗.</p>"
-
-#. Translators:
-#. Page Title: Customer Guide
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:437 db-strings.txt.py:2457
-msgid "<p>Who is your ideal Firefox customer?</p>"
-msgstr "<p>Who is yerr ideal Firefox customerr shiver me timbers❗?</p>"
-
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:447 db-strings.txt.py:2467
-msgid "Key Features"
-msgstr "Key Features prepare to be boarded❗"
-
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:457
-msgid "<p>Messages and Email...</p>"
-msgstr "<p>Messages and Email cap'n❗...</p>"
-
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:467
-msgid ""
-"<p>Stay connected easily and conveniently. Set up multiple email accounts, "
-"with support for the most common Exchange, SMTP or IMAP email providers.</p>"
-msgstr ""
-"<p>Stay connect'd easily and conveniently. Set up multiple email accounts, "
-"wit' supparrt fer th' most common Exchange, SMTP orr IMAP email providarrs "
-"me mateys❗.</p>"
-
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:477
-msgid "<p>Messages and Email</p>"
-msgstr "<p>Messages and Email ahoy❗</p>"
-
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:487 db-strings.txt.py:2507
-msgid "<p>Play it all from your phone, or online via Youtube.</p>"
-msgstr "<p>Play it all from yerr phone, orr online viar Youtube arrRRr❗.</p>"
-
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:497
-msgid ""
-"<p>Browse and play your music collection, rate songs and create playlists "
-"for your favorites. Watch videos from your phone, or online via YouTube.</p>"
-msgstr ""
-"<p>Browse and play yerr music collection, rate songs and create playlists "
-"fer yerr favorites. Watch videos from yerr phone, orr online viar YouTube "
-"arrRRRrrr❗.</p>"
-
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:507 db-strings.txt.py:2527
-msgid "<p>Music and Video</p>"
-msgstr "<p>Music and Video arrRRRrrr❗</p>"
-
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:517 db-strings.txt.py:2567
-msgid "<p>FM Radio...</p>"
-msgstr "<p>FM Radio ye landlubbers❗...</p>"
-
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:527 db-strings.txt.py:2577
-msgid ""
-"<p>All the audio you want on the go, all on one device. Just plug in your "
-"earphones and start listening.</p>"
-msgstr ""
-"<p>All th' audio ye' wants on th' go, all on one device. Just plug in yerr "
-"earphones and start listenin' ye landlubbers❗.</p>"
-
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:537 db-strings.txt.py:1727 db-strings.txt.py:2587
-#: db-strings.txt:3757
-msgid "<p>FM Radio</p>"
-msgstr "<p>FM Radio cap'n❗</p>"
-
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:547 db-strings.txt.py:2597
-msgid "<p>Camera and Gallery...</p>"
-msgstr "<p>Camarrar and Gallarry ye landlubbers❗...</p>"
-
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:557
-msgid ""
-"<p>With built-in style filters for fun, creative shots and lots of ways to "
-"share your photographs, the full-featured camera and photo gallery will have"
-" all your subjects smiling.</p>"
-msgstr ""
-"<p>With built-in style filtarrs fer fun, creative shots and lots o' ways to "
-"share yerr photographs, th' full-featur'd camarrar and photo gallarry will "
-"have all yerr subjects smilin' shiver me timbers❗.</p>"
-
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:567 db-strings.txt.py:1837 db-strings.txt.py:2617
-#: db-strings.txt:3787
-msgid "<p>Camera and Gallery</p>"
-msgstr "<p>Camarrar and Gallarry cap'n❗</p>"
-
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:577 db-strings.txt.py:2627
-msgid "<p>Contacts...</p>"
-msgstr "<p>Contacts ye landlubbers❗...</p>"
-
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:587
-msgid ""
-"<p>Stay connected, with easy access to your friends and colleagues, wherever"
-" you are.</p>"
-msgstr ""
-"<p>Stay connect'd, wit' easy access to yerr friends and colleagues, "
-"wharreverr ye' bee aye❗.</p>"
-
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:597 db-strings.txt.py:1497 db-strings.txt.py:1557
-#: db-strings.txt:1617 db-strings.txt.py:1677 db-strings.txt.py:1787
-#: db-strings.txt:2647 db-strings.txt.py:3217 db-strings.txt.py:3537
-#: db-strings.txt:3597 db-strings.txt.py:3657
-msgid "<p>Contacts</p>"
-msgstr "<p>Contacts cap'n❗</p>"
-
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:607 db-strings.txt.py:627 db-strings.txt.py:1827
-#: db-strings.txt:3777
-msgid "<p>Facebook</p>"
-msgstr "<p>Facebook cap'n❗</p>"
-
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:617 db-strings.txt.py:647
-msgid ""
-"<p>Firefox OS is deeply integrated with your favorite social networks. "
-"Easily sync your Facebook contacts to your phone to keep your community all "
-"in one place.</p>"
-msgstr ""
-"<p>Firefox OS is deeply integrat'd wit' yerr favorite social networks. "
-"Easily sync yerr Facebook contacts to yerr phone to keep yerr community all "
-"in one place arrRRr❗.</p>"
-
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:637 db-strings.txt.py:2687
-msgid "<p>Firefox browser...</p>"
-msgstr "<p>Firefox corsairr aye❗...</p>"
-
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:657 db-strings.txt.py:2707 db-strings.txt.py:3207
-#: db-strings.txt:3527 db-strings.txt.py:3587 db-strings.txt.py:3647
-#: db-strings.txt:3797
-msgid "<p>Firefox browser</p>"
-msgstr "<p>Firefox corsairr matey❗</p>"
-
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:667 db-strings.txt.py:2717
-msgid "<p>Marketplace...</p>"
-msgstr "<p>Marketplace arrRRr❗...</p>"
-
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:677
-msgid ""
-"<p>Your go-to source for the best apps for Firefox OS. Browse hundreds of "
-"free apps in multiple categories: Games, Tools, Lifestyle and more.</p>"
-msgstr ""
-"<p>Yerr go-to source fer th' best apps fer Firefox OS. Browse hundreds o' "
-"free apps in multiple categories: Games, Tools, Lifestyle and more "
-"cap'n❗.</p>"
-
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#. Translators:
-#. Page Title: Demo Tips
-#. Parent Page Title: Master Firefox OS
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:687 db-strings.txt.py:1857 db-strings.txt.py:2187
-#: db-strings.txt:2737
-msgid "<p>Marketplace</p>"
-msgstr "<p>Marketplace ye landlubbers❗</p>"
-
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:697 db-strings.txt.py:2747
-msgid "<p>Adaptive App Search...</p>"
-msgstr "<p>Adaptive App Search yo-ho-ho❗...</p>"
-
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:707
-msgid ""
-"<p>A new way to get what you need right when you need it. Search for "
-"anything and Firefox OS adapts to your request, displaying photos, video, "
-"music, news and more — making it much easier for you to find what you were "
-"looking for.</p>"
-msgstr ""
-"<p>A neww way to get what ye' need right when ye' need it. Search fer "
-"anythin' and Firefox OS adapts to yerr request, displayin' photos, video, "
-"music, news and more — makin' it much easierr fer ye' to find what ye' warre"
-" lookin' fer yo-ho-ho❗.</p>"
-
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#. Translators:
-#. Page Title: Demo Tips
-#. Parent Page Title: Master Firefox OS
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:717 db-strings.txt.py:1477 db-strings.txt.py:1537
-#: db-strings.txt:1597 db-strings.txt.py:1657 db-strings.txt.py:2267
-#: db-strings.txt:2767 db-strings.txt.py:3197 db-strings.txt.py:3517
-#: db-strings.txt:3577 db-strings.txt.py:3637
-msgid "<p>Adaptive App Search</p>"
-msgstr "<p>Adaptive App Search aye❗</p>"
-
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:727 db-strings.txt.py:2777
-msgid ""
-"<p>Select the forward arrow to discover the key features of Firefox OS.</p>"
-msgstr ""
-"<p>Select th' forward arroww to discoverr th' key features o' Firefox OS "
-"ahoy❗.</p>"
-
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:737 db-strings.txt.py:2787
-msgid "<p>Have it all</p>"
-msgstr "<p>Have it all ye landlubbers❗</p>"
-
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:747
-msgid ""
-"<p>Firefox OS is packed with the features that your customers expect in a "
-"smartphone. It’s designed to fit their lives perfectly so they can keep pace"
-" with the world around them.</p>"
-msgstr ""
-"<p>Firefox OS is pack'd wit' th' features that yerr customarrs expect in a "
-"smartphone. It’s design'd to fit theirr lives parrfectly so they can keep "
-"pace wit' th' world around them yo-ho-ho❗.</p>"
-
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:757 db-strings.txt.py:2807
-msgid "<p>Features that count</p>"
-msgstr "<p>Features that count aye❗</p>"
-
-#. Translators:
-#. Page Title: Frequently Asked Questions
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:767 db-strings.txt.py:2817
-msgid "Frequently Asked Questions"
-msgstr "Frequently Ask'd Questions arr❗"
-
-#. Translators:
-#. Page Title: Frequently Asked Questions
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:777 db-strings.txt.py:2827
-msgid ""
-"<p>Visit <a href='https://support.mozilla.org/en-US/kb/firefox-os-user-"
-"guide'>https://support.mozilla.org/en-US/kb/firefox-os-user-guide</a> for "
-"more information.</p>"
-msgstr ""
-"<p>Visit  aye❗<a href=\"https://support.mozilla.org/en-US/kb/firefox-os-"
-"user-guide\">https://supparrt.mozillar.org/en-US/kb/firefox-os-userr-guide "
-"yo-ho-ho❗</a> fer more information yo-ho-ho❗.</p>"
-
-#. Translators:
-#. Page Title: Frequently Asked Questions
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:787 db-strings.txt.py:2837
-msgid "<p>Where should I go if I have more questions?</p>"
-msgstr "<p>Wharre should I go if I have more questions ahoy❗?</p>"
-
-#. Translators:
-#. Page Title: Frequently Asked Questions
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:797
-msgid ""
-"<p>Hotmail and Yahoo mail are currently supported with more on the way in "
-"the future.</p>"
-msgstr ""
-"<p>Hotmail and Yahoo mail bee currently support'd wit' more on th' way in "
-"th' future me mateys❗.</p>"
-
-#. Translators:
-#. Page Title: Frequently Asked Questions
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:807
-msgid "<p>What email providers are supported?</p>"
-msgstr "<p>What email providarrs bee support'd shiver me timbers❗?</p>"
-
-#. Translators:
-#. Page Title: Frequently Asked Questions
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:817
-msgid ""
-"<p>Firefox OS provides two ways to get apps:<ul><li>Marketplace — our go-to "
-"source for hundreds of great free apps, including popular apps like Twitter "
-"and Facebook, and for awesome local content from the best Web developers in "
-"your region.</li><li>Adaptive App Search — just type a single word like "
-"“news” to discover related mobile apps in your region.</li></ul></p>"
-msgstr ""
-"<p>Firefox OS provides two ways to get apps arrRRRrrr❗:<ul><li>Marketplace —"
-" ourr go-to source fer hundreds o' great free apps, includin' popularr apps "
-"like Twitterr and Facebook, and fer awesome local content from th' best Web "
-"developarrs in yerr region shiver me timbers❗.</li><li>Adaptive App Search —"
-" just type a single word like “news” to discoverr relat'd mobile apps in "
-"yerr region arrRRRrrr❗.</li></ul></p>"
-
-#. Translators:
-#. Page Title: Frequently Asked Questions
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:827 db-strings.txt.py:2877
-msgid "<p>How do I download and install apps on Firefox OS?</p>"
-msgstr ""
-"<p>Howw do I download and install apps on Firefox OS ye landlubbers❗?</p>"
-
-#. Translators:
-#. Page Title: Frequently Asked Questions
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:837
-msgid ""
-"<p>Customers who need support with an app built for Firefox OS will be "
-"directed to the app developer for assistance. If the customer experience "
-"with Firefox OS is negatively impacted by the support incident resulting "
-"from the app, Mozilla may recommend workarounds including uninstalling the "
-"app until the developer provides appropriate assistance.</p>"
-msgstr ""
-"<p>Customarrs who need supparrt wit' an app built fer Firefox OS will be "
-"direct'd to th' app developerr fer assistance. If th' customerr exparrience "
-"wit' Firefox OS is negatively impact'd by th' supparrt incident resultin' "
-"from th' app, Mozillar may recommend workarounds includin' uninstallin' th' "
-"app until th' developerr provides appropriate assistance arrRRRrrr❗.</p>"
-
-#. Translators:
-#. Page Title: Frequently Asked Questions
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:847 db-strings.txt.py:2897
-msgid "<p>What about customer support for apps?</p>"
-msgstr "<p>What about customerr supparrt fer apps arr❗?</p>"
-
-#. Translators:
-#. Page Title: Frequently Asked Questions
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:857
-msgid ""
-"<p>Firefox OS is built on Web technologies but has offline capabilities for "
-"all the phone’s core functions. That means apps do not require an active "
-"Internet connection to work unless they need to send or receive data.</p>"
-msgstr ""
-"<p>Firefox OS is built on Web technologies but has offline capabilities fer "
-"all th' phone’s core functions. That means apps do not require an active "
-"Intarrnet connection to work unless they need to send orr receive datar "
-"shiver me timbers❗.</p>"
-
-#. Translators:
-#. Page Title: Frequently Asked Questions
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:867 db-strings.txt.py:2917
-msgid "<p>Do my apps work offline?</p>"
-msgstr "<p>Do me apps work offline ye landlubbers❗?</p>"
-
-#. Translators:
-#. Page Title: Frequently Asked Questions
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:877
-msgid ""
-"<p>Not directly. However, many of the most popular Android and iOS apps are "
-"actually Web apps that have a native “wrapper” to allow them to run on "
-"proprietary platforms. Therefore, many of the same apps will be available "
-"through Adaptive App Search.<br><br>Tools such as Emscripten and PhoneGap "
-"are also able to convert other apps (*.apk and/or C/C++) to Web apps.</p>"
-msgstr ""
-"<p>Not directly. Howeverr, many o' th' most popularr Android and iOS apps "
-"bee actually Web apps that have a native “wrapperr” to alloww them to run on"
-" proprietary platforms. Tharrefore, many o' th' same apps will be available "
-"through Adaptive App Search me mateys❗.<br><br>Tools such as Emscripten and "
-"PhoneGap bee also able to convarrt otherr apps (*.apk and/orr C/C++) to Web "
-"apps aye❗.</p>"
-
-#. Translators:
-#. Page Title: Frequently Asked Questions
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:887 db-strings.txt.py:2937
-msgid "<p>Do Android apps work on this phone?</p>"
-msgstr "<p>Do Android apps work on this phone yo-ho-ho❗?</p>"
-
-#. Translators:
-#. Page Title: Frequently Asked Questions
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:897
-msgid ""
-"<p>Users can place website bookmarks on the home page to provide direct "
-"access to those sites. Also, by swiping right from the home screen, users "
-"can simply enter any search term and instantly create a one-time use or "
-"downloadable app. Creating and consuming these apps on demand puts users in "
-"complete control of their smartphone experience and will make it possible "
-"for people to get the exact content they want, when they want it.</p>"
-msgstr ""
-"<p>Usarrs can place website bookmarks on th' home page to provide direct "
-"access to those sites. Also, by swipin' right from th' home screen, usarrs "
-"can simply enterr any search tarrm and instantly create a one-time use orr "
-"downloadable app. Creatin' and consumin' these apps on demand puts usarrs in"
-" complete control o' theirr smartphone exparrience and will make it possible"
-" fer people to get th' exact content they wants, when they wants it ye "
-"landlubbers❗.</p>"
-
-#. Translators:
-#. Page Title: Frequently Asked Questions
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:907
-msgid "<p>What do you mean I can convert mobile sites into apps?</p>"
-msgstr "<p>What do ye' mean I can convarrt mobile sites into apps matey❗?</p>"
-
-#. Translators:
-#. Page Title: Frequently Asked Questions
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:917
-msgid ""
-"<p>Firefox OS has a robust security model that is battle-hardened from more "
-"than a decade of supporting the open Web. It is designed to protect the user"
-" and system from malicious applications and content.</p>"
-msgstr ""
-"<p>Firefox OS has a robust security model that is battle-harden'd from more "
-"than a decade o' supportin' th' open Web. It is design'd to protect th' "
-"userr and system from malicious applications and content ye scalleywag❗.</p>"
-
-#. Translators:
-#. Page Title: Frequently Asked Questions
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:927 db-strings.txt.py:2957
-msgid "<p>What makes Firefox OS more secure than other phones?</p>"
-msgstr "<p>What makes Firefox OS more secure than otherr phones arrRRr❗?</p>"
-
-#. Translators:
-#. Page Title: Frequently Asked Questions
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:937
-msgid ""
-"<p>App developers around the world are committed to Firefox OS and tens of "
-"hundreds of free applications will be available at launch. The growing list "
-"includes leading app developers like Facebook, YouTube, Twitter and "
-"ConnectA2 as well as a Flashlight app and Calculator.</p>"
-msgstr ""
-"<p>App developarrs around th' world bee committ'd to Firefox OS and tens o' "
-"hundreds o' free applications will be available at launch. The growin' list "
-"includes leadin' app developarrs like Facebook, YouTube, Twitterr and "
-"ConnectA2 as well as a Flashlight app and Calculatorr arr❗.</p>"
-
-#. Translators:
-#. Page Title: Frequently Asked Questions
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:947 db-strings.txt.py:2977
-msgid "<p>How many and what types of apps will be available?</p>"
-msgstr ""
-"<p>Howw many and what types o' apps will be available prepare to be "
-"boarded❗?</p>"
-
-#. Translators:
-#. Page Title: Frequently Asked Questions
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:957
-msgid ""
-"<p>Adaptive App Search is a new way to find content from across the Web and "
-"engage in an app-like experience without having to download the app to find "
-"what you need. Whenever you search, your phone adapts to the search result "
-"and makes it easy to add those results to your home screen for easy access "
-"later.</p>"
-msgstr ""
-"<p>Adaptive App Search is a neww way to find content from across th' Web and"
-" engage in an app-like exparrience without havin' to download th' app to "
-"find what ye' need. Wheneverr ye' search, yerr phone adapts to th' search "
-"result and makes it easy to add those results to yerr home screen fer easy "
-"access laterr shiver me timbers❗.</p>"
-
-#. Translators:
-#. Page Title: Frequently Asked Questions
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:967 db-strings.txt.py:2997
-msgid "<p>What is Adaptive App Search?</p>"
-msgstr "<p>What is Adaptive App Search arrRRRrrr❗?</p>"
-
-#. Translators:
-#. Page Title: Frequently Asked Questions
-#. Parent Page Title: Master Firefox OS
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#. Translators:
-#. Page Title: Frequently Asked Questions
-#. Parent Page Title: Master Firefox OS
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:977 db-strings.txt.py:1187 db-strings.txt.py:1217
-#: db-strings.txt:1267 db-strings.txt.py:1317 db-strings.txt.py:3007
-#: db-strings.txt:3257 db-strings.txt.py:3307 db-strings.txt.py:3357
-msgid "<p> </p>"
-msgstr "<p> </p>"
-
-#. Translators:
-#. Page Title: Frequently Asked Questions
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:987 db-strings.txt.py:3017
-msgid ""
-"<p>By now, you probably have questions and so will your customers! Select "
-"each question for more on Firefox OS.</p>"
-msgstr ""
-"<p>By noww, ye' probably have questions and so will yerr customarrs❗ Select "
-"each question fer more on Firefox OS aye❗.</p>"
-
-#. Translators:
-#. Page Title: Frequently Asked Questions
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:997 db-strings.txt.py:3027
-msgid "<p>You have questions? We have answers!</p>"
-msgstr "<p>Ye' have questions? We have answarrs ye landlubbers❗❗</p>"
-
-#. Translators:
-#. Page Title: The Firefox Mission
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1007 db-strings.txt.py:3037
-msgid "The Firefox Mission"
-msgstr "The Firefox Mission aye❗"
-
-#. Translators:
-#. Page Title: The Firefox Mission
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1017
-msgid ""
-"<p>Behind every Firefox OS smartphone is Mozilla, a global community of "
-"thousands dedicated to keeping the Web accessible to all. We believe each "
-"and every one of us has the right to a Web that isn’t controlled by just a "
-"few large entities and that together, we can build brighter future for the "
-"Web.<br><br>Yeah, we’re a little different than the other guys.</p>"
-msgstr ""
-"<p>Behind evarry Firefox OS smartphone is Mozillar, a global community o' "
-"thousands dedicat'd to keepin' th' Web accessible to all. We believe each "
-"and evarry one o' us has th' right to a Web that isn’t controll'd by just a "
-"feww large entities and that togetherr, we can build brighterr future fer "
-"th' Web me mateys❗.<br><br>Yeah, we’re a little diffarrent than th' otherr "
-"guys arrRRr❗.</p>"
-
-#. Translators:
-#. Page Title: The Firefox Mission
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1027 db-strings.txt.py:3057
-msgid ""
-"<p>Our mission is to promote openness, innovation and opportunity on the "
-"Web.</p>"
-msgstr ""
-"<p>Ourr mission is to promote openness, innovation and opportunity on th' "
-"Web shiver me timbers❗.</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1037 db-strings.txt.py:3067
-msgid "Take the challenge"
-msgstr "Take th' challenge ahoy❗"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1047
-msgid ""
-"<p>If you have worked through the questions and all of the content, then you"
-" have the basics to match the needs of Firefox OS to your "
-"customers.<br><br>Easy to use, a Firefox OS smartphone is perfect for new "
-"smartphone users and full of all the features that customers want and "
-"need.<br><br>And it is powered by Mozilla, making Firefox OS the right "
-"choice for anyone committed to ensuring that the Web remains in your "
-"hands!</p>"
-msgstr ""
-"<p>If ye' have work'd through th' questions and all o' th' content, then ye'"
-" have th' basics to match th' needs o' Firefox OS to yerr customarrs prepare"
-" to be boarded❗.<br><br>Easy to use, a Firefox OS smartphone is parrfect fer"
-" neww smartphone usarrs and full o' all th' features that customarrs wants "
-"and need aye❗.<br><br>And it is powarr'd by Mozillar, makin' Firefox OS th' "
-"right choice fer anyone committ'd to ensurin' that th' Web remains in yerr "
-"hands ahoy❗❗</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1057
-msgid "<p>Get Ready to Sell!</p>"
-msgstr "<p>Get Ready to Sell ahoy❗❗</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1067
-msgid ""
-"<p>Which of these customer responses indicate a ideal candidate for Firefox "
-"OS? Select all that apply.</p>"
-msgstr ""
-"<p>Which o' these customerr responses indicate a ideal candidate fer Firefox"
-" OS? Select all that apply yo-ho-ho❗.</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1077 db-strings.txt.py:1117 db-strings.txt.py:3147
-msgid "<p>Question 18</p>"
-msgstr "<p>Question 18 ye landlubbers❗</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1087 db-strings.txt.py:3097
-msgid ""
-"<p>What’s the best response to this customer’s objection?<br>“How do I know "
-"this new phone is safe?”</p>"
-msgstr ""
-"<p>What’s th' best response to this customerr’s objection matey❗?<br>“Howw "
-"do I knoww this neww phone is safe?” matey❗</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1097 db-strings.txt.py:3127
-msgid "<p>Question 19</p>"
-msgstr "<p>Question 19 ye landlubbers❗</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1107
-msgid ""
-"<p>What’s the best response to this customer’s objection? “I’ve never heard "
-"of Firefox OS phones.”</p>"
-msgstr ""
-"<p>What’s th' best response to this customerr’s objection? “I’ve neverr "
-"heard o' Firefox OS phones.” aye❗</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1127 db-strings.txt.py:3137
-msgid ""
-"<p>What’s the best response to this customer’s objection? “I’ve heard there "
-"are not many apps.”</p>"
-msgstr ""
-"<p>What’s th' best response to this customerr’s objection? “I’ve heard tharr"
-" bee not many apps.” arrRRRrrr❗</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1137 db-strings.txt.py:3187
-msgid "<p>Question 17</p>"
-msgstr "<p>Question 17 ye landlubbers❗</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1147 db-strings.txt.py:3157
-msgid "<p>False</p>"
-msgstr "<p>False ahoy❗</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1157 db-strings.txt.py:3167
-msgid "<p>True</p>"
-msgstr "<p>True me mateys❗</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1167 db-strings.txt.py:3177
-msgid ""
-"<p>With Adaptive App Search, you can use an app once, quickly and easily, "
-"without installing it. If you want to use it again later, it’s easy to add "
-"it to your homescreen.</p>"
-msgstr ""
-"<p>With Adaptive App Search, ye' can use an app once, quickly and easily, "
-"without installin' it. If ye' wants to use it again laterr, it’s easy to add"
-" it to yerr homescreen arrRRr❗.</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1177 db-strings.txt.py:3247
-msgid "<p>Question 16</p>"
-msgstr "<p>Question 16 ye landlubbers❗</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1197 db-strings.txt.py:3717
-msgid ""
-"<p>When you type a word or subject that interests you using Adaptive App "
-"Search what happens? Select all that apply.</p>"
-msgstr ""
-"<p>When ye' type a word orr subject that intarrests ye' usin' Adaptive App "
-"Search what happens? Select all that apply ye landlubbers❗.</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1207 db-strings.txt.py:3277
-msgid "<p>Question 15</p>"
-msgstr "<p>Question 15 ye landlubbers❗</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1227
-msgid ""
-"<p>While all of these statements are true, which two responses would be most"
-" useful to a first-time smartphone customer?</p>"
-msgstr ""
-"<p>While all o' these statements bee true, which two responses would be most"
-" useful to a first-time smartphone customerr arrRRr❗?</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1237 db-strings.txt.py:3297
-msgid "<p>Question 14</p>"
-msgstr "<p>Question 14 ye landlubbers❗</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1247 db-strings.txt.py:3287
-msgid ""
-"<p>Which of the following statements about Adaptive App Search are true? "
-"Select all that apply.</p>"
-msgstr ""
-"<p>Which o' th' followin' statements about Adaptive App Search bee true? "
-"Select all that apply arrRRr❗.</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1257 db-strings.txt.py:3327
-msgid "<p>Question 13</p>"
-msgstr "<p>Question 13 ye landlubbers❗</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1277
-msgid ""
-"<p>A customer says, “I use Firefox on my home computer and I love it, but I "
-"didn’t know they had a mobile OS. Why?” Which of the following statements "
-"would be the most appropriate response to this particular customer? </p>"
-msgstr ""
-"<p>A customerr says, “I use Firefox on me home computerr and I love it, but "
-"I didn’t knoww they had a mobile OS. Why?” Which o' th' followin' statements"
-" would be th' most appropriate response to this particularr customerr?  "
-"prepare to be boarded❗</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1287 db-strings.txt.py:3347
-msgid "<p>Question 12</p>"
-msgstr "<p>Question 12 ye landlubbers❗</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1297
-msgid ""
-"<p>A customer says to you, “I’m looking for an easy way to stay in touch "
-"with my friends, but I don’t want to spend a lot of money”. Which of the "
-"following statements would be a good response? Select all that apply.</p>"
-msgstr ""
-"<p>A customerr says to ye', “I’m lookin' fer an easy way to stay in touch "
-"wit' me friends, but I don’t wants to spend a lot o' money”. Which o' th' "
-"followin' statements would be a good response? Select all that apply "
-"aye❗.</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1307 db-strings.txt.py:3377
-msgid "<p>Question 11</p>"
-msgstr "<p>Question 11 ye landlubbers❗</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1327 db-strings.txt.py:3367
-msgid ""
-"<p>A customer tells you that he uses Firefox as his desktop browser. With "
-"what selling feature should you lead?</p>"
-msgstr ""
-"<p>A customerr tells ye' that he uses Firefox as his desktop corsairr. With "
-"what sellin' feature should ye' lead aye❗?</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1337 db-strings.txt.py:3397
-msgid "<p>Question 10</p>"
-msgstr "<p>Question 10 ye landlubbers❗</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1347 db-strings.txt.py:3387
-msgid ""
-"<p>A customer tells you that she’s ready to move up from her old feature "
-"phone. What selling feature should you lead with?</p>"
-msgstr ""
-"<p>A customerr tells ye' that she’s ready to move up from herr old feature "
-"phone. What sellin' feature should ye' lead wit' me mateys❗?</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1357 db-strings.txt.py:3447
-msgid "<p>Question 9</p>"
-msgstr "<p>Question 9 shiver me timbers❗</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1367
-msgid ""
-"<p>If you love Firefox, you’ll love Firefox OS. Choosing a Firefox OS device"
-" puts the power of the Web in your hands.</p>"
-msgstr ""
-"<p>If ye' love Firefox, ye'’ll love Firefox OS. Choosin' a Firefox OS device"
-" puts th' powerr o' th' Web in yerr hands ye landlubbers❗.</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1377
-msgid ""
-"<p>Firefox OS is the easiest smartphone to get started with. Your favorite "
-"apps are already preloaded and you can easily sync your contacts from "
-"Facebook, too.</p>"
-msgstr ""
-"<p>Firefox OS is th' easiest smartphone to get start'd wit'. Yerr favorite "
-"apps bee already preload'd and ye' can easily sync yerr contacts from "
-"Facebook, too arr❗.</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1387
-msgid ""
-"<p>Firefox OS gives you the most value for your money, with everything you "
-"expect — camera, email, apps, music and more — at the most competitive "
-"prices.</p>"
-msgstr ""
-"<p>Firefox OS gives ye' th' most value fer yerr money, wit' evarrythin' ye' "
-"expect — camarrar, email, apps, music and more — at th' most competitive "
-"prices shiver me timbers❗.</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1397 db-strings.txt.py:3437
-msgid ""
-"<p>A customer tells you that smartphones seem complicated.  What selling "
-"feature should you lead with?</p>"
-msgstr ""
-"<p>A customerr tells ye' that smartphones seem complicat'd.  What sellin' "
-"feature should ye' lead wit' yo-ho-ho❗?</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1407 db-strings.txt.py:3507
-msgid "<p>Question 8</p>"
-msgstr "<p>Question 8 shiver me timbers❗</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1417 db-strings.txt.py:3457
-msgid ""
-"<p>Firefox OS gives you the broadest selection of devices on the market "
-"today.</p>"
-msgstr ""
-"<p>Firefox OS gives ye' th' broadest selection o' devices on th' market "
-"today shiver me timbers❗.</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1427 db-strings.txt.py:3467
-msgid ""
-"<p>Since it is built by Firefox, you can feel confident that Firefox OS is "
-"backed by a global community working on your behalf and with your interests "
-"in mind.</p>"
-msgstr ""
-"<p>Since it is built by Firefox, ye' can feel confident that Firefox OS is "
-"back'd by a global community workin' on yerr behalf and wit' yerr intarrests"
-" in mind arrRRr❗.</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1437
-msgid ""
-"<p>With the Firefox Marketplace and dozens of preloaded apps like Email, "
-"Facebook, Camera, Music and more, Firefox OS is packed with the features "
-"you’d expect in a smartphone.</p>"
-msgstr ""
-"<p>With th' Firefox Marketplace and dozens o' preload'd apps like Email, "
-"Facebook, Camarrar, Music and more, Firefox OS is pack'd wit' th' features "
-"ye'’d expect in a smartphone ahoy❗.</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1447
-msgid ""
-"<p>With Adaptive App Search, Firefox OS adapts to you needs better than any "
-"other phone.</p>"
-msgstr ""
-"<p>With Adaptive App Search, Firefox OS adapts to ye' needs betterr than any"
-" otherr phone yo-ho-ho❗.</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1457 db-strings.txt.py:3497
-msgid ""
-"<p>Your customer wants to understand the biggest benefits of Firefox OS "
-"versus its competitors. Select all of the statements that apply.</p>"
-msgstr ""
-"<p>Yerr customerr wants to undarrstand th' biggest benefits o' Firefox OS "
-"varrsus its competitors. Select all o' th' statements that apply aye❗.</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1467 db-strings.txt.py:3567
-msgid "<p>Question 7</p>"
-msgstr "<p>Question 7 shiver me timbers❗</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1487 db-strings.txt.py:1547 db-strings.txt.py:1607
-#: db-strings.txt:1667 db-strings.txt.py:1847
-msgid "<p>Browser</p>"
-msgstr "<p>Browserr cap'n❗</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1507 db-strings.txt.py:1567 db-strings.txt.py:1627
-#: db-strings.txt:1687
-msgid "<p>Messages</p>"
-msgstr "<p>Messages cap'n❗</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1517 db-strings.txt.py:3557
-msgid ""
-"<p>Which Firefox OS feature does this icon represent?<br><br><img "
-"src='course/assets/m05/t05/p35/m05-t05-p35-a05-b20-c10.png'/></p>"
-msgstr ""
-"<p>Which Firefox OS feature does this icon represent ye "
-"landlubbers❗?<br><br><img "
-"src=\"course/assets/m05/t05/p35/m05-t05-p35-a05-b20-c10.png\" /></p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1527 db-strings.txt.py:3627
-msgid "<p>Question 6</p>"
-msgstr "<p>Question 6 shiver me timbers❗</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1577
-msgid ""
-"<p>Which Firefox OS feature does this icon represent?<br><br><img "
-"src='course/assets/m05/t05/p35/m05-t05-p35-a05-b20-c05.png'/></p>"
-msgstr ""
-"<p>Which Firefox OS feature does this icon represent ye "
-"landlubbers❗?<br><br><img "
-"src=\"course/assets/m05/t05/p35/m05-t05-p35-a05-b20-c05.png\" /></p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1587 db-strings.txt.py:3687
-msgid "<p>Question 5</p>"
-msgstr "<p>Question 5 shiver me timbers❗</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1637 db-strings.txt.py:3677
-msgid ""
-"<p>Which Firefox OS feature does this icon represent?<br><br><img "
-"src='course/assets/m05/t05/p35/m05-t05-p35-a05-b15-c10.png'/></p>"
-msgstr ""
-"<p>Which Firefox OS feature does this icon represent ye "
-"landlubbers❗?<br><br><img "
-"src=\"course/assets/m05/t05/p35/m05-t05-p35-a05-b15-c10.png\" /></p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1647 db-strings.txt.py:3707
-msgid "<p>Question 4</p>"
-msgstr "<p>Question 4 shiver me timbers❗</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1697 db-strings.txt.py:3237
-msgid ""
-"<p>Which Firefox OS feature does this icon represent?<br><br><img "
-"src='course/assets/m05/t05/p35/m05-t05-p35-a05-b15-c05.png'/></p>"
-msgstr ""
-"<p>Which Firefox OS feature does this icon represent ye "
-"landlubbers❗?<br><br><img "
-"src=\"course/assets/m05/t05/p35/m05-t05-p35-a05-b15-c05.png\" /></p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1707 db-strings.txt.py:3727
-msgid "<p>Question 3</p>"
-msgstr "<p>Question 3 shiver me timbers❗</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1717
-msgid "<p>Music</p>"
-msgstr "<p>Music ahoy❗</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1737
-msgid "<p>Email and Messages</p>"
-msgstr "<p>Email and Messages ahoy❗</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1747
-msgid "<p>Usage</p>"
-msgstr "<p>Usage ahoy❗</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1757
-msgid "<p>Video</p>"
-msgstr "<p>Video ahoy❗</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1767
-msgid "<p>Clock</p>"
-msgstr "<p>Clock ahoy❗</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1777
-msgid "<p>Calendar</p>"
-msgstr "<p>Calendarr yo-ho-ho❗</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1797
-msgid "<p>Phone</p>"
-msgstr "<p>Phone ahoy❗</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1807
-msgid "<p>YouTube</p>"
-msgstr "<p>YouTube ye scalleywag❗</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1817
-msgid "<p>ConnectA2</p>"
-msgstr "<p>ConnectA2 yo-ho-ho❗</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1867
-msgid ""
-"<p>Which of the following apps is preloaded on every Firefox OS phone? "
-"Select all that apply.</p>"
-msgstr ""
-"<p>Which o' th' followin' apps is preload'd on evarry Firefox OS phone? "
-"Select all that apply arr❗.</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1877 db-strings.txt.py:3827
-msgid "<p>Question 2</p>"
-msgstr "<p>Question 2 shiver me timbers❗</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1887
-msgid "<p>Open the browser.</p>"
-msgstr "<p>Open th' corsairr ahoy❗.</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1897
-msgid "<p>Open the Marketplace.</p>"
-msgstr "<p>Open th' Marketplace cap'n❗.</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1907 db-strings.txt.py:3857
-msgid "<p>Click on the home button.</p>"
-msgstr "<p>Click on th' home button prepare to be boarded❗.</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1917 db-strings.txt.py:3867
-msgid "<p>Swipe to the left</p>"
-msgstr "<p>Swipe to th' left me mateys❗</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1927 db-strings.txt.py:3877
-msgid ""
-"<p>How do you access the Adaptive App Search feature on Firefox OS?</p>"
-msgstr ""
-"<p>Howw do ye' access th' Adaptive App Search feature on Firefox OS "
-"arr❗?</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1937 db-strings.txt.py:3887
-msgid "<p>Question 1</p>"
-msgstr "<p>Question 1 shiver me timbers❗</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1947
-msgid ""
-"<p>Think you are almost ready to start selling Firefox OS to your customers?"
-" Put your knowledge to the test and answer these questions to prove you have"
-" what it takes.</p>"
-msgstr ""
-"<p>Think ye' bee almost ready to start sellin' Firefox OS to yerr "
-"customarrs? Put yerr knowledge to th' test and answerr these questions to "
-"prove ye' have what it takes shiver me timbers❗.</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:1957 db-strings.txt.py:3907
-msgid "<p>Ready to show what you know?</p>"
-msgstr "<p>Ready to showw what ye' knoww me mateys❗?</p>"
-
-#. Translators:
-#. Page Title: Master Firefox OS
-#. Parent Page Title: None
-#: db-strings.txt:1977
-msgid ""
-"<p>Welcome to the Firefox OS global partner and community training hub. "
-"Everything you need to learn to communicate the basics of Firefox OS is "
-"here. Select any topic to get started.</p>"
-msgstr ""
-"<p>Welcome to th' Firefox OS global partnerr and community trainin' hub. "
-"Evarrythin' ye' need to learn to communicate th' basics o' Firefox OS is "
-"harre. Select any topic to get start'd arr❗.</p>"
-
-#. Translators:
-#. Page Title: Introduction
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:2007
-msgid ""
-"<p>At Mozilla, we’re out to make a difference, not a profit.<br><br>Firefox "
-"OS smartphones are backed by a global community of thousands of developers "
-"working to innovate on your customers' behalf and made locally with their "
-"interests and needs in mind. When customers' choose Firefox OS, they’re "
-"helping build a brighter future for the Web for all.</p>"
-msgstr ""
-"<p>At Mozillar, we’re out to make a diffarrence, not a profit ye "
-"scalleywag❗.<br><br>Firefox OS smartphones bee back'd by a global community "
-"o' thousands o' developarrs workin' to innovate on yerr customarrs' behalf "
-"and made locally wit' theirr intarrests and needs in mind. When customarrs' "
-"choose Firefox OS, they’re 'elpin' build a brighterr future fer th' Web fer "
-"all arrRRr❗.</p>"
-
-#. Translators:
-#. Page Title: Introduction
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:2037
-msgid ""
-"<p>Firefox OS is packed with all the features that made your customers want "
-"a smartphone in the first place: apps, maps, camera, gallery, social "
-"features, music and more.<br><br>With all the features and no compromises, "
-"Firefox OS phones fit your customers' lives more perfectly, so they can fit "
-"in with the world around them.</p>"
-msgstr ""
-"<p>Firefox OS is pack'd wit' all th' features that made yerr customarrs "
-"wants a smartphone in th' first place: apps, maps, camarrar, gallarry, "
-"social features, music and more matey❗.<br><br>With all th' features and nay"
-" compromises, Firefox OS phones fit yerr customarrs' lives more parrfectly, "
-"so they can fit in wit' th' world around them cap'n❗.</p>"
-
-#. Translators:
-#. Page Title: Introduction
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:2067
-msgid ""
-"<p>Firefox OS adapts to the needs of customers better than any other "
-"phone.<br><br>Adaptive App Search serves up information on any subject and "
-"gives your customers more of what they’re looking for, exactly when they "
-"need it. This lets them make the most of every moment.</p>"
-msgstr ""
-"<p>Firefox OS adapts to th' needs o' customarrs betterr than any otherr "
-"phone shiver me timbers❗.<br><br>Adaptive App Search sarrves up information "
-"on any subject and gives yerr customarrs more o' what they’re lookin' fer, "
-"exactly when they need it. This lets them make th' most o' evarry moment yo-"
-"ho-ho❗.</p>"
-
-#. Translators:
-#. Page Title: Introduction
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:2107
-msgid ""
-"<p>Your customers' needs are always changing. Firefox OS smartphones adapt "
-"to your customers' needs so they can live every moment to its "
-"fullest.<br/><br/>Easy to use, they’re perfect for new smartphone users and "
-"full of all the features that customers expect. Powered by Mozilla, Firefox "
-"OS devices are the right choice for anyone committed to ensuring that the "
-"Web remains a public resource available to all.</p>"
-msgstr ""
-"<p>Yerr customarrs' needs bee always changin'. Firefox OS smartphones adapt "
-"to yerr customarrs' needs so they can live evarry moment to its fullest "
-"arrRRRrrr❗.<br /><br />Easy to use, they’re parrfect fer neww smartphone "
-"usarrs and full o' all th' features that customarrs expect. Powarr'd by "
-"Mozillar, Firefox OS devices bee th' right choice fer anyone committ'd to "
-"ensurin' that th' Web remains a public resource available to all "
-"arrRRr❗.</p>"
-
-#. Translators:
-#. Page Title: Demo Tips
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:2137
-msgid ""
-"<p>With music at their fingertips, your customers will see how Firefox OS "
-"keeps them entertained and dancing in the streets.</p>"
-msgstr ""
-"<p>With music at theirr fingarrtips, yerr customarrs will see howw Firefox "
-"OS keeps them entarrtain'd and dancin' in th' streets yo-ho-ho❗.</p>"
-
-#. Translators:
-#. Page Title: Demo Tips
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:2147
-msgid "<p>Music & FM Radio</p>"
-msgstr "<p>Music  aye❗& arrRRr❗ FM Radio yo-ho-ho❗</p>"
-
-#. Translators:
-#. Page Title: Demo Tips
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:2157
-msgid ""
-"<p>Photograph, edit and share. Show off our full-featured camera and gallery"
-" apps, including built-in style filters, video and more.</p>"
-msgstr ""
-"<p>Photograph, edit and share. Showw off ourr full-featur'd camarrar and "
-"gallarry apps, includin' built-in style filtarrs, video and more ahoy❗.</p>"
-
-#. Translators:
-#. Page Title: Demo Tips
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:2167
-msgid "<p>Camera & Gallery</p>"
-msgstr "<p>Camarrar  yo-ho-ho❗& arrRRr❗ Gallarry yo-ho-ho❗</p>"
-
-#. Translators:
-#. Page Title: Demo Tips
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:2177
-msgid ""
-"<p>Firefox Marketplace has the cool games and apps your customers want.</p>"
-msgstr ""
-"<p>Firefox Marketplace has th' cool games and apps yerr customarrs wants "
-"ahoy❗.</p>"
-
-#. Translators:
-#. Page Title: Demo Tips
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:2197
-msgid ""
-"<p>Firefox OS lets customers take control of their online lives and get the "
-"best of the Web no matter where they go.</p>"
-msgstr ""
-"<p>Firefox OS lets customarrs take control o' theirr online lives and get "
-"th' best o' th' Web nay matterr 'erre they go arr❗.</p>"
-
-#. Translators:
-#. Page Title: Demo Tips
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:2207
-msgid "<p>Firefox Browser</p>"
-msgstr "<p>Firefox Browserr matey❗</p>"
-
-#. Translators:
-#. Page Title: Demo Tips
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:2217
-msgid ""
-"<p>Demonstrate the powerful map features of Firefox OS, including local "
-"transit info.</p>"
-msgstr ""
-"<p>Demonstrate th' powarrful map features o' Firefox OS, includin' local "
-"transit info ahoy❗.</p>"
-
-#. Translators:
-#. Page Title: Demo Tips
-#. Parent Page Title: Master Firefox OS
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:2227 db-strings.txt.py:3737
-msgid "<p>HERE Maps</p>"
-msgstr "<p>HERE Maps yo-ho-ho❗</p>"
-
-#. Translators:
-#. Page Title: Demo Tips
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:2237
-msgid "<p>It’s easier than ever to stay connected with Firefox OS.</p>"
-msgstr ""
-"<p>It’s easierr than everr to stay connect'd wit' Firefox OS aye❗.</p>"
-
-#. Translators:
-#. Page Title: Demo Tips
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:2247
-msgid "<p>Stay Connected</p>"
-msgstr "<p>Stay Connect'd arrRRr❗</p>"
-
-#. Translators:
-#. Page Title: Demo Tips
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:2257
-msgid ""
-"<p>Show customers how Firefox OS adapts to them, giving them more of what "
-"they need, when they need it.</p>"
-msgstr ""
-"<p>Showw customarrs howw Firefox OS adapts to them, givin' them more o' what"
-" they need, when they need it prepare to be boarded❗.</p>"
-
-#. Translators:
-#. Page Title: Demo Tips
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:2277
-msgid ""
-"<p>When you only have a minute, make it count with this simple pitch.</p>"
-msgstr ""
-"<p>When ye' only have a minute, make it count wit' this simple pitch "
-"arrRRr❗.</p>"
-
-#. Translators:
-#. Page Title: Demo Tips
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:2287
-msgid "<p>Intro to FirefoxOS</p>"
-msgstr "<p>Intro to FirefoxOS ahoy❗</p>"
-
-#. Translators:
-#. Page Title: Demo Tips
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:2297
-msgid ""
-"<p>Demonstrating the features of Firefox OS and how easy it is to use will "
-"be your best selling tool.<br>Browse the demonstration videos below to get "
-"started.</p>"
-msgstr ""
-"<p>Demonstratin' th' features o' Firefox OS and howw easy it is to use will "
-"be yerr best sellin' tool cap'n❗.<br>Browse th' demonstration videos beloww "
-"to get start'd arrRRRrrr❗.</p>"
-
-#. Translators:
-#. Page Title: Customer Guide
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:2337 db-strings.txt.py:2367 db-strings.txt.py:2397
-#: db-strings.txt:2427
-msgid "<p>What can you say?</p>"
-msgstr "<p>What can ye' say me mateys❗?</p>"
-
-#. Translators:
-#. Page Title: Customer Guide
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:2357
-msgid ""
-"<p>Firefox OS is the easiest smartphone to get you started. Adaptive App "
-"Search helps you find the things you need simply — and instantly. The user "
-"interface is so intuitive, you will be able to quickly discover and download"
-" your favorite apps so you’re ready to go.</p>"
-msgstr ""
-"<p>Firefox OS is th' easiest smartphone to get ye' start'd. Adaptive App "
-"Search 'elps ye' find th' things ye' need simply — and instantly. The userr "
-"intarrface is so intuitive, ye' will be able to quickly discoverr and "
-"download yerr favorite apps so ye'’re ready to go aye❗.</p>"
-
-#. Translators:
-#. Page Title: Customer Guide
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:2387
-msgid ""
-"<p>Firefox OS gives you the most value for your money. It has everything you"
-" expect in a smartphone — camera, email, apps, music, maps and more — at the"
-" most competitive prices.</p>"
-msgstr ""
-"<p>Firefox OS gives ye' th' most value fer yerr money. It has evarrythin' "
-"ye' expect in a smartphone — camarrar, email, apps, music, maps and more — "
-"at th' most competitive prices cap'n❗.</p>"
-
-#. Translators:
-#. Page Title: Customer Guide
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:2417
-msgid ""
-"<p>Firefox OS is the best choice for first time smartphone users. It is "
-"super easy to use, and it adapts to your needs better than any other phone, "
-"so you get more of what you need with less time searching. Plus, it is "
-"packed with all the features you’d expect, from camera, to email, apps, "
-"music, maps and more.</p>"
-msgstr ""
-"<p>Firefox OS is th' best choice fer first time smartphone usarrs. It is "
-"superr easy to use, and it adapts to yerr needs betterr than any otherr "
-"phone, so ye' get more o' what ye' need wit' less time searchin'. Plus, it "
-"is pack'd wit' all th' features ye'’d expect, from camarrar, to email, apps,"
-" music, maps and more matey❗.</p>"
-
-#. Translators:
-#. Page Title: Customer Guide
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:2447
-msgid ""
-"<p>Understanding your customer’s needs and knowing how to respond on the "
-"spot is critical to any sales opportunity.<br>Check out the common customer "
-"segments below, and tap the bar to learn how to best respond to each of "
-"their unique needs.</p>"
-msgstr ""
-"<p>Undarrstandin' yerr customerr’s needs and knowin' howw to respond on th' "
-"spot is critical to any sales opportunity ye landlubbers❗.<br>Check out th' "
-"common customerr segments beloww, and tap th' barr to learn howw to best "
-"respond to each o' theirr unique needs yo-ho-ho❗.</p>"
-
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:2477
-msgid "<p>SMS and Email...</p>"
-msgstr "<p>SMS and Email matey❗...</p>"
-
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:2487
-msgid ""
-"<p>Stay connected to your friends and colleagues wherever you are. It's easy"
-" to set up multiple email accounts, with support for the most common "
-"Exchange, SMTP or IMAP email providers.</p>"
-msgstr ""
-"<p>Stay connect'd to yerr friends and colleagues wharreverr ye' bee. It's "
-"easy to set up multiple email accounts, wit' supparrt fer th' most common "
-"Exchange, SMTP orr IMAP email providarrs me mateys❗.</p>"
-
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:2497
-msgid "<p>SMS and Email</p>"
-msgstr "<p>SMS and Email arr❗</p>"
-
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:2517
-msgid ""
-"<p>Play it all from your phone, or online via Youtube. Browse and play your "
-"music collection by album or artist, rate songs and create playlists for "
-"your favorites.</p>"
-msgstr ""
-"<p>Play it all from yerr phone, orr online viar Youtube. Browse and play "
-"yerr music collection by album orr artist, rate songs and create playlists "
-"fer yerr favorites cap'n❗.</p>"
-
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:2537
-msgid "<p>Maps...</p>"
-msgstr "<p>Maps ye scalleywag❗...</p>"
-
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:2547
-msgid ""
-"<p>Get satellite, public transport, and live traffic views, search for "
-"points of interest and even save your map locally for quicker remote access."
-" HERE Maps can pinpoint your location and even give you directions (car, "
-"walking or public transportation) to get you to your destination.</p>"
-msgstr ""
-"<p>Get satellite, public transparrt, and live traffic views, search fer "
-"points o' intarrest and even save yerr map locally fer quickerr remote "
-"access. HERE Maps can pinpoint yerr location and even give ye' directions "
-"(carr, walkin' orr public transportation) to get ye' to yerr destination "
-"arrRRr❗.</p>"
-
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:2557
-msgid "<p>Maps</p>"
-msgstr "<p>Maps me mateys❗</p>"
-
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:2607
-msgid ""
-"<p>With built-in style filters for fun, creative shots, and lots of ways to "
-"share your photographs, the full-featured camera and photo gallery will have"
-" all your subjects smiling.</p>"
-msgstr ""
-"<p>With built-in style filtarrs fer fun, creative shots, and lots o' ways to"
-" share yerr photographs, th' full-featur'd camarrar and photo gallarry will "
-"have all yerr subjects smilin' ye landlubbers❗.</p>"
-
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:2637
-msgid ""
-"<p>Deeply integrated with your favorite social networks. You can easily "
-"import your Facebook contacts to your phone to keep your community all in "
-"one place.</p>"
-msgstr ""
-"<p>Deeply integrat'd wit' yerr favorite social networks. Ye' can easily "
-"imparrt yerr Facebook contacts to yerr phone to keep yerr community all in "
-"one place ye landlubbers❗.</p>"
-
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:2657
-msgid "<p>Facebook and Twitter...</p>"
-msgstr "<p>Facebook and Twitterr ye landlubbers❗...</p>"
-
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:2667
-msgid ""
-"<p>Stay connected, with easy access to your friends and colleagues from "
-"wherever you are.</p>"
-msgstr ""
-"<p>Stay connect'd, wit' easy access to yerr friends and colleagues from "
-"wharreverr ye' bee shiver me timbers❗.</p>"
-
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:2677
-msgid "<p>Facebook and Twitter</p>"
-msgstr "<p>Facebook and Twitterr cap'n❗</p>"
-
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:2697
-msgid ""
-"<p>The fast, smart, safe way to get the best of the Web. Use the URL bar to "
-"enter websites, perform searches and access your browsing history. Plus, "
-"tabs let you multitask by browsing multiple pages simultaneously.</p>"
-msgstr ""
-"<p>The fast, smart, safe way to get th' best o' th' Web. Use th' URL barr to"
-" enterr websites, parrform searches and access yerr browsin' history. Plus, "
-"tabs let ye' multitask by browsin' multiple pages simultaneously aye❗.</p>"
-
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:2727
-msgid ""
-"<p>Your go-to source for the best apps for Firefox OS. Browse tens of "
-"thousands of free and paid apps in multiple categories, including games, "
-"utilities, music, travel, sports, and more.</p>"
-msgstr ""
-"<p>Yerr go-to source fer th' best apps fer Firefox OS. Browse tens o' "
-"thousands o' free and paid apps in multiple categories, includin' games, "
-"utilities, music, travel, sports, and more arrRRr❗.</p>"
-
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:2757
-msgid ""
-"<p>A new way to get what you need right when you need it, without any of the"
-" headaches of downloading applications. Search for anything, and Firefox OS "
-"adapts to your request, displaying photos, video, music, news, maps and more"
-" - making it much easier for you to find what you were really looking "
-"for.</p>"
-msgstr ""
-"<p>A neww way to get what ye' need right when ye' need it, without any o' "
-"th' headaches o' downloadin' applications. Search fer anythin', and Firefox "
-"OS adapts to yerr request, displayin' photos, video, music, news, maps and "
-"more - makin' it much easierr fer ye' to find what ye' warre really lookin' "
-"fer matey❗.</p>"
-
-#. Translators:
-#. Page Title: Key Features
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:2797
-msgid ""
-"<p>Firefox OS is packed with the features that your customers expect in a "
-"smartphone. It fits their lives perfectly so they can keep pace with the "
-"world around them.</p>"
-msgstr ""
-"<p>Firefox OS is pack'd wit' th' features that yerr customarrs expect in a "
-"smartphone. It fits theirr lives parrfectly so they can keep pace wit' th' "
-"world around them yo-ho-ho❗.</p>"
-
-#. Translators:
-#. Page Title: Frequently Asked Questions
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:2847
-msgid ""
-"<p>Hotmail and Yahoo mail are currently supported with more on the way in "
-"future releases.</p>"
-msgstr ""
-"<p>Hotmail and Yahoo mail bee currently support'd wit' more on th' way in "
-"future releases yo-ho-ho❗.</p>"
-
-#. Translators:
-#. Page Title: Frequently Asked Questions
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:2857
-msgid "<p>Which email providers are supported?</p>"
-msgstr "<p>Which email providarrs bee support'd ye landlubbers❗?</p>"
-
-#. Translators:
-#. Page Title: Frequently Asked Questions
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:2867
-msgid ""
-"<p>Firefox OS offers two ways to get apps:<ul><li>Firefox Marketplace — Our "
-"go-to source for great apps like Twitter and awesome local content from the "
-"best Web developers in your region.</li><li>Adaptive App Search — Just type "
-"a single word like “sushi” to discover related mobile apps in your region, "
-"delivered by a superior mobile experience and tuned to bring you what you "
-"want.</li><ul></p>"
-msgstr ""
-"<p>Firefox OS offarrs two ways to get apps arrRRr❗:<ul><li>Firefox "
-"Marketplace — Ourr go-to source fer great apps like Twitterr and awesome "
-"local content from th' best Web developarrs in yerr region shiver me "
-"timbers❗.</li><li>Adaptive App Search — Just type a single word like “sushi”"
-" to discoverr relat'd mobile apps in yerr region, delivarr'd by a suparriorr"
-" mobile exparrience and tun'd to brin' ye' what ye' wants shiver me "
-"timbers❗.</li><ul></p>"
-
-#. Translators:
-#. Page Title: Frequently Asked Questions
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:2887
-msgid ""
-"<p>Consumers who need support with an app built for Firefox OS will be "
-"directed to the app developer for assistance. If the consumer experience "
-"with Firefox OS is negatively impacted by the support incident resulting "
-"from the app, Mozilla may recommend workarounds including uninstalling the "
-"app until the developer provides appropriate assistance.</p>"
-msgstr ""
-"<p>Consumarrs who need supparrt wit' an app built fer Firefox OS will be "
-"direct'd to th' app developerr fer assistance. If th' consumerr exparrience "
-"wit' Firefox OS is negatively impact'd by th' supparrt incident resultin' "
-"from th' app, Mozillar may recommend workarounds includin' uninstallin' th' "
-"app until th' developerr provides appropriate assistance arrRRRrrr❗.</p>"
-
-#. Translators:
-#. Page Title: Frequently Asked Questions
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:2907
-msgid ""
-"<p>Firefox OS is built on Web technologies but has offline capabilities for "
-"all the phone’s core functionalities. That means apps do not require an "
-"active internet connection to function unless the app must send or receive "
-"data to another system through the internet to continue working.</p>"
-msgstr ""
-"<p>Firefox OS is built on Web technologies but has offline capabilities fer "
-"all th' phone’s core functionalities. That means apps do not require an "
-"active intarrnet connection to function unless th' app must send orr receive"
-" datar to anotherr system through th' intarrnet to continue workin' "
-"matey❗.</p>"
-
-#. Translators:
-#. Page Title: Frequently Asked Questions
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:2927
-msgid ""
-"<p>Not directly. However, many of the most popular Android and iOS apps are "
-"actually Web apps that have a native “wrapper” to allow them to run on "
-"proprietary platforms. Therefore, many of the same apps will be available "
-"through Adaptive App Search.</p>"
-msgstr ""
-"<p>Not directly. Howeverr, many o' th' most popularr Android and iOS apps "
-"bee actually Web apps that have a native “wrapperr” to alloww them to run on"
-" proprietary platforms. Tharrefore, many o' th' same apps will be available "
-"through Adaptive App Search me mateys❗.</p>"
-
-#. Translators:
-#. Page Title: Frequently Asked Questions
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:2947
-msgid ""
-"<p>Firefox OS has a robust security model that is battle-hardened from more "
-"than a decade of supporting the Open Web. It is designed to protect the user"
-" and system from malicious applications and content.</p>"
-msgstr ""
-"<p>Firefox OS has a robust security model that is battle-harden'd from more "
-"than a decade o' supportin' th' Open Web. It is design'd to protect th' "
-"userr and system from malicious applications and content ye scalleywag❗.</p>"
-
-#. Translators:
-#. Page Title: Frequently Asked Questions
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:2967
-msgid ""
-"<p>App developers around the world are committed to Firefox OS and tens of "
-"thousands of free and paid applications will be available at launch. The "
-"growing list includes leading app developers like Accuweather, Airbnb, Box, "
-"Cut the Rope, EA Games, Facebook, Nokia HERE&reg;, MTV Brasil, Pulse News, "
-"SoundCloud, SporTV, Time Out and Twitter.</p>"
-msgstr ""
-"<p>App developarrs around th' world bee committ'd to Firefox OS and tens o' "
-"thousands o' free and paid applications will be available at launch. The "
-"growin' list includes leadin' app developarrs like Accuweatherr, Airbnb, "
-"Box, Cut th' Rope, EA Games, Facebook, Nokiar HERE yo-ho-ho❗&reg;, MTV "
-"Brasil, Pulse News, SoundCloud, SporTV, Time Out and Twitterr matey❗.</p>"
-
-#. Translators:
-#. Page Title: Frequently Asked Questions
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:2987
-msgid ""
-"<p>Adaptive App Search is a new way to find content from across the Web and "
-"engage in an app-like experience without the headaches of downloading the "
-"app to find what you need. Whenever you search, your phone adapts to the "
-"search result and makes it easy to add those results to your home screen for"
-" easy access later.</p>"
-msgstr ""
-"<p>Adaptive App Search is a neww way to find content from across th' Web and"
-" engage in an app-like exparrience without th' headaches o' downloadin' th' "
-"app to find what ye' need. Wheneverr ye' search, yerr phone adapts to th' "
-"search result and makes it easy to add those results to yerr home screen fer"
-" easy access laterr ye scalleywag❗.</p>"
-
-#. Translators:
-#. Page Title: The Firefox Mission
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:3047
-msgid ""
-"<p>Behind every Firefox OS smartphone is Mozilla, a global community of "
-"thousands dedicated to keeping the Web accessible to all. That’s because we "
-"believe each and every one of us has the right to a Web that isn’t "
-"controlled by just a few large entities.<br><br>Yeah, we’re a little "
-"different than the other guys. Together, we can build a brighter future for "
-"the Web.</p>"
-msgstr ""
-"<p>Behind evarry Firefox OS smartphone is Mozillar, a global community o' "
-"thousands dedicat'd to keepin' th' Web accessible to all. That’s because we "
-"believe each and evarry one o' us has th' right to a Web that isn’t "
-"controll'd by just a feww large entities yo-ho-ho❗.<br><br>Yeah, we’re a "
-"little diffarrent than th' otherr guys. Togetherr, we can build a brighterr "
-"future fer th' Web ahoy❗.</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:3077
-msgid ""
-"<p>If you have worked through the questions and all of the content, then you"
-" have the basics to match the needs of Firefox OS to your "
-"customers.<br><br>Easy to use, a Firefox OS smartphone is perfect for new "
-"smartphone users and full of all the features that customers want and "
-"need.<br><br>And it is powered by Mozilla, making Firefox OS the right "
-"choice for anyone committed to ensuring that the power of the Web remains in"
-" the hands of users everywhere!</p>"
-msgstr ""
-"<p>If ye' have work'd through th' questions and all o' th' content, then ye'"
-" have th' basics to match th' needs o' Firefox OS to yerr customarrs prepare"
-" to be boarded❗.<br><br>Easy to use, a Firefox OS smartphone is parrfect fer"
-" neww smartphone usarrs and full o' all th' features that customarrs wants "
-"and need aye❗.<br><br>And it is powarr'd by Mozillar, makin' Firefox OS th' "
-"right choice fer anyone committ'd to ensurin' that th' powerr o' th' Web "
-"remains in th' hands o' usarrs evarrywharre arrRRRrrr❗❗</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:3087
-msgid "<p>Get ready to sell!</p>"
-msgstr "<p>Get ready to sell ahoy❗❗</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:3107
-msgid "<p>Question 20</p>"
-msgstr "<p>Question 20 ye landlubbers❗</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:3117
-msgid ""
-"<p>What’s the best response to this customer’s objection?<br>“I’ve never "
-"heard of Firefox OS phones.”</p>"
-msgstr ""
-"<p>What’s th' best response to this customerr’s objection matey❗?<br>“I’ve "
-"neverr heard o' Firefox OS phones.” arrRRRrrr❗</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:3227 db-strings.txt.py:3547 db-strings.txt.py:3667
-msgid "<p>SMS </p>"
-msgstr "<p>SMS  me mateys❗</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:3267
-msgid ""
-"<p>While all of the these statements are true, which two responses would be "
-"most useful to a first-time smartphone customer? </p>"
-msgstr ""
-"<p>While all o' th' these statements bee true, which two responses would be "
-"most useful to a first-time smartphone customerr?  aye❗</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:3317
-msgid ""
-"<p>A customer says, “I use Firefox on my home computer and I love it, but I "
-"didn’t know they had a smartphone OS. Why?” Which of the following "
-"statements would be the most appropriate response to this particular "
-"customer? </p>"
-msgstr ""
-"<p>A customerr says, “I use Firefox on me home computerr and I love it, but "
-"I didn’t knoww they had a smartphone OS. Why?” Which o' th' followin' "
-"statements would be th' most appropriate response to this particularr "
-"customerr?  matey❗</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:3337
-msgid ""
-"<p>A customer says to you, “I’m looking for an easy way to stay in touch "
-"with my friends, but I don’t want to spend a lot of money.” Which of the "
-"following statements would be a good response? Select all that apply. </p>"
-msgstr ""
-"<p>A customerr says to ye', “I’m lookin' fer an easy way to stay in touch "
-"wit' me friends, but I don’t wants to spend a lot o' money.” Which o' th' "
-"followin' statements would be a good response? Select all that apply.  ye "
-"scalleywag❗</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:3407
-msgid ""
-"<p>If you love Firefox browsers, you’ll love Firefox OS phones. Choosing "
-"Firefox OS keeps the power of the Web in your hands. </p>"
-msgstr ""
-"<p>If ye' love Firefox browsarrs, ye'’ll love Firefox OS phones. Choosin' "
-"Firefox OS keeps th' powerr o' th' Web in yerr hands.  cap'n❗</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:3417
-msgid ""
-"<p>Firefox OS is the easiest smartphone to get started with. Your favorite "
-"apps are already preloaded and you can easily import your friends from "
-"Facebook, too.</p>"
-msgstr ""
-"<p>Firefox OS is th' easiest smartphone to get start'd wit'. Yerr favorite "
-"apps bee already preload'd and ye' can easily imparrt yerr friends from "
-"Facebook, too arrRRRrrr❗.</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:3427
-msgid ""
-"<p>Firefox OS gives you the most value for your money, with everything you "
-"expect — camera, email, apps, music, maps and more — at the most competitive"
-" prices. </p>"
-msgstr ""
-"<p>Firefox OS gives ye' th' most value fer yerr money, wit' evarrythin' ye' "
-"expect — camarrar, email, apps, music, maps and more — at th' most "
-"competitive prices.  me mateys❗</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:3477
-msgid ""
-"<p>With the Firefox Marketplace and dozens of preloaded apps, like email, "
-"maps, Facebook, a camera, music, and more, Firefox OS is packed with the "
-"features you’d expect in a smartphone.</p>"
-msgstr ""
-"<p>With th' Firefox Marketplace and dozens o' preload'd apps, like email, "
-"maps, Facebook, a camarrar, music, and more, Firefox OS is pack'd wit' th' "
-"features ye'’d expect in a smartphone arrRRRrrr❗.</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:3487
-msgid ""
-"<p>With Adaptive App Search, Firefox OS adapts to your needs better than any"
-" other phone.</p>"
-msgstr ""
-"<p>With Adaptive App Search, Firefox OS adapts to yerr needs betterr than "
-"any otherr phone shiver me timbers❗.</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:3607
-msgid "<p>SMS</p>"
-msgstr "<p>SMS matey❗</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:3617
-msgid ""
-"<p>Which Firefox OS feature does this represent?<br><br><img "
-"src='course/assets/m05/t05/p35/m05-t05-p35-a05-b20-c05.png'/></p>"
-msgstr ""
-"<p>Which Firefox OS feature does this represent aye❗?<br><br><img "
-"src=\"course/assets/m05/t05/p35/m05-t05-p35-a05-b20-c05.png\" /></p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:3697
-msgid ""
-"<p>Which of these customer responses indicate an ideal candidate for Firefox"
-" OS? Select all that apply.</p>"
-msgstr ""
-"<p>Which o' these customerr responses indicate an ideal candidate fer "
-"Firefox OS? Select all that apply shiver me timbers❗.</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:3747
-msgid "<p>Music Player</p>"
-msgstr "<p>Music Playerr arr❗</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:3767
-msgid "<p>Email and SMS</p>"
-msgstr "<p>Email and SMS arr❗</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:3807
-msgid "<p>Firefox Marketplace</p>"
-msgstr "<p>Firefox Marketplace aye❗</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:3817
-msgid ""
-"<p>Which of the following apps is pre-loaded on every Firefox OS phone? "
-"Select all that apply.</p>"
-msgstr ""
-"<p>Which o' th' followin' apps is pre-load'd on evarry Firefox OS phone? "
-"Select all that apply arrRRr❗.</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:3837
-msgid "<p>Open the Firefox browser.</p>"
-msgstr "<p>Open th' Firefox corsairr arr❗.</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:3847
-msgid "<p>Open Firefox Marketplace.</p>"
-msgstr "<p>Open Firefox Marketplace prepare to be boarded❗.</p>"
-
-#. Translators:
-#. Page Title: Take the challenge
-#. Parent Page Title: Master Firefox OS
-#: db-strings.txt:3897
-msgid ""
-"<p>Think you're ready to start selling Firefox OS to your customers? Put "
-"your knowledge to work and answer these questions to prove you have what it "
-"takes.</p>"
-msgstr ""
-"<p>Think you're ready to start sellin' Firefox OS to yerr customarrs? Put "
-"yerr knowledge to work and answerr these questions to prove ye' have what it"
-" takes ye landlubbers❗.</p>"
 
 #: masterfirefoxos/base/templates/base.html:37
 #: masterfirefoxos/base/templates/base.html:79
@@ -2612,29 +94,17 @@ msgstr "Contact ye scalleywag❗"
 msgid "Language"
 msgstr "Language cap'n❗"
 
-#: masterfirefoxos/base/templates/includes/version-language-switcher.html:13
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:11
 msgid "Firefox OS version"
 msgstr "Firefox OS varrsion aye❗"
 
-#: masterfirefoxos/base/templates/includes/version-language-switcher.html:19
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:17
 msgid "Which version do I have?"
 msgstr "Which varrsion do I have prepare to be boarded❗?"
 
-#: masterfirefoxos/base/templates/includes/version-language-switcher.html:21
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:19
 msgid "Change"
 msgstr "Change aye❗"
-
-#: masterfirefoxos/base/templates/includes/version-language-switcher.html:32
-msgid ""
-"Documentation for Firefox OS {version} is not yet available in {language}, "
-"so we redirected you to the English version."
-msgstr ""
-"Documentation fer Firefox OS {version} is not yet available in {language}, "
-"so we redirect'd ye' to th' English varrsion matey❗."
-
-#: masterfirefoxos/base/templates/includes/version-language-switcher.html:34
-msgid "The latest version available in {language} is {version}."
-msgstr "The latest varrsion available in {language} is {version} ahoy❗."
 
 #: masterfirefoxos/settings/base.py:170
 msgid "Bengali"
@@ -2691,3 +161,1528 @@ msgstr "Spanish ye scalleywag❗"
 #: masterfirefoxos/settings/base.py:183
 msgid "Tamil"
 msgstr "Tamil ahoy❗"
+
+#~ msgid ""
+#~ "<p>Welcome to the Firefox OS global partner and community training hub. "
+#~ "Everything you need to learn to effectively communicate the basics of "
+#~ "Firefox OS is here. Select any topic to get started.</p>"
+#~ msgstr ""
+#~ "<p>Welcome to th' Firefox OS global partnerr and community trainin' hub. "
+#~ "Evarrythin' ye' need to learn to effectively communicate th' basics o' "
+#~ "Firefox OS is harre. Select any topic to get start'd prepare to be "
+#~ "boarded❗.</p>"
+
+#~ msgid "Introduction"
+#~ msgstr "Introduction prepare to be boarded❗"
+
+#~ msgid "<p>Keep the Web in Your Hands</p>"
+#~ msgstr "<p>Keep th' Web in Yerr Hands arr❗</p>"
+
+#~ msgid ""
+#~ "<p>At Mozilla, we’re out to make a difference, not a profit.<br><br>Our "
+#~ "commitment to keeping the Web open and accessible for all will give your "
+#~ "customers the best of the Web no matter where they go, while keeping them "
+#~ "safe and in control of their online lives.</p>"
+#~ msgstr ""
+#~ "<p>At Mozillar, we’re out to make a diffarrence, not a profit ye "
+#~ "scalleywag❗.<br><br>Ourr commitment to keepin' th' Web open and "
+#~ "accessible fer all will give yerr customarrs th' best o' th' Web nay "
+#~ "matterr 'erre they go, while keepin' them safe and in control o' theirr "
+#~ "online lives matey❗.</p>"
+
+#~ msgid "<p>Have It All</p>"
+#~ msgstr "<p>Have It All ye landlubbers❗</p>"
+
+#~ msgid ""
+#~ "<p>Firefox OS is packed with all the features that made your customers "
+#~ "want a smartphone in the first place: Camera, Gallery, social features, "
+#~ "Music and more.<br><br>Firefox OS users have complete access to apps in "
+#~ "the Firefox Marketplace, without the need for a sign-in. There, they can "
+#~ "get all the popular, big name apps, as well as local content designed to "
+#~ "help them get the most out of the world around them.</p>"
+#~ msgstr ""
+#~ "<p>Firefox OS is pack'd wit' all th' features that made yerr customarrs "
+#~ "wants a smartphone in th' first place: Camarrar, Gallarry, social "
+#~ "features, Music and more me mateys❗.<br><br>Firefox OS usarrs have "
+#~ "complete access to apps in th' Firefox Marketplace, without th' need fer "
+#~ "a sign-in. Tharre, they can get all th' popularr, big name apps, as well "
+#~ "as local content design'd to 'elp them get th' most out o' th' world "
+#~ "around them matey❗.</p>"
+
+#~ msgid "<p>The Adaptive Phone</p>"
+#~ msgstr "<p>The Adaptive Phone ahoy❗</p>"
+
+#~ msgid ""
+#~ "<p>Firefox OS adapts to the needs of customers better than any other "
+#~ "phone by anticipating their needs and instantly delivering the "
+#~ "information they want.<br><br>With Adaptive App Search your customers "
+#~ "will get more of what they’re looking for, exactly when they need it.</p>"
+#~ msgstr ""
+#~ "<p>Firefox OS adapts to th' needs o' customarrs betterr than any otherr "
+#~ "phone by anticipatin' theirr needs and instantly delivarrin' th' "
+#~ "information they wants arrRRr❗.<br><br>With Adaptive App Search yerr "
+#~ "customarrs will get more o' what they’re lookin' fer, exactly when they "
+#~ "need it aye❗.</p>"
+
+#~ msgid "<p>Ready to explore the key benefits of Firefox OS?</p>"
+#~ msgstr "<p>Ready to explore th' key benefits o' Firefox OS yo-ho-ho❗?</p>"
+
+#~ msgid ""
+#~ "<p>Your customers’ needs are always changing. That’s why Firefox OS does "
+#~ "the same — adapting so your customers can live every moment to its "
+#~ "fullest.<br><br>Firefox OS devices are perfect for new smartphone users — "
+#~ "easy to use and full of all the features that customers expect. And "
+#~ "because Firefox OS devices are powered by Mozilla, they’re the perfect "
+#~ "choice for anyone committed to keeping the Web open for all.</p>"
+#~ msgstr ""
+#~ "<p>Yerr customarrs’ needs bee always changin'. That’s why Firefox OS does "
+#~ "th' same — adaptin' so yerr customarrs can live evarry moment to its "
+#~ "fullest ahoy❗.<br><br>Firefox OS devices bee parrfect fer neww smartphone "
+#~ "usarrs — easy to use and full o' all th' features that customarrs expect. "
+#~ "And because Firefox OS devices bee powarr'd by Mozillar, they’re th' "
+#~ "parrfect choice fer anyone committ'd to keepin' th' Web open fer all me "
+#~ "mateys❗.</p>"
+
+#~ msgid "<p>A phone that makes every moment count</p>"
+#~ msgstr ""
+#~ "<p>A phone that makes evarry moment count prepare to be boarded❗</p>"
+
+#~ msgid "Demo Tips"
+#~ msgstr "Demo Tips yo-ho-ho❗"
+
+#~ msgid ""
+#~ "<p>Firefox OS comes preloaded with popular instant messaging and social "
+#~ "media apps, like Facebook, so your customers will be able to stay "
+#~ "connected with friends and family. They can also sync their contacts to "
+#~ "the phone, quickly and easily.</p>"
+#~ msgstr ""
+#~ "<p>Firefox OS comes preload'd wit' popularr instant messagin' and social "
+#~ "mediar apps, like Facebook, so yerr customarrs will be able to stay "
+#~ "connect'd wit' friends and family. They can also sync theirr contacts to "
+#~ "th' phone, quickly and easily ye scalleywag❗.</p>"
+
+#~ msgid "<p>Social and Contact Sync</p>"
+#~ msgstr "<p>Social and Contact Sync shiver me timbers❗</p>"
+
+#~ msgid ""
+#~ "<p>With the Camera, Gallery, Music apps and more, Firefox OS will keep "
+#~ "your customers entertained on the go and connected to the things that "
+#~ "matter most to them.</p>"
+#~ msgstr ""
+#~ "<p>With th' Camarrar, Gallarry, Music apps and more, Firefox OS will keep "
+#~ "yerr customarrs entarrtain'd on th' go and connect'd to th' things that "
+#~ "matterr most to them cap'n❗.</p>"
+
+#~ msgid "<p>Rich Media Experience</p>"
+#~ msgstr "<p>Rich Mediar Exparrience shiver me timbers❗</p>"
+
+#~ msgid ""
+#~ "<p>Show your customers how easy it is to get apps in Firefox Marketplace, "
+#~ "or from anywhere on the Web with Adaptive App Search. It’s all about "
+#~ "giving users more of what they need, when they need it.</p>"
+#~ msgstr ""
+#~ "<p>Showw yerr customarrs howw easy it is to get apps in Firefox "
+#~ "Marketplace, orr from anywharre on th' Web wit' Adaptive App Search. It’s "
+#~ "all about givin' usarrs more o' what they need, when they need it aye❗.</"
+#~ "p>"
+
+#~ msgid "<p>Marketplace and Adaptive App Search</p>"
+#~ msgstr "<p>Marketplace and Adaptive App Search yo-ho-ho❗</p>"
+
+#~ msgid ""
+#~ "<p>Firefox OS is intuitive and simple. With a beautifully designed "
+#~ "interface, your customers will find it easy to use from the start. It "
+#~ "also supports dual SIM and several local languages.</p>"
+#~ msgstr ""
+#~ "<p>Firefox OS is intuitive and simple. With a beautifully design'd "
+#~ "intarrface, yerr customarrs will find it easy to use from th' start. It "
+#~ "also supports dual SIM and sevarral local languages aye❗.</p>"
+
+#~ msgid "<p>Easy to use</p>"
+#~ msgstr "<p>Easy to use ye landlubbers❗</p>"
+
+#~ msgid ""
+#~ "<p>Firefox OS offers everything your customers want in a smartphone — and "
+#~ "more — at prices that are easy to afford.</p>"
+#~ msgstr ""
+#~ "<p>Firefox OS offarrs evarrythin' yerr customarrs wants in a smartphone — "
+#~ "and more — at prices that bee easy to afford prepare to be boarded❗.</p>"
+
+#~ msgid "<p>Introducing Firefox OS</p>"
+#~ msgstr "<p>Introducin' Firefox OS yo-ho-ho❗</p>"
+
+#~ msgid ""
+#~ "<p>Demonstrating the features of Firefox OS and how easy it is to use "
+#~ "will be your best selling tool.<br><br>Browse the demonstration videos "
+#~ "below to get started.</p>"
+#~ msgstr ""
+#~ "<p>Demonstratin' th' features o' Firefox OS and howw easy it is to use "
+#~ "will be yerr best sellin' tool cap'n❗.<br><br>Browse th' demonstration "
+#~ "videos beloww to get start'd arrRRRrrr❗.</p>"
+
+#~ msgid "<p>Demonstrations that matter</p>"
+#~ msgstr "<p>Demonstrations that matterr arrRRr❗</p>"
+
+#~ msgid "Customer Guide"
+#~ msgstr "Customerr Guide arrRRRrrr❗"
+
+#~ msgid ""
+#~ "<p>If you know and love Firefox, you’ll love Firefox OS. Firefox OS "
+#~ "smartphones are entirely HTML5-based, bringing the best of the Web to "
+#~ "your phone. Plus, Firefox OS is designed by a community dedicated to "
+#~ "keeping the Web accessible to all. When you choose Firefox OS, you have "
+#~ "the full power of the Web in your hands.</p>"
+#~ msgstr ""
+#~ "<p>If ye' knoww and love Firefox, ye'’ll love Firefox OS. Firefox OS "
+#~ "smartphones bee entirely HTML5-bas'd, bringin' th' best o' th' Web to "
+#~ "yerr phone. Plus, Firefox OS is design'd by a community dedicat'd to "
+#~ "keepin' th' Web accessible to all. When ye' choose Firefox OS, ye' have "
+#~ "th' full powerr o' th' Web in yerr hands aye❗.</p>"
+
+#~ msgid "<p>Here’s what you can say:</p>"
+#~ msgstr "<p>Harre’s what ye' can say prepare to be boarded❗:</p>"
+
+#~ msgid "<p>The Firefox Fan</p>"
+#~ msgstr "<p>The Firefox Fan arrRRRrrr❗</p>"
+
+#~ msgid ""
+#~ "<p>Firefox OS is the easiest smartphone you’ll ever use.<br><br>Adaptive "
+#~ "App Search helps you find the things you need simply — and instantly. The "
+#~ "user interface is so intuitive, you will be able to quickly discover and "
+#~ "easily download your favorite apps in no time.</p>"
+#~ msgstr ""
+#~ "<p>Firefox OS is th' easiest smartphone ye'’ll everr use arrRRRrrr❗."
+#~ "<br><br>Adaptive App Search 'elps ye' find th' things ye' need simply — "
+#~ "and instantly. The userr intarrface is so intuitive, ye' will be able to "
+#~ "quickly discoverr and easily download yerr favorite apps in nay time ye "
+#~ "landlubbers❗.</p>"
+
+#~ msgid "<p>The Uncertain Upgrader</p>"
+#~ msgstr "<p>The Uncarrtain Upgraderr ye landlubbers❗</p>"
+
+#~ msgid ""
+#~ "<p>Firefox OS gives you the most value for your money. It has everything "
+#~ "you expect in a smartphone — camera, email, apps from the Firefox "
+#~ "Marketplace, music and more — at the most competitive prices.</p>"
+#~ msgstr ""
+#~ "<p>Firefox OS gives ye' th' most value fer yerr money. It has evarrythin' "
+#~ "ye' expect in a smartphone — camarrar, email, apps from th' Firefox "
+#~ "Marketplace, music and more — at th' most competitive prices ahoy❗.</p>"
+
+#~ msgid "<p>The Value Seeker</p>"
+#~ msgstr "<p>The Value Seekerr me mateys❗</p>"
+
+#~ msgid ""
+#~ "<p>Firefox OS is the best choice for first time smartphone users. It’s "
+#~ "super easy to use and it adapts to your needs better than any other "
+#~ "phone, so you get more of what you need with less time searching. Plus, "
+#~ "it’s packed with all the features you’d expect, from Camera, to Email, "
+#~ "apps from the Firefox Marketplace, Music and more.</p>"
+#~ msgstr ""
+#~ "<p>Firefox OS is th' best choice fer first time smartphone usarrs. It’s "
+#~ "superr easy to use and it adapts to yerr needs betterr than any otherr "
+#~ "phone, so ye' get more o' what ye' need wit' less time searchin'. Plus, "
+#~ "it’s pack'd wit' all th' features ye'’d expect, from Camarrar, to Email, "
+#~ "apps from th' Firefox Marketplace, Music and more shiver me timbers❗.</p>"
+
+#~ msgid "<p>Here’s what you can say</p>"
+#~ msgstr "<p>Harre’s what ye' can say ye landlubbers❗</p>"
+
+#~ msgid "<p>The Smartphone Rookie</p>"
+#~ msgstr "<p>The Smartphone Rookie cap'n❗</p>"
+
+#~ msgid ""
+#~ "<p>Understanding your customer’s needs and knowing how to respond on the "
+#~ "spot is critical to any sales opportunity.<br><br>Check out the common "
+#~ "customer segments below, then drag the bar to learn how to best respond "
+#~ "to each of their unique needs.</p>"
+#~ msgstr ""
+#~ "<p>Undarrstandin' yerr customerr’s needs and knowin' howw to respond on "
+#~ "th' spot is critical to any sales opportunity ye landlubbers❗."
+#~ "<br><br>Check out th' common customerr segments beloww, then drag th' "
+#~ "barr to learn howw to best respond to each o' theirr unique needs ye "
+#~ "landlubbers❗.</p>"
+
+#~ msgid "<p>Who is your ideal Firefox customer?</p>"
+#~ msgstr "<p>Who is yerr ideal Firefox customerr shiver me timbers❗?</p>"
+
+#~ msgid "Key Features"
+#~ msgstr "Key Features prepare to be boarded❗"
+
+#~ msgid "<p>Messages and Email...</p>"
+#~ msgstr "<p>Messages and Email cap'n❗...</p>"
+
+#~ msgid ""
+#~ "<p>Stay connected easily and conveniently. Set up multiple email "
+#~ "accounts, with support for the most common Exchange, SMTP or IMAP email "
+#~ "providers.</p>"
+#~ msgstr ""
+#~ "<p>Stay connect'd easily and conveniently. Set up multiple email "
+#~ "accounts, wit' supparrt fer th' most common Exchange, SMTP orr IMAP email "
+#~ "providarrs me mateys❗.</p>"
+
+#~ msgid "<p>Messages and Email</p>"
+#~ msgstr "<p>Messages and Email ahoy❗</p>"
+
+#~ msgid "<p>Play it all from your phone, or online via Youtube.</p>"
+#~ msgstr ""
+#~ "<p>Play it all from yerr phone, orr online viar Youtube arrRRr❗.</p>"
+
+#~ msgid ""
+#~ "<p>Browse and play your music collection, rate songs and create playlists "
+#~ "for your favorites. Watch videos from your phone, or online via YouTube.</"
+#~ "p>"
+#~ msgstr ""
+#~ "<p>Browse and play yerr music collection, rate songs and create playlists "
+#~ "fer yerr favorites. Watch videos from yerr phone, orr online viar YouTube "
+#~ "arrRRRrrr❗.</p>"
+
+#~ msgid "<p>Music and Video</p>"
+#~ msgstr "<p>Music and Video arrRRRrrr❗</p>"
+
+#~ msgid "<p>FM Radio...</p>"
+#~ msgstr "<p>FM Radio ye landlubbers❗...</p>"
+
+#~ msgid ""
+#~ "<p>All the audio you want on the go, all on one device. Just plug in your "
+#~ "earphones and start listening.</p>"
+#~ msgstr ""
+#~ "<p>All th' audio ye' wants on th' go, all on one device. Just plug in "
+#~ "yerr earphones and start listenin' ye landlubbers❗.</p>"
+
+#~ msgid "<p>FM Radio</p>"
+#~ msgstr "<p>FM Radio cap'n❗</p>"
+
+#~ msgid "<p>Camera and Gallery...</p>"
+#~ msgstr "<p>Camarrar and Gallarry ye landlubbers❗...</p>"
+
+#~ msgid ""
+#~ "<p>With built-in style filters for fun, creative shots and lots of ways "
+#~ "to share your photographs, the full-featured camera and photo gallery "
+#~ "will have all your subjects smiling.</p>"
+#~ msgstr ""
+#~ "<p>With built-in style filtarrs fer fun, creative shots and lots o' ways "
+#~ "to share yerr photographs, th' full-featur'd camarrar and photo gallarry "
+#~ "will have all yerr subjects smilin' shiver me timbers❗.</p>"
+
+#~ msgid "<p>Camera and Gallery</p>"
+#~ msgstr "<p>Camarrar and Gallarry cap'n❗</p>"
+
+#~ msgid "<p>Contacts...</p>"
+#~ msgstr "<p>Contacts ye landlubbers❗...</p>"
+
+#~ msgid ""
+#~ "<p>Stay connected, with easy access to your friends and colleagues, "
+#~ "wherever you are.</p>"
+#~ msgstr ""
+#~ "<p>Stay connect'd, wit' easy access to yerr friends and colleagues, "
+#~ "wharreverr ye' bee aye❗.</p>"
+
+#~ msgid "<p>Contacts</p>"
+#~ msgstr "<p>Contacts cap'n❗</p>"
+
+#~ msgid "<p>Facebook</p>"
+#~ msgstr "<p>Facebook cap'n❗</p>"
+
+#~ msgid ""
+#~ "<p>Firefox OS is deeply integrated with your favorite social networks. "
+#~ "Easily sync your Facebook contacts to your phone to keep your community "
+#~ "all in one place.</p>"
+#~ msgstr ""
+#~ "<p>Firefox OS is deeply integrat'd wit' yerr favorite social networks. "
+#~ "Easily sync yerr Facebook contacts to yerr phone to keep yerr community "
+#~ "all in one place arrRRr❗.</p>"
+
+#~ msgid "<p>Firefox browser...</p>"
+#~ msgstr "<p>Firefox corsairr aye❗...</p>"
+
+#~ msgid "<p>Firefox browser</p>"
+#~ msgstr "<p>Firefox corsairr matey❗</p>"
+
+#~ msgid "<p>Marketplace...</p>"
+#~ msgstr "<p>Marketplace arrRRr❗...</p>"
+
+#~ msgid ""
+#~ "<p>Your go-to source for the best apps for Firefox OS. Browse hundreds of "
+#~ "free apps in multiple categories: Games, Tools, Lifestyle and more.</p>"
+#~ msgstr ""
+#~ "<p>Yerr go-to source fer th' best apps fer Firefox OS. Browse hundreds o' "
+#~ "free apps in multiple categories: Games, Tools, Lifestyle and more cap'n❗."
+#~ "</p>"
+
+#~ msgid "<p>Marketplace</p>"
+#~ msgstr "<p>Marketplace ye landlubbers❗</p>"
+
+#~ msgid "<p>Adaptive App Search...</p>"
+#~ msgstr "<p>Adaptive App Search yo-ho-ho❗...</p>"
+
+#~ msgid ""
+#~ "<p>A new way to get what you need right when you need it. Search for "
+#~ "anything and Firefox OS adapts to your request, displaying photos, video, "
+#~ "music, news and more — making it much easier for you to find what you "
+#~ "were looking for.</p>"
+#~ msgstr ""
+#~ "<p>A neww way to get what ye' need right when ye' need it. Search fer "
+#~ "anythin' and Firefox OS adapts to yerr request, displayin' photos, video, "
+#~ "music, news and more — makin' it much easierr fer ye' to find what ye' "
+#~ "warre lookin' fer yo-ho-ho❗.</p>"
+
+#~ msgid "<p>Adaptive App Search</p>"
+#~ msgstr "<p>Adaptive App Search aye❗</p>"
+
+#~ msgid ""
+#~ "<p>Select the forward arrow to discover the key features of Firefox OS.</"
+#~ "p>"
+#~ msgstr ""
+#~ "<p>Select th' forward arroww to discoverr th' key features o' Firefox OS "
+#~ "ahoy❗.</p>"
+
+#~ msgid "<p>Have it all</p>"
+#~ msgstr "<p>Have it all ye landlubbers❗</p>"
+
+#~ msgid ""
+#~ "<p>Firefox OS is packed with the features that your customers expect in a "
+#~ "smartphone. It’s designed to fit their lives perfectly so they can keep "
+#~ "pace with the world around them.</p>"
+#~ msgstr ""
+#~ "<p>Firefox OS is pack'd wit' th' features that yerr customarrs expect in "
+#~ "a smartphone. It’s design'd to fit theirr lives parrfectly so they can "
+#~ "keep pace wit' th' world around them yo-ho-ho❗.</p>"
+
+#~ msgid "<p>Features that count</p>"
+#~ msgstr "<p>Features that count aye❗</p>"
+
+#~ msgid "Frequently Asked Questions"
+#~ msgstr "Frequently Ask'd Questions arr❗"
+
+#~ msgid ""
+#~ "<p>Visit <a href='https://support.mozilla.org/en-US/kb/firefox-os-user-"
+#~ "guide'>https://support.mozilla.org/en-US/kb/firefox-os-user-guide</a> for "
+#~ "more information.</p>"
+#~ msgstr ""
+#~ "<p>Visit  aye❗<a href=\"https://support.mozilla.org/en-US/kb/firefox-os-"
+#~ "user-guide\">https://supparrt.mozillar.org/en-US/kb/firefox-os-userr-"
+#~ "guide yo-ho-ho❗</a> fer more information yo-ho-ho❗.</p>"
+
+#~ msgid "<p>Where should I go if I have more questions?</p>"
+#~ msgstr "<p>Wharre should I go if I have more questions ahoy❗?</p>"
+
+#~ msgid ""
+#~ "<p>Hotmail and Yahoo mail are currently supported with more on the way in "
+#~ "the future.</p>"
+#~ msgstr ""
+#~ "<p>Hotmail and Yahoo mail bee currently support'd wit' more on th' way in "
+#~ "th' future me mateys❗.</p>"
+
+#~ msgid "<p>What email providers are supported?</p>"
+#~ msgstr "<p>What email providarrs bee support'd shiver me timbers❗?</p>"
+
+#~ msgid ""
+#~ "<p>Firefox OS provides two ways to get apps:<ul><li>Marketplace — our go-"
+#~ "to source for hundreds of great free apps, including popular apps like "
+#~ "Twitter and Facebook, and for awesome local content from the best Web "
+#~ "developers in your region.</li><li>Adaptive App Search — just type a "
+#~ "single word like “news” to discover related mobile apps in your region.</"
+#~ "li></ul></p>"
+#~ msgstr ""
+#~ "<p>Firefox OS provides two ways to get apps arrRRRrrr❗:"
+#~ "<ul><li>Marketplace — ourr go-to source fer hundreds o' great free apps, "
+#~ "includin' popularr apps like Twitterr and Facebook, and fer awesome local "
+#~ "content from th' best Web developarrs in yerr region shiver me timbers❗.</"
+#~ "li><li>Adaptive App Search — just type a single word like “news” to "
+#~ "discoverr relat'd mobile apps in yerr region arrRRRrrr❗.</li></ul></p>"
+
+#~ msgid "<p>How do I download and install apps on Firefox OS?</p>"
+#~ msgstr ""
+#~ "<p>Howw do I download and install apps on Firefox OS ye landlubbers❗?</p>"
+
+#~ msgid ""
+#~ "<p>Customers who need support with an app built for Firefox OS will be "
+#~ "directed to the app developer for assistance. If the customer experience "
+#~ "with Firefox OS is negatively impacted by the support incident resulting "
+#~ "from the app, Mozilla may recommend workarounds including uninstalling "
+#~ "the app until the developer provides appropriate assistance.</p>"
+#~ msgstr ""
+#~ "<p>Customarrs who need supparrt wit' an app built fer Firefox OS will be "
+#~ "direct'd to th' app developerr fer assistance. If th' customerr "
+#~ "exparrience wit' Firefox OS is negatively impact'd by th' supparrt "
+#~ "incident resultin' from th' app, Mozillar may recommend workarounds "
+#~ "includin' uninstallin' th' app until th' developerr provides appropriate "
+#~ "assistance arrRRRrrr❗.</p>"
+
+#~ msgid "<p>What about customer support for apps?</p>"
+#~ msgstr "<p>What about customerr supparrt fer apps arr❗?</p>"
+
+#~ msgid ""
+#~ "<p>Firefox OS is built on Web technologies but has offline capabilities "
+#~ "for all the phone’s core functions. That means apps do not require an "
+#~ "active Internet connection to work unless they need to send or receive "
+#~ "data.</p>"
+#~ msgstr ""
+#~ "<p>Firefox OS is built on Web technologies but has offline capabilities "
+#~ "fer all th' phone’s core functions. That means apps do not require an "
+#~ "active Intarrnet connection to work unless they need to send orr receive "
+#~ "datar shiver me timbers❗.</p>"
+
+#~ msgid "<p>Do my apps work offline?</p>"
+#~ msgstr "<p>Do me apps work offline ye landlubbers❗?</p>"
+
+#~ msgid ""
+#~ "<p>Not directly. However, many of the most popular Android and iOS apps "
+#~ "are actually Web apps that have a native “wrapper” to allow them to run "
+#~ "on proprietary platforms. Therefore, many of the same apps will be "
+#~ "available through Adaptive App Search.<br><br>Tools such as Emscripten "
+#~ "and PhoneGap are also able to convert other apps (*.apk and/or C/C++) to "
+#~ "Web apps.</p>"
+#~ msgstr ""
+#~ "<p>Not directly. Howeverr, many o' th' most popularr Android and iOS apps "
+#~ "bee actually Web apps that have a native “wrapperr” to alloww them to run "
+#~ "on proprietary platforms. Tharrefore, many o' th' same apps will be "
+#~ "available through Adaptive App Search me mateys❗.<br><br>Tools such as "
+#~ "Emscripten and PhoneGap bee also able to convarrt otherr apps (*.apk and/"
+#~ "orr C/C++) to Web apps aye❗.</p>"
+
+#~ msgid "<p>Do Android apps work on this phone?</p>"
+#~ msgstr "<p>Do Android apps work on this phone yo-ho-ho❗?</p>"
+
+#~ msgid ""
+#~ "<p>Users can place website bookmarks on the home page to provide direct "
+#~ "access to those sites. Also, by swiping right from the home screen, users "
+#~ "can simply enter any search term and instantly create a one-time use or "
+#~ "downloadable app. Creating and consuming these apps on demand puts users "
+#~ "in complete control of their smartphone experience and will make it "
+#~ "possible for people to get the exact content they want, when they want it."
+#~ "</p>"
+#~ msgstr ""
+#~ "<p>Usarrs can place website bookmarks on th' home page to provide direct "
+#~ "access to those sites. Also, by swipin' right from th' home screen, "
+#~ "usarrs can simply enterr any search tarrm and instantly create a one-time "
+#~ "use orr downloadable app. Creatin' and consumin' these apps on demand "
+#~ "puts usarrs in complete control o' theirr smartphone exparrience and will "
+#~ "make it possible fer people to get th' exact content they wants, when "
+#~ "they wants it ye landlubbers❗.</p>"
+
+#~ msgid "<p>What do you mean I can convert mobile sites into apps?</p>"
+#~ msgstr ""
+#~ "<p>What do ye' mean I can convarrt mobile sites into apps matey❗?</p>"
+
+#~ msgid ""
+#~ "<p>Firefox OS has a robust security model that is battle-hardened from "
+#~ "more than a decade of supporting the open Web. It is designed to protect "
+#~ "the user and system from malicious applications and content.</p>"
+#~ msgstr ""
+#~ "<p>Firefox OS has a robust security model that is battle-harden'd from "
+#~ "more than a decade o' supportin' th' open Web. It is design'd to protect "
+#~ "th' userr and system from malicious applications and content ye "
+#~ "scalleywag❗.</p>"
+
+#~ msgid "<p>What makes Firefox OS more secure than other phones?</p>"
+#~ msgstr ""
+#~ "<p>What makes Firefox OS more secure than otherr phones arrRRr❗?</p>"
+
+#~ msgid ""
+#~ "<p>App developers around the world are committed to Firefox OS and tens "
+#~ "of hundreds of free applications will be available at launch. The growing "
+#~ "list includes leading app developers like Facebook, YouTube, Twitter and "
+#~ "ConnectA2 as well as a Flashlight app and Calculator.</p>"
+#~ msgstr ""
+#~ "<p>App developarrs around th' world bee committ'd to Firefox OS and tens "
+#~ "o' hundreds o' free applications will be available at launch. The growin' "
+#~ "list includes leadin' app developarrs like Facebook, YouTube, Twitterr "
+#~ "and ConnectA2 as well as a Flashlight app and Calculatorr arr❗.</p>"
+
+#~ msgid "<p>How many and what types of apps will be available?</p>"
+#~ msgstr ""
+#~ "<p>Howw many and what types o' apps will be available prepare to be "
+#~ "boarded❗?</p>"
+
+#~ msgid ""
+#~ "<p>Adaptive App Search is a new way to find content from across the Web "
+#~ "and engage in an app-like experience without having to download the app "
+#~ "to find what you need. Whenever you search, your phone adapts to the "
+#~ "search result and makes it easy to add those results to your home screen "
+#~ "for easy access later.</p>"
+#~ msgstr ""
+#~ "<p>Adaptive App Search is a neww way to find content from across th' Web "
+#~ "and engage in an app-like exparrience without havin' to download th' app "
+#~ "to find what ye' need. Wheneverr ye' search, yerr phone adapts to th' "
+#~ "search result and makes it easy to add those results to yerr home screen "
+#~ "fer easy access laterr shiver me timbers❗.</p>"
+
+#~ msgid "<p>What is Adaptive App Search?</p>"
+#~ msgstr "<p>What is Adaptive App Search arrRRRrrr❗?</p>"
+
+#~ msgid "<p> </p>"
+#~ msgstr "<p> </p>"
+
+#~ msgid ""
+#~ "<p>By now, you probably have questions and so will your customers! Select "
+#~ "each question for more on Firefox OS.</p>"
+#~ msgstr ""
+#~ "<p>By noww, ye' probably have questions and so will yerr customarrs❗ "
+#~ "Select each question fer more on Firefox OS aye❗.</p>"
+
+#~ msgid "<p>You have questions? We have answers!</p>"
+#~ msgstr "<p>Ye' have questions? We have answarrs ye landlubbers❗❗</p>"
+
+#~ msgid "The Firefox Mission"
+#~ msgstr "The Firefox Mission aye❗"
+
+#~ msgid ""
+#~ "<p>Behind every Firefox OS smartphone is Mozilla, a global community of "
+#~ "thousands dedicated to keeping the Web accessible to all. We believe each "
+#~ "and every one of us has the right to a Web that isn’t controlled by just "
+#~ "a few large entities and that together, we can build brighter future for "
+#~ "the Web.<br><br>Yeah, we’re a little different than the other guys.</p>"
+#~ msgstr ""
+#~ "<p>Behind evarry Firefox OS smartphone is Mozillar, a global community o' "
+#~ "thousands dedicat'd to keepin' th' Web accessible to all. We believe each "
+#~ "and evarry one o' us has th' right to a Web that isn’t controll'd by just "
+#~ "a feww large entities and that togetherr, we can build brighterr future "
+#~ "fer th' Web me mateys❗.<br><br>Yeah, we’re a little diffarrent than th' "
+#~ "otherr guys arrRRr❗.</p>"
+
+#~ msgid ""
+#~ "<p>Our mission is to promote openness, innovation and opportunity on the "
+#~ "Web.</p>"
+#~ msgstr ""
+#~ "<p>Ourr mission is to promote openness, innovation and opportunity on th' "
+#~ "Web shiver me timbers❗.</p>"
+
+#~ msgid "Take the challenge"
+#~ msgstr "Take th' challenge ahoy❗"
+
+#~ msgid ""
+#~ "<p>If you have worked through the questions and all of the content, then "
+#~ "you have the basics to match the needs of Firefox OS to your customers."
+#~ "<br><br>Easy to use, a Firefox OS smartphone is perfect for new "
+#~ "smartphone users and full of all the features that customers want and "
+#~ "need.<br><br>And it is powered by Mozilla, making Firefox OS the right "
+#~ "choice for anyone committed to ensuring that the Web remains in your "
+#~ "hands!</p>"
+#~ msgstr ""
+#~ "<p>If ye' have work'd through th' questions and all o' th' content, then "
+#~ "ye' have th' basics to match th' needs o' Firefox OS to yerr customarrs "
+#~ "prepare to be boarded❗.<br><br>Easy to use, a Firefox OS smartphone is "
+#~ "parrfect fer neww smartphone usarrs and full o' all th' features that "
+#~ "customarrs wants and need aye❗.<br><br>And it is powarr'd by Mozillar, "
+#~ "makin' Firefox OS th' right choice fer anyone committ'd to ensurin' that "
+#~ "th' Web remains in yerr hands ahoy❗❗</p>"
+
+#~ msgid "<p>Get Ready to Sell!</p>"
+#~ msgstr "<p>Get Ready to Sell ahoy❗❗</p>"
+
+#~ msgid ""
+#~ "<p>Which of these customer responses indicate a ideal candidate for "
+#~ "Firefox OS? Select all that apply.</p>"
+#~ msgstr ""
+#~ "<p>Which o' these customerr responses indicate a ideal candidate fer "
+#~ "Firefox OS? Select all that apply yo-ho-ho❗.</p>"
+
+#~ msgid "<p>Question 18</p>"
+#~ msgstr "<p>Question 18 ye landlubbers❗</p>"
+
+#~ msgid ""
+#~ "<p>What’s the best response to this customer’s objection?<br>“How do I "
+#~ "know this new phone is safe?”</p>"
+#~ msgstr ""
+#~ "<p>What’s th' best response to this customerr’s objection matey❗?"
+#~ "<br>“Howw do I knoww this neww phone is safe?” matey❗</p>"
+
+#~ msgid "<p>Question 19</p>"
+#~ msgstr "<p>Question 19 ye landlubbers❗</p>"
+
+#~ msgid ""
+#~ "<p>What’s the best response to this customer’s objection? “I’ve never "
+#~ "heard of Firefox OS phones.”</p>"
+#~ msgstr ""
+#~ "<p>What’s th' best response to this customerr’s objection? “I’ve neverr "
+#~ "heard o' Firefox OS phones.” aye❗</p>"
+
+#~ msgid ""
+#~ "<p>What’s the best response to this customer’s objection? “I’ve heard "
+#~ "there are not many apps.”</p>"
+#~ msgstr ""
+#~ "<p>What’s th' best response to this customerr’s objection? “I’ve heard "
+#~ "tharr bee not many apps.” arrRRRrrr❗</p>"
+
+#~ msgid "<p>Question 17</p>"
+#~ msgstr "<p>Question 17 ye landlubbers❗</p>"
+
+#~ msgid "<p>False</p>"
+#~ msgstr "<p>False ahoy❗</p>"
+
+#~ msgid "<p>True</p>"
+#~ msgstr "<p>True me mateys❗</p>"
+
+#~ msgid ""
+#~ "<p>With Adaptive App Search, you can use an app once, quickly and easily, "
+#~ "without installing it. If you want to use it again later, it’s easy to "
+#~ "add it to your homescreen.</p>"
+#~ msgstr ""
+#~ "<p>With Adaptive App Search, ye' can use an app once, quickly and easily, "
+#~ "without installin' it. If ye' wants to use it again laterr, it’s easy to "
+#~ "add it to yerr homescreen arrRRr❗.</p>"
+
+#~ msgid "<p>Question 16</p>"
+#~ msgstr "<p>Question 16 ye landlubbers❗</p>"
+
+#~ msgid ""
+#~ "<p>When you type a word or subject that interests you using Adaptive App "
+#~ "Search what happens? Select all that apply.</p>"
+#~ msgstr ""
+#~ "<p>When ye' type a word orr subject that intarrests ye' usin' Adaptive "
+#~ "App Search what happens? Select all that apply ye landlubbers❗.</p>"
+
+#~ msgid "<p>Question 15</p>"
+#~ msgstr "<p>Question 15 ye landlubbers❗</p>"
+
+#~ msgid ""
+#~ "<p>While all of these statements are true, which two responses would be "
+#~ "most useful to a first-time smartphone customer?</p>"
+#~ msgstr ""
+#~ "<p>While all o' these statements bee true, which two responses would be "
+#~ "most useful to a first-time smartphone customerr arrRRr❗?</p>"
+
+#~ msgid "<p>Question 14</p>"
+#~ msgstr "<p>Question 14 ye landlubbers❗</p>"
+
+#~ msgid ""
+#~ "<p>Which of the following statements about Adaptive App Search are true? "
+#~ "Select all that apply.</p>"
+#~ msgstr ""
+#~ "<p>Which o' th' followin' statements about Adaptive App Search bee true? "
+#~ "Select all that apply arrRRr❗.</p>"
+
+#~ msgid "<p>Question 13</p>"
+#~ msgstr "<p>Question 13 ye landlubbers❗</p>"
+
+#~ msgid ""
+#~ "<p>A customer says, “I use Firefox on my home computer and I love it, but "
+#~ "I didn’t know they had a mobile OS. Why?” Which of the following "
+#~ "statements would be the most appropriate response to this particular "
+#~ "customer? </p>"
+#~ msgstr ""
+#~ "<p>A customerr says, “I use Firefox on me home computerr and I love it, "
+#~ "but I didn’t knoww they had a mobile OS. Why?” Which o' th' followin' "
+#~ "statements would be th' most appropriate response to this particularr "
+#~ "customerr?  prepare to be boarded❗</p>"
+
+#~ msgid "<p>Question 12</p>"
+#~ msgstr "<p>Question 12 ye landlubbers❗</p>"
+
+#~ msgid ""
+#~ "<p>A customer says to you, “I’m looking for an easy way to stay in touch "
+#~ "with my friends, but I don’t want to spend a lot of money”. Which of the "
+#~ "following statements would be a good response? Select all that apply.</p>"
+#~ msgstr ""
+#~ "<p>A customerr says to ye', “I’m lookin' fer an easy way to stay in touch "
+#~ "wit' me friends, but I don’t wants to spend a lot o' money”. Which o' th' "
+#~ "followin' statements would be a good response? Select all that apply aye❗."
+#~ "</p>"
+
+#~ msgid "<p>Question 11</p>"
+#~ msgstr "<p>Question 11 ye landlubbers❗</p>"
+
+#~ msgid ""
+#~ "<p>A customer tells you that he uses Firefox as his desktop browser. With "
+#~ "what selling feature should you lead?</p>"
+#~ msgstr ""
+#~ "<p>A customerr tells ye' that he uses Firefox as his desktop corsairr. "
+#~ "With what sellin' feature should ye' lead aye❗?</p>"
+
+#~ msgid "<p>Question 10</p>"
+#~ msgstr "<p>Question 10 ye landlubbers❗</p>"
+
+#~ msgid ""
+#~ "<p>A customer tells you that she’s ready to move up from her old feature "
+#~ "phone. What selling feature should you lead with?</p>"
+#~ msgstr ""
+#~ "<p>A customerr tells ye' that she’s ready to move up from herr old "
+#~ "feature phone. What sellin' feature should ye' lead wit' me mateys❗?</p>"
+
+#~ msgid "<p>Question 9</p>"
+#~ msgstr "<p>Question 9 shiver me timbers❗</p>"
+
+#~ msgid ""
+#~ "<p>If you love Firefox, you’ll love Firefox OS. Choosing a Firefox OS "
+#~ "device puts the power of the Web in your hands.</p>"
+#~ msgstr ""
+#~ "<p>If ye' love Firefox, ye'’ll love Firefox OS. Choosin' a Firefox OS "
+#~ "device puts th' powerr o' th' Web in yerr hands ye landlubbers❗.</p>"
+
+#~ msgid ""
+#~ "<p>Firefox OS is the easiest smartphone to get started with. Your "
+#~ "favorite apps are already preloaded and you can easily sync your contacts "
+#~ "from Facebook, too.</p>"
+#~ msgstr ""
+#~ "<p>Firefox OS is th' easiest smartphone to get start'd wit'. Yerr "
+#~ "favorite apps bee already preload'd and ye' can easily sync yerr contacts "
+#~ "from Facebook, too arr❗.</p>"
+
+#~ msgid ""
+#~ "<p>Firefox OS gives you the most value for your money, with everything "
+#~ "you expect — camera, email, apps, music and more — at the most "
+#~ "competitive prices.</p>"
+#~ msgstr ""
+#~ "<p>Firefox OS gives ye' th' most value fer yerr money, wit' evarrythin' "
+#~ "ye' expect — camarrar, email, apps, music and more — at th' most "
+#~ "competitive prices shiver me timbers❗.</p>"
+
+#~ msgid ""
+#~ "<p>A customer tells you that smartphones seem complicated.  What selling "
+#~ "feature should you lead with?</p>"
+#~ msgstr ""
+#~ "<p>A customerr tells ye' that smartphones seem complicat'd.  What sellin' "
+#~ "feature should ye' lead wit' yo-ho-ho❗?</p>"
+
+#~ msgid "<p>Question 8</p>"
+#~ msgstr "<p>Question 8 shiver me timbers❗</p>"
+
+#~ msgid ""
+#~ "<p>Firefox OS gives you the broadest selection of devices on the market "
+#~ "today.</p>"
+#~ msgstr ""
+#~ "<p>Firefox OS gives ye' th' broadest selection o' devices on th' market "
+#~ "today shiver me timbers❗.</p>"
+
+#~ msgid ""
+#~ "<p>Since it is built by Firefox, you can feel confident that Firefox OS "
+#~ "is backed by a global community working on your behalf and with your "
+#~ "interests in mind.</p>"
+#~ msgstr ""
+#~ "<p>Since it is built by Firefox, ye' can feel confident that Firefox OS "
+#~ "is back'd by a global community workin' on yerr behalf and wit' yerr "
+#~ "intarrests in mind arrRRr❗.</p>"
+
+#~ msgid ""
+#~ "<p>With the Firefox Marketplace and dozens of preloaded apps like Email, "
+#~ "Facebook, Camera, Music and more, Firefox OS is packed with the features "
+#~ "you’d expect in a smartphone.</p>"
+#~ msgstr ""
+#~ "<p>With th' Firefox Marketplace and dozens o' preload'd apps like Email, "
+#~ "Facebook, Camarrar, Music and more, Firefox OS is pack'd wit' th' "
+#~ "features ye'’d expect in a smartphone ahoy❗.</p>"
+
+#~ msgid ""
+#~ "<p>With Adaptive App Search, Firefox OS adapts to you needs better than "
+#~ "any other phone.</p>"
+#~ msgstr ""
+#~ "<p>With Adaptive App Search, Firefox OS adapts to ye' needs betterr than "
+#~ "any otherr phone yo-ho-ho❗.</p>"
+
+#~ msgid ""
+#~ "<p>Your customer wants to understand the biggest benefits of Firefox OS "
+#~ "versus its competitors. Select all of the statements that apply.</p>"
+#~ msgstr ""
+#~ "<p>Yerr customerr wants to undarrstand th' biggest benefits o' Firefox OS "
+#~ "varrsus its competitors. Select all o' th' statements that apply aye❗.</p>"
+
+#~ msgid "<p>Question 7</p>"
+#~ msgstr "<p>Question 7 shiver me timbers❗</p>"
+
+#~ msgid "<p>Browser</p>"
+#~ msgstr "<p>Browserr cap'n❗</p>"
+
+#~ msgid "<p>Messages</p>"
+#~ msgstr "<p>Messages cap'n❗</p>"
+
+#~ msgid ""
+#~ "<p>Which Firefox OS feature does this icon represent?<br><br><img "
+#~ "src='course/assets/m05/t05/p35/m05-t05-p35-a05-b20-c10.png'/></p>"
+#~ msgstr ""
+#~ "<p>Which Firefox OS feature does this icon represent ye landlubbers❗?"
+#~ "<br><br><img src=\"course/assets/m05/t05/p35/m05-t05-p35-a05-b20-c10.png"
+#~ "\" /></p>"
+
+#~ msgid "<p>Question 6</p>"
+#~ msgstr "<p>Question 6 shiver me timbers❗</p>"
+
+#~ msgid ""
+#~ "<p>Which Firefox OS feature does this icon represent?<br><br><img "
+#~ "src='course/assets/m05/t05/p35/m05-t05-p35-a05-b20-c05.png'/></p>"
+#~ msgstr ""
+#~ "<p>Which Firefox OS feature does this icon represent ye landlubbers❗?"
+#~ "<br><br><img src=\"course/assets/m05/t05/p35/m05-t05-p35-a05-b20-c05.png"
+#~ "\" /></p>"
+
+#~ msgid "<p>Question 5</p>"
+#~ msgstr "<p>Question 5 shiver me timbers❗</p>"
+
+#~ msgid ""
+#~ "<p>Which Firefox OS feature does this icon represent?<br><br><img "
+#~ "src='course/assets/m05/t05/p35/m05-t05-p35-a05-b15-c10.png'/></p>"
+#~ msgstr ""
+#~ "<p>Which Firefox OS feature does this icon represent ye landlubbers❗?"
+#~ "<br><br><img src=\"course/assets/m05/t05/p35/m05-t05-p35-a05-b15-c10.png"
+#~ "\" /></p>"
+
+#~ msgid "<p>Question 4</p>"
+#~ msgstr "<p>Question 4 shiver me timbers❗</p>"
+
+#~ msgid ""
+#~ "<p>Which Firefox OS feature does this icon represent?<br><br><img "
+#~ "src='course/assets/m05/t05/p35/m05-t05-p35-a05-b15-c05.png'/></p>"
+#~ msgstr ""
+#~ "<p>Which Firefox OS feature does this icon represent ye landlubbers❗?"
+#~ "<br><br><img src=\"course/assets/m05/t05/p35/m05-t05-p35-a05-b15-c05.png"
+#~ "\" /></p>"
+
+#~ msgid "<p>Question 3</p>"
+#~ msgstr "<p>Question 3 shiver me timbers❗</p>"
+
+#~ msgid "<p>Music</p>"
+#~ msgstr "<p>Music ahoy❗</p>"
+
+#~ msgid "<p>Email and Messages</p>"
+#~ msgstr "<p>Email and Messages ahoy❗</p>"
+
+#~ msgid "<p>Usage</p>"
+#~ msgstr "<p>Usage ahoy❗</p>"
+
+#~ msgid "<p>Video</p>"
+#~ msgstr "<p>Video ahoy❗</p>"
+
+#~ msgid "<p>Clock</p>"
+#~ msgstr "<p>Clock ahoy❗</p>"
+
+#~ msgid "<p>Calendar</p>"
+#~ msgstr "<p>Calendarr yo-ho-ho❗</p>"
+
+#~ msgid "<p>Phone</p>"
+#~ msgstr "<p>Phone ahoy❗</p>"
+
+#~ msgid "<p>YouTube</p>"
+#~ msgstr "<p>YouTube ye scalleywag❗</p>"
+
+#~ msgid "<p>ConnectA2</p>"
+#~ msgstr "<p>ConnectA2 yo-ho-ho❗</p>"
+
+#~ msgid ""
+#~ "<p>Which of the following apps is preloaded on every Firefox OS phone? "
+#~ "Select all that apply.</p>"
+#~ msgstr ""
+#~ "<p>Which o' th' followin' apps is preload'd on evarry Firefox OS phone? "
+#~ "Select all that apply arr❗.</p>"
+
+#~ msgid "<p>Question 2</p>"
+#~ msgstr "<p>Question 2 shiver me timbers❗</p>"
+
+#~ msgid "<p>Open the browser.</p>"
+#~ msgstr "<p>Open th' corsairr ahoy❗.</p>"
+
+#~ msgid "<p>Open the Marketplace.</p>"
+#~ msgstr "<p>Open th' Marketplace cap'n❗.</p>"
+
+#~ msgid "<p>Click on the home button.</p>"
+#~ msgstr "<p>Click on th' home button prepare to be boarded❗.</p>"
+
+#~ msgid "<p>Swipe to the left</p>"
+#~ msgstr "<p>Swipe to th' left me mateys❗</p>"
+
+#~ msgid ""
+#~ "<p>How do you access the Adaptive App Search feature on Firefox OS?</p>"
+#~ msgstr ""
+#~ "<p>Howw do ye' access th' Adaptive App Search feature on Firefox OS arr❗?"
+#~ "</p>"
+
+#~ msgid "<p>Question 1</p>"
+#~ msgstr "<p>Question 1 shiver me timbers❗</p>"
+
+#~ msgid ""
+#~ "<p>Think you are almost ready to start selling Firefox OS to your "
+#~ "customers? Put your knowledge to the test and answer these questions to "
+#~ "prove you have what it takes.</p>"
+#~ msgstr ""
+#~ "<p>Think ye' bee almost ready to start sellin' Firefox OS to yerr "
+#~ "customarrs? Put yerr knowledge to th' test and answerr these questions to "
+#~ "prove ye' have what it takes shiver me timbers❗.</p>"
+
+#~ msgid "<p>Ready to show what you know?</p>"
+#~ msgstr "<p>Ready to showw what ye' knoww me mateys❗?</p>"
+
+#~ msgid ""
+#~ "<p>Welcome to the Firefox OS global partner and community training hub. "
+#~ "Everything you need to learn to communicate the basics of Firefox OS is "
+#~ "here. Select any topic to get started.</p>"
+#~ msgstr ""
+#~ "<p>Welcome to th' Firefox OS global partnerr and community trainin' hub. "
+#~ "Evarrythin' ye' need to learn to communicate th' basics o' Firefox OS is "
+#~ "harre. Select any topic to get start'd arr❗.</p>"
+
+#~ msgid ""
+#~ "<p>At Mozilla, we’re out to make a difference, not a profit."
+#~ "<br><br>Firefox OS smartphones are backed by a global community of "
+#~ "thousands of developers working to innovate on your customers' behalf and "
+#~ "made locally with their interests and needs in mind. When customers' "
+#~ "choose Firefox OS, they’re helping build a brighter future for the Web "
+#~ "for all.</p>"
+#~ msgstr ""
+#~ "<p>At Mozillar, we’re out to make a diffarrence, not a profit ye "
+#~ "scalleywag❗.<br><br>Firefox OS smartphones bee back'd by a global "
+#~ "community o' thousands o' developarrs workin' to innovate on yerr "
+#~ "customarrs' behalf and made locally wit' theirr intarrests and needs in "
+#~ "mind. When customarrs' choose Firefox OS, they’re 'elpin' build a "
+#~ "brighterr future fer th' Web fer all arrRRr❗.</p>"
+
+#~ msgid ""
+#~ "<p>Firefox OS is packed with all the features that made your customers "
+#~ "want a smartphone in the first place: apps, maps, camera, gallery, social "
+#~ "features, music and more.<br><br>With all the features and no "
+#~ "compromises, Firefox OS phones fit your customers' lives more perfectly, "
+#~ "so they can fit in with the world around them.</p>"
+#~ msgstr ""
+#~ "<p>Firefox OS is pack'd wit' all th' features that made yerr customarrs "
+#~ "wants a smartphone in th' first place: apps, maps, camarrar, gallarry, "
+#~ "social features, music and more matey❗.<br><br>With all th' features and "
+#~ "nay compromises, Firefox OS phones fit yerr customarrs' lives more "
+#~ "parrfectly, so they can fit in wit' th' world around them cap'n❗.</p>"
+
+#~ msgid ""
+#~ "<p>Firefox OS adapts to the needs of customers better than any other "
+#~ "phone.<br><br>Adaptive App Search serves up information on any subject "
+#~ "and gives your customers more of what they’re looking for, exactly when "
+#~ "they need it. This lets them make the most of every moment.</p>"
+#~ msgstr ""
+#~ "<p>Firefox OS adapts to th' needs o' customarrs betterr than any otherr "
+#~ "phone shiver me timbers❗.<br><br>Adaptive App Search sarrves up "
+#~ "information on any subject and gives yerr customarrs more o' what they’re "
+#~ "lookin' fer, exactly when they need it. This lets them make th' most o' "
+#~ "evarry moment yo-ho-ho❗.</p>"
+
+#~ msgid ""
+#~ "<p>Your customers' needs are always changing. Firefox OS smartphones "
+#~ "adapt to your customers' needs so they can live every moment to its "
+#~ "fullest.<br/><br/>Easy to use, they’re perfect for new smartphone users "
+#~ "and full of all the features that customers expect. Powered by Mozilla, "
+#~ "Firefox OS devices are the right choice for anyone committed to ensuring "
+#~ "that the Web remains a public resource available to all.</p>"
+#~ msgstr ""
+#~ "<p>Yerr customarrs' needs bee always changin'. Firefox OS smartphones "
+#~ "adapt to yerr customarrs' needs so they can live evarry moment to its "
+#~ "fullest arrRRRrrr❗.<br /><br />Easy to use, they’re parrfect fer neww "
+#~ "smartphone usarrs and full o' all th' features that customarrs expect. "
+#~ "Powarr'd by Mozillar, Firefox OS devices bee th' right choice fer anyone "
+#~ "committ'd to ensurin' that th' Web remains a public resource available to "
+#~ "all arrRRr❗.</p>"
+
+#~ msgid ""
+#~ "<p>With music at their fingertips, your customers will see how Firefox OS "
+#~ "keeps them entertained and dancing in the streets.</p>"
+#~ msgstr ""
+#~ "<p>With music at theirr fingarrtips, yerr customarrs will see howw "
+#~ "Firefox OS keeps them entarrtain'd and dancin' in th' streets yo-ho-ho❗.</"
+#~ "p>"
+
+#~ msgid "<p>Music & FM Radio</p>"
+#~ msgstr "<p>Music  aye❗& arrRRr❗ FM Radio yo-ho-ho❗</p>"
+
+#~ msgid ""
+#~ "<p>Photograph, edit and share. Show off our full-featured camera and "
+#~ "gallery apps, including built-in style filters, video and more.</p>"
+#~ msgstr ""
+#~ "<p>Photograph, edit and share. Showw off ourr full-featur'd camarrar and "
+#~ "gallarry apps, includin' built-in style filtarrs, video and more ahoy❗.</"
+#~ "p>"
+
+#~ msgid "<p>Camera & Gallery</p>"
+#~ msgstr "<p>Camarrar  yo-ho-ho❗& arrRRr❗ Gallarry yo-ho-ho❗</p>"
+
+#~ msgid ""
+#~ "<p>Firefox Marketplace has the cool games and apps your customers want.</"
+#~ "p>"
+#~ msgstr ""
+#~ "<p>Firefox Marketplace has th' cool games and apps yerr customarrs wants "
+#~ "ahoy❗.</p>"
+
+#~ msgid ""
+#~ "<p>Firefox OS lets customers take control of their online lives and get "
+#~ "the best of the Web no matter where they go.</p>"
+#~ msgstr ""
+#~ "<p>Firefox OS lets customarrs take control o' theirr online lives and get "
+#~ "th' best o' th' Web nay matterr 'erre they go arr❗.</p>"
+
+#~ msgid "<p>Firefox Browser</p>"
+#~ msgstr "<p>Firefox Browserr matey❗</p>"
+
+#~ msgid ""
+#~ "<p>Demonstrate the powerful map features of Firefox OS, including local "
+#~ "transit info.</p>"
+#~ msgstr ""
+#~ "<p>Demonstrate th' powarrful map features o' Firefox OS, includin' local "
+#~ "transit info ahoy❗.</p>"
+
+#~ msgid "<p>HERE Maps</p>"
+#~ msgstr "<p>HERE Maps yo-ho-ho❗</p>"
+
+#~ msgid "<p>It’s easier than ever to stay connected with Firefox OS.</p>"
+#~ msgstr ""
+#~ "<p>It’s easierr than everr to stay connect'd wit' Firefox OS aye❗.</p>"
+
+#~ msgid "<p>Stay Connected</p>"
+#~ msgstr "<p>Stay Connect'd arrRRr❗</p>"
+
+#~ msgid ""
+#~ "<p>Show customers how Firefox OS adapts to them, giving them more of what "
+#~ "they need, when they need it.</p>"
+#~ msgstr ""
+#~ "<p>Showw customarrs howw Firefox OS adapts to them, givin' them more o' "
+#~ "what they need, when they need it prepare to be boarded❗.</p>"
+
+#~ msgid ""
+#~ "<p>When you only have a minute, make it count with this simple pitch.</p>"
+#~ msgstr ""
+#~ "<p>When ye' only have a minute, make it count wit' this simple pitch "
+#~ "arrRRr❗.</p>"
+
+#~ msgid "<p>Intro to FirefoxOS</p>"
+#~ msgstr "<p>Intro to FirefoxOS ahoy❗</p>"
+
+#~ msgid ""
+#~ "<p>Demonstrating the features of Firefox OS and how easy it is to use "
+#~ "will be your best selling tool.<br>Browse the demonstration videos below "
+#~ "to get started.</p>"
+#~ msgstr ""
+#~ "<p>Demonstratin' th' features o' Firefox OS and howw easy it is to use "
+#~ "will be yerr best sellin' tool cap'n❗.<br>Browse th' demonstration videos "
+#~ "beloww to get start'd arrRRRrrr❗.</p>"
+
+#~ msgid "<p>What can you say?</p>"
+#~ msgstr "<p>What can ye' say me mateys❗?</p>"
+
+#~ msgid ""
+#~ "<p>Firefox OS is the easiest smartphone to get you started. Adaptive App "
+#~ "Search helps you find the things you need simply — and instantly. The "
+#~ "user interface is so intuitive, you will be able to quickly discover and "
+#~ "download your favorite apps so you’re ready to go.</p>"
+#~ msgstr ""
+#~ "<p>Firefox OS is th' easiest smartphone to get ye' start'd. Adaptive App "
+#~ "Search 'elps ye' find th' things ye' need simply — and instantly. The "
+#~ "userr intarrface is so intuitive, ye' will be able to quickly discoverr "
+#~ "and download yerr favorite apps so ye'’re ready to go aye❗.</p>"
+
+#~ msgid ""
+#~ "<p>Firefox OS gives you the most value for your money. It has everything "
+#~ "you expect in a smartphone — camera, email, apps, music, maps and more — "
+#~ "at the most competitive prices.</p>"
+#~ msgstr ""
+#~ "<p>Firefox OS gives ye' th' most value fer yerr money. It has evarrythin' "
+#~ "ye' expect in a smartphone — camarrar, email, apps, music, maps and more "
+#~ "— at th' most competitive prices cap'n❗.</p>"
+
+#~ msgid ""
+#~ "<p>Firefox OS is the best choice for first time smartphone users. It is "
+#~ "super easy to use, and it adapts to your needs better than any other "
+#~ "phone, so you get more of what you need with less time searching. Plus, "
+#~ "it is packed with all the features you’d expect, from camera, to email, "
+#~ "apps, music, maps and more.</p>"
+#~ msgstr ""
+#~ "<p>Firefox OS is th' best choice fer first time smartphone usarrs. It is "
+#~ "superr easy to use, and it adapts to yerr needs betterr than any otherr "
+#~ "phone, so ye' get more o' what ye' need wit' less time searchin'. Plus, "
+#~ "it is pack'd wit' all th' features ye'’d expect, from camarrar, to email, "
+#~ "apps, music, maps and more matey❗.</p>"
+
+#~ msgid ""
+#~ "<p>Understanding your customer’s needs and knowing how to respond on the "
+#~ "spot is critical to any sales opportunity.<br>Check out the common "
+#~ "customer segments below, and tap the bar to learn how to best respond to "
+#~ "each of their unique needs.</p>"
+#~ msgstr ""
+#~ "<p>Undarrstandin' yerr customerr’s needs and knowin' howw to respond on "
+#~ "th' spot is critical to any sales opportunity ye landlubbers❗.<br>Check "
+#~ "out th' common customerr segments beloww, and tap th' barr to learn howw "
+#~ "to best respond to each o' theirr unique needs yo-ho-ho❗.</p>"
+
+#~ msgid "<p>SMS and Email...</p>"
+#~ msgstr "<p>SMS and Email matey❗...</p>"
+
+#~ msgid ""
+#~ "<p>Stay connected to your friends and colleagues wherever you are. It's "
+#~ "easy to set up multiple email accounts, with support for the most common "
+#~ "Exchange, SMTP or IMAP email providers.</p>"
+#~ msgstr ""
+#~ "<p>Stay connect'd to yerr friends and colleagues wharreverr ye' bee. It's "
+#~ "easy to set up multiple email accounts, wit' supparrt fer th' most common "
+#~ "Exchange, SMTP orr IMAP email providarrs me mateys❗.</p>"
+
+#~ msgid "<p>SMS and Email</p>"
+#~ msgstr "<p>SMS and Email arr❗</p>"
+
+#~ msgid ""
+#~ "<p>Play it all from your phone, or online via Youtube. Browse and play "
+#~ "your music collection by album or artist, rate songs and create playlists "
+#~ "for your favorites.</p>"
+#~ msgstr ""
+#~ "<p>Play it all from yerr phone, orr online viar Youtube. Browse and play "
+#~ "yerr music collection by album orr artist, rate songs and create "
+#~ "playlists fer yerr favorites cap'n❗.</p>"
+
+#~ msgid "<p>Maps...</p>"
+#~ msgstr "<p>Maps ye scalleywag❗...</p>"
+
+#~ msgid ""
+#~ "<p>Get satellite, public transport, and live traffic views, search for "
+#~ "points of interest and even save your map locally for quicker remote "
+#~ "access. HERE Maps can pinpoint your location and even give you directions "
+#~ "(car, walking or public transportation) to get you to your destination.</"
+#~ "p>"
+#~ msgstr ""
+#~ "<p>Get satellite, public transparrt, and live traffic views, search fer "
+#~ "points o' intarrest and even save yerr map locally fer quickerr remote "
+#~ "access. HERE Maps can pinpoint yerr location and even give ye' directions "
+#~ "(carr, walkin' orr public transportation) to get ye' to yerr destination "
+#~ "arrRRr❗.</p>"
+
+#~ msgid "<p>Maps</p>"
+#~ msgstr "<p>Maps me mateys❗</p>"
+
+#~ msgid ""
+#~ "<p>With built-in style filters for fun, creative shots, and lots of ways "
+#~ "to share your photographs, the full-featured camera and photo gallery "
+#~ "will have all your subjects smiling.</p>"
+#~ msgstr ""
+#~ "<p>With built-in style filtarrs fer fun, creative shots, and lots o' ways "
+#~ "to share yerr photographs, th' full-featur'd camarrar and photo gallarry "
+#~ "will have all yerr subjects smilin' ye landlubbers❗.</p>"
+
+#~ msgid ""
+#~ "<p>Deeply integrated with your favorite social networks. You can easily "
+#~ "import your Facebook contacts to your phone to keep your community all in "
+#~ "one place.</p>"
+#~ msgstr ""
+#~ "<p>Deeply integrat'd wit' yerr favorite social networks. Ye' can easily "
+#~ "imparrt yerr Facebook contacts to yerr phone to keep yerr community all "
+#~ "in one place ye landlubbers❗.</p>"
+
+#~ msgid "<p>Facebook and Twitter...</p>"
+#~ msgstr "<p>Facebook and Twitterr ye landlubbers❗...</p>"
+
+#~ msgid ""
+#~ "<p>Stay connected, with easy access to your friends and colleagues from "
+#~ "wherever you are.</p>"
+#~ msgstr ""
+#~ "<p>Stay connect'd, wit' easy access to yerr friends and colleagues from "
+#~ "wharreverr ye' bee shiver me timbers❗.</p>"
+
+#~ msgid "<p>Facebook and Twitter</p>"
+#~ msgstr "<p>Facebook and Twitterr cap'n❗</p>"
+
+#~ msgid ""
+#~ "<p>The fast, smart, safe way to get the best of the Web. Use the URL bar "
+#~ "to enter websites, perform searches and access your browsing history. "
+#~ "Plus, tabs let you multitask by browsing multiple pages simultaneously.</"
+#~ "p>"
+#~ msgstr ""
+#~ "<p>The fast, smart, safe way to get th' best o' th' Web. Use th' URL barr "
+#~ "to enterr websites, parrform searches and access yerr browsin' history. "
+#~ "Plus, tabs let ye' multitask by browsin' multiple pages simultaneously "
+#~ "aye❗.</p>"
+
+#~ msgid ""
+#~ "<p>Your go-to source for the best apps for Firefox OS. Browse tens of "
+#~ "thousands of free and paid apps in multiple categories, including games, "
+#~ "utilities, music, travel, sports, and more.</p>"
+#~ msgstr ""
+#~ "<p>Yerr go-to source fer th' best apps fer Firefox OS. Browse tens o' "
+#~ "thousands o' free and paid apps in multiple categories, includin' games, "
+#~ "utilities, music, travel, sports, and more arrRRr❗.</p>"
+
+#~ msgid ""
+#~ "<p>A new way to get what you need right when you need it, without any of "
+#~ "the headaches of downloading applications. Search for anything, and "
+#~ "Firefox OS adapts to your request, displaying photos, video, music, news, "
+#~ "maps and more - making it much easier for you to find what you were "
+#~ "really looking for.</p>"
+#~ msgstr ""
+#~ "<p>A neww way to get what ye' need right when ye' need it, without any o' "
+#~ "th' headaches o' downloadin' applications. Search fer anythin', and "
+#~ "Firefox OS adapts to yerr request, displayin' photos, video, music, news, "
+#~ "maps and more - makin' it much easierr fer ye' to find what ye' warre "
+#~ "really lookin' fer matey❗.</p>"
+
+#~ msgid ""
+#~ "<p>Firefox OS is packed with the features that your customers expect in a "
+#~ "smartphone. It fits their lives perfectly so they can keep pace with the "
+#~ "world around them.</p>"
+#~ msgstr ""
+#~ "<p>Firefox OS is pack'd wit' th' features that yerr customarrs expect in "
+#~ "a smartphone. It fits theirr lives parrfectly so they can keep pace wit' "
+#~ "th' world around them yo-ho-ho❗.</p>"
+
+#~ msgid ""
+#~ "<p>Hotmail and Yahoo mail are currently supported with more on the way in "
+#~ "future releases.</p>"
+#~ msgstr ""
+#~ "<p>Hotmail and Yahoo mail bee currently support'd wit' more on th' way in "
+#~ "future releases yo-ho-ho❗.</p>"
+
+#~ msgid "<p>Which email providers are supported?</p>"
+#~ msgstr "<p>Which email providarrs bee support'd ye landlubbers❗?</p>"
+
+#~ msgid ""
+#~ "<p>Firefox OS offers two ways to get apps:<ul><li>Firefox Marketplace — "
+#~ "Our go-to source for great apps like Twitter and awesome local content "
+#~ "from the best Web developers in your region.</li><li>Adaptive App Search "
+#~ "— Just type a single word like “sushi” to discover related mobile apps in "
+#~ "your region, delivered by a superior mobile experience and tuned to bring "
+#~ "you what you want.</li><ul></p>"
+#~ msgstr ""
+#~ "<p>Firefox OS offarrs two ways to get apps arrRRr❗:<ul><li>Firefox "
+#~ "Marketplace — Ourr go-to source fer great apps like Twitterr and awesome "
+#~ "local content from th' best Web developarrs in yerr region shiver me "
+#~ "timbers❗.</li><li>Adaptive App Search — Just type a single word like "
+#~ "“sushi” to discoverr relat'd mobile apps in yerr region, delivarr'd by a "
+#~ "suparriorr mobile exparrience and tun'd to brin' ye' what ye' wants "
+#~ "shiver me timbers❗.</li><ul></p>"
+
+#~ msgid ""
+#~ "<p>Consumers who need support with an app built for Firefox OS will be "
+#~ "directed to the app developer for assistance. If the consumer experience "
+#~ "with Firefox OS is negatively impacted by the support incident resulting "
+#~ "from the app, Mozilla may recommend workarounds including uninstalling "
+#~ "the app until the developer provides appropriate assistance.</p>"
+#~ msgstr ""
+#~ "<p>Consumarrs who need supparrt wit' an app built fer Firefox OS will be "
+#~ "direct'd to th' app developerr fer assistance. If th' consumerr "
+#~ "exparrience wit' Firefox OS is negatively impact'd by th' supparrt "
+#~ "incident resultin' from th' app, Mozillar may recommend workarounds "
+#~ "includin' uninstallin' th' app until th' developerr provides appropriate "
+#~ "assistance arrRRRrrr❗.</p>"
+
+#~ msgid ""
+#~ "<p>Firefox OS is built on Web technologies but has offline capabilities "
+#~ "for all the phone’s core functionalities. That means apps do not require "
+#~ "an active internet connection to function unless the app must send or "
+#~ "receive data to another system through the internet to continue working.</"
+#~ "p>"
+#~ msgstr ""
+#~ "<p>Firefox OS is built on Web technologies but has offline capabilities "
+#~ "fer all th' phone’s core functionalities. That means apps do not require "
+#~ "an active intarrnet connection to function unless th' app must send orr "
+#~ "receive datar to anotherr system through th' intarrnet to continue "
+#~ "workin' matey❗.</p>"
+
+#~ msgid ""
+#~ "<p>Not directly. However, many of the most popular Android and iOS apps "
+#~ "are actually Web apps that have a native “wrapper” to allow them to run "
+#~ "on proprietary platforms. Therefore, many of the same apps will be "
+#~ "available through Adaptive App Search.</p>"
+#~ msgstr ""
+#~ "<p>Not directly. Howeverr, many o' th' most popularr Android and iOS apps "
+#~ "bee actually Web apps that have a native “wrapperr” to alloww them to run "
+#~ "on proprietary platforms. Tharrefore, many o' th' same apps will be "
+#~ "available through Adaptive App Search me mateys❗.</p>"
+
+#~ msgid ""
+#~ "<p>Firefox OS has a robust security model that is battle-hardened from "
+#~ "more than a decade of supporting the Open Web. It is designed to protect "
+#~ "the user and system from malicious applications and content.</p>"
+#~ msgstr ""
+#~ "<p>Firefox OS has a robust security model that is battle-harden'd from "
+#~ "more than a decade o' supportin' th' Open Web. It is design'd to protect "
+#~ "th' userr and system from malicious applications and content ye "
+#~ "scalleywag❗.</p>"
+
+#~ msgid ""
+#~ "<p>App developers around the world are committed to Firefox OS and tens "
+#~ "of thousands of free and paid applications will be available at launch. "
+#~ "The growing list includes leading app developers like Accuweather, "
+#~ "Airbnb, Box, Cut the Rope, EA Games, Facebook, Nokia HERE&reg;, MTV "
+#~ "Brasil, Pulse News, SoundCloud, SporTV, Time Out and Twitter.</p>"
+#~ msgstr ""
+#~ "<p>App developarrs around th' world bee committ'd to Firefox OS and tens "
+#~ "o' thousands o' free and paid applications will be available at launch. "
+#~ "The growin' list includes leadin' app developarrs like Accuweatherr, "
+#~ "Airbnb, Box, Cut th' Rope, EA Games, Facebook, Nokiar HERE yo-ho-"
+#~ "ho❗&reg;, MTV Brasil, Pulse News, SoundCloud, SporTV, Time Out and "
+#~ "Twitterr matey❗.</p>"
+
+#~ msgid ""
+#~ "<p>Adaptive App Search is a new way to find content from across the Web "
+#~ "and engage in an app-like experience without the headaches of downloading "
+#~ "the app to find what you need. Whenever you search, your phone adapts to "
+#~ "the search result and makes it easy to add those results to your home "
+#~ "screen for easy access later.</p>"
+#~ msgstr ""
+#~ "<p>Adaptive App Search is a neww way to find content from across th' Web "
+#~ "and engage in an app-like exparrience without th' headaches o' "
+#~ "downloadin' th' app to find what ye' need. Wheneverr ye' search, yerr "
+#~ "phone adapts to th' search result and makes it easy to add those results "
+#~ "to yerr home screen fer easy access laterr ye scalleywag❗.</p>"
+
+#~ msgid ""
+#~ "<p>Behind every Firefox OS smartphone is Mozilla, a global community of "
+#~ "thousands dedicated to keeping the Web accessible to all. That’s because "
+#~ "we believe each and every one of us has the right to a Web that isn’t "
+#~ "controlled by just a few large entities.<br><br>Yeah, we’re a little "
+#~ "different than the other guys. Together, we can build a brighter future "
+#~ "for the Web.</p>"
+#~ msgstr ""
+#~ "<p>Behind evarry Firefox OS smartphone is Mozillar, a global community o' "
+#~ "thousands dedicat'd to keepin' th' Web accessible to all. That’s because "
+#~ "we believe each and evarry one o' us has th' right to a Web that isn’t "
+#~ "controll'd by just a feww large entities yo-ho-ho❗.<br><br>Yeah, we’re a "
+#~ "little diffarrent than th' otherr guys. Togetherr, we can build a "
+#~ "brighterr future fer th' Web ahoy❗.</p>"
+
+#~ msgid ""
+#~ "<p>If you have worked through the questions and all of the content, then "
+#~ "you have the basics to match the needs of Firefox OS to your customers."
+#~ "<br><br>Easy to use, a Firefox OS smartphone is perfect for new "
+#~ "smartphone users and full of all the features that customers want and "
+#~ "need.<br><br>And it is powered by Mozilla, making Firefox OS the right "
+#~ "choice for anyone committed to ensuring that the power of the Web remains "
+#~ "in the hands of users everywhere!</p>"
+#~ msgstr ""
+#~ "<p>If ye' have work'd through th' questions and all o' th' content, then "
+#~ "ye' have th' basics to match th' needs o' Firefox OS to yerr customarrs "
+#~ "prepare to be boarded❗.<br><br>Easy to use, a Firefox OS smartphone is "
+#~ "parrfect fer neww smartphone usarrs and full o' all th' features that "
+#~ "customarrs wants and need aye❗.<br><br>And it is powarr'd by Mozillar, "
+#~ "makin' Firefox OS th' right choice fer anyone committ'd to ensurin' that "
+#~ "th' powerr o' th' Web remains in th' hands o' usarrs evarrywharre "
+#~ "arrRRRrrr❗❗</p>"
+
+#~ msgid "<p>Get ready to sell!</p>"
+#~ msgstr "<p>Get ready to sell ahoy❗❗</p>"
+
+#~ msgid "<p>Question 20</p>"
+#~ msgstr "<p>Question 20 ye landlubbers❗</p>"
+
+#~ msgid ""
+#~ "<p>What’s the best response to this customer’s objection?<br>“I’ve never "
+#~ "heard of Firefox OS phones.”</p>"
+#~ msgstr ""
+#~ "<p>What’s th' best response to this customerr’s objection matey❗?"
+#~ "<br>“I’ve neverr heard o' Firefox OS phones.” arrRRRrrr❗</p>"
+
+#~ msgid "<p>SMS </p>"
+#~ msgstr "<p>SMS  me mateys❗</p>"
+
+#~ msgid ""
+#~ "<p>While all of the these statements are true, which two responses would "
+#~ "be most useful to a first-time smartphone customer? </p>"
+#~ msgstr ""
+#~ "<p>While all o' th' these statements bee true, which two responses would "
+#~ "be most useful to a first-time smartphone customerr?  aye❗</p>"
+
+#~ msgid ""
+#~ "<p>A customer says, “I use Firefox on my home computer and I love it, but "
+#~ "I didn’t know they had a smartphone OS. Why?” Which of the following "
+#~ "statements would be the most appropriate response to this particular "
+#~ "customer? </p>"
+#~ msgstr ""
+#~ "<p>A customerr says, “I use Firefox on me home computerr and I love it, "
+#~ "but I didn’t knoww they had a smartphone OS. Why?” Which o' th' followin' "
+#~ "statements would be th' most appropriate response to this particularr "
+#~ "customerr?  matey❗</p>"
+
+#~ msgid ""
+#~ "<p>A customer says to you, “I’m looking for an easy way to stay in touch "
+#~ "with my friends, but I don’t want to spend a lot of money.” Which of the "
+#~ "following statements would be a good response? Select all that apply. </p>"
+#~ msgstr ""
+#~ "<p>A customerr says to ye', “I’m lookin' fer an easy way to stay in touch "
+#~ "wit' me friends, but I don’t wants to spend a lot o' money.” Which o' th' "
+#~ "followin' statements would be a good response? Select all that apply.  ye "
+#~ "scalleywag❗</p>"
+
+#~ msgid ""
+#~ "<p>If you love Firefox browsers, you’ll love Firefox OS phones. Choosing "
+#~ "Firefox OS keeps the power of the Web in your hands. </p>"
+#~ msgstr ""
+#~ "<p>If ye' love Firefox browsarrs, ye'’ll love Firefox OS phones. Choosin' "
+#~ "Firefox OS keeps th' powerr o' th' Web in yerr hands.  cap'n❗</p>"
+
+#~ msgid ""
+#~ "<p>Firefox OS is the easiest smartphone to get started with. Your "
+#~ "favorite apps are already preloaded and you can easily import your "
+#~ "friends from Facebook, too.</p>"
+#~ msgstr ""
+#~ "<p>Firefox OS is th' easiest smartphone to get start'd wit'. Yerr "
+#~ "favorite apps bee already preload'd and ye' can easily imparrt yerr "
+#~ "friends from Facebook, too arrRRRrrr❗.</p>"
+
+#~ msgid ""
+#~ "<p>Firefox OS gives you the most value for your money, with everything "
+#~ "you expect — camera, email, apps, music, maps and more — at the most "
+#~ "competitive prices. </p>"
+#~ msgstr ""
+#~ "<p>Firefox OS gives ye' th' most value fer yerr money, wit' evarrythin' "
+#~ "ye' expect — camarrar, email, apps, music, maps and more — at th' most "
+#~ "competitive prices.  me mateys❗</p>"
+
+#~ msgid ""
+#~ "<p>With the Firefox Marketplace and dozens of preloaded apps, like email, "
+#~ "maps, Facebook, a camera, music, and more, Firefox OS is packed with the "
+#~ "features you’d expect in a smartphone.</p>"
+#~ msgstr ""
+#~ "<p>With th' Firefox Marketplace and dozens o' preload'd apps, like email, "
+#~ "maps, Facebook, a camarrar, music, and more, Firefox OS is pack'd wit' "
+#~ "th' features ye'’d expect in a smartphone arrRRRrrr❗.</p>"
+
+#~ msgid ""
+#~ "<p>With Adaptive App Search, Firefox OS adapts to your needs better than "
+#~ "any other phone.</p>"
+#~ msgstr ""
+#~ "<p>With Adaptive App Search, Firefox OS adapts to yerr needs betterr than "
+#~ "any otherr phone shiver me timbers❗.</p>"
+
+#~ msgid "<p>SMS</p>"
+#~ msgstr "<p>SMS matey❗</p>"
+
+#~ msgid ""
+#~ "<p>Which Firefox OS feature does this represent?<br><br><img src='course/"
+#~ "assets/m05/t05/p35/m05-t05-p35-a05-b20-c05.png'/></p>"
+#~ msgstr ""
+#~ "<p>Which Firefox OS feature does this represent aye❗?<br><br><img src="
+#~ "\"course/assets/m05/t05/p35/m05-t05-p35-a05-b20-c05.png\" /></p>"
+
+#~ msgid ""
+#~ "<p>Which of these customer responses indicate an ideal candidate for "
+#~ "Firefox OS? Select all that apply.</p>"
+#~ msgstr ""
+#~ "<p>Which o' these customerr responses indicate an ideal candidate fer "
+#~ "Firefox OS? Select all that apply shiver me timbers❗.</p>"
+
+#~ msgid "<p>Music Player</p>"
+#~ msgstr "<p>Music Playerr arr❗</p>"
+
+#~ msgid "<p>Email and SMS</p>"
+#~ msgstr "<p>Email and SMS arr❗</p>"
+
+#~ msgid "<p>Firefox Marketplace</p>"
+#~ msgstr "<p>Firefox Marketplace aye❗</p>"
+
+#~ msgid ""
+#~ "<p>Which of the following apps is pre-loaded on every Firefox OS phone? "
+#~ "Select all that apply.</p>"
+#~ msgstr ""
+#~ "<p>Which o' th' followin' apps is pre-load'd on evarry Firefox OS phone? "
+#~ "Select all that apply arrRRr❗.</p>"
+
+#~ msgid "<p>Open the Firefox browser.</p>"
+#~ msgstr "<p>Open th' Firefox corsairr arr❗.</p>"
+
+#~ msgid "<p>Open Firefox Marketplace.</p>"
+#~ msgstr "<p>Open Firefox Marketplace prepare to be boarded❗.</p>"
+
+#~ msgid ""
+#~ "<p>Think you're ready to start selling Firefox OS to your customers? Put "
+#~ "your knowledge to work and answer these questions to prove you have what "
+#~ "it takes.</p>"
+#~ msgstr ""
+#~ "<p>Think you're ready to start sellin' Firefox OS to yerr customarrs? Put "
+#~ "yerr knowledge to work and answerr these questions to prove ye' have what "
+#~ "it takes ye landlubbers❗.</p>"
+
+#~ msgid ""
+#~ "Documentation for Firefox OS {version} is not yet available in "
+#~ "{language}, so we redirected you to the English version."
+#~ msgstr ""
+#~ "Documentation fer Firefox OS {version} is not yet available in "
+#~ "{language}, so we redirect'd ye' to th' English varrsion matey❗."
+
+#~ msgid "The latest version available in {language} is {version}."
+#~ msgstr "The latest varrsion available in {language} is {version} ahoy❗."
