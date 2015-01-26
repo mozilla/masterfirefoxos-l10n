@@ -1,0 +1,1556 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-01-26 13:22+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. #-#-#-#-#  django.pot (PACKAGE VERSION)  #-#-#-#-#
+#. Translators:
+#. Page Title: Master Firefox OS
+#. Parent Page Title: None
+#: db-strings.txt:7 masterfirefoxos/base/templates/base.html:14
+#: masterfirefoxos/base/templates/base.html:42
+#: masterfirefoxos/base/templates/home.html:17
+msgid "Master Firefox OS"
+msgstr ""
+
+#. Translators:
+#. Page Title: Master Firefox OS
+#. Parent Page Title: None
+#: db-strings.txt:17
+msgid ""
+"<p>Welcome to the Firefox OS global partner and community training hub. "
+"Everything you need to learn to communicate the basics of Firefox OS is "
+"here. Select any topic to get started.</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Introduction
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:27
+msgid "Introduction"
+msgstr ""
+
+#. Translators:
+#. Page Title: Introduction
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:37
+msgid "<p>A phone that makes every moment count</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Introduction
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:47
+msgid ""
+"<p>Your customers' needs are always changing. Firefox OS smartphones adapt "
+"to your customers' needs so they can live every moment to its fullest.<br/"
+"><br/>Easy to use, they’re perfect for new smartphone users and full of all "
+"the features that customers expect. Powered by Mozilla, Firefox OS devices "
+"are the right choice for anyone committed to ensuring that the Web remains a "
+"public resource available to all.</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Introduction
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:57
+msgid "<p>Ready to explore the key benefits of Firefox OS?</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Introduction
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:67 db-strings.txt.py:77 db-strings.txt.py:97
+msgid "<p>The Adaptive Phone</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Introduction
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:87
+msgid ""
+"<p>Firefox OS adapts to the needs of customers better than any other phone."
+"<br><br>Adaptive App Search serves up information on any subject and gives "
+"your customers more of what they’re looking for, exactly when they need it. "
+"This lets them make the most of every moment.</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Introduction
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:107 db-strings.txt.py:127
+msgid "<p>Have It All</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Introduction
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:117
+msgid ""
+"<p>Firefox OS is packed with all the features that made your customers want "
+"a smartphone in the first place: apps, maps, camera, gallery, social "
+"features, music and more.<br><br>With all the features and no compromises, "
+"Firefox OS phones fit your customers' lives more perfectly, so they can fit "
+"in with the world around them.</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Introduction
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:137 db-strings.txt.py:157
+msgid "<p>Keep the Web in Your Hands</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Introduction
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:147
+msgid ""
+"<p>At Mozilla, we’re out to make a difference, not a profit.<br><br>Firefox "
+"OS smartphones are backed by a global community of thousands of developers "
+"working to innovate on your customers' behalf and made locally with their "
+"interests and needs in mind. When customers' choose Firefox OS, they’re "
+"helping build a brighter future for the Web for all.</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Demo Tips
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:167
+msgid "Demo Tips"
+msgstr ""
+
+#. Translators:
+#. Page Title: Demo Tips
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:177
+msgid "<p>Demonstrations that matter</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Demo Tips
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:187
+msgid ""
+"<p>Demonstrating the features of Firefox OS and how easy it is to use will "
+"be your best selling tool.<br>Browse the demonstration videos below to get "
+"started.</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Demo Tips
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:197
+msgid "<p>Intro to FirefoxOS</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Demo Tips
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:207
+msgid ""
+"<p>When you only have a minute, make it count with this simple pitch.</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Demo Tips
+#. Parent Page Title: Master Firefox OS
+#. Translators:
+#. Page Title: Key Features
+#. Parent Page Title: Master Firefox OS
+#. Translators:
+#. Page Title: Take the challenge
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:217 db-strings.txt.py:557 db-strings.txt.py:1387
+#: db-strings.txt:1447 db-strings.txt.py:1507 db-strings.txt.py:1827
+msgid "<p>Adaptive App Search</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Demo Tips
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:227
+msgid ""
+"<p>Show customers how Firefox OS adapts to them, giving them more of what "
+"they need, when they need it.</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Demo Tips
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:237
+msgid "<p>Stay Connected</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Demo Tips
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:247
+msgid "<p>It’s easier than ever to stay connected with Firefox OS.</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Demo Tips
+#. Parent Page Title: Master Firefox OS
+#. Translators:
+#. Page Title: Take the challenge
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:257 db-strings.txt.py:1287
+msgid "<p>HERE Maps</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Demo Tips
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:267
+msgid ""
+"<p>Demonstrate the powerful map features of Firefox OS, including local "
+"transit info.</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Demo Tips
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:277
+msgid "<p>Firefox Browser</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Demo Tips
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:287
+msgid ""
+"<p>Firefox OS lets customers take control of their online lives and get the "
+"best of the Web no matter where they go.</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Demo Tips
+#. Parent Page Title: Master Firefox OS
+#. Translators:
+#. Page Title: Key Features
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:297 db-strings.txt.py:587
+msgid "<p>Marketplace</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Demo Tips
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:307
+msgid ""
+"<p>Firefox Marketplace has the cool games and apps your customers want.</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Demo Tips
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:317
+msgid "<p>Camera & Gallery</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Demo Tips
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:327
+msgid ""
+"<p>Photograph, edit and share. Show off our full-featured camera and gallery "
+"apps, including built-in style filters, video and more.</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Demo Tips
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:337
+msgid "<p>Music & FM Radio</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Demo Tips
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:347
+msgid ""
+"<p>With music at their fingertips, your customers will see how Firefox OS "
+"keeps them entertained and dancing in the streets.</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Customer Guide
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:357
+msgid "Customer Guide"
+msgstr ""
+
+#. Translators:
+#. Page Title: Customer Guide
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:367
+msgid "<p>Who is your ideal Firefox customer?</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Customer Guide
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:377
+msgid ""
+"<p>Understanding your customer’s needs and knowing how to respond on the "
+"spot is critical to any sales opportunity.<br>Check out the common customer "
+"segments below, and tap the bar to learn how to best respond to each of "
+"their unique needs.</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Customer Guide
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:387
+msgid "<p>The Smartphone Rookie</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Customer Guide
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:397 db-strings.txt.py:427 db-strings.txt.py:457
+#: db-strings.txt:487
+msgid "<p>What can you say?</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Customer Guide
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:407
+msgid ""
+"<p>Firefox OS is the best choice for first time smartphone users. It is "
+"super easy to use, and it adapts to your needs better than any other phone, "
+"so you get more of what you need with less time searching. Plus, it is "
+"packed with all the features you’d expect, from camera, to email, apps, "
+"music, maps and more.</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Customer Guide
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:417
+msgid "<p>The Value Seeker</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Customer Guide
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:437
+msgid ""
+"<p>Firefox OS gives you the most value for your money. It has everything you "
+"expect in a smartphone — camera, email, apps, music, maps and more — at the "
+"most competitive prices.</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Customer Guide
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:447
+msgid "<p>The Uncertain Upgrader</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Customer Guide
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:467
+msgid ""
+"<p>Firefox OS is the easiest smartphone to get you started. Adaptive App "
+"Search helps you find the things you need simply — and instantly. The user "
+"interface is so intuitive, you will be able to quickly discover and download "
+"your favorite apps so you’re ready to go.</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Customer Guide
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:477
+msgid "<p>The Firefox Fan</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Customer Guide
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:497
+msgid ""
+"<p>If you know and love Firefox, you’ll love Firefox OS. Firefox OS "
+"smartphones are entirely HTML5-based, bringing the best of the Web to your "
+"phone. Plus, Firefox OS is designed by a community dedicated to keeping the "
+"Web accessible to all. When you choose Firefox OS, you have the full power "
+"of the Web in your hands.</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Key Features
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:507
+msgid "Key Features"
+msgstr ""
+
+#. Translators:
+#. Page Title: Key Features
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:517
+msgid "<p>Features that count</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Key Features
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:527
+msgid ""
+"<p>Firefox OS is packed with the features that your customers expect in a "
+"smartphone. It fits their lives perfectly so they can keep pace with the "
+"world around them.</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Key Features
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:537
+msgid "<p>Have it all</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Key Features
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:547
+msgid ""
+"<p>Select the forward arrow to discover the key features of Firefox OS.</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Key Features
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:567
+msgid ""
+"<p>A new way to get what you need right when you need it, without any of the "
+"headaches of downloading applications. Search for anything, and Firefox OS "
+"adapts to your request, displaying photos, video, music, news, maps and more "
+"- making it much easier for you to find what you were really looking for.</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Key Features
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:577
+msgid "<p>Adaptive App Search...</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Key Features
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:597
+msgid ""
+"<p>Your go-to source for the best apps for Firefox OS. Browse tens of "
+"thousands of free and paid apps in multiple categories, including games, "
+"utilities, music, travel, sports, and more.</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Key Features
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:607
+msgid "<p>Marketplace...</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Key Features
+#. Parent Page Title: Master Firefox OS
+#. Translators:
+#. Page Title: Take the challenge
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:617 db-strings.txt.py:1227 db-strings.txt.py:1377
+#: db-strings.txt:1437 db-strings.txt.py:1497 db-strings.txt.py:1817
+msgid "<p>Firefox browser</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Key Features
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:627
+msgid ""
+"<p>The fast, smart, safe way to get the best of the Web. Use the URL bar to "
+"enter websites, perform searches and access your browsing history. Plus, "
+"tabs let you multitask by browsing multiple pages simultaneously.</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Key Features
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:637
+msgid "<p>Firefox browser...</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Key Features
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:647
+msgid "<p>Facebook and Twitter</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Key Features
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:657
+msgid ""
+"<p>Stay connected, with easy access to your friends and colleagues from "
+"wherever you are.</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Key Features
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:667
+msgid "<p>Facebook and Twitter...</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Key Features
+#. Parent Page Title: Master Firefox OS
+#. Translators:
+#. Page Title: Take the challenge
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:677 db-strings.txt.py:1367 db-strings.txt.py:1427
+#: db-strings.txt:1487 db-strings.txt.py:1807
+msgid "<p>Contacts</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Key Features
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:687
+msgid ""
+"<p>Deeply integrated with your favorite social networks. You can easily "
+"import your Facebook contacts to your phone to keep your community all in "
+"one place.</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Key Features
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:697
+msgid "<p>Contacts...</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Key Features
+#. Parent Page Title: Master Firefox OS
+#. Translators:
+#. Page Title: Take the challenge
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:707 db-strings.txt.py:1237
+msgid "<p>Camera and Gallery</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Key Features
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:717
+msgid ""
+"<p>With built-in style filters for fun, creative shots, and lots of ways to "
+"share your photographs, the full-featured camera and photo gallery will have "
+"all your subjects smiling.</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Key Features
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:727
+msgid "<p>Camera and Gallery...</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Key Features
+#. Parent Page Title: Master Firefox OS
+#. Translators:
+#. Page Title: Take the challenge
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:737 db-strings.txt.py:1267
+msgid "<p>FM Radio</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Key Features
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:747
+msgid ""
+"<p>All the audio you want on the go, all on one device. Just plug in your "
+"earphones and start listening.</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Key Features
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:757
+msgid "<p>FM Radio...</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Key Features
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:767
+msgid "<p>Maps</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Key Features
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:777
+msgid ""
+"<p>Get satellite, public transport, and live traffic views, search for "
+"points of interest and even save your map locally for quicker remote access. "
+"HERE Maps can pinpoint your location and even give you directions (car, "
+"walking or public transportation) to get you to your destination.</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Key Features
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:787
+msgid "<p>Maps...</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Key Features
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:797
+msgid "<p>Music and Video</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Key Features
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:807
+msgid ""
+"<p>Play it all from your phone, or online via Youtube. Browse and play your "
+"music collection by album or artist, rate songs and create playlists for "
+"your favorites.</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Key Features
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:817
+msgid "<p>Play it all from your phone, or online via Youtube.</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Key Features
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:827
+msgid "<p>SMS and Email</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Key Features
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:837
+msgid ""
+"<p>Stay connected to your friends and colleagues wherever you are. It's easy "
+"to set up multiple email accounts, with support for the most common "
+"Exchange, SMTP or IMAP email providers.</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Key Features
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:847
+msgid "<p>SMS and Email...</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Frequently Asked Questions
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:857
+msgid "Frequently Asked Questions"
+msgstr ""
+
+#. Translators:
+#. Page Title: Frequently Asked Questions
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:867
+msgid "<p>You have questions? We have answers!</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Frequently Asked Questions
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:877
+msgid ""
+"<p>By now, you probably have questions and so will your customers! Select "
+"each question for more on Firefox OS.</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Frequently Asked Questions
+#. Parent Page Title: Master Firefox OS
+#. Translators:
+#. Page Title: Take the challenge
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:887 db-strings.txt.py:1667 db-strings.txt.py:1717
+#: db-strings.txt:1767
+msgid "<p> </p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Frequently Asked Questions
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:897
+msgid "<p>What is Adaptive App Search?</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Frequently Asked Questions
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:907
+msgid ""
+"<p>Adaptive App Search is a new way to find content from across the Web and "
+"engage in an app-like experience without the headaches of downloading the "
+"app to find what you need. Whenever you search, your phone adapts to the "
+"search result and makes it easy to add those results to your home screen for "
+"easy access later.</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Frequently Asked Questions
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:917
+msgid "<p>How many and what types of apps will be available?</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Frequently Asked Questions
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:927
+msgid ""
+"<p>App developers around the world are committed to Firefox OS and tens of "
+"thousands of free and paid applications will be available at launch. The "
+"growing list includes leading app developers like Accuweather, Airbnb, Box, "
+"Cut the Rope, EA Games, Facebook, Nokia HERE&reg;, MTV Brasil, Pulse News, "
+"SoundCloud, SporTV, Time Out and Twitter.</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Frequently Asked Questions
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:937
+msgid "<p>What makes Firefox OS more secure than other phones?</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Frequently Asked Questions
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:947
+msgid ""
+"<p>Firefox OS has a robust security model that is battle-hardened from more "
+"than a decade of supporting the Open Web. It is designed to protect the user "
+"and system from malicious applications and content.</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Frequently Asked Questions
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:957
+msgid "<p>Do Android apps work on this phone?</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Frequently Asked Questions
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:967
+msgid ""
+"<p>Not directly. However, many of the most popular Android and iOS apps are "
+"actually Web apps that have a native “wrapper” to allow them to run on "
+"proprietary platforms. Therefore, many of the same apps will be available "
+"through Adaptive App Search.</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Frequently Asked Questions
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:977
+msgid "<p>Do my apps work offline?</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Frequently Asked Questions
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:987
+msgid ""
+"<p>Firefox OS is built on Web technologies but has offline capabilities for "
+"all the phone’s core functionalities. That means apps do not require an "
+"active internet connection to function unless the app must send or receive "
+"data to another system through the internet to continue working.</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Frequently Asked Questions
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:997
+msgid "<p>What about customer support for apps?</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Frequently Asked Questions
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:1007
+msgid ""
+"<p>Consumers who need support with an app built for Firefox OS will be "
+"directed to the app developer for assistance. If the consumer experience "
+"with Firefox OS is negatively impacted by the support incident resulting "
+"from the app, Mozilla may recommend workarounds including uninstalling the "
+"app until the developer provides appropriate assistance.</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Frequently Asked Questions
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:1017
+msgid "<p>How do I download and install apps on Firefox OS?</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Frequently Asked Questions
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:1027
+msgid ""
+"<p>Firefox OS offers two ways to get apps:<ul><li>Firefox Marketplace — Our "
+"go-to source for great apps like Twitter and awesome local content from the "
+"best Web developers in your region.</li><li>Adaptive App Search — Just type "
+"a single word like “sushi” to discover related mobile apps in your region, "
+"delivered by a superior mobile experience and tuned to bring you what you "
+"want.</li><ul></p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Frequently Asked Questions
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:1037
+msgid "<p>Which email providers are supported?</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Frequently Asked Questions
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:1047
+msgid ""
+"<p>Hotmail and Yahoo mail are currently supported with more on the way in "
+"future releases.</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Frequently Asked Questions
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:1057
+msgid "<p>Where should I go if I have more questions?</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Frequently Asked Questions
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:1067
+msgid ""
+"<p>Visit <a href='https://support.mozilla.org/en-US/kb/firefox-os-user-"
+"guide'>https://support.mozilla.org/en-US/kb/firefox-os-user-guide</a> for "
+"more information.</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: The Firefox Mission
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:1077
+msgid "The Firefox Mission"
+msgstr ""
+
+#. Translators:
+#. Page Title: The Firefox Mission
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:1087
+msgid ""
+"<p>Our mission is to promote openness, innovation and opportunity on the Web."
+"</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: The Firefox Mission
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:1097
+msgid ""
+"<p>Behind every Firefox OS smartphone is Mozilla, a global community of "
+"thousands dedicated to keeping the Web accessible to all. That’s because we "
+"believe each and every one of us has the right to a Web that isn’t "
+"controlled by just a few large entities.<br><br>Yeah, we’re a little "
+"different than the other guys. Together, we can build a brighter future for "
+"the Web.</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Take the challenge
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:1107
+msgid "Take the challenge"
+msgstr ""
+
+#. Translators:
+#. Page Title: Take the challenge
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:1117
+msgid "<p>Ready to show what you know?</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Take the challenge
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:1127
+msgid ""
+"<p>Think you're ready to start selling Firefox OS to your customers? Put "
+"your knowledge to work and answer these questions to prove you have what it "
+"takes.</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Take the challenge
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:1137
+msgid "<p>Question 1</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Take the challenge
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:1147
+msgid "<p>How do you access the Adaptive App Search feature on Firefox OS?</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Take the challenge
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:1157
+msgid "<p>Swipe to the left</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Take the challenge
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:1167
+msgid "<p>Click on the home button.</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Take the challenge
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:1177
+msgid "<p>Open Firefox Marketplace.</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Take the challenge
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:1187
+msgid "<p>Open the Firefox browser.</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Take the challenge
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:1197
+msgid "<p>Question 2</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Take the challenge
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:1207
+msgid ""
+"<p>Which of the following apps is pre-loaded on every Firefox OS phone? "
+"Select all that apply.</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Take the challenge
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:1217
+msgid "<p>Firefox Marketplace</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Take the challenge
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:1247
+msgid "<p>Facebook</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Take the challenge
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:1257
+msgid "<p>Email and SMS</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Take the challenge
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:1277
+msgid "<p>Music Player</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Take the challenge
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:1297
+msgid "<p>Question 3</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Take the challenge
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:1307
+msgid ""
+"<p>When you type a word or subject that interests you using Adaptive App "
+"Search what happens? Select all that apply.</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Take the challenge
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:1317
+msgid "<p>Question 4</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Take the challenge
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:1327
+msgid ""
+"<p>Which of these customer responses indicate an ideal candidate for Firefox "
+"OS? Select all that apply.</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Take the challenge
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:1337
+msgid "<p>Question 5</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Take the challenge
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:1347
+msgid ""
+"<p>Which Firefox OS feature does this icon represent?<br><br><img "
+"src='course/assets/m05/t05/p35/m05-t05-p35-a05-b15-c10.png'/></p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Take the challenge
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:1357 db-strings.txt.py:1477 db-strings.txt.py:1797
+msgid "<p>SMS </p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Take the challenge
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:1397
+msgid "<p>Question 6</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Take the challenge
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:1407
+msgid ""
+"<p>Which Firefox OS feature does this represent?<br><br><img src='course/"
+"assets/m05/t05/p35/m05-t05-p35-a05-b20-c05.png'/></p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Take the challenge
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:1417
+msgid "<p>SMS</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Take the challenge
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:1457
+msgid "<p>Question 7</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Take the challenge
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:1467
+msgid ""
+"<p>Which Firefox OS feature does this icon represent?<br><br><img "
+"src='course/assets/m05/t05/p35/m05-t05-p35-a05-b20-c10.png'/></p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Take the challenge
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:1517
+msgid "<p>Question 8</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Take the challenge
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:1527
+msgid ""
+"<p>Your customer wants to understand the biggest benefits of Firefox OS "
+"versus its competitors. Select all of the statements that apply.</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Take the challenge
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:1537
+msgid ""
+"<p>With Adaptive App Search, Firefox OS adapts to your needs better than any "
+"other phone.</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Take the challenge
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:1547
+msgid ""
+"<p>With the Firefox Marketplace and dozens of preloaded apps, like email, "
+"maps, Facebook, a camera, music, and more, Firefox OS is packed with the "
+"features you’d expect in a smartphone.</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Take the challenge
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:1557
+msgid ""
+"<p>Since it is built by Firefox, you can feel confident that Firefox OS is "
+"backed by a global community working on your behalf and with your interests "
+"in mind.</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Take the challenge
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:1567
+msgid ""
+"<p>Firefox OS gives you the broadest selection of devices on the market "
+"today.</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Take the challenge
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:1577
+msgid "<p>Question 9</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Take the challenge
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:1587
+msgid ""
+"<p>A customer tells you that smartphones seem complicated.  What selling "
+"feature should you lead with?</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Take the challenge
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:1597
+msgid ""
+"<p>Firefox OS gives you the most value for your money, with everything you "
+"expect — camera, email, apps, music, maps and more — at the most competitive "
+"prices. </p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Take the challenge
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:1607
+msgid ""
+"<p>Firefox OS is the easiest smartphone to get started with. Your favorite "
+"apps are already preloaded and you can easily import your friends from "
+"Facebook, too.</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Take the challenge
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:1617
+msgid ""
+"<p>If you love Firefox browsers, you’ll love Firefox OS phones. Choosing "
+"Firefox OS keeps the power of the Web in your hands. </p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Take the challenge
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:1627
+msgid "<p>Question 10</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Take the challenge
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:1637
+msgid ""
+"<p>A customer tells you that she’s ready to move up from her old feature "
+"phone. What selling feature should you lead with?</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Take the challenge
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:1647
+msgid "<p>Question 11</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Take the challenge
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:1657
+msgid ""
+"<p>A customer tells you that he uses Firefox as his desktop browser. With "
+"what selling feature should you lead?</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Take the challenge
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:1677
+msgid "<p>Question 12</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Take the challenge
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:1687
+msgid ""
+"<p>A customer says to you, “I’m looking for an easy way to stay in touch "
+"with my friends, but I don’t want to spend a lot of money.” Which of the "
+"following statements would be a good response? Select all that apply. </p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Take the challenge
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:1697
+msgid "<p>Question 13</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Take the challenge
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:1707
+msgid ""
+"<p>A customer says, “I use Firefox on my home computer and I love it, but I "
+"didn’t know they had a smartphone OS. Why?” Which of the following "
+"statements would be the most appropriate response to this particular "
+"customer? </p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Take the challenge
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:1727
+msgid "<p>Question 14</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Take the challenge
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:1737
+msgid ""
+"<p>Which of the following statements about Adaptive App Search are true? "
+"Select all that apply.</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Take the challenge
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:1747
+msgid "<p>Question 15</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Take the challenge
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:1757
+msgid ""
+"<p>While all of the these statements are true, which two responses would be "
+"most useful to a first-time smartphone customer? </p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Take the challenge
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:1777
+msgid "<p>Question 16</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Take the challenge
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:1787
+msgid ""
+"<p>Which Firefox OS feature does this icon represent?<br><br><img "
+"src='course/assets/m05/t05/p35/m05-t05-p35-a05-b15-c05.png'/></p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Take the challenge
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:1837
+msgid "<p>Question 17</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Take the challenge
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:1847
+msgid ""
+"<p>With Adaptive App Search, you can use an app once, quickly and easily, "
+"without installing it. If you want to use it again later, it’s easy to add "
+"it to your homescreen.</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Take the challenge
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:1857
+msgid "<p>True</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Take the challenge
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:1867
+msgid "<p>False</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Take the challenge
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:1877
+msgid "<p>Question 18</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Take the challenge
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:1887
+msgid ""
+"<p>What’s the best response to this customer’s objection? “I’ve heard there "
+"are not many apps.”</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Take the challenge
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:1897
+msgid "<p>Question 19</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Take the challenge
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:1907
+msgid ""
+"<p>What’s the best response to this customer’s objection?<br>“I’ve never "
+"heard of Firefox OS phones.”</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Take the challenge
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:1917
+msgid "<p>Question 20</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Take the challenge
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:1927
+msgid ""
+"<p>What’s the best response to this customer’s objection?<br>“How do I know "
+"this new phone is safe?”</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Take the challenge
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:1937
+msgid "<p>Get ready to sell!</p>"
+msgstr ""
+
+#. Translators:
+#. Page Title: Take the challenge
+#. Parent Page Title: Master Firefox OS
+#: db-strings.txt:1947
+msgid ""
+"<p>If you have worked through the questions and all of the content, then you "
+"have the basics to match the needs of Firefox OS to your customers."
+"<br><br>Easy to use, a Firefox OS smartphone is perfect for new smartphone "
+"users and full of all the features that customers want and need.<br><br>And "
+"it is powered by Mozilla, making Firefox OS the right choice for anyone "
+"committed to ensuring that the power of the Web remains in the hands of "
+"users everywhere!</p>"
+msgstr ""
+
+#: masterfirefoxos/base/templates/base.html:37
+#: masterfirefoxos/base/templates/base.html:79
+#: masterfirefoxos/base/templates/home.html:12
+msgid "Mozilla"
+msgstr ""
+
+#: masterfirefoxos/base/templates/base.html:89
+msgid "Source code"
+msgstr ""
+
+#: masterfirefoxos/base/templates/base.html:94
+msgid "Contact Us"
+msgstr ""
+
+#: masterfirefoxos/base/templates/base.html:95
+msgid "Partner with Us"
+msgstr ""
+
+#: masterfirefoxos/base/templates/base.html:96
+msgid "Donate"
+msgstr ""
+
+#: masterfirefoxos/base/templates/base.html:97
+msgid "Privacy Policy"
+msgstr ""
+
+#: masterfirefoxos/base/templates/base.html:98
+msgid "Legal Notices"
+msgstr ""
+
+#: masterfirefoxos/base/templates/base.html:99
+msgid "Report Trademark Abuse"
+msgstr ""
+
+#: masterfirefoxos/base/templates/base.html:103
+msgid "Mozilla on Twitter"
+msgstr ""
+
+#: masterfirefoxos/base/templates/base.html:104
+msgid "Firefox on Twitter"
+msgstr ""
+
+#: masterfirefoxos/base/templates/base.html:105
+msgid "Mozilla on Facebook"
+msgstr ""
+
+#: masterfirefoxos/base/templates/base.html:106
+msgid "Firefox on Facebook"
+msgstr ""
+
+#: masterfirefoxos/base/templates/home.html:52
+msgid "Learn more"
+msgstr ""
+
+#: masterfirefoxos/base/templates/includes/nav-information.html:3
+msgid "Home"
+msgstr ""
+
+#: masterfirefoxos/base/templates/includes/nav-information.html:4
+msgid "About"
+msgstr ""
+
+#: masterfirefoxos/base/templates/includes/nav-information.html:5
+msgid "Contact"
+msgstr ""
+
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:3
+msgid "Language"
+msgstr ""
+
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:11
+msgid "Firefox OS version"
+msgstr ""
+
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:17
+msgid "Which version do I have?"
+msgstr ""
+
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:19
+msgid "Change"
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:170
+msgid "Bengali"
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:171
+msgid "Croatian"
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:172
+msgid "Czech"
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:173
+msgid "English"
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:174
+msgid "German"
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:175
+msgid "Greek"
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:176
+msgid "Hindi"
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:177
+msgid "Hungarian"
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:178
+msgid "Italian"
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:179
+msgid "Polish"
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:180
+msgid "Portuguese"
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:181
+msgid "Serbian"
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:182
+msgid "Spanish"
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:183
+msgid "Tamil"
+msgstr ""
