@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-26 16:57+0000\n"
+"POT-Creation-Date: 2015-01-27 16:57+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -94,17 +94,29 @@ msgstr "Contact ye scalleywag❗"
 msgid "Language"
 msgstr "Language cap'n❗"
 
-#: masterfirefoxos/base/templates/includes/version-language-switcher.html:11
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:15
 msgid "Firefox OS version"
 msgstr "Firefox OS varrsion aye❗"
 
-#: masterfirefoxos/base/templates/includes/version-language-switcher.html:17
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:21
 msgid "Which version do I have?"
 msgstr "Which varrsion do I have prepare to be boarded❗?"
 
-#: masterfirefoxos/base/templates/includes/version-language-switcher.html:19
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:23
 msgid "Change"
 msgstr "Change aye❗"
+
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:34
+msgid ""
+"Documentation for Firefox OS {version} is not yet available in {language}, "
+"so we redirected you to the English version."
+msgstr ""
+"Documentation fer Firefox OS {version} is not yet available in {language}, "
+"so we redirect'd ye' to th' English varrsion matey❗."
+
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:36
+msgid "The latest version available in {language} is {version}."
+msgstr "The latest varrsion available in {language} is {version} ahoy❗."
 
 #: masterfirefoxos/settings/base.py:171
 msgid "Bengali"
@@ -161,6 +173,10 @@ msgstr "Spanish ye scalleywag❗"
 #: masterfirefoxos/settings/base.py:184
 msgid "Tamil"
 msgstr "Tamil ahoy❗"
+
+#: masterfirefoxos/settings/base.py:185
+msgid "Pirate"
+msgstr ""
 
 #~ msgid ""
 #~ "<p>Welcome to the Firefox OS global partner and community training hub. "
@@ -1676,13 +1692,3 @@ msgstr "Tamil ahoy❗"
 #~ "<p>Think you're ready to start sellin' Firefox OS to yerr customarrs? Put "
 #~ "yerr knowledge to work and answerr these questions to prove ye' have what "
 #~ "it takes ye landlubbers❗.</p>"
-
-#~ msgid ""
-#~ "Documentation for Firefox OS {version} is not yet available in "
-#~ "{language}, so we redirected you to the English version."
-#~ msgstr ""
-#~ "Documentation fer Firefox OS {version} is not yet available in "
-#~ "{language}, so we redirect'd ye' to th' English varrsion matey❗."
-
-#~ msgid "The latest version available in {language} is {version}."
-#~ msgstr "The latest varrsion available in {language} is {version} ahoy❗."

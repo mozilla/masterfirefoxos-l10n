@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-26 16:57+0000\n"
+"POT-Creation-Date: 2015-01-27 16:57+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -94,16 +94,26 @@ msgstr ""
 msgid "Language"
 msgstr ""
 
-#: masterfirefoxos/base/templates/includes/version-language-switcher.html:11
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:15
 msgid "Firefox OS version"
 msgstr ""
 
-#: masterfirefoxos/base/templates/includes/version-language-switcher.html:17
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:21
 msgid "Which version do I have?"
 msgstr ""
 
-#: masterfirefoxos/base/templates/includes/version-language-switcher.html:19
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:23
 msgid "Change"
+msgstr ""
+
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:34
+msgid ""
+"Documentation for Firefox OS {version} is not yet available in {language}, "
+"so we redirected you to the English version."
+msgstr ""
+
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:36
+msgid "The latest version available in {language} is {version}."
 msgstr ""
 
 #: masterfirefoxos/settings/base.py:171
@@ -160,4 +170,8 @@ msgstr ""
 
 #: masterfirefoxos/settings/base.py:184
 msgid "Tamil"
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:185
+msgid "Pirate"
 msgstr ""
