@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-30 05:30+0000\n"
+"POT-Creation-Date: 2015-01-30 07:46+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -159,7 +159,7 @@ msgstr ""
 #: db-strings.txt:141
 msgid ""
 "<p>Demonstrating the features of Firefox OS and how easy it is to use will "
-"be your best selling tool.<br>Browse the demonstration videos below to get "
+"be your best selling tool.<br />Browse the demonstration videos below to get "
 "started.</p>"
 msgstr ""
 
@@ -173,8 +173,8 @@ msgstr ""
 #. Page path: /1-1/demo-tips/
 #: db-strings.txt:159
 msgid ""
-"With music at their fingertips, your customers will see how Firefox OS keeps "
-"them entertained and dancing in the streets."
+"<p>With music at their fingertips, your customers will see how Firefox OS "
+"keeps them entertained and dancing in the streets.</p>"
 msgstr ""
 
 #. Translators:
@@ -193,8 +193,8 @@ msgstr ""
 #. Page path: /1-1/demo-tips/
 #: db-strings.txt:186
 msgid ""
-"Photograph, edit and share. Show off our full-featured camera and gallery "
-"apps, including built-in style filters, video and more."
+"<p>Photograph, edit and share. Show off our full-featured camera and gallery "
+"apps, including built-in style filters, video and more.</p>"
 msgstr ""
 
 #. Translators:
@@ -214,7 +214,8 @@ msgstr ""
 #. Translators:
 #. Page path: /1-1/demo-tips/
 #: db-strings.txt:213
-msgid "Firefox Marketplace has the cool games and apps your customers want."
+msgid ""
+"<p>Firefox Marketplace has the cool games and apps your customers want.</p>"
 msgstr ""
 
 #. Translators:
@@ -233,8 +234,8 @@ msgstr ""
 #. Page path: /1-1/demo-tips/
 #: db-strings.txt:240
 msgid ""
-"Firefox OS lets customers take control of their online lives and get the "
-"best of the Web no matter where they go."
+"<p>Firefox OS lets customers take control of their online lives and get the "
+"best of the Web no matter where they go.</p>"
 msgstr ""
 
 #. Translators:
@@ -255,16 +256,14 @@ msgstr ""
 #. Page path: /1-1/demo-tips/
 #: db-strings.txt:267
 msgid ""
-"Demonstrate the powerful map features of Firefox OS, including local transit "
-"info."
+"<p>Demonstrate the powerful map features of Firefox OS, including local "
+"transit info.</p>"
 msgstr ""
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
-#. Translators:
-#. Page path: /1-3T/demo-tips/
-#: db-strings.txt:276 db-strings.txt.py:2616
-msgid "hGvNjO82y-4"
+#: db-strings.txt:276
+msgid "Dvne9wMwV6E"
 msgstr ""
 
 #. Translators:
@@ -276,15 +275,13 @@ msgstr ""
 #. Translators:
 #. Page path: /1-1/demo-tips/
 #: db-strings.txt:294
-msgid "It’s easier than ever to stay connected with Firefox OS."
+msgid "<p>It&rsquo;s easier than ever to stay connected with Firefox OS.</p>"
 msgstr ""
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
-#. Translators:
-#. Page path: /1-3T/demo-tips/
-#: db-strings.txt:303 db-strings.txt.py:2643
-msgid "YarD9ZluQJU"
+#: db-strings.txt:303
+msgid "-2V-hbYu9WQ"
 msgstr ""
 
 #. Translators:
@@ -303,8 +300,8 @@ msgstr ""
 #. Page path: /1-1/demo-tips/
 #: db-strings.txt:321
 msgid ""
-"Show customers how Firefox OS adapts to them, giving them more of what they "
-"need, when they need it."
+"<p>Show customers how Firefox OS adapts to them, giving them more of what "
+"they need, when they need it.</p>"
 msgstr ""
 
 #. Translators:
@@ -322,7 +319,8 @@ msgstr ""
 #. Translators:
 #. Page path: /1-1/demo-tips/
 #: db-strings.txt:348
-msgid "When you only have a minute, make it count with this simple pitch."
+msgid ""
+"<p>When you only have a minute, make it count with this simple pitch.</p>"
 msgstr ""
 
 #. Translators:
@@ -2038,6 +2036,12 @@ msgstr ""
 
 #. Translators:
 #. Page path: /1-3T/demo-tips/
+#: db-strings.txt:2616
+msgid "hGvNjO82y-4"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/demo-tips/
 #: db-strings.txt:2625
 msgid "Rich Media Experience"
 msgstr ""
@@ -2049,6 +2053,12 @@ msgid ""
 "With the Camera, Gallery, Music apps and more, Firefox OS will keep your "
 "customers entertained on the go and connected to the things that matter most "
 "to them."
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/demo-tips/
+#: db-strings.txt:2643
+msgid "YarD9ZluQJU"
 msgstr ""
 
 #. Translators:
