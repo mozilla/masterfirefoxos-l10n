@@ -2,13 +2,13 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-29 16:54+0000\n"
+"POT-Creation-Date: 2015-01-30 05:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,10 +18,1924 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: masterfirefoxos/base/templates/base.html:14
+#. Translators:
+#. Page path: /1-1/
+#: db-strings.txt:6 masterfirefoxos/base/templates/base.html:14
 #: masterfirefoxos/base/templates/base.html:42
 #: masterfirefoxos/base/templates/home.html:17
 msgid "Master Firefox OS"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/
+#: db-strings.txt:15
+msgid ""
+"<p>Welcome to the Firefox OS global partner and community training hub. "
+"Everything you need to learn to communicate the basics of Firefox OS is "
+"here. Select any topic to get started.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/introduction/
+#: db-strings.txt:24
+msgid "Introduction"
+msgstr "ΕΙΣΑΓΩΓΗ"
+
+#. Translators:
+#. Page path: /1-1/introduction/
+#: db-strings.txt:33
+msgid "<p>Ready to explore the key benefits of Firefox OS?</p>"
+msgstr "<p>Έτοιμοι να εξερευνήσετε τα βασικά προτερήματα του Firefox OS;</p>"
+
+#. Translators:
+#. Page path: /1-1/introduction/
+#: db-strings.txt:42
+msgid "<p>The Adaptive Phone</p>"
+msgstr "<p>Το τηλέφωνο που προσαρμόζεται</p>"
+
+#. Translators:
+#. Page path: /1-1/introduction/
+#: db-strings.txt:51
+msgid ""
+"<p>Firefox OS adapts to the needs of customers better than any other "
+"phone.<br><br>Adaptive App Search serves up information on any subject and "
+"gives your customers more of what they’re looking for, exactly when they "
+"need it. This lets them make the most of every moment.</p>"
+msgstr ""
+"<p>Το Firefox OS προσαρμόζεται στις ανάγκες των πελατών καλύτερα από "
+"οποιοδήποτε άλλο τηλέφωνο.<br/><br/>Η δυναμική αναζήτηση εφαρμογών παρέχει "
+"πληροφορίες για οποιοδήποτε θέμα και δίνει στους πελάτες σας περισσότερα από"
+" όσα ζητούν, ακριβώς τη στιγμή που θα το χρειαστούν. Αυτό τους επιτρέπει να "
+"αποκομίζουν το μέγιστο, κάθε στιγμή.</p>"
+
+#. Translators:
+#. Page path: /1-1/introduction/
+#: db-strings.txt:60
+msgid "<p>Have It All</p>"
+msgstr "<p>Έχει ό,τι χρειάζεστε</p>"
+
+#. Translators:
+#. Page path: /1-1/introduction/
+#: db-strings.txt:69
+msgid ""
+"<p>Firefox OS is packed with all the features that made your customers want "
+"a smartphone in the first place: apps, maps, camera, gallery, social "
+"features, music and more.<br><br>With all the features and no compromises, "
+"Firefox OS phones fit your customers' lives more perfectly, so they can fit "
+"in with the world around them.</p>"
+msgstr ""
+"<p>Το Firefox OS περιέχει όλα τα χαρακτηριστικά που έκαναν τους πελάτες σας "
+"να θέλουν ένα smartphone: εφαρμογές, χάρτες, κάμερα, πολυμέσα, κοινωνικά "
+"χαρακτηριστικά, μουσική και περισσότερα.<br><br>Το Firefox OS επιτρέπει "
+"στους πελάτες να έχουν τον έλεγχο της διαδικτυακής τους ζωής και να "
+"αποκομίζουν το μέγιστο από τον ιστό οπουδήποτε και αν βρίσκονται.</p>"
+
+#. Translators:
+#. Page path: /1-1/introduction/
+#: db-strings.txt:78
+msgid "<p>Keep the Web in Your Hands</p>"
+msgstr "<p>Κρατήστε τον ιστό στα χέρια σας</p>"
+
+#. Translators:
+#. Page path: /1-1/introduction/
+#: db-strings.txt:87
+msgid ""
+"<p>At Mozilla, we’re out to make a difference, not a profit.<br><br>Firefox "
+"OS smartphones are backed by a global community of thousands of developers "
+"working to innovate on your customers' behalf and made locally with their "
+"interests and needs in mind. When customers' choose Firefox OS, they’re "
+"helping build a brighter future for the Web for all.</p>"
+msgstr ""
+"<p>Το ίδρυμα Mozilla υπάρχει για να κάνει τη διαφορά, όχι να "
+"αποκομίσει.<br><br>Τα Firefox OS smartphones υποστηρίζονται από μια "
+"παγκόσμια κοινότητα που εργάζεται για να καινοτομεί προς όφελος των πελατών "
+"σας και δημιουργούνται έχοντας κατά νου τις ανάγκες και τα ενδιαφέροντά "
+"τους. Όταν οι πελάτες διαλέγουν το Firefox OS, βοηθούν στη δημιουργία ενός "
+"λαμπρότερου μέλλοντος για τον ιστό - για όλους. </p>"
+
+#. Translators:
+#. Page path: /1-1/introduction/
+#: db-strings.txt:96
+msgid "A phone that makes every moment count"
+msgstr "Ένα τηλέφωνο που κάνει κάθε στιγμή να μετράει"
+
+#. Translators:
+#. Page path: /1-1/introduction/
+#: db-strings.txt:105
+msgid ""
+"Your customers' needs are always changing. Firefox OS smartphones adapt to "
+"your customers' needs so they can live every moment to its "
+"fullest.<br/><br/>Easy to use, they’re perfect for new smartphone users and "
+"full of all the features that customers expect. Powered by Mozilla, Firefox "
+"OS devices are the right choice for anyone committed to ensuring that the "
+"Web remains a public resource available to all."
+msgstr ""
+"Οι ανάγκες των πελατών σας αλλάζουν συνεχώς. Τα smartphones με Firefox OS "
+"προσαρμόζονται στις ανάγκες των πελατών σας, ώστε να μπορούν να ζουν κάθε "
+"στιγμή στο έπακρο.<br/><br/>Εύκολα στη χρήση, είναι τέλεια για νέους χρήστες"
+" smartphone και έχουν όλα τα χαρακτηριστικά που αναμένουν οι καταναλωτές."
+
+#. Translators:
+#. Page path: /1-1/introduction/
+#: db-strings.txt:114
+msgid "z8IAfoqxOPI"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/demo-tips/
+#: db-strings.txt:123
+msgid "Demo Tips"
+msgstr "ΣΥΜΒΟΥΛΕΣ"
+
+#. Translators:
+#. Page path: /1-1/demo-tips/
+#: db-strings.txt:132
+msgid "<p>Demonstrations that matter</p>"
+msgstr "<p>Παρουσιάσεις που αξίζουν</p>"
+
+#. Translators:
+#. Page path: /1-1/demo-tips/
+#: db-strings.txt:141
+msgid ""
+"<p>Demonstrating the features of Firefox OS and how easy it is to use will "
+"be your best selling tool.<br>Browse the demonstration videos below to get "
+"started.</p>"
+msgstr ""
+"<p>Η παρουσίαση των χαρακτηριστικών του Firefox OS και η ευκολία στη χρήση "
+"του θα είναι το καλύτερο εργαλείο πώλησης. Άρα, τι θα πρέπει να "
+"δείξετε;<br/><br/>Περιηγηθείτε στα βίντεο παρουσιάσεων παρακάτω για να "
+"ξεκινήσετε.</p>"
+
+#. Translators:
+#. Page path: /1-1/demo-tips/
+#: db-strings.txt:150
+msgid "Music & FM Radio"
+msgstr "Μουσική και ραδιόφωνο FM"
+
+#. Translators:
+#. Page path: /1-1/demo-tips/
+#: db-strings.txt:159
+msgid ""
+"With music at their fingertips, your customers will see how Firefox OS keeps"
+" them entertained and dancing in the streets."
+msgstr ""
+"Με τη μουσική στα χέρια τους, οι πελάτες σας θα διαπιστώσουν πως το Firefox "
+"OS προσθέτει κέφι και ζωντάνια στη ροή της καθημερινότητας τους."
+
+#. Translators:
+#. Page path: /1-1/demo-tips/
+#: db-strings.txt:168
+msgid "kGb4OLORKPA"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/demo-tips/
+#: db-strings.txt:177
+msgid "Camera & Gallery"
+msgstr "Κάμερα και πολυμέσα"
+
+#. Translators:
+#. Page path: /1-1/demo-tips/
+#: db-strings.txt:186
+msgid ""
+"Photograph, edit and share. Show off our full-featured camera and gallery "
+"apps, including built-in style filters, video and more."
+msgstr ""
+"Φωτογραφήστε, επεξεργαστείτε και μοιραστείτε το. Παρουσιάστε τις πλούσιες σε"
+" χαρακτηριστικά εφαρμογές κάμερας και πολυμέσων, οι οποίες περιλαμβάνουν "
+"ενσωματωμένα φίλτρα, βίντεο, και περισσότερα."
+
+#. Translators:
+#. Page path: /1-1/demo-tips/
+#: db-strings.txt:195
+msgid "ikbujo0l7dI"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/demo-tips/
+#: db-strings.txt:204
+msgid "Marketplace"
+msgstr "Marketplace"
+
+#. Translators:
+#. Page path: /1-1/demo-tips/
+#: db-strings.txt:213
+msgid "Firefox Marketplace has the cool games and apps your customers want."
+msgstr ""
+"Το Firefox Marketplace έχει τα απίθανα παιχνίδια και τις εφαρμογές που "
+"θέλουν οι πελάτες σας."
+
+#. Translators:
+#. Page path: /1-1/demo-tips/
+#: db-strings.txt:222
+msgid "nwAUQvNuyTw"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/demo-tips/
+#: db-strings.txt:231
+msgid "Firefox Browser"
+msgstr "Περιηγητής Firefox"
+
+#. Translators:
+#. Page path: /1-1/demo-tips/
+#: db-strings.txt:240
+msgid ""
+"Firefox OS lets customers take control of their online lives and get the "
+"best of the Web no matter where they go."
+msgstr ""
+"Το Firefox OS βάζει τον ιστό στα χέρια των χρηστών και το πετυχαίνει "
+"καλύτερα από οποιοδήποτε άλλο τηλέφωνο."
+
+#. Translators:
+#. Page path: /1-1/demo-tips/
+#: db-strings.txt:249
+msgid "46dngYXUcFg"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/demo-tips/
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:258 db-strings.txt.py:1887
+msgid "HERE Maps"
+msgstr "Χάρτες (HERE Maps)"
+
+#. Translators:
+#. Page path: /1-1/demo-tips/
+#: db-strings.txt:267
+msgid ""
+"Demonstrate the powerful map features of Firefox OS, including local transit"
+" info."
+msgstr ""
+"Παρουσιάστε τα ισχυρά χαρακτηριστικά του χάρτη του Firefox OS, που "
+"περιλαμβάνουν και τοπικές πληροφορίες συγκοινωνίας."
+
+#. Translators:
+#. Page path: /1-1/demo-tips/
+#: db-strings.txt:276
+msgid "hGvNjO82y-4"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/demo-tips/
+#: db-strings.txt:285
+msgid "Stay Connected"
+msgstr "Κοινωνική δικτύωση"
+
+#. Translators:
+#. Page path: /1-1/demo-tips/
+#: db-strings.txt:294
+msgid "It’s easier than ever to stay connected with Firefox OS."
+msgstr "Είναι πιο εύκολο από ποτέ να μείνετε δικτυωμένοι με το Firefox OS."
+
+#. Translators:
+#. Page path: /1-1/demo-tips/
+#: db-strings.txt:303
+msgid "YarD9ZluQJU"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/demo-tips/
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:312 db-strings.txt.py:1995 db-strings.txt.py:2031
+#: db-strings.txt:2067 db-strings.txt.py:2346
+msgid "Adaptive App Search"
+msgstr "Προσαρμοσμένη αναζήτηση εφαρμογών"
+
+#. Translators:
+#. Page path: /1-1/demo-tips/
+#: db-strings.txt:321
+msgid ""
+"Show customers how Firefox OS adapts to them, giving them more of what they "
+"need, when they need it."
+msgstr ""
+"Δείξτε στους πελάτες πως το Firefox OS προσαρμόζεται σε αυτούς, δίνοντας "
+"τους περισσότερα από όσα χρειάζονται, όποτε τα χρειάζονται."
+
+#. Translators:
+#. Page path: /1-1/demo-tips/
+#: db-strings.txt:330
+msgid "SijuLONPI9U"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/demo-tips/
+#: db-strings.txt:339
+msgid "Intro to FirefoxOS"
+msgstr "Γνωρίζοντας το Firefox OS"
+
+#. Translators:
+#. Page path: /1-1/demo-tips/
+#: db-strings.txt:348
+msgid "When you only have a minute, make it count with this simple pitch."
+msgstr "Όταν έχετε μόνο ένα λεπτό, κάντε το να μετρά με αυτό το απλό βήμα."
+
+#. Translators:
+#. Page path: /1-1/demo-tips/
+#: db-strings.txt:357
+msgid "yPRIgHARJsA"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/customer-guide/
+#: db-strings.txt:366
+msgid "Customer Guide"
+msgstr "ΟΔΗΓΟΣ ΠΕΛΑΤΗ"
+
+#. Translators:
+#. Page path: /1-1/customer-guide/
+#: db-strings.txt:375
+msgid "<p>Who is your ideal Firefox customer?</p>"
+msgstr "<p>Ποιος είναι ο ιδανικός πελάτης Firefox;</p>"
+
+#. Translators:
+#. Page path: /1-1/customer-guide/
+#: db-strings.txt:384
+msgid ""
+"<p>Understanding your customer’s needs and knowing how to respond on the "
+"spot is critical to any sales opportunity.<br>Check out the common customer "
+"segments below, and tap the bar to learn how to best respond to each of "
+"their unique needs.</p>"
+msgstr ""
+"<p>Η κατανόηση των αναγκών του πελάτη σας και το να γνωρίζετε πως θα "
+"ανταποκριθείτε αμέσως είναι κρίσιμα σημεία για κάθε πώληση.<br><br>Δείτε "
+"παρακάτω στα τμήματα τυπικών πελατών, και σύρετε το πλαίσιο για να μάθετε "
+"πως θα αποκριθείτε βέλτιστα σε κάθε μοναδική ανάγκη τους.</p>"
+
+#. Translators:
+#. Page path: /1-1/customer-guide/
+#: db-strings.txt:393
+msgid "<p>The Smartphone Rookie</p>"
+msgstr "<p>Ο νέος στα smartphone</p>"
+
+#. Translators:
+#. Page path: /1-1/customer-guide/
+#: db-strings.txt:402
+msgid "<p>What can you say?</p>"
+msgstr "<p>Να τι μπορείτε να πείτε:</p>"
+
+#. Translators:
+#. Page path: /1-1/customer-guide/
+#: db-strings.txt:411
+msgid ""
+"<p>Firefox OS is the best choice for first time smartphone users. It is "
+"super easy to use, and it adapts to your needs better than any other phone, "
+"so you get more of what you need with less time searching. Plus, it is "
+"packed with all the features you’d expect, from camera, to email, apps, "
+"music, maps and more.</p>"
+msgstr ""
+"<p>Το Firefox OS είναι η καλύτερη επιλογή για νέους χρήστες smartphone. "
+"Είναι πανεύκολο στη χρήση, και καλύπτει τις ανάγκες σας καλύτερα από κάθε "
+"άλλο τηλέφωνο, ώστε να παίρνετε περισσότερα από όσα ζητάτε και με λιγότερο "
+"χρόνο αναζήτησης. Ακόμη, περιέχει όλα τα χαρακτηριστικά που θα περιμένατε. "
+"Από κάμερα, μέχρι emaiｌ, εφαρμογές, μουσική, χάρτες και περισσότερα.</p>"
+
+#. Translators:
+#. Page path: /1-1/customer-guide/
+#: db-strings.txt:420
+msgid "<p>The Value Seeker</p>"
+msgstr "<p>Ο κυνηγός ευκαιριών</p>"
+
+#. Translators:
+#. Page path: /1-1/customer-guide/
+#: db-strings.txt:429
+msgid ""
+"<p>Firefox OS gives you the most value for your money. It has everything you"
+" expect in a smartphone — camera, email, apps, music, maps and more — at the"
+" most competitive prices.</p>"
+msgstr ""
+"<p>Το Firefox OS σας δίνει την καλύτερη αναλογία επιδόσεων για την τιμή του."
+" Διαθέτει ό,τι αναμένετε από ένα smartphone -- κάμερα, email, εφαρμογές, "
+"μουσική, χάρτες και περισσότερα -- στις πιο ανταγωνιστικές τιμές.</p>"
+
+#. Translators:
+#. Page path: /1-1/customer-guide/
+#: db-strings.txt:438
+msgid "<p>The Uncertain Upgrader</p>"
+msgstr "<p>Ο αβέβαιος για τη μετάβαση</p>"
+
+#. Translators:
+#. Page path: /1-1/customer-guide/
+#: db-strings.txt:447
+msgid ""
+"<p>Firefox OS is the easiest smartphone to get you started. Adaptive App "
+"Search helps you find the things you need simply — and instantly. The user "
+"interface is so intuitive, you will be able to quickly discover and download"
+" your favorite apps so you’re ready to go.</p>"
+msgstr ""
+"<p>Το Firefox OS είναι το ευκολότερο smartphone για να ξεκινήσετε. Η "
+"Δυναμική αναζήτηση εφαρμογών σας βοηθά να βρείτε ό,τι χρειάζεστε εύκολα – "
+"και στη στιγμή Το περιβάλλον χρήσης είναι τόσο απλό, που θα είστε γρήγορα σε"
+" θέση να ανακαλύψετε και να κατεβάσετε τις αγαπημένες σας εφαρμογές ώστε να "
+"ξεκινήσετε.</p>"
+
+#. Translators:
+#. Page path: /1-1/customer-guide/
+#: db-strings.txt:456
+msgid "<p>The Firefox Fan</p>"
+msgstr "<p>Ο υποστηρικτής του Firefox</p>"
+
+#. Translators:
+#. Page path: /1-1/customer-guide/
+#: db-strings.txt:465
+msgid ""
+"<p>If you know and love Firefox, you’ll love Firefox OS. Firefox OS "
+"smartphones are entirely HTML5-based, bringing the best of the Web to your "
+"phone. Plus, Firefox OS is designed by a community dedicated to keeping the "
+"Web accessible to all. When you choose Firefox OS, you have the full power "
+"of the Web in your hands.</p>"
+msgstr ""
+"<p>Αν γνωρίζετε και αγαπάτε τον Firefox, θα λατρέψετε το Firefox OS. Τα "
+"Firefox OS smartphones βασίζονται εξολοκλήρου σε HTML5, φέρνοντας ό,τι "
+"καλύτερο από τον ιστό στο τηλέφωνο σας. Ακόμη, το Firefox OS είναι "
+"σχεδιασμένο από μια κοινότητα αφοσιωμένη στη διατήρηση του Web προσβάσιμου "
+"από όλους. Όταν διαλέγετε το Firefox OS, έχετε όλη τη δύναμη του Web στα "
+"χέρια σας.</p>"
+
+#. Translators:
+#. Page path: /1-1/key-features/
+#: db-strings.txt:474
+msgid "Key Features"
+msgstr "ΒΑΣΙΚΑ ΧΑΡΑΚΤΗΡΙΣΤΙΚΑ"
+
+#. Translators:
+#. Page path: /1-1/key-features/
+#: db-strings.txt:483
+msgid "<p>Features that count</p>"
+msgstr "<p>Χαρακτηριστικά που αξίζουν</p>"
+
+#. Translators:
+#. Page path: /1-1/key-features/
+#: db-strings.txt:492
+msgid ""
+"<p>Firefox OS is packed with the features that your customers expect in a "
+"smartphone. It fits their lives perfectly so they can keep pace with the "
+"world around them.</p>"
+msgstr ""
+"<p>Το Firefox OS περιέχει όλα τα χαρακτηριστικά που οι πελάτες σας "
+"περιμένουν από ένα smartphone. Ταιριάζει τέλεια στη ζωή τους ώστε να είναι "
+"σε αρμονία με τον κόσμο γύρω τους.</p>"
+
+#. Translators:
+#. Page path: /1-1/key-features/
+#: db-strings.txt:501
+msgid "<p>Have it all</p>"
+msgstr "<p>Αποκτήστε τα όλα</p>"
+
+#. Translators:
+#. Page path: /1-1/key-features/
+#: db-strings.txt:510
+msgid ""
+"<p>Select the forward arrow to discover the key features of Firefox OS.</p>"
+msgstr ""
+"<p>Επιλέξτε το βέλος προς τα εμπρός για να ανακαλύψετε τα βασικά "
+"χαρακτηριστικά του Firefox OS.</p>"
+
+#. Translators:
+#. Page path: /1-1/key-features/
+#: db-strings.txt:519
+msgid "<p>Adaptive App Search</p>"
+msgstr "<p>Προσαρμοσμένη αναζήτηση εφαρμογών</p>"
+
+#. Translators:
+#. Page path: /1-1/key-features/
+#: db-strings.txt:528
+msgid ""
+"<p>A new way to get what you need right when you need it, without any of the"
+" headaches of downloading applications. Search for anything, and Firefox OS "
+"adapts to your request, displaying photos, video, music, news, maps and more"
+" - making it much easier for you to find what you were really looking "
+"for.</p>"
+msgstr ""
+"<p>Ένας νέος τρόπος να πάρετε ό,τι χρειάζεστε όταν το χρειάζεστε, χωρίς "
+"περιττές δυσκολίες σχετικές με λήψη εφαρμογών. Ψάξτε για οτιδήποτε, και το "
+"Firefox OS προσαρμόζεται στην αναζήτηση σας, εμφανίζοντας φωτογραφίες, "
+"βίντεο, μουσική, νέα, χάρτες και περισσότερα – κάνοντας πολύ πιο εύκολη για "
+"εσάς την εύρεση αυτού που ζητήσατε.</p>"
+
+#. Translators:
+#. Page path: /1-1/key-features/
+#: db-strings.txt:537
+msgid "<p>Adaptive App Search...</p>"
+msgstr "<p>Αποκτήστε τα όλα...</p>"
+
+#. Translators:
+#. Page path: /1-1/key-features/
+#: db-strings.txt:546
+msgid "<p>Marketplace</p>"
+msgstr "<p>Marketplace</p>"
+
+#. Translators:
+#. Page path: /1-1/key-features/
+#: db-strings.txt:555
+msgid ""
+"<p>Your go-to source for the best apps for Firefox OS. Browse tens of "
+"thousands of free and paid apps in multiple categories, including games, "
+"utilities, music, travel, sports, and more.</p>"
+msgstr ""
+"<p>Η πηγή για τις καλύτερες εφαρμογές του Firefox OS. Περιηγηθείτε μεταξύ "
+"δεκάδων χιλιάδων δωρεάν και επί πληρωμή εφαρμογών σε ποικίλες κατηγορίες, "
+"από παιχνίδια μέχρι εργαλεία, μουσική, ταξίδια, αθλήματα, και "
+"περισσότερα</p>"
+
+#. Translators:
+#. Page path: /1-1/key-features/
+#: db-strings.txt:564
+msgid "<p>Marketplace...</p>"
+msgstr "<p>Marketplace...</p>"
+
+#. Translators:
+#. Page path: /1-1/key-features/
+#: db-strings.txt:573
+msgid "<p>Firefox browser</p>"
+msgstr "<p>Περιηγητής Firefox</p>"
+
+#. Translators:
+#. Page path: /1-1/key-features/
+#: db-strings.txt:582
+msgid ""
+"<p>The fast, smart, safe way to get the best of the Web. Use the URL bar to "
+"enter websites, perform searches and access your browsing history. Plus, "
+"tabs let you multitask by browsing multiple pages simultaneously.</p>"
+msgstr ""
+"<p>Ο γρήγορος, έξυπνος, ασφαλής τρόπος να λάβετε τα καλύτερα από τον ιστό. "
+"Χρησιμοποιήστε την εργαλειοθήκη διευθύνσεων για να εισάγετε διευθύνσεις URL,"
+" να αναζητήσετε, και να αποκτήσετε πρόσβαση στο ιστορικό περιήγησής σας. "
+"Επιπλέον, οι καρτέλες σας επιτρέπουν να εργάζεστε παράλληλα ανοίγοντας "
+"πολλαπλές σελίδες ταυτόχρονα.</p>"
+
+#. Translators:
+#. Page path: /1-1/key-features/
+#: db-strings.txt:591
+msgid "<p>Firefox browser...</p>"
+msgstr "<p>Περιηγητής Firefox...</p>"
+
+#. Translators:
+#. Page path: /1-1/key-features/
+#: db-strings.txt:600
+msgid "<p>Facebook and Twitter</p>"
+msgstr "<p>Facebook και Twitter</p>"
+
+#. Translators:
+#. Page path: /1-1/key-features/
+#: db-strings.txt:609
+msgid ""
+"<p>Stay connected, with easy access to your friends and colleagues from "
+"wherever you are.</p>"
+msgstr ""
+"<p>Μείνετε δικτυωμένοι, με έυκολη πρόσβαση σε φίλους και συναδέλφους όπου "
+"και αν βρίσκεστε.</p>"
+
+#. Translators:
+#. Page path: /1-1/key-features/
+#: db-strings.txt:618
+msgid "<p>Facebook and Twitter...</p>"
+msgstr "<p>Facebook και Twitter...</p>"
+
+#. Translators:
+#. Page path: /1-1/key-features/
+#: db-strings.txt:627
+msgid "<p>Contacts</p>"
+msgstr "<p>Επαφές</p>"
+
+#. Translators:
+#. Page path: /1-1/key-features/
+#: db-strings.txt:636
+msgid ""
+"<p>Deeply integrated with your favorite social networks. You can easily "
+"import your Facebook contacts to your phone to keep your community all in "
+"one place.</p>"
+msgstr ""
+"<p>Σε αρμονία με τα αγαπημένα σας κοινωνικά δίκτυα. Μπορείτε εύκολα να "
+"εισάγετε στο τηλέφωνο σας τις επαφές σας από το Facebook και να κρατήσετε "
+"όλη την παρέα σας σε ένα μέρος.</p>"
+
+#. Translators:
+#. Page path: /1-1/key-features/
+#: db-strings.txt:645
+msgid "<p>Contacts...</p>"
+msgstr "<p>Επαφές...</p>"
+
+#. Translators:
+#. Page path: /1-1/key-features/
+#: db-strings.txt:654
+msgid "<p>Camera and Gallery</p>"
+msgstr "<p>Κάμερα και πολυμέσα</p>"
+
+#. Translators:
+#. Page path: /1-1/key-features/
+#: db-strings.txt:663
+msgid ""
+"<p>With built-in style filters for fun, creative shots, and lots of ways to "
+"share your photographs, the full-featured camera and photo gallery will have"
+" all your subjects smiling.</p>"
+msgstr ""
+"<p>Με ενσωματωμένα φίλτρα στυλ για διασκέδαση, δημιουργικές λήψεις, και "
+"πολλούς τρόπους να μοιράζεστε τις φωτογραφίες σας, η πλήρης χαρακτηριστικών "
+"κάμερα και η έκθεση φωτογραφιών θα γεμίσουν με χαμόγελα.</p>"
+
+#. Translators:
+#. Page path: /1-1/key-features/
+#: db-strings.txt:672
+msgid "<p>Camera and Gallery...</p>"
+msgstr "<p>Κάμερα και πολυμέσα...</p>"
+
+#. Translators:
+#. Page path: /1-1/key-features/
+#: db-strings.txt:681
+msgid "<p>FM Radio</p>"
+msgstr "<p>Ραδιόφωνο FM</p>"
+
+#. Translators:
+#. Page path: /1-1/key-features/
+#: db-strings.txt:690
+msgid ""
+"<p>All the audio you want on the go, all on one device. Just plug in your "
+"earphones and start listening.</p>"
+msgstr ""
+"<p>Όλη η μουσική που θέλετε εν κινήσει, σε μια συσκευή. Απλά συνδέστε τα "
+"ακουστικά σας, και ξεκινήστε να ακούτε.</p>"
+
+#. Translators:
+#. Page path: /1-1/key-features/
+#: db-strings.txt:699
+msgid "<p>FM Radio...</p>"
+msgstr "<p>Ραδιόφωνο FM...</p>"
+
+#. Translators:
+#. Page path: /1-1/key-features/
+#: db-strings.txt:708
+msgid "<p>Maps</p>"
+msgstr "<p>Χάρτες</p>"
+
+#. Translators:
+#. Page path: /1-1/key-features/
+#: db-strings.txt:717
+msgid ""
+"<p>Get satellite, public transport, and live traffic views, search for "
+"points of interest and even save your map locally for quicker remote access."
+" HERE Maps can pinpoint your location and even give you directions (car, "
+"walking or public transportation) to get you to your destination.</p>"
+msgstr ""
+"<p>Λάβετε δορυφορικές εικόνες, πληροφορίες δημόσιας συγκοινωνίας και "
+"τρέχουσας κυκλοφορίας, αναζητήστε σημεία ενδιαφέροντος, κι ακόμη αποθηκεύστε"
+" το χάρτη σας τοπικά για πιο γρήγορη απομακρυσμένη πρόσβαση. Οι χάρτες Here "
+"Maps μπορούν να εντοπίσουν τη θέση σας, μέχρι και να σας δώσουν οδηγίες (με "
+"αυτοκίνητο, με τα πόδια ή με δημόσια συγκοινωνία) για να φθάσετε στον "
+"προορισμό σας.</p>"
+
+#. Translators:
+#. Page path: /1-1/key-features/
+#: db-strings.txt:726
+msgid "<p>Maps...</p>"
+msgstr "<p>Χάρτες...</p>"
+
+#. Translators:
+#. Page path: /1-1/key-features/
+#: db-strings.txt:735
+msgid "<p>Music and Video</p>"
+msgstr "<p>Μουσική και βίντεο</p>"
+
+#. Translators:
+#. Page path: /1-1/key-features/
+#: db-strings.txt:744
+msgid ""
+"<p>Play it all from your phone, or online via Youtube. Browse and play your "
+"music collection by album or artist, rate songs and create playlists for "
+"your favorites.</p>"
+msgstr ""
+"<p>Αναπαράγετε τα πάντα από το τηλέφωνό σας, ή διαδικτυακά μέσω Youtube. "
+"Περιηγηθείτε και αναπαράγετε τη μουσική σας συλλογή βάσει άλμπουμ ή "
+"καλλιτέχνη, βαθμολογήστε κομμάτια και δημιουργήστε λίστες αναπαραγωγής για "
+"τα αγαπημένα σας.</p>"
+
+#. Translators:
+#. Page path: /1-1/key-features/
+#: db-strings.txt:753
+msgid "<p>Play it all from your phone, or online via Youtube.</p>"
+msgstr "<p>Μουσική και βίντεο...</p>"
+
+#. Translators:
+#. Page path: /1-1/key-features/
+#: db-strings.txt:762
+msgid "<p>SMS and Email</p>"
+msgstr "<p>SMS και email</p>"
+
+#. Translators:
+#. Page path: /1-1/key-features/
+#: db-strings.txt:771
+msgid ""
+"<p>Stay connected to your friends and colleagues wherever you are. It's easy"
+" to set up multiple email accounts, with support for the most common "
+"Exchange, SMTP or IMAP email providers.</p>"
+msgstr ""
+"<p>Μείνετε συνδεδεμένοι με τους φίλους και τους συναδέλφους σας οπουδήποτε "
+"και αν βρίσκεστε. Είναι εύκολο να ρυθμίσετε πολλαπλούς λογαριασμούς email, "
+"με την υποστήριξη των πιο διαδεδομένων Exchange, SMTP ή IMAP παρόχων "
+"email.</p>"
+
+#. Translators:
+#. Page path: /1-1/key-features/
+#: db-strings.txt:780
+msgid "<p>SMS and Email...</p>"
+msgstr "<p>SMS και email...</p>"
+
+#. Translators:
+#. Page path: /1-1/frequently-asked-questions/
+#: db-strings.txt:789
+msgid "Frequently Asked Questions"
+msgstr "ΣΥΧΝΕΣ ΕΡΩΤΗΣΕΙΣ"
+
+#. Translators:
+#. Page path: /1-1/frequently-asked-questions/
+#: db-strings.txt:798
+msgid "<p>You have questions? We have answers!</p>"
+msgstr "<p>Έχετε ερωτήσεις; Έχουμε απαντήσεις!</p>"
+
+#. Translators:
+#. Page path: /1-1/frequently-asked-questions/
+#: db-strings.txt:807
+msgid ""
+"<p>By now, you probably have questions and so will your customers! Select "
+"each question for more on Firefox OS.</p>"
+msgstr ""
+"<p>Αυτή τη στιγμή, πιθανότατα έχετε ερωτήσεις όπως θα έχουν και οι πελάτες "
+"σας! Επιλέξτε οποιαδήποτε ερώτηση για περισσότερα σχετικά με το Firefox "
+"OS.</p>"
+
+#. Translators:
+#. Page path: /1-1/frequently-asked-questions/
+#: db-strings.txt:816
+msgid "<p> </p>"
+msgstr "<p> </p>"
+
+#. Translators:
+#. Page path: /1-1/frequently-asked-questions/
+#: db-strings.txt:825
+msgid "<p>What is Adaptive App Search?</p>"
+msgstr "<p>Τι είναι η προσαρμοσμένη αναζήτηση εφαρμογών;</p>"
+
+#. Translators:
+#. Page path: /1-1/frequently-asked-questions/
+#: db-strings.txt:834
+msgid ""
+"<p>Adaptive App Search is a new way to find content from across the Web and "
+"engage in an app-like experience without the headaches of downloading the "
+"app to find what you need. Whenever you search, your phone adapts to the "
+"search result and makes it easy to add those results to your home screen for"
+" easy access later.</p>"
+msgstr ""
+"<p>Η προσαρμοσμένη αναζήτηση εφαρμογών είναι ένας νέος τρόπος να βρίσκετε "
+"από τον ιστό και να συμμετέχετε σε μια εμπειρία εφαρμογών χωρίς τον "
+"πονοκέφαλο της λήψης της εφαρμογής για να βρείτε αυτό που ζητάτε. Όποτε "
+"κάνετε αναζήτηση, το τηλέφωνό σας προσαρμόζεται στα αποτελέσματα και έτσι "
+"κάνει πιο εύκολη την προσθήκη αυτών των αποτελεσμάτων στην αρχική οθόνη για "
+"πιο εύκολη πρόσβαση αργότερα.</p>"
+
+#. Translators:
+#. Page path: /1-1/frequently-asked-questions/
+#: db-strings.txt:843
+msgid "<p>How many and what types of apps will be available?</p>"
+msgstr "<p>Πόσες και τι τύπου εφαρμογές θα είναι διαθέσιμες;</p>"
+
+#. Translators:
+#. Page path: /1-1/frequently-asked-questions/
+#: db-strings.txt:852
+msgid ""
+"<p>App developers around the world are committed to Firefox OS and tens of "
+"thousands of free and paid applications will be available at launch. The "
+"growing list includes leading app developers like Accuweather, Airbnb, Box, "
+"Cut the Rope, EA Games, Facebook, Nokia HERE&reg;, MTV Brasil, Pulse News, "
+"SoundCloud, SporTV, Time Out and Twitter.</p>"
+msgstr ""
+"<p>Προγραμματιστές εφαρμογών από όλο τον κόσμο έχουν αφοσιωθεί στο Firefox "
+"OS και δεκάδες χιλιάδες από δωρεάν και επί πληρωμή εφαρμογές θα είναι "
+"διαθέσιμες στο λανσάρισμα. Η αυξανόμενη λίστα περιλαμβάνει κορυφαίους "
+"προγραμματιστές εφαρμογών όπως Accuweather, Airbnb, Box, Cut the Rope, EA "
+"Games, Facebook, Nokia HERE, MTV Brasil, Pulse News, SoundCloud, SporTV, "
+"Time Out και Twitter.</p>"
+
+#. Translators:
+#. Page path: /1-1/frequently-asked-questions/
+#: db-strings.txt:861
+msgid "<p>What makes Firefox OS more secure than other phones?</p>"
+msgstr "<p>Τι κάνει το Firefox OS πιο ασφαλές από άλλα τηλέφωνα;</p>"
+
+#. Translators:
+#. Page path: /1-1/frequently-asked-questions/
+#: db-strings.txt:870
+msgid ""
+"<p>Firefox OS has a robust security model that is battle-hardened from more "
+"than a decade of supporting the Open Web. It is designed to protect the user"
+" and system from malicious applications and content.</p>"
+msgstr ""
+"<p>Το Firefox OS έχει ένα ισχυρό μοντέλο ασφαλείας το οποίο έχει "
+"σκληραγωγηθεί παραπάνω από μια δεκαετία υποστηρίζοντας τον ανοιχτό χαρακτήρα"
+" του ιστού. Είναι σχεδιασμένο να προστατεύει τον χρ'ηστη και το σύστημα από "
+"κακόβουλες εφαρμογές και περιεχόμενο.</p>"
+
+#. Translators:
+#. Page path: /1-1/frequently-asked-questions/
+#: db-strings.txt:879
+msgid "<p>Do Android apps work on this phone?</p>"
+msgstr "<p>Οι εφαρμογές Android λειτουργούν σε αυτό το τηλέφωνο;</p>"
+
+#. Translators:
+#. Page path: /1-1/frequently-asked-questions/
+#: db-strings.txt:888
+msgid ""
+"<p>Not directly. However, many of the most popular Android and iOS apps are "
+"actually Web apps that have a native “wrapper” to allow them to run on "
+"proprietary platforms. Therefore, many of the same apps will be available "
+"through Adaptive App Search.</p>"
+msgstr ""
+"<p>Όχι άμεσα. Ωστόσο, πολλές από τις πιο δημοφιλείς εφαρμογές Andoid και iOS"
+" είναι στην πραγματικότητα απλά εφαρμογές ιστού που περιέχουν ενσωμετωμένο "
+"«wrapper» ο οποίος τους επιτρέπει να εκτελούνται σε άλλες πλατφόρμες. Έτσι, "
+"πολλές από τις ίδιες εφαρμογές θα είναι διαθέσιμες μέσω της προσαρμοσμένης "
+"αναζήτησης εφαρμογών.</p>"
+
+#. Translators:
+#. Page path: /1-1/frequently-asked-questions/
+#: db-strings.txt:897
+msgid "<p>Do my apps work offline?</p>"
+msgstr "<p>Οι εφαρμογές μου δουλεύουν και χωρίς σύνδεση;</p>"
+
+#. Translators:
+#. Page path: /1-1/frequently-asked-questions/
+#: db-strings.txt:906
+msgid ""
+"<p>Firefox OS is built on Web technologies but has offline capabilities for "
+"all the phone’s core functionalities. That means apps do not require an "
+"active internet connection to function unless the app must send or receive "
+"data to another system through the internet to continue working.</p>"
+msgstr ""
+"<p>Το Firefox OS έχει δημιουργηθεί με βάση τεχνολογίες του ιστού όμως έχει "
+"δυνατότητα χρήσης εκτός σύνδεσης για όλες τις βασικές λειτουργίες του "
+"τηλεφώνου. Αυτό σημαίνει πως οι εφαρμογές δεν απαιτούν ενεργή σύνδεση στο "
+"διαδίκτυο για τη λειτουργία τους εκτός αν η εφαρμογή πρέπει να στείλει ή να "
+"λάβει δεδομένα από κάποιο άλλο σύστημα μέσω διαδικτύου προκειμένου να "
+"συνεχίσει τη λειτουργία της.</p>"
+
+#. Translators:
+#. Page path: /1-1/frequently-asked-questions/
+#: db-strings.txt:915
+msgid "<p>What about customer support for apps?</p>"
+msgstr "<p>Θα παρέχετε υποστήριξη πελατών για τις εφαρμογές;</p>"
+
+#. Translators:
+#. Page path: /1-1/frequently-asked-questions/
+#: db-strings.txt:924
+msgid ""
+"<p>Consumers who need support with an app built for Firefox OS will be "
+"directed to the app developer for assistance. If the consumer experience "
+"with Firefox OS is negatively impacted by the support incident resulting "
+"from the app, Mozilla may recommend workarounds including uninstalling the "
+"app until the developer provides appropriate assistance.</p>"
+msgstr ""
+"<p>Οι πελάτες που χρειάζονται υποστήριξη για μια εφαρμογή η οποια "
+"δημιουργήθηκε για το Firefox OS θα παραπέμπονται στον προγραμματιστή της "
+"εφαρμογής για βοήθεια. Αν η εμπειρία χρήσης του Firefox OS επηρρεάζεται "
+"αρνητικά από  περιστατικό ελλιπούς υποστήριξης της εφαρμογής, το ίδρυμα "
+"Mozilla μπορεί να συστήσει άλλες λύσεις που περιλαμβάνουν απεγκατάσταση της "
+"εφαρμογής έως ότου ο προγραμματιστής παρέχει την αρμόζουσα βοήθεια.</p>"
+
+#. Translators:
+#. Page path: /1-1/frequently-asked-questions/
+#: db-strings.txt:933
+msgid "<p>How do I download and install apps on Firefox OS?</p>"
+msgstr "<p>Πως λαμβάνω και εγκαθιστώ εφαρμογές στο Firefox OS;</p>"
+
+#. Translators:
+#. Page path: /1-1/frequently-asked-questions/
+#: db-strings.txt:942
+msgid ""
+"<p>Firefox OS offers two ways to get apps:<ul><li>Firefox Marketplace — Our "
+"go-to source for great apps like Twitter and awesome local content from the "
+"best Web developers in your region.</li><li>Adaptive App Search — Just type "
+"a single word like “sushi” to discover related mobile apps in your region, "
+"delivered by a superior mobile experience and tuned to bring you what you "
+"want.</li><ul></p>"
+msgstr ""
+"<p>Το Firefox OS παρέχει δύο τρόπους να λάβετε εφαρμογές:<ul><li>Firefox  "
+"Marketplace — Η πηγή μας για σπουδαίες εφαρμογές όπως το Twitter και φοβερό "
+"τοπικό περιεχόμενο από τους καλύτερους Web developers της περιοχής "
+"σας.</li><li>Προσαρμοσμένη αναζήτηση εφαρμογών -- Απλώς πληκτρολογήστε μια "
+"λέξη όπως «sushi» για να ανακαλύψετε σχετικές εφαρμογές στην περιοχή σας. "
+"Μια τεχνολογικά προηγμένη υπηρεσία στο κινητό σας, ώστε να έχετε ό,τι "
+"χρειάζεστε.</li><ul></p>"
+
+#. Translators:
+#. Page path: /1-1/frequently-asked-questions/
+#: db-strings.txt:951
+msgid "<p>Which email providers are supported?</p>"
+msgstr "<p>Ποιοι πάροχοι email υποστηρίζονται;</p>"
+
+#. Translators:
+#. Page path: /1-1/frequently-asked-questions/
+#: db-strings.txt:960
+msgid ""
+"<p>Hotmail and Yahoo mail are currently supported with more on the way in "
+"future releases.</p>"
+msgstr ""
+"<p>Προς το παρόν υποστηρίζονται οι Hotmail και Yahoo, μα αναμένονται "
+"περισσότεροι σε μελλοντικές εκδόσεις</p>"
+
+#. Translators:
+#. Page path: /1-1/frequently-asked-questions/
+#: db-strings.txt:969
+msgid "<p>Where should I go if I have more questions?</p>"
+msgstr "<p>Που θα απευθυνθώ αν έχω κι άλλες ερωτήσεις;</p>"
+
+#. Translators:
+#. Page path: /1-1/frequently-asked-questions/
+#: db-strings.txt:978
+msgid ""
+"<p>Visit <a href='https://support.mozilla.org/en-US/kb/firefox-os-user-"
+"guide'>https://support.mozilla.org/en-US/kb/firefox-os-user-guide</a> for "
+"more information.</p>"
+msgstr ""
+"<p>Επισκεφθείτε τη σελίδα <a href='https://support.mozilla.org/en-US/kb"
+"/firefox-os-user-guide'>https://support.mozilla.org/en-US/kb/firefox-os-"
+"user-guide</a> για περισσότερες πληροφορίες.</p>"
+
+#. Translators:
+#. Page path: /1-1/the-firefox-mission/
+#: db-strings.txt:987
+msgid "The Firefox Mission"
+msgstr "ΑΠΟΣΤΟΛΗ ΤΟΥ FIREFOX"
+
+#. Translators:
+#. Page path: /1-1/the-firefox-mission/
+#: db-strings.txt:996
+msgid ""
+"Our mission is to promote openness, innovation and opportunity on the Web."
+msgstr ""
+"Αποστολή μας είναι η προώθηση της διαφάνειας, της καινοτομίας και της "
+"ευκαιρίας στον ιστό."
+
+#. Translators:
+#. Page path: /1-1/the-firefox-mission/
+#: db-strings.txt:1005
+msgid ""
+"Behind every Firefox OS smartphone is Mozilla, a global community of "
+"thousands dedicated to keeping the Web accessible to all. That’s because we "
+"believe each and every one of us has the right to a Web that isn’t "
+"controlled by just a few large entities.<br><br>Yeah, we’re a little "
+"different than the other guys. Together, we can build a brighter future for "
+"the Web."
+msgstr ""
+"Πίσω από κάθε Firefox OS smartphone βρίσκεται το ίδρυμα Mozilla: Μια "
+"παγκόσμια κοινότητα χιλιάδων ανθρώπων, αφοσιωμένων στη διατήρηση της "
+"προσβασιμότητας του ιστού από όλους. Κι αυτό επειδή πιστεύουμε πως ο καθένας"
+" μας έχει το δικαίωμα πρόσβασης σε έναν ιστό που δεν ελέγχεται από μερικούς "
+"μόνο μεγάλους οργανισμούς.<br><br>Ναι, είμαστε λίγο διαφορετικοί από τους "
+"άλλους. Μαζί, μπορούμε να χτίσουμε ένα λαμπρότερο μέλλον για τον ιστό."
+
+#. Translators:
+#. Page path: /1-1/the-firefox-mission/
+#: db-strings.txt:1014
+msgid "CqhwzZycdFU"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1023
+msgid "Take the challenge"
+msgstr "Αποδεχτείτε την πρόκληση"
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1032
+msgid "<p>Ready to show what you know?</p>"
+msgstr "<p>Έτοιμοι να δείξετε τι γνωρίζετε;</p>"
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1041
+msgid ""
+"<p>Think you're ready to start selling Firefox OS to your customers? Put "
+"your knowledge to work and answer these questions to prove you have what it "
+"takes.</p>"
+msgstr ""
+"<p>Είστε  έτοιμοι να ξεκινήσετε να πουλάτε το Firefox OS στους πελάτες σας; "
+"Βάλτε μπροστά τις γνώσεις σας και απαντήστε αυτές τις ερωτήσεις για να το "
+"επιβεβαιώσετε.</p>"
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1050
+msgid "<p>Get ready to sell!</p>"
+msgstr "<p>Ετοιμαστείτε για πωλήσεις!</p>"
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1059
+msgid ""
+"<p>If you have worked through the questions and all of the content, then you"
+" have the basics to match the needs of Firefox OS to your "
+"customers.<br><br>Easy to use, a Firefox OS smartphone is perfect for new "
+"smartphone users and full of all the features that customers want and "
+"need.<br><br>And it is powered by Mozilla, making Firefox OS the right "
+"choice for anyone committed to ensuring that the power of the Web remains in"
+" the hands of users everywhere!</p>"
+msgstr ""
+"<p>Εφόσον έχετε καλύψει τις παραπάνω ερωτήσεις και έχετε κατανοήσει το "
+"περιεχόμενο, τότε διαθέτετε τα απαραίτητα για να ταιριάξετε τα "
+"χαρακτηριστικά του Firefox OS με τους πελάτες σας.<br/><br/>Εύκολο στη "
+"χρήση, ένα smartphone Firefox OS είναι τέλειο για νέους χρήστες smartphone "
+"και γεμάτο με τα χαρακτηριστικά που θέλουν και χρειάζονται οι "
+"πελάτες.<br/><br/>Επιπλέον, υποστηρίζεται από το ίδρυμα Mozilla, πράγμα που "
+"κάνει το Firefox OS την κατάλληλη επιλογή για οποιονδήποτε δεσμεύεται να "
+"διασφαλίσει πως ο ιστός θα παραμείνει στα χέρια σας!</p>"
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1068
+msgid "How do you access the Adaptive App Search feature on Firefox OS?"
+msgstr ""
+"Πώς έχετε πρόσβαση στο χαρακτηριστικό προσαρμοσμένης αναζήτησης εφαρμογών "
+"στο Firefox OS;"
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1077
+msgid ""
+"That’s right!  You simply swipe to the left to access the Adaptive App "
+"Search feature."
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1086 db-strings.txt.py:1095
+msgid ""
+"That’s not it.  You simply swipe to the left to access the Adaptive App "
+"Search feature."
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1104
+msgid ""
+"Which of the following apps is pre-loaded on every Firefox OS phone? Select "
+"all that apply."
+msgstr ""
+"Ποιες από τις παρακάτω εφαρμογές έρχονται προεγκατεστημένες με κάθε τηλέφωνο"
+" Firefox OS; Επιλέξτε όλες όσες ταιριάζουν."
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1113
+msgid ""
+"That’s right! All of these apps come pre-loaded on every Firefox OS phone."
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1122
+msgid "Actually, all of these apps come pre-loaded on every Firefox OS phone."
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1131
+msgid ""
+"Actually, they're are more. All of these apps come pre-loaded on every "
+"Firefox OS phone."
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1140
+msgid ""
+"When you type a word or subject that interests you using Adaptive App Search"
+" what happens? Select all that apply."
+msgstr ""
+"Όταν πληκτρολογείτε μια λέξη ή ένα θέμα που σας ενδιαφέρει χρησιμοποιώντας "
+"την προσαρμοσμένη αναζήτηση εφαρμογών τι συμβαίνει; Επιλέξτε όλα όσα "
+"ταιριάζουν."
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1149
+msgid "That’s right. All of these are true of Adaptive App Search!"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1158 db-strings.txt.py:1167
+msgid "Actually, all of these are true of Adaptive App Search!"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1176
+msgid ""
+"Which of these customer responses indicate an ideal candidate for Firefox "
+"OS? Select all that apply."
+msgstr ""
+"Ποιες από αυτές τις απαντήσεις πελατών φανερώνουν έναν ιδανικό υποψήφιο για "
+"το Firefox OS; Επιλέξτε όλα όσα ταιριάζουν."
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1185
+msgid ""
+"That’s right. All of these customers are ideal candidates for Firefox OS!"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1194 db-strings.txt.py:1203
+msgid "In fact, ALL of these customers are ideal candidates for Firefox OS!"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1212
+msgid ""
+"Which Firefox OS feature does this icon represent?<br><br><img "
+"src='course/assets/m05/t05/p35/m05-t05-p35-a05-b15-c10.png'/>"
+msgstr ""
+"Ποιο χαρακτηριστικό του Firefox OS αντιπροσωπεύει αυτό το "
+"εικονίδιο;<br><br><img "
+"src='course/assets/m05/t05/p35/m05-t05-p35-a05-b15-c10.png'/>"
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1221
+msgid "That’s right. This icon represents Contacts."
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1230 db-strings.txt.py:1239
+msgid "Actually, this icon represents Contacts."
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1248
+msgid ""
+"Which Firefox OS feature does this represent?<br><br><img "
+"src='course/assets/m05/t05/p35/m05-t05-p35-a05-b20-c05.png'/>"
+msgstr ""
+"Ποιο χαρακτηριστικό του Firefox OS αντιπροσωπεύει αυτό το "
+"εικονίδιο;<br><br><img "
+"src='course/assets/m05/t05/p35/m05-t05-p35-a05-b20-c05.png'/>"
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1257
+msgid "That’s right. This icon represents the Firefox browser."
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1266 db-strings.txt.py:1275
+msgid "Actually, this icon represents the Firefox browser."
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1284
+msgid ""
+"Which Firefox OS feature does this icon represent?<br><br><img "
+"src='course/assets/m05/t05/p35/m05-t05-p35-a05-b20-c10.png'/>"
+msgstr ""
+"Ποιο χαρακτηριστικό του Firefox OS αντιπροσωπεύει αυτό το "
+"εικονίδιο;<br><br><img "
+"src='course/assets/m05/t05/p35/m05-t05-p35-a05-b20-c10.png'/>"
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1293
+msgid "That’s right. This icon represents Adaptive App Search."
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1302 db-strings.txt.py:1311
+msgid "Actually, this icon represents the Adaptive App Search."
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1320
+msgid ""
+"Your customer wants to understand the biggest benefits of Firefox OS versus "
+"its competitors. Select all of the statements that apply."
+msgstr ""
+"Ο πελάτης σας θέλει να καταλάβει τα μέγιστα προτερήματα του Firefox OS "
+"έναντι των ανταγωνιστών του. Επιλέξτε όλες τις προτάσεις που ταιριάζουν."
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1329
+msgid "That’s right. These statements are all true about Firefox OS."
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1338 db-strings.txt.py:1347
+msgid ""
+"Actually, all of these are true except for the statement about “broadest "
+"selection of devices.” This may be true in the future, but it is not "
+"currently true."
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1356
+msgid ""
+"A customer tells you that smartphones seem complicated.  What selling "
+"feature should you lead with?"
+msgstr ""
+"Ένας πελάτης σας λέει πως τα smartphones φαίνονται περίπλοκα. Με ποιο "
+"χαρακτηριστικό θα πρέπει να ξεκινήσετε;"
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1365
+msgid ""
+"That’s right. For a customer looking for a smartphone that is easy to use, "
+"Firefox OS is a great choice."
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1374 db-strings.txt.py:1383
+msgid ""
+"Actually, for this customer, the best choice is to talk about how easy "
+"Firefox OS is to use."
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1392
+msgid ""
+"A customer tells you that she’s ready to move up from her old feature phone."
+" What selling feature should you lead with?"
+msgstr ""
+"Μια πελάτης σας λέει πως είναι έτοιμη να προχωρήσει πέρα από το "
+"πεπαλαιωμένων χαρακτηριστικών τηλέφωνο της. Με ποιο χαρακτηριστικό θα πρέπει"
+" να ξεκινήσετε;"
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1401
+msgid ""
+"That’s right. With a first time smart phone user, you should talk about its "
+"simplicity and features like Adaptive App Search."
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1410 db-strings.txt.py:1419
+msgid ""
+"Actually, with a first time smart phone user, you should talk about its "
+"simplicity and features like Adaptive App Search."
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1428
+msgid ""
+"A customer tells you that he uses Firefox as his desktop browser. With what "
+"selling feature should you lead?"
+msgstr ""
+"Ένας πελάτης σας λέει πως χρησιμοποιεί τον Firefox σαν περιηγητή στον "
+"υπολογιστή του. Με ποιο χαρακτηριστικό θα προχωρήσετε;"
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1437
+msgid ""
+"That’s right. When you meet a Firefox fan, talk about how choosing Firefox "
+"OS helps to keep the Web free and open."
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1446 db-strings.txt.py:1455
+msgid ""
+"Actually, when you meet a Firefox fan, talk about how choosing Firefox OS "
+"helps to keep the Web free and open."
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1464
+msgid ""
+"A customer says to you, “I’m looking for an easy way to stay in touch with "
+"my friends, but I don’t want to spend a lot of money.” Which of the "
+"following statements would be a good response? Select all that apply."
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1473
+msgid ""
+"That’s right. With this customer, highlight the great value of Firefox OS "
+"and the full feature set, including social apps that are preloaded on the "
+"phone."
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1482 db-strings.txt.py:1491
+msgid ""
+"That's not it. With this customer, be sure to highlight the great value of "
+"Firefox OS, and its full feature set, including social apps that are "
+"preloaded on the phone, all at great value."
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1500
+msgid ""
+"A customer says, “I use Firefox on my home computer and I love it, but I "
+"didn’t know they had a smartphone OS. Why?” Which of the following "
+"statements would be the most appropriate response to this particular "
+"customer?"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1509
+msgid ""
+"That’s right. This customer seems like a Firefox fan. Talk about how the "
+"Firefox OS phones, made by Mozilla, are part of keeping the Web free and "
+"open. And while all of these statements are true, only this one is the best "
+"response for this particular customer."
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1518 db-strings.txt.py:1527
+msgid ""
+"All of these statements are true, but only one is the best response for this"
+" particular customer, who seems to be a Firefox fan. Talk about how the "
+"Firefox OS phones, made by Mozilla, are part of keeping the Web free and "
+"open."
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1536
+msgid ""
+"Which of the following statements about Adaptive App Search are true? Select"
+" all that apply."
+msgstr ""
+"Ποιες από τις ακόλουθες προτάσεις για τη δυναμική αναζήτηση εφαρμογών είναι "
+"σωστές; Επιλέξτε όλες όσες ταιριάζουν."
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1545
+msgid ""
+"That’s right. Adaptive App Search anticipates your needs better than any "
+"other phone."
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1554
+msgid ""
+"That’s not it.  Three of these are correct. While Adaptive App Search "
+"anticipates your needs better than any other phone, it does NOT work just "
+"like Web search on Firefox browsers."
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1563
+msgid ""
+"That’s quite not it. Three of these are correct. While Adaptive App Search "
+"anticipates your needs better than any other phone, it does NOT work just "
+"like Web search on Firefox browsers."
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1572
+msgid ""
+"While all of the these statements are true, which two responses would be "
+"most useful to a first-time smartphone customer?"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1581
+msgid ""
+"That’s right. A first time smartphone user will be most interested in ease "
+"of use."
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1590 db-strings.txt.py:1599
+msgid ""
+"Not quite. A first time smartphone user will be most interested in ease of "
+"use."
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1608
+msgid ""
+"Which Firefox OS feature does this icon represent?<br><br><img "
+"src='course/assets/m05/t05/p35/m05-t05-p35-a05-b15-c05.png'/>"
+msgstr ""
+"Ποιο χαρακτηριστικό του Firefox OS αντιπροσωπεύει αυτό το εικονίδιο; Ποιο "
+"χαρακτηριστικό του Firefox OS αντιπροσωπεύει αυτό το εικονίδιο;<br><br><img "
+"src='course/assets/m05/t05/p35/m05-t05-p35-a05-b15-c05.png'/>"
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1617
+msgid "That’s right! This icon represents SMS—or text messaging."
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1626 db-strings.txt.py:1635
+msgid "Actually, this icon represents SMS—or text messaging."
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1644
+msgid ""
+"With Adaptive App Search, you can use an app once, quickly and easily, "
+"without installing it. If you want to use it again later, it’s easy to add "
+"it to your homescreen."
+msgstr ""
+"Με την προσαρμοσμένη αναζήτηση εφαρμογών, μπορείτε να χρησιμοποιήσετε μια "
+"εφαρμογή εύκολα και γρήγορα, χωρίς να την εγκαταστήσετε. Αν θέλετε να τη "
+"χρησιμοποιήσετε ξανά αργότερα, είναι εύκολο να την προσθέσετε στην αρχική "
+"σας οθόνη."
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1653 db-strings.txt.py:1725 db-strings.txt.py:1761
+msgid "That’s right!"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1662 db-strings.txt.py:1671
+msgid "Actually, this is true."
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1680
+msgid ""
+"What’s the best response to this customer’s objection? “I’ve heard there are"
+" not many apps.”"
+msgstr ""
+"Ποια είναι η καλύτερη απάντηση στην ένσταση αυτού του πελάτη; «Έχω ακούσει "
+"πως δεν υπάρχουν και πολλές εφαρμογές.»”"
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1689
+msgid "That’s right."
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1698 db-strings.txt.py:1707
+msgid ""
+"Not quite, the best response to this objection is to talk about all the apps"
+" that are available."
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1716
+msgid ""
+"What’s the best response to this customer’s objection?<br>“I’ve never heard "
+"of Firefox OS phones.”"
+msgstr ""
+"Ποια είναι η καλύτερη απάντηση στην ένσταση αυτού του πελάτη; «Δεν έχω "
+"ακούσει ξανά για κινητά Firefox OS.»"
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1734 db-strings.txt.py:1743
+msgid ""
+"Actually, the best response to this objection is to talk about the "
+"experience of the Mozilla community that is behind Firefox OS."
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1752
+msgid ""
+"What’s the best response to this customer’s objection?<br>“How do I know "
+"this new phone is safe?”"
+msgstr ""
+"Ποια είναι η καλύτερη απάντηση στην ένσταση αυτού του χρήστη; «Πως γνωρίζω "
+"ότι αυτό το νέο τηλέφωνο είναι ασφαλές;»"
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1770 db-strings.txt.py:1779
+msgid ""
+"Actually, the best response to this objection is to talk about the robust "
+"security model."
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1788
+msgid "Swipe to the left."
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1797
+msgid "Click on the home button."
+msgstr "Κάντε κλικ στο κουμπί αρχικής οθόνης."
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1806
+msgid "Open Firefox Marketplace."
+msgstr "Ανοίξτε το Firefox Marketplace."
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1815
+msgid "Open the Firefox browser."
+msgstr "Ανοίξτε τον περιηγητή Firefox."
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1824
+msgid "Firefox Marketplace"
+msgstr "Firefox Marketplace"
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1833 db-strings.txt.py:1986 db-strings.txt.py:2022
+#: db-strings.txt:2058 db-strings.txt.py:2337
+msgid "Firefox browser"
+msgstr "Περιηγητής Firefox"
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1842
+msgid "Camera and Gallery"
+msgstr "Κάμερα και πολυμέσα"
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1851
+msgid "Facebook"
+msgstr "Facebook"
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1860
+msgid "Email and SMS"
+msgstr "Email και SMS"
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1869
+msgid "FM Radio"
+msgstr "Ραδιόφωνο FM"
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1878
+msgid "Music Player"
+msgstr "Μουσική"
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1896
+msgid "Results from around the Web are displayed like apps on your phone."
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1905
+msgid ""
+"Your background image changes instantly to reveal popular photos from the "
+"Web."
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1914
+msgid ""
+"Results include relevant maps, pictures, music, news, videos, Twitter feeds "
+"and more."
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1923
+msgid ""
+"Tens of thousands of Web apps from around the world are searched instantly."
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1932
+msgid "I’ve never used a smartphone before."
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1941
+msgid "I’m looking for the best value for my money."
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1950
+msgid "I want a smartphone that is truly easy to use."
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1959
+msgid "I’m a Firefox fan."
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1968 db-strings.txt.py:2004 db-strings.txt.py:2040
+#: db-strings.txt:2319
+msgid "SMS"
+msgstr "SMS"
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1977 db-strings.txt.py:2013 db-strings.txt.py:2049
+#: db-strings.txt:2328
+msgid "Contacts"
+msgstr "Επαφές"
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:2076
+msgid ""
+"With Adaptive App Search, Firefox OS adapts to your needs better than any "
+"other phone."
+msgstr ""
+"Με την προσαρμοσμένη αναζήτηση εφαρμογών, το Firefox OS καλύπτει τις ανάγκες"
+" σας καλύτερα από κάθε άλλο τηλέφωνο."
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:2085
+msgid ""
+"With the Firefox Marketplace and dozens of preloaded apps, like email, maps,"
+" Facebook, a camera, music, and more, Firefox OS is packed with the features"
+" you’d expect in a smartphone."
+msgstr ""
+"Με το Firefox Marketplace και δεκάδες προεγκατεστημένες εφαρμογές, όπως "
+"email,  χάρτες, Facebook, μια κάμερα, μουσική, και περισσότερα, το Firefox "
+"OS περιλαμβάνει όλα τα χαρακτηριστικά που θα περιμένατε από ένα smartphone."
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:2094
+msgid ""
+"Since it is built by Firefox, you can feel confident that Firefox OS is "
+"backed by a global community working on your behalf and with your interests "
+"in mind."
+msgstr ""
+"Από τη στιγμή που είναι φτιαγμένο από τον Firefox, μπορείτε να αισθάνεστε "
+"σίγουροι πως το Firefox OS υποστηρίζεται από μια παγκόσμια κοινότητα που "
+"εργάζεται εκ μέρους σας και έχοντας κατά νου τα ενδιαφέροντα σας."
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:2103
+msgid ""
+"Firefox OS gives you the broadest selection of devices on the market today."
+msgstr ""
+"Το Firefox OS σας δίνει την πιο ευρεία επιλογή συσκευών στην αγορά σήμερα."
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:2112 db-strings.txt.py:2166
+msgid ""
+"Firefox OS gives you the most value for your money, with everything you "
+"expect — camera, email, apps, music, maps and more — at the most competitive"
+" prices."
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:2121 db-strings.txt.py:2139
+msgid ""
+"Firefox OS is the easiest smartphone to get started with. Your favorite apps"
+" are already preloaded and you can easily import your friends from Facebook,"
+" too."
+msgstr ""
+"Το Firefox OS είναι το πιο εύκολο smartphone για να ξεκινήσετε. Οι "
+"αγαπημένες σας εφαρμογές είναι ήδη προεγκατεστημένες και μπορείτε επίσης "
+"εύκολα να εισάγετε τους φίλους σας από το Facebook."
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:2130 db-strings.txt.py:2157 db-strings.txt.py:2184
+msgid ""
+"If you love Firefox browsers, you’ll love Firefox OS phones. Choosing "
+"Firefox OS keeps the power of the Web in your hands."
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:2148
+msgid ""
+"Firefox OS gives you the most value for your money, with everything you "
+"expect — camera, email, apps, music, maps and more — at the most competitive"
+" prices. Plus, Adaptive App Search feature makes it easy to find the apps "
+"you really need, when you need it."
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:2175
+msgid ""
+"Firefox OS is the easiest smartphone to get started with. Your favorite apps"
+" are already preloaded and you can easily import your friends from Facebook "
+"too."
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:2193
+msgid ""
+"The Firefox OS smartphone includes all the features that you’d expect, "
+"including SMS, Facebook, email, maps and more, all at a better value."
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:2202
+msgid ""
+"Facebook is preloaded on every Firefox OS device and you can import your "
+"Facebook contacts easily!"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:2211
+msgid ""
+"The Firefox Marketplace features thousands of apps for free or at very low "
+"prices."
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:2220
+msgid ""
+"Every Firefox phone includes the Firefox browser, the fast, smart and safe "
+"way to get online."
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:2229
+msgid ""
+"Firefox OS includes all the same features you’ll find in competitive "
+"smartphones and gives you more value for the money."
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:2238
+msgid ""
+"Mozilla, the maker of Firefox, built a smartphone OS to keep the Web "
+"accessible to all. And since Firefox OS is entirely built in HTML5, you get "
+"instant access to thousands of apps ready for the web."
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:2247
+msgid "A unique feature included in every Firefox OS smartphone."
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:2256
+msgid "Works just like Web search on Firefox browsers."
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:2265
+msgid "Results include photos, video, music, news, maps and more."
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:2274
+msgid ""
+"Results are instantly usable — you don’t have to download the app first."
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:2283
+msgid "You can easily import contacts from Facebook to your Firefox OS phone."
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:2292
+msgid ""
+"Firefox OS gives you access to popular, big name apps, as well as local "
+"content that means the most to you."
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:2301
+msgid ""
+"Firefox OS isn’t cluttered with more than you need. It gives you what you’d "
+"expect in a smartphone, with an easy-to-use interface that makes it easy to "
+"get started."
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:2310
+msgid "Firefox OS is built entirely using HTML5 and open Web standards."
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:2355
+msgid "True"
+msgstr "Σωστό"
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:2364
+msgid "False"
+msgstr "Λάθος"
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:2373 db-strings.txt.py:2418 db-strings.txt.py:2436
+msgid ""
+"New and backed by a global community working to help keep the Web accessible"
+" to all."
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:2382
+msgid ""
+"Every phone has access to over 20,000 free and paid apps at launch, "
+"including some of the most popular global apps today."
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:2391
+msgid ""
+"A robust security model that is battle-hardened from more than a decade of "
+"supporting the Open Web."
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:2400 db-strings.txt.py:2427
+msgid ""
+"Packed with the features that made you want a smartphone in the first place."
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:2409
+msgid ""
+"Access to over 20,000 free and paid apps at launch, including some of the "
+"most popular global apps today."
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:2445
+msgid ""
+"A robust security model that is battle-hardened from more than a decade of "
+"supporting the Open Web. Designed to protect the user and system from "
+"malicious applications and content, it also protects applications from each "
+"other."
 msgstr ""
 
 #: masterfirefoxos/base/templates/base.html:37
