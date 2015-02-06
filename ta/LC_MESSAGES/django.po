@@ -46,16 +46,16 @@
 #: db-strings.txt:5748 db-strings.txt.py:5775 db-strings.txt.py:7539
 #: db-strings.txt:7566 db-strings.txt.py:7593 db-strings.txt.py:7836
 #: db-strings.txt:7863 db-strings.txt.py:7890 db-strings.txt.py:7917
-#: db-strings.txt:7971 db-strings.txt.py:7998 db-strings.txt.py:8025
-#: db-strings.txt:8052 db-strings.txt.py:8079 db-strings.txt.py:8106
-#: db-strings.txt:8133 db-strings.txt.py:8160 db-strings.txt.py:8187
-#: db-strings.txt:8214
+#: db-strings.txt:7980 db-strings.txt.py:8007 db-strings.txt.py:8034
+#: db-strings.txt:8061 db-strings.txt.py:8088 db-strings.txt.py:8115
+#: db-strings.txt:8142 db-strings.txt.py:8169 db-strings.txt.py:8196
+#: db-strings.txt:8223
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-06 22:15+0000\n"
+"POT-Creation-Date: 2015-02-06 22:59+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -471,7 +471,7 @@ msgstr ""
 #. Page path: /2-0/key-features/
 #: db-strings.txt:321 db-strings.txt.py:600 db-strings.txt.py:3021
 #: db-strings.txt:5289 db-strings.txt.py:5568 db-strings.txt.py:7728
-#: db-strings.txt:7980
+#: db-strings.txt:7989
 msgid "Marketplace"
 msgstr "Marketplace"
 
@@ -827,7 +827,7 @@ msgstr ""
 #. Translators:
 #. Page path: /2-0/key-features/
 #: db-strings.txt:627 db-strings.txt.py:3048 db-strings.txt.py:5595
-#: db-strings.txt:8007
+#: db-strings.txt:8016
 msgid "Firefox browser"
 msgstr "பயர்பாக்ஸ் உலாவி"
 
@@ -846,7 +846,7 @@ msgstr ""
 #. Page path: /1-4/key-features/
 #. Translators:
 #. Page path: /2-0/key-features/
-#: db-strings.txt:654 db-strings.txt.py:5622 db-strings.txt.py:8034
+#: db-strings.txt:654 db-strings.txt.py:5622 db-strings.txt.py:8043
 #, fuzzy
 #| msgid "<p>Facebook</p>"
 msgid "Facebook and Twitter"
@@ -881,7 +881,7 @@ msgstr ""
 #. Translators:
 #. Page path: /2-0/key-features/
 #: db-strings.txt:681 db-strings.txt.py:3102 db-strings.txt.py:5649
-#: db-strings.txt:8061
+#: db-strings.txt:8070
 msgid "Contacts"
 msgstr "தொடர்பு"
 
@@ -914,7 +914,7 @@ msgstr ""
 #. Translators:
 #. Page path: /2-0/key-features/
 #: db-strings.txt:708 db-strings.txt.py:3129 db-strings.txt.py:5316
-#: db-strings.txt:5676 db-strings.txt.py:8088
+#: db-strings.txt:5676 db-strings.txt.py:8097
 msgid "Camera and Gallery"
 msgstr "படகருவி & படங்கள்"
 
@@ -986,7 +986,7 @@ msgstr ""
 #. Translators:
 #. Page path: /2-0/key-features/
 #: db-strings.txt:789 db-strings.txt.py:3183 db-strings.txt.py:5757
-#: db-strings.txt:8142
+#: db-strings.txt:8151
 #, fuzzy
 #| msgid "<p>Music and Video</p>"
 msgid "Music and Video"
@@ -1045,7 +1045,7 @@ msgstr ""
 #. Translators:
 #. Page path: /2-0/frequently-asked-questions/
 #: db-strings.txt:834 db-strings.txt.py:3228 db-strings.txt.py:5802
-#: db-strings.txt:8241
+#: db-strings.txt:8250
 msgid "Frequently Asked Questions"
 msgstr "அகேகே"
 
@@ -1058,7 +1058,7 @@ msgstr "அகேகே"
 #. Translators:
 #. Page path: /2-0/frequently-asked-questions/
 #: db-strings.txt:843 db-strings.txt.py:3237 db-strings.txt.py:5820
-#: db-strings.txt:8259
+#: db-strings.txt:8268
 msgid ""
 "<p>Still have questions? Not for long! Find all the answers you're looking "
 "for here.</p>"
@@ -1073,7 +1073,7 @@ msgstr ""
 #. Translators:
 #. Page path: /2-0/frequently-asked-questions/
 #: db-strings.txt:852 db-strings.txt.py:3246 db-strings.txt.py:5811
-#: db-strings.txt:8250
+#: db-strings.txt:8259
 #, fuzzy
 #| msgid ""
 #| "<p>By now, you probably have questions and so will your customers! Select "
@@ -1130,7 +1130,7 @@ msgstr ""
 #. Translators:
 #. Page path: /2-0/frequently-asked-questions/
 #: db-strings.txt:879 db-strings.txt.py:3273 db-strings.txt.py:5847
-#: db-strings.txt:8268
+#: db-strings.txt:8277
 #, fuzzy
 #| msgid "<p>How many and what types of apps will be available?</p>"
 msgid "How many and what types of apps will be available?"
@@ -1166,7 +1166,7 @@ msgstr ""
 #. Translators:
 #. Page path: /2-0/frequently-asked-questions/
 #: db-strings.txt:897 db-strings.txt.py:3291 db-strings.txt.py:5865
-#: db-strings.txt:8286
+#: db-strings.txt:8295
 #, fuzzy
 #| msgid "<p>What makes Firefox OS more secure than other phones?</p>"
 msgid "What makes Firefox OS more secure than other phones?"
@@ -1200,7 +1200,7 @@ msgstr ""
 #. Translators:
 #. Page path: /2-0/frequently-asked-questions/
 #: db-strings.txt:915 db-strings.txt.py:3327 db-strings.txt.py:5901
-#: db-strings.txt:8322
+#: db-strings.txt:8331
 #, fuzzy
 #| msgid "<p>Do Android apps work on this phone?</p>"
 msgid "Do Android apps work on this phone?"
@@ -1270,7 +1270,7 @@ msgstr ""
 #. Translators:
 #. Page path: /2-0/frequently-asked-questions/
 #: db-strings.txt:951 db-strings.txt.py:3363 db-strings.txt.py:5937
-#: db-strings.txt:8376
+#: db-strings.txt:8385
 #, fuzzy
 #| msgid "<p>What about customer support for apps?</p>"
 msgid "What about customer support for apps?"
@@ -1309,7 +1309,7 @@ msgstr ""
 #. Translators:
 #. Page path: /2-0/frequently-asked-questions/
 #: db-strings.txt:969 db-strings.txt.py:3381 db-strings.txt.py:5955
-#: db-strings.txt:8394
+#: db-strings.txt:8403
 #, fuzzy
 #| msgid "<p>How do I download and install apps on Firefox OS?</p>"
 msgid "How do I download and install apps on Firefox OS?"
@@ -1372,7 +1372,7 @@ msgstr ""
 #. Translators:
 #. Page path: /2-0/frequently-asked-questions/
 #: db-strings.txt:1005 db-strings.txt.py:3417 db-strings.txt.py:5991
-#: db-strings.txt:8430
+#: db-strings.txt:8439
 #, fuzzy
 #| msgid "<p>Where should I go if I have more questions?</p>"
 msgid "Where should I go if I have more questions?"
@@ -1387,7 +1387,7 @@ msgstr "<p>எனக்கு நிறைய கேள்விகள் இர
 #. Translators:
 #. Page path: /2-0/frequently-asked-questions/
 #: db-strings.txt:1014 db-strings.txt.py:3426 db-strings.txt.py:6000
-#: db-strings.txt:8439
+#: db-strings.txt:8448
 #, fuzzy
 #| msgid ""
 #| "<p>Visit <a href='https://support.mozilla.org/en-US/kb/firefox-os-user-"
@@ -1421,7 +1421,7 @@ msgstr "FIREFOX நோக்கம்"
 #. Translators:
 #. Page path: /2-0/about/
 #: db-strings.txt:1032 db-strings.txt.py:3444 db-strings.txt.py:6018
-#: db-strings.txt:8457
+#: db-strings.txt:8466
 msgid ""
 "Our mission is to promote openness, innovation and opportunity on the Web."
 msgstr ""
@@ -1434,7 +1434,7 @@ msgstr ""
 #. Page path: /1-4/about/
 #. Translators:
 #. Page path: /2-0/about/
-#: db-strings.txt:1041 db-strings.txt.py:6027 db-strings.txt.py:8466
+#: db-strings.txt:1041 db-strings.txt.py:6027 db-strings.txt.py:8475
 #, fuzzy
 #| msgid ""
 #| "Behind every Firefox OS smartphone is Mozilla, a global community of "
@@ -1465,7 +1465,7 @@ msgstr ""
 #. Translators:
 #. Page path: /2-0/about/
 #: db-strings.txt:1050 db-strings.txt.py:3462 db-strings.txt.py:6036
-#: db-strings.txt:8475
+#: db-strings.txt:8484
 msgid "CqhwzZycdFU"
 msgstr "CqhwzZycdFU"
 
@@ -1478,7 +1478,7 @@ msgstr "CqhwzZycdFU"
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:1059 db-strings.txt.py:3471 db-strings.txt.py:6045
-#: db-strings.txt:8484
+#: db-strings.txt:8493
 msgid "Take the challenge"
 msgstr "சவாளை எதிர்கொள்ளுங்கள்"
 
@@ -1491,7 +1491,7 @@ msgstr "சவாளை எதிர்கொள்ளுங்கள்"
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:1068 db-strings.txt.py:3480 db-strings.txt.py:6063
-#: db-strings.txt:8502
+#: db-strings.txt:8511
 msgid ""
 "<p>Put your new knowledge to the test with this series of fun, interactive "
 "quizzes.</p>"
@@ -1608,7 +1608,7 @@ msgstr ""
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:1149 db-strings.txt.py:3561 db-strings.txt.py:6144
-#: db-strings.txt:8583
+#: db-strings.txt:8592
 #, fuzzy
 #| msgid ""
 #| "Which of the following apps is preloaded on every Firefox OS phone? "
@@ -1629,7 +1629,7 @@ msgstr ""
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:1158 db-strings.txt.py:3570 db-strings.txt.py:6153
-#: db-strings.txt:8592
+#: db-strings.txt:8601
 #, fuzzy
 #| msgid ""
 #| "Which of the following apps is preloaded on every Firefox OS phone? "
@@ -1660,10 +1660,7 @@ msgstr ""
 #. Page path: /1-3T/take-the-challenge/
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
-#. Translators:
-#. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:1176 db-strings.txt.py:4020 db-strings.txt.py:6603
-#: db-strings.txt:9042
 #, fuzzy
 #| msgid ""
 #| "When you type a word or subject that interests you using Adaptive App "
@@ -1681,10 +1678,7 @@ msgstr ""
 #. Page path: /1-3T/take-the-challenge/
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
-#. Translators:
-#. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:1185 db-strings.txt.py:4029 db-strings.txt.py:6612
-#: db-strings.txt:9051
 #, fuzzy
 #| msgid "<p>What is Adaptive App Search?</p>"
 msgid "<p>That’s right. All of these are true of Adaptive App Search!</p>"
@@ -1696,11 +1690,8 @@ msgstr "<p>தகவமைப்பு பயன்பாடு தேடல் 
 #. Page path: /1-3T/take-the-challenge/
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
-#. Translators:
-#. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:1194 db-strings.txt.py:1203 db-strings.txt.py:4038
 #: db-strings.txt:4047 db-strings.txt.py:6621 db-strings.txt.py:6630
-#: db-strings.txt:9060 db-strings.txt.py:9069
 #, fuzzy
 #| msgid "Marketplace and Adaptive App Search"
 msgid "<p>Actually, all of these are true of Adaptive App Search!</p>"
@@ -1708,7 +1699,9 @@ msgstr "நண்பர்களை ஒத்திசைவு செய்"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
-#: db-strings.txt:1212
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:1212 db-strings.txt.py:9231
 #, fuzzy
 #| msgid ""
 #| "Which of these customer responses indicate a ideal candidate for Firefox "
@@ -1729,7 +1722,7 @@ msgstr ""
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:1221 db-strings.txt.py:4209 db-strings.txt.py:6792
-#: db-strings.txt:9231
+#: db-strings.txt:9240
 #, fuzzy
 #| msgid ""
 #| "Which of these customer responses indicate a ideal candidate for Firefox "
@@ -1751,7 +1744,7 @@ msgstr ""
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:1230 db-strings.txt.py:1239 db-strings.txt.py:4218
 #: db-strings.txt:4227 db-strings.txt.py:6801 db-strings.txt.py:6810
-#: db-strings.txt:9240 db-strings.txt.py:9249
+#: db-strings.txt:9249 db-strings.txt.py:9258
 #, fuzzy
 #| msgid ""
 #| "Which of these customer responses indicate a ideal candidate for Firefox "
@@ -1828,10 +1821,7 @@ msgstr "நண்பர்களை ஒத்திசைவு செய்"
 #. Page path: /1-3T/take-the-challenge/
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
-#. Translators:
-#. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:1329 db-strings.txt.py:3705 db-strings.txt.py:6288
-#: db-strings.txt:8727
 #, fuzzy
 #| msgid "Marketplace and Adaptive App Search"
 msgid "<p>That’s right. This icon represents Adaptive App Search.</p>"
@@ -1854,7 +1844,7 @@ msgstr "நண்பர்களை ஒத்திசைவு செய்"
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:1356 db-strings.txt.py:3732 db-strings.txt.py:6315
-#: db-strings.txt:8754
+#: db-strings.txt:8763
 #, fuzzy
 #| msgid ""
 #| "Your customer wants to understand the biggest benefits of Firefox OS "
@@ -1875,7 +1865,7 @@ msgstr ""
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:1365 db-strings.txt.py:3741 db-strings.txt.py:6324
-#: db-strings.txt:8763
+#: db-strings.txt:8772
 #, fuzzy
 #| msgid ""
 #| "Which of these customer responses indicate a ideal candidate for Firefox "
@@ -1891,11 +1881,8 @@ msgstr ""
 #. Page path: /1-3T/take-the-challenge/
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
-#. Translators:
-#. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:1374 db-strings.txt.py:1383 db-strings.txt.py:3750
 #: db-strings.txt:3759 db-strings.txt.py:6333 db-strings.txt.py:6342
-#: db-strings.txt:8772 db-strings.txt.py:8781
 msgid ""
 "<p>Actually, all of these are true except for the statement about “broadest "
 "selection of devices.” This may be true in the future, but it is not "
@@ -1911,7 +1898,7 @@ msgstr ""
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:1392 db-strings.txt.py:3768 db-strings.txt.py:6351
-#: db-strings.txt:8790
+#: db-strings.txt:8799
 #, fuzzy
 #| msgid ""
 #| "A customer tells you that smartphones seem complicated.  What selling "
@@ -1932,7 +1919,7 @@ msgstr ""
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:1401 db-strings.txt.py:3777 db-strings.txt.py:6360
-#: db-strings.txt:8799
+#: db-strings.txt:8808
 msgid ""
 "<p>That’s right. For a customer looking for a smartphone that is easy to "
 "use, Firefox OS is a great choice.</p>"
@@ -1940,7 +1927,10 @@ msgstr ""
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
-#: db-strings.txt:1410 db-strings.txt.py:1419
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:1410 db-strings.txt.py:1419 db-strings.txt.py:8817
+#: db-strings.txt:8826
 msgid ""
 "<p>Actually, for this customer, the best choice is to talk about how easy "
 "Firefox OS is to use.</p>"
@@ -1955,7 +1945,7 @@ msgstr ""
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:1428 db-strings.txt.py:3804 db-strings.txt.py:6387
-#: db-strings.txt:8826
+#: db-strings.txt:8835
 #, fuzzy
 #| msgid ""
 #| "A customer tells you that she’s ready to move up from her old feature "
@@ -1994,7 +1984,7 @@ msgstr ""
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:1464 db-strings.txt.py:3840 db-strings.txt.py:6423
-#: db-strings.txt:8862
+#: db-strings.txt:8871
 #, fuzzy
 #| msgid ""
 #| "A customer tells you that he uses Firefox as his desktop browser. With "
@@ -2024,7 +2014,9 @@ msgstr ""
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
-#: db-strings.txt:1500
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:1500 db-strings.txt.py:8907
 #, fuzzy
 #| msgid ""
 #| "A customer says to you, “I’m looking for an easy way to stay in touch "
@@ -2059,7 +2051,9 @@ msgstr ""
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
-#: db-strings.txt:1536
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:1536 db-strings.txt.py:8943
 #, fuzzy
 #| msgid ""
 #| "A customer says to you, “I’m looking for an easy way to stay in touch "
@@ -2101,10 +2095,7 @@ msgstr ""
 #. Page path: /1-3T/take-the-challenge/
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
-#. Translators:
-#. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:1572 db-strings.txt.py:3948 db-strings.txt.py:6531
-#: db-strings.txt:8970
 #, fuzzy
 #| msgid ""
 #| "Which of the following statements about Adaptive App Search are true? "
@@ -2122,10 +2113,7 @@ msgstr ""
 #. Page path: /1-3T/take-the-challenge/
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
-#. Translators:
-#. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:1581 db-strings.txt.py:3957 db-strings.txt.py:6540
-#: db-strings.txt:8979
 #, fuzzy
 #| msgid ""
 #| "With Adaptive App Search, Firefox OS adapts to you needs better than any "
@@ -2139,9 +2127,7 @@ msgstr "மற்ற பேசிகளை விட தகவமைப்பு
 #. Page path: /1-1/take-the-challenge/
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
-#. Translators:
-#. Page path: /2-0/take-the-challenge/
-#: db-strings.txt:1590 db-strings.txt.py:3966 db-strings.txt.py:8988
+#: db-strings.txt:1590 db-strings.txt.py:3966
 #, fuzzy
 #| msgid ""
 #| "With Adaptive App Search, Firefox OS adapts to you needs better than any "
@@ -2156,9 +2142,7 @@ msgstr "மற்ற பேசிகளை விட தகவமைப்பு
 #. Page path: /1-1/take-the-challenge/
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
-#. Translators:
-#. Page path: /2-0/take-the-challenge/
-#: db-strings.txt:1599 db-strings.txt.py:3975 db-strings.txt.py:8997
+#: db-strings.txt:1599 db-strings.txt.py:3975
 #, fuzzy
 #| msgid ""
 #| "With Adaptive App Search, Firefox OS adapts to you needs better than any "
@@ -2189,10 +2173,7 @@ msgstr ""
 #. Page path: /1-3T/take-the-challenge/
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
-#. Translators:
-#. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:1617 db-strings.txt.py:3993 db-strings.txt.py:6576
-#: db-strings.txt:9015
 #, fuzzy
 #| msgid "Marketplace and Adaptive App Search"
 msgid ""
@@ -2210,7 +2191,7 @@ msgstr "நண்பர்களை ஒத்திசைவு செய்"
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:1626 db-strings.txt.py:1635 db-strings.txt.py:4002
 #: db-strings.txt:4011 db-strings.txt.py:6585 db-strings.txt.py:6594
-#: db-strings.txt:9024 db-strings.txt.py:9033
+#: db-strings.txt:9033 db-strings.txt.py:9042
 msgid ""
 "<p>Not quite. A first time smartphone user will be most interested in ease "
 "of use.</p>"
@@ -2238,10 +2219,7 @@ msgstr "நண்பர்களை ஒத்திசைவு செய்"
 #. Page path: /1-3T/take-the-challenge/
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
-#. Translators:
-#. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:1680 db-strings.txt.py:4056 db-strings.txt.py:6639
-#: db-strings.txt:9078
 #, fuzzy
 #| msgid ""
 #| "With Adaptive App Search, you can use an app once, quickly and easily, "
@@ -2266,7 +2244,7 @@ msgstr ""
 #: db-strings.txt:1689 db-strings.txt.py:1761 db-strings.txt.py:1797
 #: db-strings.txt:4065 db-strings.txt.py:4137 db-strings.txt.py:4173
 #: db-strings.txt:6648 db-strings.txt.py:6720 db-strings.txt.py:6756
-#: db-strings.txt:9087 db-strings.txt.py:9159 db-strings.txt.py:9195
+#: db-strings.txt:9096 db-strings.txt.py:9168 db-strings.txt.py:9204
 msgid "<p>That’s right!</p>"
 msgstr ""
 
@@ -2276,11 +2254,8 @@ msgstr ""
 #. Page path: /1-3T/take-the-challenge/
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
-#. Translators:
-#. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:1698 db-strings.txt.py:1707 db-strings.txt.py:4074
 #: db-strings.txt:4083 db-strings.txt.py:6657 db-strings.txt.py:6666
-#: db-strings.txt:9096 db-strings.txt.py:9105
 msgid "<p>Actually, this is true.</p>"
 msgstr ""
 
@@ -2290,10 +2265,7 @@ msgstr ""
 #. Page path: /1-3T/take-the-challenge/
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
-#. Translators:
-#. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:1716 db-strings.txt.py:4092 db-strings.txt.py:6675
-#: db-strings.txt:9114
 #, fuzzy
 #| msgid ""
 #| "What’s the best response to this customer’s objection? “I’ve heard there "
@@ -2314,7 +2286,7 @@ msgstr ""
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:1725 db-strings.txt.py:4101 db-strings.txt.py:6684
-#: db-strings.txt:9123
+#: db-strings.txt:9132
 #, fuzzy
 #| msgid "<p>The Adaptive Phone</p>"
 msgid "<p>That’s right.</p>"
@@ -2356,10 +2328,7 @@ msgstr ""
 #. Page path: /1-3T/take-the-challenge/
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
-#. Translators:
-#. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:1788 db-strings.txt.py:4164 db-strings.txt.py:6747
-#: db-strings.txt:9186
 #, fuzzy
 #| msgid ""
 #| "What’s the best response to this customer’s objection?<br>“How do I know "
@@ -2425,7 +2394,7 @@ msgstr "Firefox உலாவியை திறக்கவும்."
 #. Page path: /1-4/take-the-challenge/
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
-#: db-strings.txt:1860 db-strings.txt.py:6846 db-strings.txt.py:9285
+#: db-strings.txt:1860 db-strings.txt.py:6846 db-strings.txt.py:9294
 #, fuzzy
 #| msgid "Marketplace"
 msgid "<p>Firefox Marketplace</p>"
@@ -2447,7 +2416,7 @@ msgstr "<p>பயர்பாக்ஸ் உலாவி</p>"
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:1878 db-strings.txt.py:4290 db-strings.txt.py:6864
-#: db-strings.txt:9303
+#: db-strings.txt:9312
 msgid "<p>Camera and Gallery</p>"
 msgstr "<p>படகருவி & படங்கள்</p>"
 
@@ -2460,7 +2429,7 @@ msgstr "<p>படகருவி & படங்கள்</p>"
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:1887 db-strings.txt.py:4299 db-strings.txt.py:6873
-#: db-strings.txt:9312
+#: db-strings.txt:9321
 msgid "<p>Facebook</p>"
 msgstr "<p>முகநுல்</p>"
 
@@ -2504,10 +2473,7 @@ msgstr "<p> </p>"
 #. Page path: /1-3T/take-the-challenge/
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
-#. Translators:
-#. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:1932 db-strings.txt.py:4794 db-strings.txt.py:7305
-#: db-strings.txt:9744
 msgid ""
 "<p>Results from around the Web are displayed like apps on your phone.</p>"
 msgstr ""
@@ -2518,10 +2484,7 @@ msgstr ""
 #. Page path: /1-3T/take-the-challenge/
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
-#. Translators:
-#. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:1941 db-strings.txt.py:4803 db-strings.txt.py:7314
-#: db-strings.txt:9753
 msgid ""
 "<p>Your background image changes instantly to reveal popular photos from the "
 "Web.</p>"
@@ -2533,10 +2496,7 @@ msgstr ""
 #. Page path: /1-3T/take-the-challenge/
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
-#. Translators:
-#. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:1950 db-strings.txt.py:4812 db-strings.txt.py:7323
-#: db-strings.txt:9762
 msgid ""
 "<p>Results include relevant maps, pictures, music, news, videos, Twitter "
 "feeds and more.</p>"
@@ -2561,7 +2521,7 @@ msgstr ""
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:1968 db-strings.txt.py:4920 db-strings.txt.py:7440
-#: db-strings.txt:9870
+#: db-strings.txt:9825
 msgid "<p>I’ve never used a smartphone before.</p>"
 msgstr ""
 
@@ -2574,7 +2534,7 @@ msgstr ""
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:1977 db-strings.txt.py:4929 db-strings.txt.py:7449
-#: db-strings.txt:9879
+#: db-strings.txt:9834
 msgid "<p>I’m looking for the best value for my money.</p>"
 msgstr ""
 
@@ -2587,7 +2547,7 @@ msgstr ""
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:1986 db-strings.txt.py:4938 db-strings.txt.py:7458
-#: db-strings.txt:9888
+#: db-strings.txt:9843
 msgid "<p>I want a smartphone that is truly easy to use.</p>"
 msgstr ""
 
@@ -2600,7 +2560,7 @@ msgstr ""
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:1995 db-strings.txt.py:4947 db-strings.txt.py:7467
-#: db-strings.txt:9897
+#: db-strings.txt:9852
 #, fuzzy
 #| msgid "<p>The Firefox Fan</p>"
 msgid "<p>I’m a Firefox fan.</p>"
@@ -2627,8 +2587,8 @@ msgstr "<p> </p>"
 #: db-strings.txt:2364 db-strings.txt.py:4335 db-strings.txt.py:4416
 #: db-strings.txt:4452 db-strings.txt.py:4488 db-strings.txt.py:4524
 #: db-strings.txt:6927 db-strings.txt.py:6963 db-strings.txt.py:6999
-#: db-strings.txt:7035 db-strings.txt.py:9366 db-strings.txt.py:9402
-#: db-strings.txt:9438 db-strings.txt.py:9474
+#: db-strings.txt:7035 db-strings.txt.py:9375 db-strings.txt.py:9402
+#: db-strings.txt:9429
 msgid "<p>Contacts</p>"
 msgstr "<p>தொடர்பு</p>"
 
@@ -2638,13 +2598,10 @@ msgstr "<p>தொடர்பு</p>"
 #. Page path: /1-3T/take-the-challenge/
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
-#. Translators:
-#. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:2031 db-strings.txt.py:2067 db-strings.txt.py:2103
 #: db-strings.txt:2382 db-strings.txt.py:4434 db-strings.txt.py:4470
 #: db-strings.txt:4506 db-strings.txt.py:4542 db-strings.txt.py:6945
 #: db-strings.txt:6981 db-strings.txt.py:7017 db-strings.txt.py:7053
-#: db-strings.txt:9492
 msgid "<p>Adaptive App Search</p>"
 msgstr "<p>தகவமைப்பு பயன்பாடு தேடல்</p>"
 
@@ -2687,7 +2644,7 @@ msgstr ""
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:2130 db-strings.txt.py:4569 db-strings.txt.py:7080
-#: db-strings.txt:9519
+#: db-strings.txt:9492
 #, fuzzy
 #| msgid ""
 #| "Since it is built by Firefox, you can feel confident that Firefox OS is "
@@ -2707,10 +2664,7 @@ msgstr ""
 #. Page path: /1-3T/take-the-challenge/
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
-#. Translators:
-#. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:2139 db-strings.txt.py:4578 db-strings.txt.py:7089
-#: db-strings.txt:9528
 #, fuzzy
 #| msgid ""
 #| "Firefox OS gives you the broadest selection of devices on the market "
@@ -2726,8 +2680,10 @@ msgstr ""
 #. Page path: /1-1/take-the-challenge/
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:2148 db-strings.txt.py:2202 db-strings.txt.py:7098
-#: db-strings.txt:7152
+#: db-strings.txt:7152 db-strings.txt.py:9519 db-strings.txt.py:9555
 #, fuzzy
 #| msgid ""
 #| "Firefox OS gives you the most value for your money, with everything you "
@@ -2746,8 +2702,10 @@ msgstr ""
 #. Page path: /1-1/take-the-challenge/
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:2157 db-strings.txt.py:2175 db-strings.txt.py:7107
-#: db-strings.txt:7125
+#: db-strings.txt:7125 db-strings.txt.py:9546
 #, fuzzy
 #| msgid ""
 #| "Firefox OS is the easiest smartphone to get started with. Your favorite "
@@ -2808,7 +2766,7 @@ msgstr ""
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:2211 db-strings.txt.py:4650 db-strings.txt.py:7161
-#: db-strings.txt:9600
+#: db-strings.txt:9582
 #, fuzzy
 #| msgid ""
 #| "Firefox OS is the easiest smartphone to get started with. Your favorite "
@@ -2835,7 +2793,9 @@ msgstr ""
 #. Page path: /1-1/take-the-challenge/
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
-#: db-strings.txt:2238 db-strings.txt.py:7188
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:2238 db-strings.txt.py:7188 db-strings.txt.py:9609
 msgid ""
 "<p>Facebook is preloaded on every Firefox OS device and you can import your "
 "Facebook contacts easily!</p>"
@@ -2860,7 +2820,7 @@ msgstr ""
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:2256 db-strings.txt.py:4695 db-strings.txt.py:7206
-#: db-strings.txt:9645
+#: db-strings.txt:9627
 msgid ""
 "<p>Every Firefox phone includes the Firefox browser, the fast, smart and "
 "safe way to get online.</p>"
@@ -2875,7 +2835,7 @@ msgstr ""
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:2265 db-strings.txt.py:4704 db-strings.txt.py:7215
-#: db-strings.txt:9654
+#: db-strings.txt:9636
 msgid ""
 "<p>Firefox OS includes all the same features you’ll find in competitive "
 "smartphones and gives you more value for the money.</p>"
@@ -2896,10 +2856,7 @@ msgstr ""
 #. Page path: /1-3T/take-the-challenge/
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
-#. Translators:
-#. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:2283 db-strings.txt.py:4722 db-strings.txt.py:7233
-#: db-strings.txt:9672
 msgid "<p>A unique feature included in every Firefox OS smartphone.</p>"
 msgstr ""
 
@@ -2909,10 +2866,7 @@ msgstr ""
 #. Page path: /1-3T/take-the-challenge/
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
-#. Translators:
-#. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:2292 db-strings.txt.py:4731 db-strings.txt.py:7242
-#: db-strings.txt:9681
 msgid "<p>Works just like Web search on Firefox browsers.</p>"
 msgstr ""
 
@@ -2922,10 +2876,7 @@ msgstr ""
 #. Page path: /1-3T/take-the-challenge/
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
-#. Translators:
-#. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:2301 db-strings.txt.py:4740 db-strings.txt.py:7251
-#: db-strings.txt:9690
 msgid "<p>Results include photos, video, music, news, maps and more.</p>"
 msgstr ""
 
@@ -2935,10 +2886,7 @@ msgstr ""
 #. Page path: /1-3T/take-the-challenge/
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
-#. Translators:
-#. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:2310 db-strings.txt.py:4749 db-strings.txt.py:7260
-#: db-strings.txt:9699
 msgid ""
 "<p>Results are instantly usable — you don’t have to download the app first.</"
 "p>"
@@ -2953,7 +2901,7 @@ msgstr ""
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:2319 db-strings.txt.py:4758 db-strings.txt.py:7269
-#: db-strings.txt:9708
+#: db-strings.txt:9681
 msgid ""
 "<p>You can easily import contacts from Facebook to your Firefox OS phone.</p>"
 msgstr ""
@@ -2967,7 +2915,7 @@ msgstr ""
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:2328 db-strings.txt.py:4767 db-strings.txt.py:7278
-#: db-strings.txt:9717
+#: db-strings.txt:9690
 msgid ""
 "<p>Firefox OS gives you access to popular, big name apps, as well as local "
 "content that means the most to you.</p>"
@@ -2982,7 +2930,7 @@ msgstr ""
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:2337 db-strings.txt.py:4776 db-strings.txt.py:7287
-#: db-strings.txt:9726
+#: db-strings.txt:9699
 msgid ""
 "<p>Firefox OS isn’t cluttered with more than you need. It gives you what "
 "you’d expect in a smartphone, with an easy-to-use interface that makes it "
@@ -2995,10 +2943,7 @@ msgstr ""
 #. Page path: /1-3T/take-the-challenge/
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
-#. Translators:
-#. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:2346 db-strings.txt.py:4785 db-strings.txt.py:7296
-#: db-strings.txt:9735
 msgid "<p>Firefox OS is built entirely using HTML5 and open Web standards.</p>"
 msgstr ""
 
@@ -3011,7 +2956,7 @@ msgstr ""
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:2391 db-strings.txt.py:4821 db-strings.txt.py:7341
-#: db-strings.txt:9771
+#: db-strings.txt:9744
 #, fuzzy
 #| msgid "<p> </p>"
 msgid "<p>True</p>"
@@ -3026,7 +2971,7 @@ msgstr "<p> </p>"
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:2400 db-strings.txt.py:4830 db-strings.txt.py:7350
-#: db-strings.txt:9780
+#: db-strings.txt:9753
 #, fuzzy
 #| msgid "<p> </p>"
 msgid "<p>False</p>"
@@ -3059,10 +3004,7 @@ msgstr ""
 #. Page path: /1-3T/take-the-challenge/
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
-#. Translators:
-#. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:2427 db-strings.txt.py:4857 db-strings.txt.py:7377
-#: db-strings.txt:9807
 #, fuzzy
 #| msgid ""
 #| "<p>Firefox OS has a robust security model that is battle-hardened from "
@@ -3128,7 +3070,7 @@ msgstr ""
 #. Translators:
 #. Page path: /2-0/which-version/
 #: db-strings.txt:2490 db-strings.txt.py:4956 db-strings.txt.py:7476
-#: db-strings.txt:9906
+#: db-strings.txt:9861
 msgid "Which Version Do I Have?"
 msgstr ""
 
@@ -3141,7 +3083,7 @@ msgstr ""
 #. Translators:
 #. Page path: /2-0/which-version/
 #: db-strings.txt:2499 db-strings.txt.py:4965 db-strings.txt.py:7485
-#: db-strings.txt:9915
+#: db-strings.txt:9870
 msgid ""
 "<ol> <li>Open the Settings app on your device.</li> <li>Scroll down and "
 "select <strong>Device information</strong>.</li> <li>On the Device "
@@ -3579,7 +3521,7 @@ msgstr "முகநுல்"
 #. Page path: /1-4/key-features/
 #. Translators:
 #. Page path: /2-0/key-features/
-#: db-strings.txt:3138 db-strings.txt.py:5685 db-strings.txt.py:8097
+#: db-strings.txt:3138 db-strings.txt.py:5685 db-strings.txt.py:8106
 msgid ""
 "<p>With built-in style filters for fun, creative shots and lots of ways to "
 "share your photographs, the full-featured camera and photo gallery will have "
@@ -3606,7 +3548,7 @@ msgstr ""
 #. Page path: /1-4/key-features/
 #. Translators:
 #. Page path: /2-0/key-features/
-#: db-strings.txt:3210 db-strings.txt.py:5784 db-strings.txt.py:8169
+#: db-strings.txt:3210 db-strings.txt.py:5784 db-strings.txt.py:8178
 #, fuzzy
 #| msgid "<p>Messages and Email</p>"
 msgid "Messages and Email"
@@ -3661,7 +3603,7 @@ msgstr ""
 #. Page path: /1-4/frequently-asked-questions/
 #. Translators:
 #. Page path: /2-0/frequently-asked-questions/
-#: db-strings.txt:3300 db-strings.txt.py:5874 db-strings.txt.py:8295
+#: db-strings.txt:3300 db-strings.txt.py:5874 db-strings.txt.py:8304
 msgid ""
 "<p>Firefox OS has a robust security model that is battle-hardened from more "
 "than a decade of supporting the open Web. It is designed to protect the user "
@@ -3678,7 +3620,7 @@ msgstr ""
 #. Page path: /1-4/frequently-asked-questions/
 #. Translators:
 #. Page path: /2-0/frequently-asked-questions/
-#: db-strings.txt:3309 db-strings.txt.py:5883 db-strings.txt.py:8304
+#: db-strings.txt:3309 db-strings.txt.py:5883 db-strings.txt.py:8313
 #, fuzzy
 #| msgid "<p>What do you mean I can convert mobile sites into apps?</p>"
 msgid "What do you mean I can convert mobile sites into apps?"
@@ -3688,7 +3630,7 @@ msgstr "<p>செல்பேசி தளங்களை பயன்பாட�
 #. Page path: /1-3T/frequently-asked-questions/
 #. Translators:
 #. Page path: /2-0/frequently-asked-questions/
-#: db-strings.txt:3318 db-strings.txt.py:8313
+#: db-strings.txt:3318 db-strings.txt.py:8322
 msgid ""
 "<p>Users can place website bookmarks on the home page to provide direct "
 "access to those sites. Also, by swiping right from the home screen, users "
@@ -3708,7 +3650,7 @@ msgstr ""
 #. Page path: /1-3T/frequently-asked-questions/
 #. Translators:
 #. Page path: /2-0/frequently-asked-questions/
-#: db-strings.txt:3336 db-strings.txt.py:8331
+#: db-strings.txt:3336 db-strings.txt.py:8340
 #, fuzzy
 #| msgid ""
 #| "<p>Not directly. However, many of the most popular Android and iOS apps "
@@ -3734,7 +3676,7 @@ msgstr ""
 #. Page path: /1-3T/frequently-asked-questions/
 #. Translators:
 #. Page path: /2-0/frequently-asked-questions/
-#: db-strings.txt:3354 db-strings.txt.py:8367
+#: db-strings.txt:3354 db-strings.txt.py:8376
 #, fuzzy
 #| msgid ""
 #| "<p>Firefox OS is built on Web technologies but has offline capabilities "
@@ -3755,7 +3697,7 @@ msgstr ""
 #. Page path: /1-3T/frequently-asked-questions/
 #. Translators:
 #. Page path: /2-0/frequently-asked-questions/
-#: db-strings.txt:3372 db-strings.txt.py:8385
+#: db-strings.txt:3372 db-strings.txt.py:8394
 msgid ""
 "<p>Customers who need support with an app built for Firefox OS will be "
 "directed to the app developer for assistance. If the customer experience "
@@ -3799,7 +3741,7 @@ msgstr ""
 #. Page path: /1-4/frequently-asked-questions/
 #. Translators:
 #. Page path: /2-0/frequently-asked-questions/
-#: db-strings.txt:3399 db-strings.txt.py:5973 db-strings.txt.py:8412
+#: db-strings.txt:3399 db-strings.txt.py:5973 db-strings.txt.py:8421
 #, fuzzy
 #| msgid "<p>What email providers are supported?</p>"
 msgid "What email providers are supported?"
@@ -3863,15 +3805,13 @@ msgstr ""
 #. Page path: /1-4/take-the-challenge/
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
-#: db-strings.txt:3498 db-strings.txt.py:6081 db-strings.txt.py:8520
+#: db-strings.txt:3498 db-strings.txt.py:6081 db-strings.txt.py:8529
 msgid "<p>Get Ready to Sell!</p>"
 msgstr "<p>விற்க தயாராக இருங்கள்!</p>"
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
-#. Translators:
-#. Page path: /2-0/take-the-challenge/
-#: db-strings.txt:3507 db-strings.txt.py:8529
+#: db-strings.txt:3507
 #, fuzzy
 #| msgid ""
 #| "<p>If you have worked through the questions and all of the content, then "
@@ -3923,7 +3863,7 @@ msgstr "<p>தகவமைப்பு பயன்பாடு தேடல் 
 #. Page path: /1-3T/take-the-challenge/
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
-#: db-strings.txt:3552 db-strings.txt.py:8574
+#: db-strings.txt:3552 db-strings.txt.py:8583
 #, fuzzy
 #| msgid ""
 #| "Which of the following apps is preloaded on every Firefox OS phone? "
@@ -3941,7 +3881,7 @@ msgstr ""
 #. Page path: /1-4/take-the-challenge/
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
-#: db-strings.txt:3579 db-strings.txt.py:6162 db-strings.txt.py:8601
+#: db-strings.txt:3579 db-strings.txt.py:6162 db-strings.txt.py:8610
 msgid "<p>There are more. Try again</p>"
 msgstr ""
 
@@ -3949,8 +3889,11 @@ msgstr ""
 #. Page path: /1-3T/take-the-challenge/
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:3588 db-strings.txt.py:6171 db-strings.txt.py:6207
-#: db-strings.txt:6243 db-strings.txt.py:6279
+#: db-strings.txt:6243 db-strings.txt.py:6279 db-strings.txt.py:8619
+#: db-strings.txt:8655 db-strings.txt.py:8691
 #, fuzzy
 #| msgid ""
 #| "Which Firefox OS feature does this icon represent?<br><br><img "
@@ -3966,7 +3909,7 @@ msgstr ""
 #. Page path: /1-4/take-the-challenge/
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
-#: db-strings.txt:3597 db-strings.txt.py:6180 db-strings.txt.py:8619
+#: db-strings.txt:3597 db-strings.txt.py:6180 db-strings.txt.py:8628
 #, fuzzy
 #| msgid "Marketplace and Adaptive App Search"
 msgid "<p>That’s right! This icon represents Messages —or text messaging.</p>"
@@ -3979,7 +3922,7 @@ msgstr "நண்பர்களை ஒத்திசைவு செய்"
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:3606 db-strings.txt.py:3615 db-strings.txt.py:6189
-#: db-strings.txt:6198 db-strings.txt.py:8628 db-strings.txt.py:8637
+#: db-strings.txt:6198 db-strings.txt.py:8637 db-strings.txt.py:8646
 #, fuzzy
 #| msgid "Marketplace and Adaptive App Search"
 msgid "<p>Actually, this icon represents Messages — or text messaging.</p>"
@@ -4001,7 +3944,7 @@ msgstr ""
 #. Page path: /1-3T/take-the-challenge/
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
-#: db-strings.txt:3633 db-strings.txt.py:8655
+#: db-strings.txt:3633 db-strings.txt.py:8664
 #, fuzzy
 #| msgid "Marketplace and Adaptive App Search"
 msgid "<p>That’s right. This icon represents the Contacts.</p>"
@@ -4014,7 +3957,7 @@ msgstr "நண்பர்களை ஒத்திசைவு செய்"
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:3642 db-strings.txt.py:3651 db-strings.txt.py:6234
-#: db-strings.txt:8664 db-strings.txt.py:8673
+#: db-strings.txt:8673 db-strings.txt.py:8682
 #, fuzzy
 #| msgid "Marketplace and Adaptive App Search"
 msgid "<p>Actually, this icon represents the Contacts.</p>"
@@ -4040,10 +3983,8 @@ msgstr "நண்பர்களை ஒத்திசைவு செய்"
 #. Page path: /1-3T/take-the-challenge/
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
-#. Translators:
-#. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:3714 db-strings.txt.py:3723 db-strings.txt.py:6297
-#: db-strings.txt:6306 db-strings.txt.py:8736 db-strings.txt.py:8745
+#: db-strings.txt:6306
 #, fuzzy
 #| msgid "Marketplace and Adaptive App Search"
 msgid "<p>Actually, this icon represents Adaptive App Search.</p>"
@@ -4051,10 +3992,7 @@ msgstr "நண்பர்களை ஒத்திசைவு செய்"
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
-#. Translators:
-#. Page path: /2-0/take-the-challenge/
-#: db-strings.txt:3786 db-strings.txt.py:3795 db-strings.txt.py:8808
-#: db-strings.txt:8817
+#: db-strings.txt:3786 db-strings.txt.py:3795
 msgid ""
 "<p>Actually, for this customer, the best choice is to talk about how easy "
 "Firefox OS is to use, the free apps within the Firefox Marketplace and the "
@@ -4065,9 +4003,7 @@ msgstr ""
 #. Page path: /1-3T/take-the-challenge/
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
-#. Translators:
-#. Page path: /2-0/take-the-challenge/
-#: db-strings.txt:3813 db-strings.txt.py:6396 db-strings.txt.py:8835
+#: db-strings.txt:3813 db-strings.txt.py:6396
 #, fuzzy
 #| msgid "Marketplace and Adaptive App Search"
 msgid ""
@@ -4079,10 +4015,8 @@ msgstr "நண்பர்களை ஒத்திசைவு செய்"
 #. Page path: /1-3T/take-the-challenge/
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
-#. Translators:
-#. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:3822 db-strings.txt.py:3831 db-strings.txt.py:6405
-#: db-strings.txt:6414 db-strings.txt.py:8844 db-strings.txt.py:8853
+#: db-strings.txt:6414
 msgid ""
 "<p>Actually, with a first time smartphone user, you should talk about its "
 "simplicity and features like Adaptive App Search.</p>"
@@ -4092,9 +4026,7 @@ msgstr ""
 #. Page path: /1-3T/take-the-challenge/
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
-#. Translators:
-#. Page path: /2-0/take-the-challenge/
-#: db-strings.txt:3849 db-strings.txt.py:6432 db-strings.txt.py:8871
+#: db-strings.txt:3849 db-strings.txt.py:6432
 msgid ""
 "<p>That’s right. When you meet a Firefox fan, talk about how choosing "
 "Firefox OS shows a commitment to keeping the Web in their hands.</p>"
@@ -4102,10 +4034,7 @@ msgstr ""
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
-#. Translators:
-#. Page path: /2-0/take-the-challenge/
-#: db-strings.txt:3858 db-strings.txt.py:3867 db-strings.txt.py:8880
-#: db-strings.txt:8889
+#: db-strings.txt:3858 db-strings.txt.py:3867
 msgid ""
 "<p>Actually, when you meet a Firefox fan, talk about how choosing Firefox OS "
 "shows a commitment to keeping the Web in their hands</p>"
@@ -4113,9 +4042,7 @@ msgstr ""
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
-#. Translators:
-#. Page path: /2-0/take-the-challenge/
-#: db-strings.txt:3876 db-strings.txt.py:8898
+#: db-strings.txt:3876
 #, fuzzy
 #| msgid ""
 #| "A customer says to you, “I’m looking for an easy way to stay in touch "
@@ -4132,9 +4059,7 @@ msgstr ""
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
-#. Translators:
-#. Page path: /2-0/take-the-challenge/
-#: db-strings.txt:3885 db-strings.txt.py:8907
+#: db-strings.txt:3885
 msgid ""
 "<p>That’s right. With this customer, highlight the full feature set of "
 "Firefox OS, including social apps that are preloaded on the phone, all at "
@@ -4143,10 +4068,7 @@ msgstr ""
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
-#. Translators:
-#. Page path: /2-0/take-the-challenge/
-#: db-strings.txt:3894 db-strings.txt.py:3903 db-strings.txt.py:8916
-#: db-strings.txt:8925
+#: db-strings.txt:3894 db-strings.txt.py:3903
 msgid ""
 "<p>That’s not it. With this customer, highlight the full feature set of "
 "Firefox OS, including social apps that are preloaded on the phone, all at "
@@ -4155,9 +4077,7 @@ msgstr ""
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
-#. Translators:
-#. Page path: /2-0/take-the-challenge/
-#: db-strings.txt:3912 db-strings.txt.py:8934
+#: db-strings.txt:3912
 #, fuzzy
 #| msgid ""
 #| "A customer says to you, “I’m looking for an easy way to stay in touch "
@@ -4176,9 +4096,7 @@ msgstr ""
 #. Page path: /1-3T/take-the-challenge/
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
-#. Translators:
-#. Page path: /2-0/take-the-challenge/
-#: db-strings.txt:3921 db-strings.txt.py:6504 db-strings.txt.py:8943
+#: db-strings.txt:3921 db-strings.txt.py:6504
 msgid ""
 "<p>That’s right. This customer seems like a Firefox fan. Talk about how the "
 "Firefox OS phones, made by Mozilla, show a commitment to keeping the Web in "
@@ -4188,10 +4106,7 @@ msgstr ""
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
-#. Translators:
-#. Page path: /2-0/take-the-challenge/
-#: db-strings.txt:3930 db-strings.txt.py:3939 db-strings.txt.py:8952
-#: db-strings.txt:8961
+#: db-strings.txt:3930 db-strings.txt.py:3939
 msgid ""
 "<p>All of these statements are true, but only one is the best response for "
 "this particular customer, who seems to be a Firefox fan. Talk about how the "
@@ -4203,9 +4118,7 @@ msgstr ""
 #. Page path: /1-3T/take-the-challenge/
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
-#. Translators:
-#. Page path: /2-0/take-the-challenge/
-#: db-strings.txt:3984 db-strings.txt.py:6567 db-strings.txt.py:9006
+#: db-strings.txt:3984 db-strings.txt.py:6567
 #, fuzzy
 #| msgid ""
 #| "While all of these statements are true, which two responses would be most "
@@ -4224,7 +4137,7 @@ msgstr ""
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:4110 db-strings.txt.py:4119 db-strings.txt.py:6693
-#: db-strings.txt:6702 db-strings.txt.py:9132 db-strings.txt.py:9141
+#: db-strings.txt:6702 db-strings.txt.py:9141 db-strings.txt.py:9150
 msgid ""
 "<p>The best response to this objection is to talk about all the apps that "
 "are available.</p>"
@@ -4234,9 +4147,7 @@ msgstr ""
 #. Page path: /1-3T/take-the-challenge/
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
-#. Translators:
-#. Page path: /2-0/take-the-challenge/
-#: db-strings.txt:4128 db-strings.txt.py:6711 db-strings.txt.py:9150
+#: db-strings.txt:4128 db-strings.txt.py:6711
 #, fuzzy
 #| msgid ""
 #| "What’s the best response to this customer’s objection? “I’ve never heard "
@@ -4255,7 +4166,7 @@ msgstr ""
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:4146 db-strings.txt.py:4155 db-strings.txt.py:6729
-#: db-strings.txt:6738 db-strings.txt.py:9168 db-strings.txt.py:9177
+#: db-strings.txt:6738 db-strings.txt.py:9177 db-strings.txt.py:9186
 msgid ""
 "<p>The best response to this objection is to talk about the experience of "
 "the Mozilla community that is behind Firefox OS.</p>"
@@ -4268,7 +4179,7 @@ msgstr ""
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:4182 db-strings.txt.py:4191 db-strings.txt.py:6765
-#: db-strings.txt:6774 db-strings.txt.py:9204 db-strings.txt.py:9213
+#: db-strings.txt:6774 db-strings.txt.py:9213 db-strings.txt.py:9222
 msgid ""
 "<p>The best response to this objection is to talk about the robust security "
 "model.</p>"
@@ -4278,9 +4189,7 @@ msgstr ""
 #. Page path: /1-3T/take-the-challenge/
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
-#. Translators:
-#. Page path: /2-0/take-the-challenge/
-#: db-strings.txt:4200 db-strings.txt.py:6783 db-strings.txt.py:9222
+#: db-strings.txt:4200 db-strings.txt.py:6783
 #, fuzzy
 #| msgid ""
 #| "Which of these customer responses indicate a ideal candidate for Firefox "
@@ -4316,11 +4225,8 @@ msgstr "<p>Marketplace</p>"
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
-#. Translators:
-#. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:4281 db-strings.txt.py:4425 db-strings.txt.py:4461
-#: db-strings.txt:4497 db-strings.txt.py:4533 db-strings.txt.py:9411
-#: db-strings.txt:9483
+#: db-strings.txt:4497 db-strings.txt.py:4533
 #, fuzzy
 #| msgid "<p>Firefox browser</p>"
 msgid "<p>Browser</p>"
@@ -4354,7 +4260,7 @@ msgstr "<p> </p>"
 #. Page path: /1-3T/take-the-challenge/
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
-#: db-strings.txt:4344 db-strings.txt.py:9339
+#: db-strings.txt:4344 db-strings.txt.py:9348
 #, fuzzy
 #| msgid "<p> </p>"
 msgid "<p>Calendar</p>"
@@ -4364,7 +4270,7 @@ msgstr "<p> </p>"
 #. Page path: /1-3T/take-the-challenge/
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
-#: db-strings.txt:4353 db-strings.txt.py:9348
+#: db-strings.txt:4353 db-strings.txt.py:9357
 #, fuzzy
 #| msgid "<p>Contacts</p>"
 msgid "<p>Clock</p>"
@@ -4392,7 +4298,7 @@ msgstr "<p> </p>"
 #. Page path: /1-4/take-the-challenge/
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
-#: db-strings.txt:4380 db-strings.txt.py:6882 db-strings.txt.py:9321
+#: db-strings.txt:4380 db-strings.txt.py:6882 db-strings.txt.py:9330
 #, fuzzy
 #| msgid "Email and Messages"
 msgid "<p>Email and Messages</p>"
@@ -4404,7 +4310,7 @@ msgstr "அஞ்சல் & குறுந்செய்தி"
 #. Page path: /1-4/take-the-challenge/
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
-#: db-strings.txt:4398 db-strings.txt.py:6900 db-strings.txt.py:9330
+#: db-strings.txt:4398 db-strings.txt.py:6900 db-strings.txt.py:9339
 #, fuzzy
 #| msgid "<p>Music and Video</p>"
 msgid "<p>Music</p>"
@@ -4418,8 +4324,8 @@ msgstr "<p>இசையும் காணொளியும்</p>"
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:4407 db-strings.txt.py:4443 db-strings.txt.py:4479
 #: db-strings.txt:4515 db-strings.txt.py:6918 db-strings.txt.py:6954
-#: db-strings.txt:6990 db-strings.txt.py:7026 db-strings.txt.py:9357
-#: db-strings.txt:9393 db-strings.txt.py:9429 db-strings.txt.py:9465
+#: db-strings.txt:6990 db-strings.txt.py:7026 db-strings.txt.py:9366
+#: db-strings.txt:9393 db-strings.txt.py:9420
 #, fuzzy
 #| msgid "<p>Messages and Email...</p>"
 msgid "<p>Messages</p>"
@@ -4431,7 +4337,7 @@ msgstr "<p>குறுந்செய்தியும் மின்னஞ�
 #. Page path: /1-4/take-the-challenge/
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
-#: db-strings.txt:4551 db-strings.txt.py:7062 db-strings.txt.py:9501
+#: db-strings.txt:4551 db-strings.txt.py:7062 db-strings.txt.py:9474
 #, fuzzy
 #| msgid ""
 #| "With Adaptive App Search, Firefox OS adapts to you needs better than any "
@@ -4443,9 +4349,7 @@ msgstr "மற்ற பேசிகளை விட தகவமைப்பு
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
-#. Translators:
-#. Page path: /2-0/take-the-challenge/
-#: db-strings.txt:4560 db-strings.txt.py:9510
+#: db-strings.txt:4560
 #, fuzzy
 #| msgid ""
 #| "With the Firefox Marketplace and dozens of preloaded apps like Email, "
@@ -4461,9 +4365,7 @@ msgstr ""
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
-#. Translators:
-#. Page path: /2-0/take-the-challenge/
-#: db-strings.txt:4587 db-strings.txt.py:9537
+#: db-strings.txt:4587
 #, fuzzy
 #| msgid ""
 #| "Firefox OS gives you the most value for your money, with everything you "
@@ -4480,9 +4382,7 @@ msgstr ""
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
-#. Translators:
-#. Page path: /2-0/take-the-challenge/
-#: db-strings.txt:4596 db-strings.txt.py:9546
+#: db-strings.txt:4596
 #, fuzzy
 #| msgid ""
 #| "Firefox OS is the easiest smartphone to get started with. Your favorite "
@@ -4502,7 +4402,7 @@ msgstr ""
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:4605 db-strings.txt.py:4632 db-strings.txt.py:4659
-#: db-strings.txt:9555 db-strings.txt.py:9582 db-strings.txt.py:9609
+#: db-strings.txt:9591
 #, fuzzy
 #| msgid ""
 #| "If you love Firefox, you’ll love Firefox OS. Choosing a Firefox OS device "
@@ -4516,9 +4416,7 @@ msgstr ""
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
-#. Translators:
-#. Page path: /2-0/take-the-challenge/
-#: db-strings.txt:4614 db-strings.txt.py:9564
+#: db-strings.txt:4614
 #, fuzzy
 #| msgid ""
 #| "Firefox OS is the easiest smartphone to get started with. Your favorite "
@@ -4535,9 +4433,7 @@ msgstr ""
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
-#. Translators:
-#. Page path: /2-0/take-the-challenge/
-#: db-strings.txt:4623 db-strings.txt.py:9573
+#: db-strings.txt:4623
 #, fuzzy
 #| msgid ""
 #| "Firefox OS gives you the most value for your money, with everything you "
@@ -4557,7 +4453,7 @@ msgstr ""
 #. Page path: /1-3T/take-the-challenge/
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
-#: db-strings.txt:4641 db-strings.txt.py:9591
+#: db-strings.txt:4641 db-strings.txt.py:9573
 #, fuzzy
 #| msgid ""
 #| "Firefox OS gives you the most value for your money, with everything you "
@@ -4574,9 +4470,7 @@ msgstr ""
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
-#. Translators:
-#. Page path: /2-0/take-the-challenge/
-#: db-strings.txt:4668 db-strings.txt.py:9618
+#: db-strings.txt:4668
 msgid ""
 "<p>The Firefox OS smartphone is preloaded with all the features that you’d "
 "expect, including Messages, Facebook, Email and more, all at a better value."
@@ -4585,9 +4479,7 @@ msgstr ""
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
-#. Translators:
-#. Page path: /2-0/take-the-challenge/
-#: db-strings.txt:4677 db-strings.txt.py:9627
+#: db-strings.txt:4677
 msgid ""
 "<p>Facebook is preloaded on every Firefox OS device and you can sync your "
 "Facebook contacts easily!</p>"
@@ -4595,9 +4487,7 @@ msgstr ""
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
-#. Translators:
-#. Page path: /2-0/take-the-challenge/
-#: db-strings.txt:4686 db-strings.txt.py:9636
+#: db-strings.txt:4686
 msgid ""
 "<p>The Firefox Marketplace features thousands of apps for free and there is "
 "no need to sign in.</p>"
@@ -4607,9 +4497,7 @@ msgstr ""
 #. Page path: /1-3T/take-the-challenge/
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
-#. Translators:
-#. Page path: /2-0/take-the-challenge/
-#: db-strings.txt:4713 db-strings.txt.py:7224 db-strings.txt.py:9663
+#: db-strings.txt:4713 db-strings.txt.py:7224
 msgid ""
 "<p>Mozilla, the maker of Firefox, built a mobile OS to keep the Web "
 "accessible to all. And since Firefox OS is entirely built in HTML5, you get "
@@ -4618,10 +4506,7 @@ msgstr ""
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
-#. Translators:
-#. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:4839 db-strings.txt.py:4884 db-strings.txt.py:4902
-#: db-strings.txt:9789 db-strings.txt.py:9834 db-strings.txt.py:9852
 msgid ""
 "<p>Firefox OS phones are new and backed by a global community working to "
 "help keep the Web accessible to all.</p>"
@@ -4629,9 +4514,7 @@ msgstr ""
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
-#. Translators:
-#. Page path: /2-0/take-the-challenge/
-#: db-strings.txt:4848 db-strings.txt.py:9798
+#: db-strings.txt:4848
 msgid ""
 "<p>Every phone has access to hundreds of free apps at launch, including some "
 "of the most popular global apps today.</p>"
@@ -4639,10 +4522,7 @@ msgstr ""
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
-#. Translators:
-#. Page path: /2-0/take-the-challenge/
-#: db-strings.txt:4866 db-strings.txt.py:4893 db-strings.txt.py:9816
-#: db-strings.txt:9843
+#: db-strings.txt:4866 db-strings.txt.py:4893
 msgid ""
 "<p>Firefox OS phones are packed with the features that made you want a "
 "smartphone in the first place.</p>"
@@ -4650,9 +4530,7 @@ msgstr ""
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
-#. Translators:
-#. Page path: /2-0/take-the-challenge/
-#: db-strings.txt:4875 db-strings.txt.py:9825
+#: db-strings.txt:4875
 msgid ""
 "<p>Firefox OS phones provide access to hundreds of free apps at launch, "
 "including some of the most popular global apps today.</p>"
@@ -4660,9 +4538,7 @@ msgstr ""
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
-#. Translators:
-#. Page path: /2-0/take-the-challenge/
-#: db-strings.txt:4911 db-strings.txt.py:9861
+#: db-strings.txt:4911
 #, fuzzy
 #| msgid ""
 #| "<p>Firefox OS has a robust security model that is battle-hardened from "
@@ -5122,7 +4998,7 @@ msgstr ""
 #. Page path: /1-4/take-the-challenge/
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
-#: db-strings.txt:6054 db-strings.txt.py:8493
+#: db-strings.txt:6054 db-strings.txt.py:8502
 msgid "<p>Ready to show what you know?</p>"
 msgstr "<p>உங்களுக்கு தெரிந்ததை வெளிப்படுத்த தயாரா?</p>"
 
@@ -5130,7 +5006,7 @@ msgstr "<p>உங்களுக்கு தெரிந்ததை வெள�
 #. Page path: /1-4/take-the-challenge/
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
-#: db-strings.txt:6072 db-strings.txt.py:8511
+#: db-strings.txt:6072 db-strings.txt.py:8520
 msgid ""
 "<p>Think you are almost ready to start selling Firefox OS to your customers? "
 "Put your knowledge to the test and answer these questions to prove you have "
@@ -5326,8 +5202,8 @@ msgstr "மற்ற பேசிகளை விட தகவமைப்பு
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:6855 db-strings.txt.py:6936 db-strings.txt.py:6972
-#: db-strings.txt:7008 db-strings.txt.py:7044 db-strings.txt.py:9294
-#: db-strings.txt:9375 db-strings.txt.py:9447
+#: db-strings.txt:7008 db-strings.txt.py:7044 db-strings.txt.py:9303
+#: db-strings.txt:9384 db-strings.txt.py:9411 db-strings.txt.py:9438
 #, fuzzy
 #| msgid "<p>Firefox browser</p>"
 msgid "<p>Firefox Browser</p>"
@@ -5575,7 +5451,18 @@ msgstr ""
 
 #. Translators:
 #. Page path: /2-0/key-features/
-#: db-strings.txt:7989
+#: db-strings.txt:7971
+msgid ""
+"<h2>ConnectA2</h2> <p>ConnectA2 is a mobile instant messaging app compatible "
+"with WhatsApp for your Firefox OS device. ConnectA2 lets you send and "
+"receive messages, emoticons, pictures, videos and audio files. You can also "
+"create and use group chats and receive notifications of new messages, even "
+"when the app is closed.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /2-0/key-features/
+#: db-strings.txt:7998
 #, fuzzy
 #| msgid ""
 #| "<p>Your go-to source for the best apps for Firefox OS. Browse hundreds of "
@@ -5590,7 +5477,7 @@ msgstr ""
 
 #. Translators:
 #. Page path: /2-0/key-features/
-#: db-strings.txt:8016
+#: db-strings.txt:8025
 msgid ""
 "<p>Experience the fast, smart, safe way to get the best of the Web. Use the "
 "Search Bar to visit websites, perform searches and access apps from the "
@@ -5600,7 +5487,7 @@ msgstr ""
 
 #. Translators:
 #. Page path: /2-0/key-features/
-#: db-strings.txt:8043
+#: db-strings.txt:8052
 #, fuzzy
 #| msgid ""
 #| "<p>Stay connected, with easy access to your friends and colleagues, "
@@ -5614,7 +5501,7 @@ msgstr ""
 
 #. Translators:
 #. Page path: /2-0/key-features/
-#: db-strings.txt:8070
+#: db-strings.txt:8079
 msgid ""
 "<p>Easily import your Facebook friends to your phone and keep your community "
 "all in one place thanks to deep integration with your favorite social "
@@ -5623,13 +5510,13 @@ msgstr ""
 
 #. Translators:
 #. Page path: /2-0/key-features/
-#: db-strings.txt:8115
+#: db-strings.txt:8124
 msgid "Bluetooth"
 msgstr ""
 
 #. Translators:
 #. Page path: /2-0/key-features/
-#: db-strings.txt:8124
+#: db-strings.txt:8133
 msgid ""
 "<p>Easily pair your device with a wide range of Bluetooth accessories. Share "
 "contacts, images, videos or your favorite URLs with friends.</p>"
@@ -5637,7 +5524,7 @@ msgstr ""
 
 #. Translators:
 #. Page path: /2-0/key-features/
-#: db-strings.txt:8151
+#: db-strings.txt:8160
 #, fuzzy
 #| msgid ""
 #| "<p>Browse and play your music collection, rate songs and create playlists "
@@ -5654,7 +5541,7 @@ msgstr ""
 
 #. Translators:
 #. Page path: /2-0/key-features/
-#: db-strings.txt:8178
+#: db-strings.txt:8187
 #, fuzzy
 #| msgid ""
 #| "<p>Stay connected easily and conveniently. Set up multiple email "
@@ -5670,13 +5557,13 @@ msgstr ""
 
 #. Translators:
 #. Page path: /2-0/key-features/
-#: db-strings.txt:8196
+#: db-strings.txt:8205
 msgid "Find My Device"
 msgstr ""
 
 #. Translators:
 #. Page path: /2-0/key-features/
-#: db-strings.txt:8205
+#: db-strings.txt:8214
 msgid ""
 "Location tracking helps you find your device if you lose it. Remote wipe and "
 "lock capabilities help you keep your personal information safe."
@@ -5684,13 +5571,13 @@ msgstr ""
 
 #. Translators:
 #. Page path: /2-0/key-features/
-#: db-strings.txt:8223
+#: db-strings.txt:8232
 msgid "Ringtones"
 msgstr ""
 
 #. Translators:
 #. Page path: /2-0/key-features/
-#: db-strings.txt:8232
+#: db-strings.txt:8241
 msgid ""
 "Customize your Firefox OS phone by creating new ringtones from your music "
 "collection or from songs you download from the Web."
@@ -5698,7 +5585,7 @@ msgstr ""
 
 #. Translators:
 #. Page path: /2-0/frequently-asked-questions/
-#: db-strings.txt:8277
+#: db-strings.txt:8286
 #, fuzzy
 #| msgid ""
 #| "<p>App developers around the world are committed to Firefox OS and tens "
@@ -5718,13 +5605,13 @@ msgstr ""
 
 #. Translators:
 #. Page path: /2-0/frequently-asked-questions/
-#: db-strings.txt:8340
+#: db-strings.txt:8349
 msgid "Can I use WhatsApp on this phone?"
 msgstr ""
 
 #. Translators:
 #. Page path: /2-0/frequently-asked-questions/
-#: db-strings.txt:8349
+#: db-strings.txt:8358
 msgid ""
 "Not directly, but the ConnectA2 app allows you to send instant messages to "
 "your contacts on ConnectA2 and/or WhatsApp.  You can send and receive "
@@ -5735,7 +5622,7 @@ msgstr ""
 
 #. Translators:
 #. Page path: /2-0/frequently-asked-questions/
-#: db-strings.txt:8358
+#: db-strings.txt:8367
 #, fuzzy
 #| msgid "<p>Do my apps work offline?</p>"
 msgid "Will my apps work offline?"
@@ -5743,7 +5630,7 @@ msgstr "<p>இணையம் இல்லாமல் என் பயன்ப
 
 #. Translators:
 #. Page path: /2-0/frequently-asked-questions/
-#: db-strings.txt:8403
+#: db-strings.txt:8412
 #, fuzzy
 #| msgid ""
 #| "<p>Firefox OS provides two ways to get apps:<ul><li>Marketplace — our go-"
@@ -5766,13 +5653,13 @@ msgstr ""
 
 #. Translators:
 #. Page path: /2-0/frequently-asked-questions/
-#: db-strings.txt:8421
+#: db-strings.txt:8430
 msgid "<p>Exchange, POP3 and IMAP are currently supported. </p>"
 msgstr ""
 
 #. Translators:
 #. Page path: /2-0/about/
-#: db-strings.txt:8448
+#: db-strings.txt:8457
 #, fuzzy
 #| msgid "The Firefox Mission"
 msgid "The Mozilla Mission"
@@ -5781,6 +5668,34 @@ msgstr "FIREFOX நோக்கம்"
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:8538
+#, fuzzy
+#| msgid ""
+#| "<p>If you have worked through the questions and all of the content, then "
+#| "you have the basics to match the needs of Firefox OS to your customers."
+#| "<br><br>Easy to use, a Firefox OS smartphone is perfect for new "
+#| "smartphone users and full of all the features that customers want and "
+#| "need.<br><br>And it is powered by Mozilla, making Firefox OS the right "
+#| "choice for anyone committed to ensuring that the Web remains in your "
+#| "hands!</p>"
+msgid ""
+"<p>If you’ve worked through all of the questions and content, you’re ready "
+"to match Firefox OS to the needs of your customers. <br><br>Easy to use, a "
+"Firefox OS smartphone is perfect for new smartphone users and full of all "
+"the features that customers want and need. <br><br>And it’s powered by "
+"Mozilla, making Firefox OS the right choice for anyone committed to ensuring "
+"that the power of the Web remains in their hands!</p>"
+msgstr ""
+"<p>மேற்க்கண்ட கேள்விகளுக்கும் எல்லா உள்ளடக்கங்களுக்கும் வேலை செய்திருந்தால் உங்களுடைய "
+"வாடிக்கையாளர்களின் தேவைகளை பூர்த்தி செய்வதற்க்கான அடிப்படை உங்களிடம் இருக்கிறது."
+"<br><br>சுலபமாக பயன்படுத்தக்கூடிய, Firefox OS திறன்பேசி புதிய பயனர்களுக்கான "
+"பொருத்தமானதாகும் மேலும் வாடிக்கையாளர்களுக்கு விருப்பப்படும் தேவையான எல்லா அம்சங்களையும் "
+"கொண்டிள்ளது.<br><br>உங்கள் கையில் தொடர்ந்து இணையம் கிடைத்திட உறுதி தரும் Firefox OS "
+"கருவிகளே எவருக்கும் சரியானது என்பதை கடப்பாடாக வைத்து Mozilla ஆவால் இயக்கப்பட்டு "
+"வருகிறது.</p>"
+
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:8547
 #, fuzzy
 #| msgid ""
 #| "Which of these customer responses indicate a ideal candidate for Firefox "
@@ -5794,7 +5709,7 @@ msgstr ""
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
-#: db-strings.txt:8547
+#: db-strings.txt:8556
 #, fuzzy
 #| msgid ""
 #| "Which of the following apps is preloaded on every Firefox OS phone? "
@@ -5808,7 +5723,7 @@ msgstr ""
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
-#: db-strings.txt:8556
+#: db-strings.txt:8565
 #, fuzzy
 #| msgid ""
 #| "Which of the following apps is preloaded on every Firefox OS phone? "
@@ -5821,58 +5736,13 @@ msgstr ""
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
-#: db-strings.txt:8565
+#: db-strings.txt:8574 db-strings.txt.py:8754 db-strings.txt.py:9006
 msgid "<p>There are more. Try again.</p>"
 msgstr ""
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
-#: db-strings.txt:8610
-#, fuzzy
-#| msgid ""
-#| "Which Firefox OS feature does this icon represent?<br><br><img "
-#| "src='course/assets/m05/t05/p35/m05-t05-p35-a05-b15-c05.png'/>"
-msgid ""
-"<p>Which Firefox OS feature does this icon represent?<br><br><img src=\"/"
-"admin/page/page/25/course/assets/m05/t05/p35/m05-t05-p35-a05-b15-c05.png\" "
-"alt=\"\" /></p>"
-msgstr ""
-"Firefox OS இன் எந்த வசதியை இந்த சின்னம் குறிக்கிறது?<br><br><img src='course/"
-"assets/m05/t05/p35/m05-t05-p35-a05-b15-c05.png'/>"
-
-#. Translators:
-#. Page path: /2-0/take-the-challenge/
-#: db-strings.txt:8646
-#, fuzzy
-#| msgid ""
-#| "Which Firefox OS feature does this icon represent?<br><br><img "
-#| "src='course/assets/m05/t05/p35/m05-t05-p35-a05-b15-c10.png'/>"
-msgid ""
-"<p>Which Firefox OS feature does this icon represent?<br><br><img src=\"/"
-"admin/page/page/25/course/assets/m05/t05/p35/m05-t05-p35-a05-b15-c10.png\" "
-"alt=\"\" /></p>"
-msgstr ""
-"Firefox OS இன் எந்த வசதியை இந்த சின்னம் குறிக்கிறது?<br><br><img src='course/"
-"assets/m05/t05/p35/m05-t05-p35-a05-b15-c10.png'/>"
-
-#. Translators:
-#. Page path: /2-0/take-the-challenge/
-#: db-strings.txt:8682
-#, fuzzy
-#| msgid ""
-#| "Which Firefox OS feature does this icon represent?<br><br><img "
-#| "src='course/assets/m05/t05/p35/m05-t05-p35-a05-b20-c05.png'/>"
-msgid ""
-"<p>Which Firefox OS feature does this icon represent?<br><br><img src=\"/"
-"admin/page/page/25/course/assets/m05/t05/p35/m05-t05-p35-a05-b20-c05.png\" "
-"alt=\"\" /></p>"
-msgstr ""
-"Firefox OS இன் எந்த வசதியை இந்த சின்னம் குறிக்கிறது?<br><br><img src='course/"
-"assets/m05/t05/p35/m05-t05-p35-a05-b20-c05.png'/>"
-
-#. Translators:
-#. Page path: /2-0/take-the-challenge/
-#: db-strings.txt:8691
+#: db-strings.txt:8700
 #, fuzzy
 #| msgid "Marketplace and Adaptive App Search"
 msgid "<p>That’s right. This icon represents the Firefox Browser.</p>"
@@ -5880,7 +5750,7 @@ msgstr "நண்பர்களை ஒத்திசைவு செய்"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
-#: db-strings.txt:8700 db-strings.txt.py:8709
+#: db-strings.txt:8709 db-strings.txt.py:8718
 #, fuzzy
 #| msgid "Marketplace and Adaptive App Search"
 msgid "<p>Actually, this icon represents the Firefox Browser.</p>"
@@ -5888,28 +5758,300 @@ msgstr "நண்பர்களை ஒத்திசைவு செய்"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
-#: db-strings.txt:8718
+#: db-strings.txt:8727
 #, fuzzy
 #| msgid ""
-#| "Which Firefox OS feature does this icon represent?<br><br><img "
-#| "src='course/assets/m05/t05/p35/m05-t05-p35-a05-b20-c10.png'/>"
-msgid ""
-"<p>Which Firefox OS feature does this icon represent?<br><br><img src=\"/"
-"admin/page/page/25/course/assets/m05/t05/p35/m05-t05-p35-a05-b20-c10.png\" "
-"alt=\"\" /></p>"
+#| "Which of the following apps is preloaded on every Firefox OS phone? "
+#| "Select all that apply."
+msgid "<p>What does Bluetooth allow users to do? Select all that apply</p>"
 msgstr ""
-"Firefox OS இன் எந்த வசதியை இந்த சின்னம் குறிக்கிறது?<br><br><img src='course/"
-"assets/m05/t05/p35/m05-t05-p35-a05-b20-c10.png'/>"
+"பின்வரும் பயன்பாடுகளில் எவை முன்கூட்டியே Firefox OS பேசியில் நிறுவப்பட்டு இருக்கும்? "
+"பொருத்தமாக இருக்கும் அனைத்தையும் தேர்ந்தெடுங்கள்."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
-#: db-strings.txt:9258
+#: db-strings.txt:8736
+#, fuzzy
+#| msgid ""
+#| "Which of the following apps is preloaded on every Firefox OS phone? "
+#| "Select all that apply."
+msgid ""
+"<p>That’s right! All of these things can be shared via Bluetooth with your "
+"Firefox OS phone.</p>"
+msgstr ""
+"பின்வரும் பயன்பாடுகளில் எவை முன்கூட்டியே Firefox OS பேசியில் நிறுவப்பட்டு இருக்கும்? "
+"பொருத்தமாக இருக்கும் அனைத்தையும் தேர்ந்தெடுங்கள்."
+
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:8745
+#, fuzzy
+#| msgid ""
+#| "Which of the following apps is preloaded on every Firefox OS phone? "
+#| "Select all that apply."
+msgid ""
+"<p>Actually, all of these things can be shared via Bluetooth with your "
+"Firefox OS phone..</p>"
+msgstr ""
+"பின்வரும் பயன்பாடுகளில் எவை முன்கூட்டியே Firefox OS பேசியில் நிறுவப்பட்டு இருக்கும்? "
+"பொருத்தமாக இருக்கும் அனைத்தையும் தேர்ந்தெடுங்கள்."
+
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:8781
+#, fuzzy
+#| msgid "Marketplace and Adaptive App Search"
+msgid "<p>Actually, all of these are true about Firefox OS.</p>"
+msgstr "நண்பர்களை ஒத்திசைவு செய்"
+
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:8790
+#, fuzzy
+#| msgid "Marketplace and Adaptive App Search"
+msgid "<p>Actually, all of these are true about Firefox OS</p>"
+msgstr "நண்பர்களை ஒத்திசைவு செய்"
+
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:8844
+#, fuzzy
+#| msgid "Marketplace and Adaptive App Search"
+msgid ""
+"<p>That’s right. With a first time smart phone user, you should talk about "
+"its simplicity and features including ways to control their experience and "
+"personalize their phones.</p>"
+msgstr "நண்பர்களை ஒத்திசைவு செய்"
+
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:8853 db-strings.txt.py:8862
+#, fuzzy
+#| msgid "Marketplace and Adaptive App Search"
+msgid ""
+"<p>Actually, with a first time smart phone user, you should talk about its "
+"simplicity and features including ways to control their experience and "
+"personalize their phones.</p>"
+msgstr "நண்பர்களை ஒத்திசைவு செய்"
+
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:8880
+#, fuzzy
+#| msgid ""
+#| "If you love Firefox, you’ll love Firefox OS. Choosing a Firefox OS device "
+#| "puts the power of the Web in your hands."
+msgid ""
+"<p>That’s right. When you meet a Firefox fan, talk about how choosing "
+"Firefox OS shows a commitment to keeping the power of the Web in their hands."
+"</p>"
+msgstr ""
+"நீங்கள் Firefox உலாவியை விரும்பினால், உங்களுக்கு Firefox OS பேசிகளும் பிடிக்கும். "
+"Firefox OS ஐ தேர்வுச்செய்தால் சக்தி வாய்ந்த இணையம் உங்கள் கைகளில் இருக்கும்."
+
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:8889 db-strings.txt.py:8898
+#, fuzzy
+#| msgid ""
+#| "If you love Firefox, you’ll love Firefox OS. Choosing a Firefox OS device "
+#| "puts the power of the Web in your hands."
+msgid ""
+"<p>Actually, when you meet a Firefox fan, talk about how choosing Firefox OS "
+"shows a commitment to keeping power of the the Web in their hands.</p>"
+msgstr ""
+"நீங்கள் Firefox உலாவியை விரும்பினால், உங்களுக்கு Firefox OS பேசிகளும் பிடிக்கும். "
+"Firefox OS ஐ தேர்வுச்செய்தால் சக்தி வாய்ந்த இணையம் உங்கள் கைகளில் இருக்கும்."
+
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:8916
+msgid ""
+"<p>That’s right. With this customer, highlight the great value and full "
+"feature set of Firefox OS, including social apps that are preloaded on the "
+"phone, all at great value.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:8925 db-strings.txt.py:8934
+msgid ""
+"<p>That’s not it. With this customer, highlight the great value and full "
+"feature set of Firefox OS, including social apps that are preloaded on the "
+"phone, all at great value.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:8952
+msgid ""
+"<p>That’s right. This customer seems like a Firefox fan. Talk about how the "
+"Firefox OS phones, made by Mozilla, show a commitment to keeping the power "
+"of the Web in the hands of the people. And while all of these statements are "
+"true, only this one is the best response for this particular customer.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:8961 db-strings.txt.py:8970
+msgid ""
+"<p>All of these statements are true, but only one is the best response for "
+"this particular customer, who seems to be a Firefox fan. Talk about how "
+"Firefox OS phones, made by Mozilla, help keep the power of the Web in the "
+"hands of the people.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:8979
+msgid ""
+"<p>What does the Find My Device feature on your Firefox OS phone help you do "
+"in the case that your phone is lost or stolen?</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:8988
+#, fuzzy
+#| msgid ""
+#| "Which of the following apps is preloaded on every Firefox OS phone? "
+#| "Select all that apply."
+msgid ""
+"<p>That’s right! The Find My Device helps you do all these things through "
+"your Firefox Account.</p>"
+msgstr ""
+"பின்வரும் பயன்பாடுகளில் எவை முன்கூட்டியே Firefox OS பேசியில் நிறுவப்பட்டு இருக்கும்? "
+"பொருத்தமாக இருக்கும் அனைத்தையும் தேர்ந்தெடுங்கள்."
+
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:8997
+msgid ""
+"<p>Actually, the Find My Device helps you do all these things through your "
+"Firefox Account.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:9015
+#, fuzzy
+#| msgid ""
+#| "While all of these statements are true, which two responses would be most "
+#| "useful to a first-time smartphone customer?"
+msgid ""
+"<p>While all of these statements are true, which two responses would be most "
+"useful to a first-time smartphone customer? </p>"
+msgstr ""
+"அனைத்து கூற்றுகளும் மெய்யாக இருக்கும்போது, எந்த இரண்டு பதில்கள் முதல் முறை திறன்பேசியை "
+"பயன்படுத்தும் பயனருக்கு பயனுள்ளதாக இருக்கும்?"
+
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:9024
+#, fuzzy
+#| msgid "Marketplace and Adaptive App Search"
+msgid ""
+"<p>That’s right. A first-time smartphone user will be most interested in "
+"ease of use.</p>"
+msgstr "நண்பர்களை ஒத்திசைவு செய்"
+
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:9051
+#, fuzzy
+#| msgid ""
+#| "Which of the following statements about Adaptive App Search are true? "
+#| "Select all that apply."
+msgid ""
+"<p>Which of the following statements are true of the Cost Control app that "
+"is preloaded on Firefox OS?</p>"
+msgstr ""
+"பின்வரும் தகவமைப்பு பயன்பாடு தேடல் பற்றிய கூற்றுகளில் எவை மெய்யானவை? பொருத்தமான "
+"அனைத்தையும் தேர்ந்தெடு."
+
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:9060
+#, fuzzy
+#| msgid "<p>What is Adaptive App Search?</p>"
+msgid "<p>That’s right. All of these are true of the Cost Control app!</p>"
+msgstr "<p>தகவமைப்பு பயன்பாடு தேடல் என்றால் என்ன?</p>"
+
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:9069 db-strings.txt.py:9078
+#, fuzzy
+#| msgid "Marketplace and Adaptive App Search"
+msgid "<p>Actually, all of these are true of the Cost Control app!</p>"
+msgstr "நண்பர்களை ஒத்திசைவு செய்"
+
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:9087
+msgid ""
+"<p>The ConnectA2 app is an instant messaging application compatible with "
+"WhatsApp for your Firefox OS device.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:9105 db-strings.txt.py:9114
+msgid ""
+"<p>Actually, this is true. ConnectA2 allows you to send instant messages to "
+"your contacts using ConnectA2 and/or WhatsApp.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:9123
+#, fuzzy
+#| msgid ""
+#| "What’s the best response to this customer’s objection? “I’ve heard there "
+#| "are not many apps.”"
+msgid ""
+"<p>What’s the best response to this customer’s objection? “I’ve heard there "
+"aren’t many apps available.”</p>"
+msgstr ""
+"இந்த வாடிக்கையாளரின் எதிர்ப்புக்கு எது சிறந்த பதில்?”இதில் நிறைய பயன்பாடுகள் இல்லை என்று "
+"நான் கேள்விப்பட்டேன்.”"
+
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:9159
+#, fuzzy
+#| msgid ""
+#| "What’s the best response to this customer’s objection? “I’ve never heard "
+#| "of Firefox OS phones.”"
+msgid ""
+"<p>What’s the best response to this customer’s objection? “I’ve never heard "
+"of Firefox OS phones.\"</p>"
+msgstr ""
+"இந்த வாடிக்கையாளரின் எதிர்ப்புக்கு எது சிறந்த பதில்?”நான் Firefox OS பற்றி கேள்விப்பட்டதே "
+"இல்லை.”"
+
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:9195
+#, fuzzy
+#| msgid ""
+#| "What’s the best response to this customer’s objection?<br>“How do I know "
+#| "this new phone is safe?”"
+msgid ""
+"<p>What’s the best response to this customer’s objection? “How do I know "
+"this new phone is safe?”</p>"
+msgstr ""
+"இந்த வாடிக்கையாளரின் எதிர்ப்புக்கு எது சிறந்த பதில்?”இந்த பேசி பாதுகாப்பானதா என எனக்கு "
+"எப்படி தெரியும்?”"
+
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:9267
 msgid "<p>Set your phone to your language</p>"
 msgstr ""
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
-#: db-strings.txt:9267
+#: db-strings.txt:9276
 #, fuzzy
 #| msgid "<p>Contacts</p>"
 msgid "<p>Control your data usage</p>"
@@ -5917,17 +6059,243 @@ msgstr "<p>தொடர்பு</p>"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
-#: db-strings.txt:9276
+#: db-strings.txt:9285
 msgid "<p>Create your own ringtones</p>"
 msgstr ""
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
-#: db-strings.txt:9384 db-strings.txt.py:9420 db-strings.txt.py:9456
+#: db-strings.txt:9447
+#, fuzzy
+#| msgid "<p>Contacts</p>"
+msgid "<p>Share contacts</p>"
+msgstr "<p>தொடர்பு</p>"
+
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:9456
+#, fuzzy
+#| msgid "<p>Messages and Email...</p>"
+msgid "<p>Share images</p>"
+msgstr "<p>குறுந்செய்தியும் மின்னஞ்சலும்...</p>"
+
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:9465
 #, fuzzy
 #| msgid "<p> </p>"
-msgid "<p>Search bar</p>"
+msgid "<p>Share videos</p>"
 msgstr "<p> </p>"
+
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:9483
+#, fuzzy
+#| msgid ""
+#| "With the Firefox Marketplace and dozens of preloaded apps like Email, "
+#| "Facebook, Camera, Music and more, Firefox OS is packed with the features "
+#| "you’d expect in a smartphone."
+msgid ""
+"<p>With the Firefox Marketplace, the best preloaded apps and an awesome user "
+"experience, Firefox OS is packed with the features that users are looking "
+"for in a smartphone.</p>"
+msgstr ""
+"Firefox Marketplace உடன் பயன்பாடுகள் , மின்னஞ்சல், படகருவி, இசை மேலும் கூடுதலாக "
+"நீங்கள் எதிர்பார்த்ததை விட Firefox OS பல அம்சங்களை உள்ளடக்கிய ஒரு திறன்பேசி ஆகும்."
+
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:9501
+#, fuzzy
+#| msgid ""
+#| "Since it is built by Firefox, you can feel confident that Firefox OS is "
+#| "backed by a global community working on your behalf and with your "
+#| "interests in mind."
+msgid ""
+"<p>Since it’s made by Firefox, Firefox OS is backed by a global community "
+"working on your behalf and with your interests in mind.</p>"
+msgstr ""
+"இது Firefox ஆல் உருவாக்கப்பட்டது, எனவே Firefox OS ஆனது உலகலாவிய சமூகத்தால் உங்களின் "
+"விருப்பத்தை மனதில் கொண்டு உங்களுக்கு நிகராக வேலைச்செய்கிறது."
+
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:9510
+msgid ""
+"<p>Firefox OS is made with you and your needs in mind, so it is extremely "
+"easy to use and allows for greater control, personalization and "
+"customization than many other smartphones on the market.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:9528
+#, fuzzy
+#| msgid ""
+#| "Firefox OS is the easiest smartphone to get started with. Your favorite "
+#| "apps are already preloaded and you can easily sync your contacts from "
+#| "Facebook, too."
+msgid ""
+"<p>Firefox OS is the easiest smartphone to get started with. Your favorite "
+"apps are already preloaded and you can easily import your friends from "
+"Facebook, too..</p>"
+msgstr ""
+"Firefox OS பொன்ற சுலபமான திறன்பேசியை பயன்படுத்தி தொடங்குங்கள். உங்களுக்கு பிடித்த "
+"பயன்பாடுகள் ஏற்கனவே உள்ளேற்றப்பட்டு வருவதோடு முகநூலிருந்து தொடர்புகளை ஒத்திசைவு செய்ய "
+"முடியும்."
+
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:9537 db-strings.txt.py:9564
+#, fuzzy
+#| msgid ""
+#| "If you love Firefox, you’ll love Firefox OS. Choosing a Firefox OS device "
+#| "puts the power of the Web in your hands."
+msgid ""
+"<p>If you love Firefox, you’ll love Firefox OS. Choosing Firefox OS keeps "
+"the power of the Web in your hands.</p>"
+msgstr ""
+"நீங்கள் Firefox உலாவியை விரும்பினால், உங்களுக்கு Firefox OS பேசிகளும் பிடிக்கும். "
+"Firefox OS ஐ தேர்வுச்செய்தால் சக்தி வாய்ந்த இணையம் உங்கள் கைகளில் இருக்கும்."
+
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:9600
+msgid ""
+"<p>The Firefox OS smartphone is preloaded with all the features that you’d "
+"expect, including Messages, Facebook, email, maps and more, all at a better "
+"value.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:9618
+#, fuzzy
+#| msgid "Marketplace"
+msgid "<p>The Firefox Marketplace features free apps!</p>"
+msgstr "Marketplace"
+
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:9645
+msgid ""
+"<p>Mozilla, the maker of Firefox, built a smartphone OS to keep the Web "
+"accessible to all. And since Firefox OS is entirely built in HTML5, you get "
+"instant access to thousands of apps already built for the Web.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:9654
+msgid "<p>Track the location of your lost/stolen device</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:9663
+#, fuzzy
+#| msgid "Open the Marketplace."
+msgid "<p>Remotely wipe the device.</p>"
+msgstr "Firefox Marketplace திறக்கவும்."
+
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:9672
+msgid "<p>Remotely lock the device.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:9708
+msgid "<p>Firefox OS is built entirely using HTML5 and Open Web standards.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:9717
+msgid "<p>You can use it to create and set a daily budget for data usage.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:9726
+msgid "<p>It shows usage per app.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:9735
+msgid "<p>It shows usage by time.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:9762
+msgid ""
+"<p>Firefox OS is backed by a global community of developers and content "
+"providers dedicated to creating new and exciting content and even locally-"
+"relevant apps for the Firefox OS platform. New apps and content are added "
+"every day. </p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:9771
+msgid ""
+"<p>Apps developers are slowly realizing the benefit of HTML5 in support of "
+"the Open Web.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:9780
+msgid ""
+"<p>They’re packed with the features that made you want a smartphone in the "
+"first place.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:9789
+msgid ""
+"<p>They’re new and backed by a global community working to help keep the Web "
+"accessible to all.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:9798
+msgid ""
+"<p>It’s packed with the features that made you want a smartphone in the "
+"first place. </p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:9807
+msgid ""
+"<p>It’s new and backed by a global community working to help keep the Web "
+"accessible to all.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:9816
+#, fuzzy
+#| msgid ""
+#| "<p>Firefox OS has a robust security model that is battle-hardened from "
+#| "more than a decade of supporting the open Web. It is designed to protect "
+#| "the user and system from malicious applications and content.</p>"
+msgid ""
+"<p>It features a robust security model that is battle-hardened from more "
+"than a decade supporting the Open Web. Designed to protect the user and "
+"system from malicious applications and content, it also protects "
+"applications from each other.</p>"
+msgstr ""
+"<p>ஒரு வலுவான பாதுகாப்பு மாதிரி என்ாட்டம் சுமார் 10 வருடங்களுக்கு மேலாக திறந்த "
+"இணையத்தை ஆதரித்து வருவது கடினம் ஆகும். இதன் வடிவமைப்பு பயனர்களையும் கணினியையும் நச்சு "
+"நிரல்களிடம் இருந்து பயன்பாடுகளையும் அதன் உள்ளடக்கங்களையும் பாதுகாப்பதோடு தன்னையும் "
+"காப்பாற்றிக்கொள்கிறது.</p>"
 
 #: masterfirefoxos/base/templates/base.html:38
 #: masterfirefoxos/base/templates/base.html:80
@@ -6080,6 +6448,59 @@ msgstr ""
 #: masterfirefoxos/settings/base.py:196
 msgid "Pirate"
 msgstr ""
+
+#, fuzzy
+#~| msgid ""
+#~| "Which Firefox OS feature does this icon represent?<br><br><img "
+#~| "src='course/assets/m05/t05/p35/m05-t05-p35-a05-b15-c05.png'/>"
+#~ msgid ""
+#~ "<p>Which Firefox OS feature does this icon represent?<br><br><img src=\"/"
+#~ "admin/page/page/25/course/assets/m05/t05/p35/m05-t05-p35-a05-b15-c05.png"
+#~ "\" alt=\"\" /></p>"
+#~ msgstr ""
+#~ "Firefox OS இன் எந்த வசதியை இந்த சின்னம் குறிக்கிறது?<br><br><img src='course/"
+#~ "assets/m05/t05/p35/m05-t05-p35-a05-b15-c05.png'/>"
+
+#, fuzzy
+#~| msgid ""
+#~| "Which Firefox OS feature does this icon represent?<br><br><img "
+#~| "src='course/assets/m05/t05/p35/m05-t05-p35-a05-b15-c10.png'/>"
+#~ msgid ""
+#~ "<p>Which Firefox OS feature does this icon represent?<br><br><img src=\"/"
+#~ "admin/page/page/25/course/assets/m05/t05/p35/m05-t05-p35-a05-b15-c10.png"
+#~ "\" alt=\"\" /></p>"
+#~ msgstr ""
+#~ "Firefox OS இன் எந்த வசதியை இந்த சின்னம் குறிக்கிறது?<br><br><img src='course/"
+#~ "assets/m05/t05/p35/m05-t05-p35-a05-b15-c10.png'/>"
+
+#, fuzzy
+#~| msgid ""
+#~| "Which Firefox OS feature does this icon represent?<br><br><img "
+#~| "src='course/assets/m05/t05/p35/m05-t05-p35-a05-b20-c05.png'/>"
+#~ msgid ""
+#~ "<p>Which Firefox OS feature does this icon represent?<br><br><img src=\"/"
+#~ "admin/page/page/25/course/assets/m05/t05/p35/m05-t05-p35-a05-b20-c05.png"
+#~ "\" alt=\"\" /></p>"
+#~ msgstr ""
+#~ "Firefox OS இன் எந்த வசதியை இந்த சின்னம் குறிக்கிறது?<br><br><img src='course/"
+#~ "assets/m05/t05/p35/m05-t05-p35-a05-b20-c05.png'/>"
+
+#, fuzzy
+#~| msgid ""
+#~| "Which Firefox OS feature does this icon represent?<br><br><img "
+#~| "src='course/assets/m05/t05/p35/m05-t05-p35-a05-b20-c10.png'/>"
+#~ msgid ""
+#~ "<p>Which Firefox OS feature does this icon represent?<br><br><img src=\"/"
+#~ "admin/page/page/25/course/assets/m05/t05/p35/m05-t05-p35-a05-b20-c10.png"
+#~ "\" alt=\"\" /></p>"
+#~ msgstr ""
+#~ "Firefox OS இன் எந்த வசதியை இந்த சின்னம் குறிக்கிறது?<br><br><img src='course/"
+#~ "assets/m05/t05/p35/m05-t05-p35-a05-b20-c10.png'/>"
+
+#, fuzzy
+#~| msgid "<p> </p>"
+#~ msgid "<p>Search bar</p>"
+#~ msgstr "<p> </p>"
 
 #, fuzzy
 #~| msgid ""
@@ -6244,19 +6665,6 @@ msgstr ""
 #~ msgstr ""
 #~ "இந்த வாடிக்கையாளரின் எதிர்ப்புக்கு எது சிறந்த பதில்?”நான் Firefox OS பற்றி "
 #~ "கேள்விப்பட்டதே இல்லை.”"
-
-#, fuzzy
-#~| msgid ""
-#~| "With the Firefox Marketplace and dozens of preloaded apps like Email, "
-#~| "Facebook, Camera, Music and more, Firefox OS is packed with the features "
-#~| "you’d expect in a smartphone."
-#~ msgid ""
-#~ "<p>With the Firefox Marketplace and dozens of preloaded apps like Email, "
-#~ "Facebook, Camera, Music and more, Firefox OS is packed with the features "
-#~ "you&rsquo;d expect in a smartphone.</p>"
-#~ msgstr ""
-#~ "Firefox Marketplace உடன் பயன்பாடுகள் , மின்னஞ்சல், படகருவி, இசை மேலும் கூடுதலாக "
-#~ "நீங்கள் எதிர்பார்த்ததை விட Firefox OS பல அம்சங்களை உள்ளடக்கிய ஒரு திறன்பேசி ஆகும்."
 
 #, fuzzy
 #~| msgid ""
