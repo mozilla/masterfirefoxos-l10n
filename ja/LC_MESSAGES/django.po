@@ -1,0 +1,3504 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#. Translators:
+#. Page path: /1-1/introduction/
+#. Translators:
+#. Page path: /1-1/customer-guide/
+#. Translators:
+#. Page path: /1-1/key-features/
+#. Translators:
+#. Page path: /1-3T/introduction/
+#. Translators:
+#. Page path: /1-3T/customer-guide/
+#. Translators:
+#. Page path: /1-3T/key-features/
+#. Translators:
+#. Page path: /2-0/introduction/
+#. Translators:
+#. Page path: /2-0/customer-guide/
+#. Translators:
+#. Page path: /2-0/key-features/
+#: db-strings.txt:51 db-strings.txt.py:78 db-strings.txt.py:105
+#: db-strings.txt:431 db-strings.txt.py:460 db-strings.txt.py:489
+#: db-strings.txt:518 db-strings.txt.py:576 db-strings.txt.py:603
+#: db-strings.txt:630 db-strings.txt.py:657 db-strings.txt.py:684
+#: db-strings.txt:711 db-strings.txt.py:738 db-strings.txt.py:765
+#: db-strings.txt:792 db-strings.txt.py:819 db-strings.txt.py:2553
+#: db-strings.txt:2580 db-strings.txt.py:2607 db-strings.txt.py:2852
+#: db-strings.txt:2881 db-strings.txt.py:2910 db-strings.txt.py:2939
+#: db-strings.txt:3006 db-strings.txt.py:3033 db-strings.txt.py:3060
+#: db-strings.txt:3087 db-strings.txt.py:3114 db-strings.txt.py:3141
+#: db-strings.txt:3168 db-strings.txt.py:3195 db-strings.txt.py:3222
+#: db-strings.txt:5028 db-strings.txt.py:5056 db-strings.txt.py:5083
+#: db-strings.txt:5334 db-strings.txt.py:5363 db-strings.txt.py:5392
+#: db-strings.txt:5421 db-strings.txt.py:5488 db-strings.txt.py:5515
+#: db-strings.txt:5542 db-strings.txt.py:5569 db-strings.txt.py:5596
+#: db-strings.txt:5623 db-strings.txt.py:5650 db-strings.txt.py:5677
+#: db-strings.txt:5704
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-02-05 19:29+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. Translators:
+#. Page path: /1-1/
+#. Translators:
+#. Page path: /1-3T/
+#. Translators:
+#. Page path: /2-0/
+#: db-strings.txt:6 db-strings.txt.py:2508 db-strings.txt.py:4983
+#: masterfirefoxos/base/templates/base.html:14
+#: masterfirefoxos/base/templates/base.html:43
+#: masterfirefoxos/base/templates/home.html:17
+msgid "Master Firefox OS"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/
+#. Translators:
+#. Page path: /1-3T/
+#. Translators:
+#. Page path: /2-0/
+#: db-strings.txt:15 db-strings.txt.py:2517 db-strings.txt.py:4992
+msgid ""
+"<p>Welcome to the Firefox OS global partner and community training hub. "
+"Select any topic to get started.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/introduction/
+#. Translators:
+#. Page path: /1-3T/introduction/
+#. Translators:
+#. Page path: /2-0/introduction/
+#: db-strings.txt:24 db-strings.txt.py:2526 db-strings.txt.py:5001
+msgid "Introduction"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/introduction/
+#. Translators:
+#. Page path: /1-3T/introduction/
+#. Translators:
+#. Page path: /2-0/introduction/
+#: db-strings.txt:33 db-strings.txt.py:2535 db-strings.txt.py:5010
+msgid ""
+"<p>Find out what makes Firefox OS perfect for new smartphone users by giving "
+"them just what they need.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/introduction/
+#. Translators:
+#. Page path: /1-3T/introduction/
+#. Translators:
+#. Page path: /2-0/introduction/
+#: db-strings.txt:42 db-strings.txt.py:2544 db-strings.txt.py:5019
+msgid "<h2>Ready to explore the key benefits of Firefox OS?</h2>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/introduction/
+#. Translators:
+#. Page path: /1-3T/introduction/
+#: db-strings.txt:60 db-strings.txt.py:2562
+msgid "The Adaptive Phone"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/introduction/
+#. Translators:
+#. Page path: /1-3T/introduction/
+#: db-strings.txt:69 db-strings.txt.py:2571
+msgid ""
+"<p>Firefox OS adapts to the needs of customers better than any other phone "
+"by anticipating their needs and instantly delivering the information they "
+"want.<br /><br />With Adaptive App Search your customers will get more of "
+"what they&rsquo;re looking for, exactly when they need it.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/introduction/
+#. Translators:
+#. Page path: /1-3T/introduction/
+#: db-strings.txt:87 db-strings.txt.py:2589
+msgid "Have It All"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/introduction/
+#: db-strings.txt:96
+msgid ""
+"<p>Firefox OS is packed with all the features that made your customers want "
+"a smartphone in the first place: apps, maps, camera, gallery, social "
+"features, music and more.<br /><br />With all the features and no "
+"compromises, Firefox OS phones fit your customers' lives more perfectly, so "
+"they can fit in with the world around them.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/introduction/
+#. Translators:
+#. Page path: /1-3T/introduction/
+#. Translators:
+#. Page path: /2-0/introduction/
+#: db-strings.txt:114 db-strings.txt.py:2616 db-strings.txt.py:5092
+msgid "Keep the Web in Your Hands"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/introduction/
+#: db-strings.txt:123
+msgid ""
+"<p>At Mozilla, we&rsquo;re out to make a difference, not a profit.<br /><br /"
+">Firefox OS smartphones are backed by a global community of thousands of "
+"developers working to innovate on your customers' behalf and made locally "
+"with their interests and needs in mind. When customers' choose Firefox OS, "
+"they&rsquo;re helping build a brighter future for the Web for all.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/introduction/
+#. Translators:
+#. Page path: /1-3T/introduction/
+#: db-strings.txt:132 db-strings.txt.py:2634
+msgid "A phone that makes every moment count"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/introduction/
+#: db-strings.txt:141
+msgid ""
+"<p>Your customers' needs are always changing. Firefox OS smartphones adapt "
+"to your customers' needs so they can live every moment to its fullest.<br /"
+"><br />Easy to use, they&rsquo;re perfect for new smartphone users and full "
+"of all the features that customers expect. Powered by Mozilla, Firefox OS "
+"devices are the right choice for anyone committed to ensuring that the Web "
+"remains a public resource available to all.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/introduction/
+#. Translators:
+#. Page path: /1-3T/introduction/
+#. Translators:
+#. Page path: /2-0/introduction/
+#: db-strings.txt:150 db-strings.txt.py:2652 db-strings.txt.py:5134
+msgid "z8IAfoqxOPI"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/demo-tips/
+#. Translators:
+#. Page path: /1-3T/demo-tips/
+#. Translators:
+#. Page path: /2-0/demo-tips/
+#: db-strings.txt:159 db-strings.txt.py:2661 db-strings.txt.py:5143
+msgid "Demo Tips"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/demo-tips/
+#: db-strings.txt:168
+msgid ""
+"<h2>Demonstrations That Matter</h2> <p>Demonstrating the features of Firefox "
+"OS and how easy it is to use will be your best selling tool. Browse the "
+"demonstration videos below to get started.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/demo-tips/
+#. Translators:
+#. Page path: /1-3T/demo-tips/
+#. Translators:
+#. Page path: /2-0/demo-tips/
+#: db-strings.txt:178 db-strings.txt.py:2680 db-strings.txt.py:5162
+msgid ""
+"<p>Learn how to show off and talk about the key features and benefits of "
+"Firefox OS to your customers.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/demo-tips/
+#: db-strings.txt:187
+msgid "Intro to FirefoxOS"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/demo-tips/
+#: db-strings.txt:196
+msgid ""
+"<p>When you only have a minute, make it count with this simple pitch.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/demo-tips/
+#. Translators:
+#. Page path: /1-3T/demo-tips/
+#. Translators:
+#. Page path: /2-0/demo-tips/
+#: db-strings.txt:205 db-strings.txt.py:2707 db-strings.txt.py:5189
+msgid "yPRIgHARJsA"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/demo-tips/
+#. Translators:
+#. Page path: /1-1/key-features/
+#. Translators:
+#. Page path: /1-3T/key-features/
+#. Translators:
+#. Page path: /2-0/key-features/
+#: db-strings.txt:214 db-strings.txt.py:585 db-strings.txt.py:3015
+#: db-strings.txt:5497
+msgid "Adaptive App Search"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/demo-tips/
+#: db-strings.txt:223
+msgid ""
+"<p>Show customers how Firefox OS adapts to them, giving them more of what "
+"they need, when they need it.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/demo-tips/
+#: db-strings.txt:232
+msgid "SijuLONPI9U"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/demo-tips/
+#: db-strings.txt:241
+msgid "HERE Maps"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/demo-tips/
+#: db-strings.txt:250
+msgid ""
+"<p>Demonstrate the powerful map features of Firefox OS, including local "
+"transit info.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/demo-tips/
+#: db-strings.txt:259
+msgid "Dvne9wMwV6E"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/demo-tips/
+#: db-strings.txt:268
+msgid "Stay Connected"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/demo-tips/
+#: db-strings.txt:277
+msgid "<p>It&rsquo;s easier than ever to stay connected with Firefox OS.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/demo-tips/
+#: db-strings.txt:286
+msgid "-2V-hbYu9WQ"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/demo-tips/
+#: db-strings.txt:295
+msgid "Firefox Browser"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/demo-tips/
+#: db-strings.txt:304
+msgid ""
+"<p>Firefox OS lets customers take control of their online lives and get the "
+"best of the Web no matter where they go.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/demo-tips/
+#: db-strings.txt:313
+msgid "46dngYXUcFg"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/demo-tips/
+#. Translators:
+#. Page path: /1-1/key-features/
+#. Translators:
+#. Page path: /1-3T/key-features/
+#. Translators:
+#. Page path: /2-0/key-features/
+#: db-strings.txt:322 db-strings.txt.py:612 db-strings.txt.py:3042
+#: db-strings.txt:5524
+msgid "Marketplace"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/demo-tips/
+#: db-strings.txt:331
+msgid ""
+"<p>Firefox Marketplace has the cool games and apps your customers want.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/demo-tips/
+#: db-strings.txt:340
+msgid "nwAUQvNuyTw"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/demo-tips/
+#: db-strings.txt:349
+msgid "Camera & Gallery"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/demo-tips/
+#: db-strings.txt:358
+msgid ""
+"<p>Photograph, edit and share. Show off our full-featured camera and gallery "
+"apps, including built-in style filters, video and more.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/demo-tips/
+#: db-strings.txt:367
+msgid "ikbujo0l7dI"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/demo-tips/
+#: db-strings.txt:376
+msgid "Music & FM Radio"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/demo-tips/
+#: db-strings.txt:385
+msgid ""
+"<p>With music at their fingertips, your customers will see how Firefox OS "
+"keeps them entertained and dancing in the streets.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/demo-tips/
+#: db-strings.txt:394
+msgid "kGb4OLORKPA"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/customer-guide/
+#. Translators:
+#. Page path: /1-3T/customer-guide/
+#. Translators:
+#. Page path: /2-0/customer-guide/
+#: db-strings.txt:403 db-strings.txt.py:2824 db-strings.txt.py:5306
+msgid "Customer Guide"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/customer-guide/
+#: db-strings.txt:412
+msgid ""
+"<h2>Who is your ideal Firefox customer?</h2> <p>Understanding your "
+"customer&rsquo;s needs and knowing how to respond on the spot is critical to "
+"any sales opportunity.<br />Check out the common customer segments below, "
+"and tap the bar to learn how to best respond to each of their unique needs.</"
+"p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/customer-guide/
+#. Translators:
+#. Page path: /1-3T/customer-guide/
+#. Translators:
+#. Page path: /2-0/customer-guide/
+#: db-strings.txt:422 db-strings.txt.py:2843 db-strings.txt.py:5325
+msgid ""
+"<p>See how Firefox OS fits into your customers' lives, no matter who they "
+"are or where they're from.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/customer-guide/
+#. Translators:
+#. Page path: /1-3T/customer-guide/
+#. Translators:
+#. Page path: /2-0/customer-guide/
+#: db-strings.txt:440 db-strings.txt.py:2861 db-strings.txt.py:5343
+msgid "The Smartphone Rookie"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/customer-guide/
+#: db-strings.txt:449
+msgid ""
+"<h3><em>\"I have never had a smartphone.\"</em></h3> <p><strong>What can you "
+"say?</strong></p> <p>Firefox OS is the best choice for first time smartphone "
+"users. It is super easy to use, and it adapts to your needs better than any "
+"other phone, so you get more of what you need with less time searching. "
+"Plus, it is packed with all the features you&rsquo;d expect, from camera, to "
+"email, apps, music, maps and more.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/customer-guide/
+#. Translators:
+#. Page path: /1-3T/customer-guide/
+#. Translators:
+#. Page path: /2-0/customer-guide/
+#: db-strings.txt:469 db-strings.txt.py:2890 db-strings.txt.py:5372
+msgid "The Value Seeker"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/customer-guide/
+#: db-strings.txt:478
+msgid ""
+"<h3><em>\"I want a good deal.\"</em></h3> <p><strong>What can you say?</"
+"strong></p> <p>Firefox OS gives you the most value for your money. It has "
+"everything you expect in a smartphone &mdash; camera, email, apps, music, "
+"maps and more &mdash; at the most competitive prices.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/customer-guide/
+#. Translators:
+#. Page path: /1-3T/customer-guide/
+#. Translators:
+#. Page path: /2-0/customer-guide/
+#: db-strings.txt:498 db-strings.txt.py:2919 db-strings.txt.py:5401
+msgid "The Uncertain Upgrader"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/customer-guide/
+#: db-strings.txt:507
+msgid ""
+"<h3><em>\"It needs to be easy to use.\"</em></h3> <p><strong>What can you "
+"say?</strong></p> <p>Firefox OS is the easiest smartphone to get you "
+"started. Adaptive App Search helps you find the things you need simply "
+"&mdash; and instantly. The user interface is so intuitive, you will be able "
+"to quickly discover and download your favorite apps so you&rsquo;re ready to "
+"go.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/customer-guide/
+#. Translators:
+#. Page path: /1-3T/customer-guide/
+#. Translators:
+#. Page path: /2-0/customer-guide/
+#: db-strings.txt:527 db-strings.txt.py:2948 db-strings.txt.py:5430
+msgid "The Firefox Fan"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/customer-guide/
+#: db-strings.txt:536
+msgid ""
+"<h3><em>\"I love firefox!\"</em></h3> <p><strong>What can you say?</strong></"
+"p> <p>If you know and love Firefox, you&rsquo;ll love Firefox OS. Firefox OS "
+"smartphones are entirely HTML5-based, bringing the best of the Web to your "
+"phone. Plus, Firefox OS is designed by a community dedicated to keeping the "
+"Web accessible to all. When you choose Firefox OS, you have the full power "
+"of the Web in your hands.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/key-features/
+#. Translators:
+#. Page path: /1-3T/key-features/
+#. Translators:
+#. Page path: /2-0/key-features/
+#: db-strings.txt:547 db-strings.txt.py:2968 db-strings.txt.py:5450
+msgid "Key Features"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/key-features/
+#: db-strings.txt:556
+msgid ""
+"<h2>Features that count</h2> <p>Firefox OS is packed with the features that "
+"your customers expect in a smartphone. It fits their lives perfectly so they "
+"can keep pace with the world around them.</p> <h3>Have it all</h3>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/key-features/
+#. Translators:
+#. Page path: /1-3T/key-features/
+#. Translators:
+#. Page path: /2-0/key-features/
+#: db-strings.txt:567 db-strings.txt.py:2977 db-strings.txt.py:5470
+msgid ""
+"<p>Discover what makes Firefox OS the most unique and exciting mobile "
+"operating system.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/key-features/
+#: db-strings.txt:594
+msgid ""
+"<p>A new way to get what you need right when you need it, without any of the "
+"headaches of downloading applications. Search for anything, and Firefox OS "
+"adapts to your request, displaying photos, video, music, news, maps and more "
+"- making it much easier for you to find what you were really looking for.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/key-features/
+#: db-strings.txt:621
+msgid ""
+"<p>Your go-to source for the best apps for Firefox OS. Browse tens of "
+"thousands of free and paid apps in multiple categories, including games, "
+"utilities, music, travel, sports, and more.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/key-features/
+#. Translators:
+#. Page path: /1-3T/key-features/
+#. Translators:
+#. Page path: /2-0/key-features/
+#: db-strings.txt:639 db-strings.txt.py:3069 db-strings.txt.py:5551
+msgid "Firefox browser"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/key-features/
+#: db-strings.txt:648
+msgid ""
+"<p>The fast, smart, safe way to get the best of the Web. Use the URL bar to "
+"enter websites, perform searches and access your browsing history. Plus, "
+"tabs let you multitask by browsing multiple pages simultaneously.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/key-features/
+#: db-strings.txt:666
+msgid "Facebook and Twitter"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/key-features/
+#. Translators:
+#. Page path: /1-3T/key-features/
+#. Translators:
+#. Page path: /2-0/key-features/
+#: db-strings.txt:675 db-strings.txt.py:3105 db-strings.txt.py:5587
+msgid ""
+"<p>Deeply integrated with your favorite social networks. You can easily "
+"import your Facebook contacts to your phone to keep your community all in "
+"one place.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/key-features/
+#. Translators:
+#. Page path: /1-3T/key-features/
+#. Translators:
+#. Page path: /2-0/key-features/
+#: db-strings.txt:693 db-strings.txt.py:3123 db-strings.txt.py:5605
+msgid "Contacts"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/key-features/
+#. Translators:
+#. Page path: /1-3T/key-features/
+#. Translators:
+#. Page path: /2-0/key-features/
+#: db-strings.txt:702 db-strings.txt.py:3132 db-strings.txt.py:5614
+msgid ""
+"<p>Stay connected, with easy access to your friends and colleagues from "
+"wherever you are.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/key-features/
+#. Translators:
+#. Page path: /1-3T/key-features/
+#. Translators:
+#. Page path: /2-0/key-features/
+#: db-strings.txt:720 db-strings.txt.py:3150 db-strings.txt.py:5632
+msgid "Camera and Gallery"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/key-features/
+#: db-strings.txt:729
+msgid ""
+"<p>With built-in style filters for fun, creative shots, and lots of ways to "
+"share your photographs, the full-featured camera and photo gallery will have "
+"all your subjects smiling.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/key-features/
+#. Translators:
+#. Page path: /1-3T/key-features/
+#. Translators:
+#. Page path: /2-0/key-features/
+#: db-strings.txt:747 db-strings.txt.py:3177 db-strings.txt.py:5659
+msgid "FM Radio"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/key-features/
+#. Translators:
+#. Page path: /1-3T/key-features/
+#. Translators:
+#. Page path: /2-0/key-features/
+#: db-strings.txt:756 db-strings.txt.py:3186 db-strings.txt.py:5668
+msgid ""
+"<p>All the audio you want on the go, all on one device. Just plug in your "
+"earphones and start listening.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/key-features/
+#: db-strings.txt:774
+msgid "Maps"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/key-features/
+#: db-strings.txt:783
+msgid ""
+"<p>Get satellite, public transport, and live traffic views, search for "
+"points of interest and even save your map locally for quicker remote access. "
+"HERE Maps can pinpoint your location and even give you directions (car, "
+"walking or public transportation) to get you to your destination.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/key-features/
+#. Translators:
+#. Page path: /1-3T/key-features/
+#. Translators:
+#. Page path: /2-0/key-features/
+#: db-strings.txt:801 db-strings.txt.py:3204 db-strings.txt.py:5686
+msgid "Music and Video"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/key-features/
+#: db-strings.txt:810
+msgid ""
+"<p>Play it all from your phone, or online via Youtube. Browse and play your "
+"music collection by album or artist, rate songs and create playlists for "
+"your favorites.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/key-features/
+#: db-strings.txt:828
+msgid "SMS and Email"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/key-features/
+#: db-strings.txt:837
+msgid ""
+"<p>Stay connected to your friends and colleagues wherever you are. It's easy "
+"to set up multiple email accounts, with support for the most common "
+"Exchange, SMTP or IMAP email providers.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/frequently-asked-questions/
+#. Translators:
+#. Page path: /1-3T/frequently-asked-questions/
+#. Translators:
+#. Page path: /2-0/frequently-asked-questions/
+#: db-strings.txt:846 db-strings.txt.py:3249 db-strings.txt.py:5731
+msgid "Frequently Asked Questions"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/frequently-asked-questions/
+#. Translators:
+#. Page path: /1-3T/frequently-asked-questions/
+#. Translators:
+#. Page path: /2-0/frequently-asked-questions/
+#: db-strings.txt:855 db-strings.txt.py:3267 db-strings.txt.py:5740
+msgid ""
+"<h2>You have questions? We have answers!</h2> <p>By now, you probably have "
+"questions and so will your customers! Select each question for more on "
+"Firefox OS.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/frequently-asked-questions/
+#. Translators:
+#. Page path: /1-3T/frequently-asked-questions/
+#. Translators:
+#. Page path: /2-0/frequently-asked-questions/
+#: db-strings.txt:865 db-strings.txt.py:3258 db-strings.txt.py:5750
+msgid ""
+"<p>Still have questions? Not for long! Find all the answers you're looking "
+"for here.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/frequently-asked-questions/
+#. Translators:
+#. Page path: /1-3T/frequently-asked-questions/
+#. Translators:
+#. Page path: /2-0/frequently-asked-questions/
+#: db-strings.txt:874 db-strings.txt.py:3277 db-strings.txt.py:5759
+msgid "What is Adaptive App Search?"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/frequently-asked-questions/
+#: db-strings.txt:883
+msgid ""
+"<p>Adaptive App Search is a new way to find content from across the Web and "
+"engage in an app-like experience without the headaches of downloading the "
+"app to find what you need. Whenever you search, your phone adapts to the "
+"search result and makes it easy to add those results to your home screen for "
+"easy access later.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/frequently-asked-questions/
+#. Translators:
+#. Page path: /1-3T/frequently-asked-questions/
+#. Translators:
+#. Page path: /2-0/frequently-asked-questions/
+#: db-strings.txt:892 db-strings.txt.py:3295 db-strings.txt.py:5777
+msgid "How many and what types of apps will be available?"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/frequently-asked-questions/
+#: db-strings.txt:901
+msgid ""
+"<p>App developers around the world are committed to Firefox OS and tens of "
+"thousands of free and paid applications will be available at launch. The "
+"growing list includes leading app developers like Accuweather, Airbnb, Box, "
+"Cut the Rope, EA Games, Facebook, Nokia HERE&reg;, MTV Brasil, Pulse News, "
+"SoundCloud, SporTV, Time Out and Twitter.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/frequently-asked-questions/
+#. Translators:
+#. Page path: /1-3T/frequently-asked-questions/
+#. Translators:
+#. Page path: /2-0/frequently-asked-questions/
+#: db-strings.txt:910 db-strings.txt.py:3313 db-strings.txt.py:5795
+msgid "What makes Firefox OS more secure than other phones?"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/frequently-asked-questions/
+#: db-strings.txt:919
+msgid ""
+"<p>Firefox OS has a robust security model that is battle-hardened from more "
+"than a decade of supporting the Open Web. It is designed to protect the user "
+"and system from malicious applications and content.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/frequently-asked-questions/
+#. Translators:
+#. Page path: /1-3T/frequently-asked-questions/
+#. Translators:
+#. Page path: /2-0/frequently-asked-questions/
+#: db-strings.txt:928 db-strings.txt.py:3349 db-strings.txt.py:5831
+msgid "Do Android apps work on this phone?"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/frequently-asked-questions/
+#: db-strings.txt:937
+msgid ""
+"<p>Not directly. However, many of the most popular Android and iOS apps are "
+"actually Web apps that have a native &ldquo;wrapper&rdquo; to allow them to "
+"run on proprietary platforms. Therefore, many of the same apps will be "
+"available through Adaptive App Search.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/frequently-asked-questions/
+#. Translators:
+#. Page path: /1-3T/frequently-asked-questions/
+#. Translators:
+#. Page path: /2-0/frequently-asked-questions/
+#: db-strings.txt:946 db-strings.txt.py:3367 db-strings.txt.py:5849
+msgid "Do my apps work offline?"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/frequently-asked-questions/
+#: db-strings.txt:955
+msgid ""
+"<p>Firefox OS is built on Web technologies but has offline capabilities for "
+"all the phone&rsquo;s core functionalities. That means apps do not require "
+"an active internet connection to function unless the app must send or "
+"receive data to another system through the internet to continue working.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/frequently-asked-questions/
+#. Translators:
+#. Page path: /1-3T/frequently-asked-questions/
+#. Translators:
+#. Page path: /2-0/frequently-asked-questions/
+#: db-strings.txt:964 db-strings.txt.py:3385 db-strings.txt.py:5867
+msgid "What about customer support for apps?"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/frequently-asked-questions/
+#: db-strings.txt:973
+msgid ""
+"<p>Consumers who need support with an app built for Firefox OS will be "
+"directed to the app developer for assistance. If the consumer experience "
+"with Firefox OS is negatively impacted by the support incident resulting "
+"from the app, Mozilla may recommend workarounds including uninstalling the "
+"app until the developer provides appropriate assistance.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/frequently-asked-questions/
+#. Translators:
+#. Page path: /1-3T/frequently-asked-questions/
+#. Translators:
+#. Page path: /2-0/frequently-asked-questions/
+#: db-strings.txt:982 db-strings.txt.py:3403 db-strings.txt.py:5885
+msgid "How do I download and install apps on Firefox OS?"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/frequently-asked-questions/
+#: db-strings.txt:991
+msgid ""
+"<p>Firefox OS offers two ways to get apps:</p> <ul> <li>Firefox Marketplace "
+"&mdash; Our go-to source for great apps like Twitter and awesome local "
+"content from the best Web developers in your region.</li> <li>Adaptive App "
+"Search &mdash; Just type a single word like &ldquo;sushi&rdquo; to discover "
+"related mobile apps in your region, delivered by a superior mobile "
+"experience and tuned to bring you what you want.</li> </ul>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/frequently-asked-questions/
+#: db-strings.txt:1004
+msgid "Which email providers are supported?"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/frequently-asked-questions/
+#: db-strings.txt:1013
+msgid ""
+"<p>Hotmail and Yahoo mail are currently supported with more on the way in "
+"future releases.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/frequently-asked-questions/
+#. Translators:
+#. Page path: /1-3T/frequently-asked-questions/
+#. Translators:
+#. Page path: /2-0/frequently-asked-questions/
+#: db-strings.txt:1022 db-strings.txt.py:3443 db-strings.txt.py:5925
+msgid "Where should I go if I have more questions?"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/frequently-asked-questions/
+#. Translators:
+#. Page path: /1-3T/frequently-asked-questions/
+#. Translators:
+#. Page path: /2-0/frequently-asked-questions/
+#: db-strings.txt:1031 db-strings.txt.py:3452 db-strings.txt.py:5934
+msgid ""
+"<p>Visit <a href=\"https://support.mozilla.org/en-US/kb/firefox-os-user-guide"
+"\">https://support.mozilla.org/en-US/kb/firefox-os-user-guide</a> for more "
+"information.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/about/
+#. Translators:
+#. Page path: /1-3T/about/
+#. Translators:
+#. Page path: /2-0/about/
+#: db-strings.txt:1040 db-strings.txt.py:3461 db-strings.txt.py:5943
+msgid "The Firefox Mission"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/about/
+#. Translators:
+#. Page path: /1-3T/about/
+#. Translators:
+#. Page path: /2-0/about/
+#: db-strings.txt:1049 db-strings.txt.py:3470 db-strings.txt.py:5952
+msgid ""
+"Our mission is to promote openness, innovation and opportunity on the Web."
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/about/
+#: db-strings.txt:1058
+msgid ""
+"<p>Behind every Firefox OS smartphone is Mozilla, a global community of "
+"thousands dedicated to keeping the Web accessible to all. That&rsquo;s "
+"because we believe each and every one of us has the right to a Web that "
+"isn&rsquo;t controlled by just a few large entities.<br /><br />Yeah, "
+"we&rsquo;re a little different than the other guys. Together, we can build a "
+"brighter future for the Web.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/about/
+#. Translators:
+#. Page path: /1-3T/about/
+#. Translators:
+#. Page path: /2-0/about/
+#: db-strings.txt:1067 db-strings.txt.py:3488 db-strings.txt.py:5972
+msgid "CqhwzZycdFU"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:1076 db-strings.txt.py:3497 db-strings.txt.py:5981
+msgid "Take the challenge"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1085
+msgid ""
+"<h2>Ready to show what you know?</h2> <p>Think you're ready to start selling "
+"Firefox OS to your customers? Put your knowledge to work and answer these "
+"questions to prove you have what it takes.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:1095 db-strings.txt.py:3506 db-strings.txt.py:5999
+msgid ""
+"<p>Put your new knowledge to the test with this series of fun, interactive "
+"quizzes.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1104
+msgid "<p>Get ready to sell!</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1113
+msgid ""
+"<p>If you have worked through the questions and all of the content, then you "
+"have the basics to match the needs of Firefox OS to your customers.<br /"
+"><br />Easy to use, a Firefox OS smartphone is perfect for new smartphone "
+"users and full of all the features that customers want and need.<br /><br /"
+">And it is powered by Mozilla, making Firefox OS the right choice for anyone "
+"committed to ensuring that the power of the Web remains in the hands of "
+"users everywhere!</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:1122 db-strings.txt.py:3543 db-strings.txt.py:6035
+msgid "<p>How do you access the Adaptive App Search feature on Firefox OS?</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1131
+msgid ""
+"<p>That&rsquo;s right! You simply swipe to the left to access the Adaptive "
+"App Search feature.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1140 db-strings.txt.py:1149
+msgid ""
+"<p>That&rsquo;s not it. You simply swipe to the left to access the Adaptive "
+"App Search feature.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1158
+msgid ""
+"<p>Which of the following apps is pre-loaded on every Firefox OS phone? "
+"Select all that apply.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:1167 db-strings.txt.py:3588 db-strings.txt.py:6080
+msgid ""
+"<p>That&rsquo;s right! All of these apps come pre-loaded on every Firefox OS "
+"phone.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:1176 db-strings.txt.py:3597 db-strings.txt.py:6089
+msgid ""
+"<p>Actually, all of these apps come pre-loaded on every Firefox OS phone.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1185
+msgid ""
+"<p>Actually, they're are more. All of these apps come pre-loaded on every "
+"Firefox OS phone.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:1194 db-strings.txt.py:4047 db-strings.txt.py:6539
+msgid ""
+"<p>When you type a word or subject that interests you using Adaptive App "
+"Search what happens? Select all that apply.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:1203 db-strings.txt.py:4056 db-strings.txt.py:6548
+msgid ""
+"<p>That&rsquo;s right. All of these are true of Adaptive App Search!</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:1212 db-strings.txt.py:1221 db-strings.txt.py:4065
+#: db-strings.txt:4074 db-strings.txt.py:6557 db-strings.txt.py:6566
+msgid "<p>Actually, all of these are true of Adaptive App Search!</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1230
+msgid ""
+"<p>Which of these customer responses indicate an ideal candidate for Firefox "
+"OS? Select all that apply.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:1239 db-strings.txt.py:4236 db-strings.txt.py:6728
+msgid ""
+"<p>That&rsquo;s right. All of these customers are ideal candidates for "
+"Firefox OS!</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:1248 db-strings.txt.py:1257 db-strings.txt.py:4245
+#: db-strings.txt:4254 db-strings.txt.py:6737 db-strings.txt.py:6746
+msgid ""
+"<p>In fact, ALL of these customers are ideal candidates for Firefox OS!</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1266 db-strings.txt.py:1338 db-strings.txt.py:1662
+msgid ""
+"<p>Which Firefox OS feature does this icon represent?<br /><br /><br /></p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1275
+msgid "<p>That&rsquo;s right. This icon represents Contacts.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1284 db-strings.txt.py:1293
+msgid "<p>Actually, this icon represents Contacts.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1302
+msgid "<p>Which Firefox OS feature does this represent?<br /><br /><br /></p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1311
+msgid "<p>That&rsquo;s right. This icon represents the Firefox browser.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1320 db-strings.txt.py:1329
+msgid "<p>Actually, this icon represents the Firefox browser.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:1347 db-strings.txt.py:3732 db-strings.txt.py:6224
+msgid "<p>That&rsquo;s right. This icon represents Adaptive App Search.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1356 db-strings.txt.py:1365
+msgid "<p>Actually, this icon represents the Adaptive App Search.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:1374 db-strings.txt.py:3759 db-strings.txt.py:6251
+msgid ""
+"<p>Your customer wants to understand the biggest benefits of Firefox OS "
+"versus its competitors. Select all of the statements that apply.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:1383 db-strings.txt.py:3768 db-strings.txt.py:6260
+msgid ""
+"<p>That&rsquo;s right. These statements are all true about Firefox OS.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:1392 db-strings.txt.py:1401 db-strings.txt.py:3777
+#: db-strings.txt:3786 db-strings.txt.py:6269 db-strings.txt.py:6278
+msgid ""
+"<p>Actually, all of these are true except for the statement about &ldquo;"
+"broadest selection of devices.&rdquo; This may be true in the future, but it "
+"is not currently true.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:1410 db-strings.txt.py:3795 db-strings.txt.py:6287
+msgid ""
+"<p>A customer tells you that smartphones seem complicated. What selling "
+"feature should you lead with?</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:1419 db-strings.txt.py:3804 db-strings.txt.py:6296
+msgid ""
+"<p>That&rsquo;s right. For a customer looking for a smartphone that is easy "
+"to use, Firefox OS is a great choice.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1428 db-strings.txt.py:1437
+msgid ""
+"<p>Actually, for this customer, the best choice is to talk about how easy "
+"Firefox OS is to use.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:1446 db-strings.txt.py:3831 db-strings.txt.py:6323
+msgid ""
+"<p>A customer tells you that she&rsquo;s ready to move up from her old "
+"feature phone. What selling feature should you lead with?</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1455
+msgid ""
+"<p>That&rsquo;s right. With a first time smart phone user, you should talk "
+"about its simplicity and features like Adaptive App Search.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1464 db-strings.txt.py:1473
+msgid ""
+"<p>Actually, with a first time smart phone user, you should talk about its "
+"simplicity and features like Adaptive App Search.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:1482 db-strings.txt.py:3867 db-strings.txt.py:6359
+msgid ""
+"<p>A customer tells you that he uses Firefox as his desktop browser. With "
+"what selling feature should you lead?</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1491
+msgid ""
+"<p>That&rsquo;s right. When you meet a Firefox fan, talk about how choosing "
+"Firefox OS helps to keep the Web free and open.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1500 db-strings.txt.py:1509
+msgid ""
+"<p>Actually, when you meet a Firefox fan, talk about how choosing Firefox OS "
+"helps to keep the Web free and open.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1518
+msgid ""
+"<p>A customer says to you, &ldquo;I&rsquo;m looking for an easy way to stay "
+"in touch with my friends, but I don&rsquo;t want to spend a lot of money."
+"&rdquo; Which of the following statements would be a good response? Select "
+"all that apply.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1527
+msgid ""
+"<p>That&rsquo;s right. With this customer, highlight the great value of "
+"Firefox OS and the full feature set, including social apps that are "
+"preloaded on the phone.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1536 db-strings.txt.py:1545
+msgid ""
+"<p>That's not it. With this customer, be sure to highlight the great value "
+"of Firefox OS, and its full feature set, including social apps that are "
+"preloaded on the phone, all at great value.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1554
+msgid ""
+"<p>A customer says, &ldquo;I use Firefox on my home computer and I love it, "
+"but I didn&rsquo;t know they had a smartphone OS. Why?&rdquo; Which of the "
+"following statements would be the most appropriate response to this "
+"particular customer?</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1563
+msgid ""
+"<p>That&rsquo;s right. This customer seems like a Firefox fan. Talk about "
+"how the Firefox OS phones, made by Mozilla, are part of keeping the Web free "
+"and open. And while all of these statements are true, only this one is the "
+"best response for this particular customer.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1572 db-strings.txt.py:1581
+msgid ""
+"<p>All of these statements are true, but only one is the best response for "
+"this particular customer, who seems to be a Firefox fan. Talk about how the "
+"Firefox OS phones, made by Mozilla, are part of keeping the Web free and "
+"open.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:1590 db-strings.txt.py:3975 db-strings.txt.py:6467
+msgid ""
+"<p>Which of the following statements about Adaptive App Search are true? "
+"Select all that apply.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:1599 db-strings.txt.py:3984 db-strings.txt.py:6476
+msgid ""
+"<p>That&rsquo;s right. Adaptive App Search anticipates your needs better "
+"than any other phone.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:1608 db-strings.txt.py:3993 db-strings.txt.py:6485
+msgid ""
+"<p>That&rsquo;s not it. Three of these are correct. While Adaptive App "
+"Search anticipates your needs better than any other phone, it does NOT work "
+"just like Web search on Firefox browsers.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:1617 db-strings.txt.py:4002 db-strings.txt.py:6494
+msgid ""
+"<p>That&rsquo;s quite not it. Three of these are correct. While Adaptive App "
+"Search anticipates your needs better than any other phone, it does NOT work "
+"just like Web search on Firefox browsers.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1626
+msgid ""
+"<p>While all of the these statements are true, which two responses would be "
+"most useful to a first-time smartphone customer?</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:1635 db-strings.txt.py:4020 db-strings.txt.py:6512
+msgid ""
+"<p>That&rsquo;s right. A first time smartphone user will be most interested "
+"in ease of use.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:1644 db-strings.txt.py:1653 db-strings.txt.py:4029
+#: db-strings.txt:4038 db-strings.txt.py:6521 db-strings.txt.py:6530
+msgid ""
+"<p>Not quite. A first time smartphone user will be most interested in ease "
+"of use.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1671
+msgid ""
+"<p>That&rsquo;s right! This icon represents SMS&mdash;or text messaging.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1680 db-strings.txt.py:1689
+msgid "<p>Actually, this icon represents SMS&mdash;or text messaging.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:1698 db-strings.txt.py:4083 db-strings.txt.py:6575
+msgid ""
+"<p>With Adaptive App Search, you can use an app once, quickly and easily, "
+"without installing it. If you want to use it again later, it&rsquo;s easy to "
+"add it to your homescreen.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:1707 db-strings.txt.py:1779 db-strings.txt.py:1815
+#: db-strings.txt:4092 db-strings.txt.py:4164 db-strings.txt.py:4200
+#: db-strings.txt:6584 db-strings.txt.py:6656 db-strings.txt.py:6692
+msgid "<p>That&rsquo;s right!</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:1716 db-strings.txt.py:1725 db-strings.txt.py:4101
+#: db-strings.txt:4110 db-strings.txt.py:6593 db-strings.txt.py:6602
+msgid "<p>Actually, this is true.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:1734 db-strings.txt.py:4119 db-strings.txt.py:6611
+msgid ""
+"<p>What&rsquo;s the best response to this customer&rsquo;s objection? &ldquo;"
+"I&rsquo;ve heard there are not many apps.&rdquo;</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:1743 db-strings.txt.py:4128 db-strings.txt.py:6620
+msgid "<p>That&rsquo;s right.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1752 db-strings.txt.py:1761
+msgid ""
+"<p>Not quite, the best response to this objection is to talk about all the "
+"apps that are available.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1770
+msgid ""
+"<p>What&rsquo;s the best response to this customer&rsquo;s objection?<br /"
+">&ldquo;I&rsquo;ve never heard of Firefox OS phones.&rdquo;</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1788 db-strings.txt.py:1797
+msgid ""
+"<p>Actually, the best response to this objection is to talk about the "
+"experience of the Mozilla community that is behind Firefox OS.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:1806 db-strings.txt.py:4191 db-strings.txt.py:6683
+msgid ""
+"<p>What&rsquo;s the best response to this customer&rsquo;s objection?<br /"
+">&ldquo;How do I know this new phone is safe?&rdquo;</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1824 db-strings.txt.py:1833
+msgid ""
+"<p>Actually, the best response to this objection is to talk about the robust "
+"security model.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:1842 db-strings.txt.py:4263 db-strings.txt.py:6755
+msgid "<p>Swipe to the left.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:1851 db-strings.txt.py:4272 db-strings.txt.py:6764
+msgid "<p>Click on the home button.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1860
+msgid "<p>Open Firefox Marketplace.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1869
+msgid "<p>Open the Firefox browser.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1878
+msgid "<p>Firefox Marketplace</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1887 db-strings.txt.py:2040 db-strings.txt.py:2076
+#: db-strings.txt:2112 db-strings.txt.py:2391
+msgid "<p>Firefox browser</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:1896 db-strings.txt.py:4317 db-strings.txt.py:6809
+msgid "<p>Camera and Gallery</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:1905 db-strings.txt.py:4326 db-strings.txt.py:6818
+msgid "<p>Facebook</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1914
+msgid "<p>Email and SMS</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:1923 db-strings.txt.py:4416 db-strings.txt.py:6908
+msgid "<p>FM Radio</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1932
+msgid "<p>Music Player</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1941
+msgid "<p>HERE Maps</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:1950 db-strings.txt.py:4821 db-strings.txt.py:7313
+msgid ""
+"<p>Results from around the Web are displayed like apps on your phone.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:1959 db-strings.txt.py:4830 db-strings.txt.py:7322
+msgid ""
+"<p>Your background image changes instantly to reveal popular photos from the "
+"Web.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:1968 db-strings.txt.py:4839 db-strings.txt.py:7331
+msgid ""
+"<p>Results include relevant maps, pictures, music, news, videos, Twitter "
+"feeds and more.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:1977
+msgid ""
+"<p>Tens of thousands of Web apps from around the world are searched "
+"instantly.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:1986 db-strings.txt.py:4947 db-strings.txt.py:7439
+msgid "<p>I&rsquo;ve never used a smartphone before.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:1995 db-strings.txt.py:4956 db-strings.txt.py:7448
+msgid "<p>I&rsquo;m looking for the best value for my money.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:2004 db-strings.txt.py:4965 db-strings.txt.py:7457
+msgid "<p>I want a smartphone that is truly easy to use.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:2013 db-strings.txt.py:4974 db-strings.txt.py:7466
+msgid "<p>I&rsquo;m a Firefox fan.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:2022 db-strings.txt.py:2058 db-strings.txt.py:2094
+#: db-strings.txt:2373
+msgid "<p>SMS</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:2031 db-strings.txt.py:2067 db-strings.txt.py:2103
+#: db-strings.txt:2382 db-strings.txt.py:4362 db-strings.txt.py:4443
+#: db-strings.txt:4479 db-strings.txt.py:4515 db-strings.txt.py:4551
+#: db-strings.txt:6854 db-strings.txt.py:6935 db-strings.txt.py:6971
+#: db-strings.txt:7007 db-strings.txt.py:7043
+msgid "<p>Contacts</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:2049 db-strings.txt.py:2085 db-strings.txt.py:2121
+#: db-strings.txt:2400 db-strings.txt.py:4461 db-strings.txt.py:4497
+#: db-strings.txt:4533 db-strings.txt.py:4569 db-strings.txt.py:6953
+#: db-strings.txt:6989 db-strings.txt.py:7025 db-strings.txt.py:7061
+msgid "<p>Adaptive App Search</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:2130
+msgid ""
+"<p>With Adaptive App Search, Firefox OS adapts to your needs better than any "
+"other phone.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:2139
+msgid ""
+"<p>With the Firefox Marketplace and dozens of preloaded apps, like email, "
+"maps, Facebook, a camera, music, and more, Firefox OS is packed with the "
+"features you&rsquo;d expect in a smartphone.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:2148 db-strings.txt.py:4596 db-strings.txt.py:7088
+msgid ""
+"<p>Since it is built by Firefox, you can feel confident that Firefox OS is "
+"backed by a global community working on your behalf and with your interests "
+"in mind.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:2157 db-strings.txt.py:4605 db-strings.txt.py:7097
+msgid ""
+"<p>Firefox OS gives you the broadest selection of devices on the market "
+"today.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:2166 db-strings.txt.py:2220
+msgid ""
+"<p>Firefox OS gives you the most value for your money, with everything you "
+"expect &mdash; camera, email, apps, music, maps and more &mdash; at the most "
+"competitive prices.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:2175 db-strings.txt.py:2193
+msgid ""
+"<p>Firefox OS is the easiest smartphone to get started with. Your favorite "
+"apps are already preloaded and you can easily import your friends from "
+"Facebook, too.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:2184 db-strings.txt.py:2211 db-strings.txt.py:2238
+msgid ""
+"<p>If you love Firefox browsers, you&rsquo;ll love Firefox OS phones. "
+"Choosing Firefox OS keeps the power of the Web in your hands.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:2202
+msgid ""
+"<p>Firefox OS gives you the most value for your money, with everything you "
+"expect &mdash; camera, email, apps, music, maps and more &mdash; at the most "
+"competitive prices. Plus, Adaptive App Search feature makes it easy to find "
+"the apps you really need, when you need it.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:2229 db-strings.txt.py:4677 db-strings.txt.py:7169
+msgid ""
+"<p>Firefox OS is the easiest smartphone to get started with. Your favorite "
+"apps are already preloaded and you can easily import your friends from "
+"Facebook too.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:2247
+msgid ""
+"<p>The Firefox OS smartphone includes all the features that you&rsquo;d "
+"expect, including SMS, Facebook, email, maps and more, all at a better value."
+"</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:2256
+msgid ""
+"<p>Facebook is preloaded on every Firefox OS device and you can import your "
+"Facebook contacts easily!</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:2265
+msgid ""
+"<p>The Firefox Marketplace features thousands of apps for free or at very "
+"low prices.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:2274 db-strings.txt.py:4722 db-strings.txt.py:7214
+msgid ""
+"<p>Every Firefox phone includes the Firefox browser, the fast, smart and "
+"safe way to get online.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:2283 db-strings.txt.py:4731 db-strings.txt.py:7223
+msgid ""
+"<p>Firefox OS includes all the same features you&rsquo;ll find in "
+"competitive smartphones and gives you more value for the money.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:2292
+msgid ""
+"<p>Mozilla, the maker of Firefox, built a smartphone OS to keep the Web "
+"accessible to all. And since Firefox OS is entirely built in HTML5, you get "
+"instant access to thousands of apps ready for the web.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:2301 db-strings.txt.py:4749 db-strings.txt.py:7241
+msgid "<p>A unique feature included in every Firefox OS smartphone.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:2310 db-strings.txt.py:4758 db-strings.txt.py:7250
+msgid "<p>Works just like Web search on Firefox browsers.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:2319 db-strings.txt.py:4767 db-strings.txt.py:7259
+msgid "<p>Results include photos, video, music, news, maps and more.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:2328 db-strings.txt.py:4776 db-strings.txt.py:7268
+msgid ""
+"<p>Results are instantly usable &mdash; you don&rsquo;t have to download the "
+"app first.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:2337 db-strings.txt.py:4785 db-strings.txt.py:7277
+msgid ""
+"<p>You can easily import contacts from Facebook to your Firefox OS phone.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:2346 db-strings.txt.py:4794 db-strings.txt.py:7286
+msgid ""
+"<p>Firefox OS gives you access to popular, big name apps, as well as local "
+"content that means the most to you.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:2355 db-strings.txt.py:4803 db-strings.txt.py:7295
+msgid ""
+"<p>Firefox OS isn&rsquo;t cluttered with more than you need. It gives you "
+"what you&rsquo;d expect in a smartphone, with an easy-to-use interface that "
+"makes it easy to get started.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:2364 db-strings.txt.py:4812 db-strings.txt.py:7304
+msgid "<p>Firefox OS is built entirely using HTML5 and open Web standards.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:2409 db-strings.txt.py:4848 db-strings.txt.py:7340
+msgid "<p>True</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:2418 db-strings.txt.py:4857 db-strings.txt.py:7349
+msgid "<p>False</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:2427 db-strings.txt.py:2472 db-strings.txt.py:2490
+msgid ""
+"<p>New and backed by a global community working to help keep the Web "
+"accessible to all.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:2436
+msgid ""
+"<p>Every phone has access to over 20,000 free and paid apps at launch, "
+"including some of the most popular global apps today.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:2445 db-strings.txt.py:4884 db-strings.txt.py:7376
+msgid ""
+"<p>A robust security model that is battle-hardened from more than a decade "
+"of supporting the Open Web.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:2454 db-strings.txt.py:2481
+msgid ""
+"<p>Packed with the features that made you want a smartphone in the first "
+"place.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:2463
+msgid ""
+"<p>Access to over 20,000 free and paid apps at launch, including some of the "
+"most popular global apps today.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/take-the-challenge/
+#: db-strings.txt:2499
+msgid ""
+"<p>A robust security model that is battle-hardened from more than a decade "
+"of supporting the Open Web. Designed to protect the user and system from "
+"malicious applications and content, it also protects applications from each "
+"other.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/introduction/
+#: db-strings.txt:2598
+msgid ""
+"<p>Firefox OS is packed with all the features that made your customers want "
+"a smartphone in the first place: Camera, Gallery, social features, Music and "
+"more.<br /><br />Firefox OS users have complete access to apps in the "
+"Firefox Marketplace, without the need for a sign-in. There, they can get all "
+"the popular, big name apps, as well as local content designed to help them "
+"get the most out of the world around them.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/introduction/
+#: db-strings.txt:2625
+msgid ""
+"<p>At Mozilla, we&rsquo;re out to make a difference, not a profit.<br /><br /"
+">Our commitment to keeping the Web open and accessible for all will give "
+"your customers the best of the Web no matter where they go, while keeping "
+"them safe and in control of their online lives.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/introduction/
+#: db-strings.txt:2643
+msgid ""
+"<p>Your customers&rsquo; needs are always changing. That&rsquo;s why Firefox "
+"OS does the same &mdash; adapting so your customers can live every moment to "
+"its fullest.<br /><br />Firefox OS devices are perfect for new smartphone "
+"users &mdash; easy to use and full of all the features that customers "
+"expect. And because Firefox OS devices are powered by Mozilla, they&rsquo;re "
+"the perfect choice for anyone committed to keeping the Web open for all.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/demo-tips/
+#. Translators:
+#. Page path: /2-0/demo-tips/
+#: db-strings.txt:2670 db-strings.txt.py:5152
+msgid ""
+"<h2>Demonstrations That Matter</h2> <p>Demonstrating the features of Firefox "
+"OS and how easy it is to use will be your best selling tool.<br /><br /"
+">Browse the demonstration videos below to get started.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/demo-tips/
+#. Translators:
+#. Page path: /2-0/demo-tips/
+#: db-strings.txt:2689 db-strings.txt.py:5171
+msgid "Introducing Firefox OS"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/demo-tips/
+#. Translators:
+#. Page path: /2-0/demo-tips/
+#: db-strings.txt:2698 db-strings.txt.py:5180
+msgid ""
+"<p>Firefox OS offers everything your customers want in a smartphone &mdash; "
+"and more &mdash; at prices that are easy to afford.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/demo-tips/
+#. Translators:
+#. Page path: /2-0/demo-tips/
+#: db-strings.txt:2716 db-strings.txt.py:5198
+msgid "Easy to use"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/demo-tips/
+#. Translators:
+#. Page path: /2-0/demo-tips/
+#: db-strings.txt:2725 db-strings.txt.py:5207
+msgid ""
+"<p>Firefox OS is intuitive and simple. With a beautifully designed "
+"interface, your customers will find it easy to use from the start. It also "
+"supports dual SIM and several local languages.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/demo-tips/
+#. Translators:
+#. Page path: /2-0/demo-tips/
+#: db-strings.txt:2734 db-strings.txt.py:5216
+msgid "eBDX7k0gkJg"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/demo-tips/
+#. Translators:
+#. Page path: /2-0/demo-tips/
+#: db-strings.txt:2743 db-strings.txt.py:5225
+msgid "Marketplace and Adaptive App Search"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/demo-tips/
+#. Translators:
+#. Page path: /2-0/demo-tips/
+#: db-strings.txt:2752 db-strings.txt.py:5234
+msgid ""
+"<p>Show your customers how easy it is to get apps in Firefox Marketplace, or "
+"from anywhere on the Web with Adaptive App Search. It&rsquo;s all about "
+"giving users more of what they need, when they need it.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/demo-tips/
+#. Translators:
+#. Page path: /2-0/demo-tips/
+#: db-strings.txt:2761 db-strings.txt.py:5243
+msgid "t_yNwJDAgKw"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/demo-tips/
+#. Translators:
+#. Page path: /2-0/demo-tips/
+#: db-strings.txt:2770 db-strings.txt.py:5252
+msgid "Rich Media Experience"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/demo-tips/
+#. Translators:
+#. Page path: /2-0/demo-tips/
+#: db-strings.txt:2779 db-strings.txt.py:5261
+msgid ""
+"<p>With the Camera, Gallery, Music apps and more, Firefox OS will keep your "
+"customers entertained on the go and connected to the things that matter most "
+"to them.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/demo-tips/
+#. Translators:
+#. Page path: /2-0/demo-tips/
+#: db-strings.txt:2788 db-strings.txt.py:5270
+msgid "YarD9ZluQJU"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/demo-tips/
+#. Translators:
+#. Page path: /2-0/demo-tips/
+#: db-strings.txt:2797 db-strings.txt.py:5279
+msgid "Social and Contact Sync"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/demo-tips/
+#. Translators:
+#. Page path: /2-0/demo-tips/
+#: db-strings.txt:2806 db-strings.txt.py:5288
+msgid ""
+"<p>Firefox OS comes preloaded with popular instant messaging and social "
+"media apps, like Facebook, so your customers will be able to stay connected "
+"with friends and family. They can also sync their contacts to the phone, "
+"quickly and easily.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/demo-tips/
+#. Translators:
+#. Page path: /2-0/demo-tips/
+#: db-strings.txt:2815 db-strings.txt.py:5297
+msgid "hGvNjO82y-4"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/customer-guide/
+#. Translators:
+#. Page path: /2-0/customer-guide/
+#: db-strings.txt:2833 db-strings.txt.py:5315
+msgid ""
+"<h2>Who is your ideal Firefox customer?</h2> <p>Understanding your "
+"customer&rsquo;s needs and knowing how to respond on the spot is critical to "
+"any sales opportunity.<br /><br />Check out the common customer segments "
+"below, then drag the bar to learn how to best respond to each of their "
+"unique needs.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/customer-guide/
+#. Translators:
+#. Page path: /2-0/customer-guide/
+#: db-strings.txt:2870 db-strings.txt.py:5352
+msgid ""
+"<h3><em>\"I have never had a smartphone.\"</em></h3> <p><strong>Here&rsquo;s "
+"what you can say:</strong></p> <p>Firefox OS is the best choice for first "
+"time smartphone users. It&rsquo;s super easy to use and it adapts to your "
+"needs better than any other phone, so you get more of what you need with "
+"less time searching. Plus, it&rsquo;s packed with all the features you&rsquo;"
+"d expect, from Camera, to Email, apps from the Firefox Marketplace, Music "
+"and more.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/customer-guide/
+#. Translators:
+#. Page path: /2-0/customer-guide/
+#: db-strings.txt:2899 db-strings.txt.py:5381
+msgid ""
+"<h3><em>\"I want a good deal.\"</em></h3> <p><strong>Here&rsquo;s what you "
+"can say:</strong></p> <p>Firefox OS gives you the most value for your money. "
+"It has everything you expect in a smartphone &mdash; camera, email, apps "
+"from the Firefox Marketplace, music and more &mdash; at the most competitive "
+"prices.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/customer-guide/
+#. Translators:
+#. Page path: /2-0/customer-guide/
+#: db-strings.txt:2928 db-strings.txt.py:5410
+msgid ""
+"<h3><em>\"It needs to be easy to use.\"</em></h3> "
+"<p><strong><strong>Here&rsquo;s what you can say:</strong></strong></p> "
+"<p>Firefox OS is the easiest smartphone you&rsquo;ll ever use.<br /><br /"
+">Adaptive App Search helps you find the things you need simply &mdash; and "
+"instantly. The user interface is so intuitive, you will be able to quickly "
+"discover and easily download your favorite apps in no time.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/customer-guide/
+#. Translators:
+#. Page path: /2-0/customer-guide/
+#: db-strings.txt:2957 db-strings.txt.py:5439
+msgid ""
+"<h3><em>\"I love firefox!\"</em></h3> <p><strong><strong>Here&rsquo;s what "
+"you can say:</strong></strong></p> <p>If you know and love Firefox, "
+"you&rsquo;ll love Firefox OS. Firefox OS smartphones are entirely HTML5-"
+"based, bringing the best of the Web to your phone. Plus, Firefox OS is "
+"designed by a community dedicated to keeping the Web accessible to all. When "
+"you choose Firefox OS, you have the full power of the Web in your hands.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/key-features/
+#. Translators:
+#. Page path: /2-0/key-features/
+#: db-strings.txt:2986 db-strings.txt.py:5459
+msgid ""
+"<h2>Features that count</h2> <p>Firefox OS is packed with the features that "
+"your customers expect in a smartphone. It&rsquo;s designed to fit their "
+"lives perfectly so they can keep pace with the world around them.</p> "
+"<h3>Have it all</h3>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/key-features/
+#. Translators:
+#. Page path: /2-0/key-features/
+#: db-strings.txt:2997 db-strings.txt.py:3078 db-strings.txt.py:5479
+#: db-strings.txt:5560
+msgid ""
+"<p>Firefox OS is deeply integrated with your favorite social networks. "
+"Easily sync your Facebook contacts to your phone to keep your community all "
+"in one place.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/key-features/
+#. Translators:
+#. Page path: /2-0/key-features/
+#: db-strings.txt:3024 db-strings.txt.py:5506
+msgid ""
+"<p>A new way to get what you need right when you need it. Search for "
+"anything and Firefox OS adapts to your request, displaying photos, video, "
+"music, news and more &mdash; making it much easier for you to find what you "
+"were looking for.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/key-features/
+#. Translators:
+#. Page path: /2-0/key-features/
+#: db-strings.txt:3051 db-strings.txt.py:5533
+msgid ""
+"<p>Your go-to source for the best apps for Firefox OS. Browse hundreds of "
+"free apps in multiple categories: Games, Tools, Lifestyle and more.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/key-features/
+#. Translators:
+#. Page path: /2-0/key-features/
+#: db-strings.txt:3096 db-strings.txt.py:5578
+msgid "Facebook"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/key-features/
+#. Translators:
+#. Page path: /2-0/key-features/
+#: db-strings.txt:3159 db-strings.txt.py:5641
+msgid ""
+"<p>With built-in style filters for fun, creative shots and lots of ways to "
+"share your photographs, the full-featured camera and photo gallery will have "
+"all your subjects smiling.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/key-features/
+#. Translators:
+#. Page path: /2-0/key-features/
+#: db-strings.txt:3213 db-strings.txt.py:5695
+msgid ""
+"<p>Browse and play your music collection, rate songs and create playlists "
+"for your favorites. Watch videos from your phone, or online via YouTube.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/key-features/
+#. Translators:
+#. Page path: /2-0/key-features/
+#: db-strings.txt:3231 db-strings.txt.py:5713
+msgid "Messages and Email"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/key-features/
+#. Translators:
+#. Page path: /2-0/key-features/
+#: db-strings.txt:3240 db-strings.txt.py:5722
+msgid ""
+"<p>Stay connected easily and conveniently. Set up multiple email accounts, "
+"with support for the most common Exchange, SMTP or IMAP email providers.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/frequently-asked-questions/
+#. Translators:
+#. Page path: /2-0/frequently-asked-questions/
+#: db-strings.txt:3286 db-strings.txt.py:5768
+msgid ""
+"<p>Adaptive App Search is a new way to find content from across the Web and "
+"engage in an app-like experience without having to download the app to find "
+"what you need. Whenever you search, your phone adapts to the search result "
+"and makes it easy to add those results to your home screen for easy access "
+"later.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/frequently-asked-questions/
+#. Translators:
+#. Page path: /2-0/frequently-asked-questions/
+#: db-strings.txt:3304 db-strings.txt.py:5786
+msgid ""
+"<p>App developers around the world are committed to Firefox OS and tens of "
+"hundreds of free applications will be available at launch. The growing list "
+"includes leading app developers like Facebook, YouTube, Twitter and "
+"ConnectA2 as well as a Flashlight app and Calculator.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/frequently-asked-questions/
+#. Translators:
+#. Page path: /2-0/frequently-asked-questions/
+#: db-strings.txt:3322 db-strings.txt.py:5804
+msgid ""
+"<p>Firefox OS has a robust security model that is battle-hardened from more "
+"than a decade of supporting the open Web. It is designed to protect the user "
+"and system from malicious applications and content.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/frequently-asked-questions/
+#. Translators:
+#. Page path: /2-0/frequently-asked-questions/
+#: db-strings.txt:3331 db-strings.txt.py:5813
+msgid "What do you mean I can convert mobile sites into apps?"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/frequently-asked-questions/
+#. Translators:
+#. Page path: /2-0/frequently-asked-questions/
+#: db-strings.txt:3340 db-strings.txt.py:5822
+msgid ""
+"<p>Users can place website bookmarks on the home page to provide direct "
+"access to those sites. Also, by swiping right from the home screen, users "
+"can simply enter any search term and instantly create a one-time use or "
+"downloadable app. Creating and consuming these apps on demand puts users in "
+"complete control of their smartphone experience and will make it possible "
+"for people to get the exact content they want, when they want it.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/frequently-asked-questions/
+#. Translators:
+#. Page path: /2-0/frequently-asked-questions/
+#: db-strings.txt:3358 db-strings.txt.py:5840
+msgid ""
+"<p>Not directly. However, many of the most popular Android and iOS apps are "
+"actually Web apps that have a native &ldquo;wrapper&rdquo; to allow them to "
+"run on proprietary platforms. Therefore, many of the same apps will be "
+"available through Adaptive App Search.<br /><br />Tools such as Emscripten "
+"and PhoneGap are also able to convert other apps (*.apk and/or C/C++) to Web "
+"apps.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/frequently-asked-questions/
+#. Translators:
+#. Page path: /2-0/frequently-asked-questions/
+#: db-strings.txt:3376 db-strings.txt.py:5858
+msgid ""
+"<p>Firefox OS is built on Web technologies but has offline capabilities for "
+"all the phone&rsquo;s core functions. That means apps do not require an "
+"active Internet connection to work unless they need to send or receive data."
+"</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/frequently-asked-questions/
+#. Translators:
+#. Page path: /2-0/frequently-asked-questions/
+#: db-strings.txt:3394 db-strings.txt.py:5876
+msgid ""
+"<p>Customers who need support with an app built for Firefox OS will be "
+"directed to the app developer for assistance. If the customer experience "
+"with Firefox OS is negatively impacted by the support incident resulting "
+"from the app, Mozilla may recommend workarounds including uninstalling the "
+"app until the developer provides appropriate assistance.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/frequently-asked-questions/
+#. Translators:
+#. Page path: /2-0/frequently-asked-questions/
+#: db-strings.txt:3412 db-strings.txt.py:5894
+msgid ""
+"<p>Firefox OS provides two ways to get apps:</p> <ul> <li>Marketplace "
+"&mdash; our go-to source for hundreds of great free apps, including popular "
+"apps like Twitter and Facebook, and for awesome local content from the best "
+"Web developers in your region.</li> <li>Adaptive App Search &mdash; just "
+"type a single word like &ldquo;news&rdquo; to discover related mobile apps "
+"in your region.</li> </ul>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/frequently-asked-questions/
+#. Translators:
+#. Page path: /2-0/frequently-asked-questions/
+#: db-strings.txt:3425 db-strings.txt.py:5907
+msgid "What email providers are supported?"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/frequently-asked-questions/
+#. Translators:
+#. Page path: /2-0/frequently-asked-questions/
+#: db-strings.txt:3434 db-strings.txt.py:5916
+msgid ""
+"<p>Hotmail and Yahoo mail are currently supported with more on the way in "
+"the future.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/about/
+#: db-strings.txt:3479
+msgid ""
+"<p>Behind every Firefox OS smartphone is Mozilla, a global community of "
+"thousands dedicated to keeping the Web accessible to all. We believe each "
+"and every one of us has the right to a Web that isn&rsquo;t controlled by "
+"just a few large entities and that together, we can build brighter future "
+"for the Web.<br /><br />Yeah, we&rsquo;re a little different than the other "
+"guys.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#: db-strings.txt:3515
+msgid ""
+"<h2>Ready to show what you know?</h2> <p>Think you are almost ready to start "
+"selling Firefox OS to your customers? Put your knowledge to the test and "
+"answer these questions to prove you have what it takes.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:3525 db-strings.txt.py:6017
+msgid "<p>Get Ready to Sell!</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:3534 db-strings.txt.py:6026
+msgid ""
+"<p>If you have worked through the questions and all of the content, then you "
+"have the basics to match the needs of Firefox OS to your customers.<br /"
+"><br />Easy to use, a Firefox OS smartphone is perfect for new smartphone "
+"users and full of all the features that customers want and need.<br /><br /"
+">And it is powered by Mozilla, making Firefox OS the right choice for anyone "
+"committed to ensuring that the Web remains in your hands!</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:3552 db-strings.txt.py:6044
+msgid ""
+"<p>That&rsquo;s right! You simply go to your home screen and it&rsquo;s "
+"there!</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:3561 db-strings.txt.py:3570 db-strings.txt.py:6053
+#: db-strings.txt:6062
+msgid ""
+"<p>That&rsquo;s not it. You simply go to your home screen to access the "
+"Adaptive App Search feature.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:3579 db-strings.txt.py:6071
+msgid ""
+"<p>Which of the following apps is preloaded on every Firefox OS phone? "
+"Select all that apply.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:3606 db-strings.txt.py:6098
+msgid "<p>There are more. Try again</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#: db-strings.txt:3615
+msgid "<p>Which Firefox OS feature does this icon represent?</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:3624 db-strings.txt.py:6116
+msgid ""
+"<p>That&rsquo;s right! This icon represents Messages &mdash;or text "
+"messaging.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:3633 db-strings.txt.py:3642 db-strings.txt.py:6125
+#: db-strings.txt:6134
+msgid ""
+"<p>Actually, this icon represents Messages &mdash; or text messaging.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#: db-strings.txt:3651 db-strings.txt.py:3687 db-strings.txt.py:3723
+msgid "<p>Which Firefox OS feature does this icon represent?<br /><br /></p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:3660 db-strings.txt.py:6152
+msgid "<p>That&rsquo;s right. This icon represents the Contacts.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:3669 db-strings.txt.py:3678 db-strings.txt.py:6161
+#: db-strings.txt:6170
+msgid "<p>Actually, this icon represents the Contacts.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:3696 db-strings.txt.py:6188
+msgid "<p>That&rsquo;s right. This icon represents Browser.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:3705 db-strings.txt.py:3714 db-strings.txt.py:6197
+#: db-strings.txt:6206
+msgid "<p>Actually, this icon represents Browser.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:3741 db-strings.txt.py:3750 db-strings.txt.py:6233
+#: db-strings.txt:6242
+msgid "<p>Actually, this icon represents Adaptive App Search.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:3813 db-strings.txt.py:3822 db-strings.txt.py:6305
+#: db-strings.txt:6314
+msgid ""
+"<p>Actually, for this customer, the best choice is to talk about how easy "
+"Firefox OS is to use, the free apps within the Firefox Marketplace and the "
+"fact the handset is a value, affordable device.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:3840 db-strings.txt.py:6332
+msgid ""
+"<p>That&rsquo;s right. With a first time smartphone user, you should talk "
+"about its simplicity and features like Adaptive App Search.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:3849 db-strings.txt.py:3858 db-strings.txt.py:6341
+#: db-strings.txt:6350
+msgid ""
+"<p>Actually, with a first time smartphone user, you should talk about its "
+"simplicity and features like Adaptive App Search.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:3876 db-strings.txt.py:6368
+msgid ""
+"<p>That&rsquo;s right. When you meet a Firefox fan, talk about how choosing "
+"Firefox OS shows a commitment to keeping the Web in their hands.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:3885 db-strings.txt.py:3894 db-strings.txt.py:6377
+#: db-strings.txt:6386
+msgid ""
+"<p>Actually, when you meet a Firefox fan, talk about how choosing Firefox OS "
+"shows a commitment to keeping the Web in their hands</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:3903 db-strings.txt.py:6395
+msgid ""
+"<p>A customer says to you, &ldquo;I&rsquo;m looking for an easy way to stay "
+"in touch with my friends, but I don&rsquo;t want to spend a lot of "
+"money&rdquo;. Which of the following statements would be a good response? "
+"Select all that apply.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:3912 db-strings.txt.py:6404
+msgid ""
+"<p>That&rsquo;s right. With this customer, highlight the full feature set of "
+"Firefox OS, including social apps that are preloaded on the phone, all at "
+"great value.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:3921 db-strings.txt.py:3930 db-strings.txt.py:6413
+#: db-strings.txt:6422
+msgid ""
+"<p>That&rsquo;s not it. With this customer, highlight the full feature set "
+"of Firefox OS, including social apps that are preloaded on the phone, all at "
+"great value.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:3939 db-strings.txt.py:6431
+msgid ""
+"<p>A customer says, &ldquo;I use Firefox on my home computer and I love it, "
+"but I didn&rsquo;t know they had a mobile OS. Why?&rdquo; Which of the "
+"following statements would be the most appropriate response to this "
+"particular customer?</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:3948 db-strings.txt.py:6440
+msgid ""
+"<p>That&rsquo;s right. This customer seems like a Firefox fan. Talk about "
+"how the Firefox OS phones, made by Mozilla, show a commitment to keeping the "
+"Web in the hands of the people. And while all of these statements are true, "
+"only this one is the best response for this particular customer.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:3957 db-strings.txt.py:3966 db-strings.txt.py:6449
+#: db-strings.txt:6458
+msgid ""
+"<p>All of these statements are true, but only one is the best response for "
+"this particular customer, who seems to be a Firefox fan. Talk about how the "
+"Firefox OS phones, made by Mozilla, are part of keeping the Web in the hands "
+"of the people.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:4011 db-strings.txt.py:6503
+msgid ""
+"<p>While all of these statements are true, which two responses would be most "
+"useful to a first-time smartphone customer?</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:4137 db-strings.txt.py:4146 db-strings.txt.py:6629
+#: db-strings.txt:6638
+msgid ""
+"<p>The best response to this objection is to talk about all the apps that "
+"are available.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:4155 db-strings.txt.py:6647
+msgid ""
+"<p>What&rsquo;s the best response to this customer&rsquo;s objection? &ldquo;"
+"I&rsquo;ve never heard of Firefox OS phones.&rdquo;</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:4173 db-strings.txt.py:4182 db-strings.txt.py:6665
+#: db-strings.txt:6674
+msgid ""
+"<p>The best response to this objection is to talk about the experience of "
+"the Mozilla community that is behind Firefox OS.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:4209 db-strings.txt.py:4218 db-strings.txt.py:6701
+#: db-strings.txt:6710
+msgid ""
+"<p>The best response to this objection is to talk about the robust security "
+"model.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:4227 db-strings.txt.py:6719
+msgid ""
+"<p>Which of these customer responses indicate a ideal candidate for Firefox "
+"OS? Select all that apply.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:4281 db-strings.txt.py:6773
+msgid "<p>Open the Marketplace.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:4290 db-strings.txt.py:6782
+msgid "<p>Open the browser.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:4299 db-strings.txt.py:6791
+msgid "<p>Marketplace</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:4308 db-strings.txt.py:4452 db-strings.txt.py:4488
+#: db-strings.txt:4524 db-strings.txt.py:4560 db-strings.txt.py:6800
+#: db-strings.txt:6944 db-strings.txt.py:6980 db-strings.txt.py:7016
+#: db-strings.txt:7052
+msgid "<p>Browser</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:4335 db-strings.txt.py:6827
+msgid "<p>ConnectA2</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:4344 db-strings.txt.py:6836
+msgid "<p>YouTube</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:4353 db-strings.txt.py:6845
+msgid "<p>Phone</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:4371 db-strings.txt.py:6863
+msgid "<p>Calendar</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:4380 db-strings.txt.py:6872
+msgid "<p>Clock</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:4389 db-strings.txt.py:6881
+msgid "<p>Video</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:4398 db-strings.txt.py:6890
+msgid "<p>Usage</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:4407 db-strings.txt.py:6899
+msgid "<p>Email and Messages</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:4425 db-strings.txt.py:6917
+msgid "<p>Music</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:4434 db-strings.txt.py:4470 db-strings.txt.py:4506
+#: db-strings.txt:4542 db-strings.txt.py:6926 db-strings.txt.py:6962
+#: db-strings.txt:6998 db-strings.txt.py:7034
+msgid "<p>Messages</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:4578 db-strings.txt.py:7070
+msgid ""
+"<p>With Adaptive App Search, Firefox OS adapts to you needs better than any "
+"other phone.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:4587 db-strings.txt.py:7079
+msgid ""
+"<p>With the Firefox Marketplace and dozens of preloaded apps like Email, "
+"Facebook, Camera, Music and more, Firefox OS is packed with the features "
+"you&rsquo;d expect in a smartphone.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:4614 db-strings.txt.py:7106
+msgid ""
+"<p>Firefox OS gives you the most value for your money, with everything you "
+"expect &mdash; camera, email, apps, music and more &mdash; at the most "
+"competitive prices.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:4623 db-strings.txt.py:7115
+msgid ""
+"<p>Firefox OS is the easiest smartphone to get started with. Your favorite "
+"apps are already preloaded and you can easily sync your contacts from "
+"Facebook, too.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:4632 db-strings.txt.py:4659 db-strings.txt.py:4686
+#: db-strings.txt:7124 db-strings.txt.py:7151 db-strings.txt.py:7178
+msgid ""
+"<p>If you love Firefox, you&rsquo;ll love Firefox OS. Choosing a Firefox OS "
+"device puts the power of the Web in your hands.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:4641 db-strings.txt.py:7133
+msgid ""
+"<p>Firefox OS is the easiest smartphone to get started with. Your favorite "
+"apps are already preloaded and you can easily sync your friends from "
+"Facebook, too.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:4650 db-strings.txt.py:7142
+msgid ""
+"<p>Firefox OS gives you the most value for your money, with everything you "
+"expect &mdash; Camera, Email, apps, Music and more &mdash; at the most "
+"competitive prices. Plus, Adaptive App Search feature makes it easy to find "
+"the app you really need, when you need it.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:4668 db-strings.txt.py:7160
+msgid ""
+"<p>Firefox OS gives you the most value for your money, with everything you "
+"expect &mdash; Camera, Email, apps, Music and more &mdash; at the most "
+"competitive prices.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:4695 db-strings.txt.py:7187
+msgid ""
+"<p>The Firefox OS smartphone is preloaded with all the features that "
+"you&rsquo;d expect, including Messages, Facebook, Email and more, all at a "
+"better value.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:4704 db-strings.txt.py:7196
+msgid ""
+"<p>Facebook is preloaded on every Firefox OS device and you can sync your "
+"Facebook contacts easily!</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:4713 db-strings.txt.py:7205
+msgid ""
+"<p>The Firefox Marketplace features thousands of apps for free and there is "
+"no need to sign in.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:4740 db-strings.txt.py:7232
+msgid ""
+"<p>Mozilla, the maker of Firefox, built a mobile OS to keep the Web "
+"accessible to all. And since Firefox OS is entirely built in HTML5, you get "
+"instant access to thousands of apps built already for the Web.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:4866 db-strings.txt.py:4911 db-strings.txt.py:4929
+#: db-strings.txt:7358 db-strings.txt.py:7403 db-strings.txt.py:7421
+msgid ""
+"<p>Firefox OS phones are new and backed by a global community working to "
+"help keep the Web accessible to all.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:4875 db-strings.txt.py:7367
+msgid ""
+"<p>Every phone has access to hundreds of free apps at launch, including some "
+"of the most popular global apps today.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:4893 db-strings.txt.py:4920 db-strings.txt.py:7385
+#: db-strings.txt:7412
+msgid ""
+"<p>Firefox OS phones are packed with the features that made you want a "
+"smartphone in the first place.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:4902 db-strings.txt.py:7394
+msgid ""
+"<p>Firefox OS phones provide access to hundreds of free apps at launch, "
+"including some of the most popular global apps today.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3T/take-the-challenge/
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:4938 db-strings.txt.py:7430
+msgid ""
+"<p>Firefox OS has a robust security model that is battle-hardened from more "
+"than a decade of supporting the Open Web. Designed to protect the user and "
+"system from malicious applications and content, it also protects "
+"applications from each other.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /2-0/introduction/
+#: db-strings.txt:5037
+msgid "An excellent user experience"
+msgstr ""
+
+#. Translators:
+#. Page path: /2-0/introduction/
+#: db-strings.txt:5046
+msgid ""
+"Life is complicated, your smartphone shouldn’t be. Firefox OS is designed "
+"for better performance, easier customization and simpler navigation. "
+"Everything your customer needs or wants is either one scroll or swipe away."
+msgstr ""
+
+#. Translators:
+#. Page path: /2-0/introduction/
+#: db-strings.txt:5065
+msgid "Made with you in mind"
+msgstr ""
+
+#. Translators:
+#. Page path: /2-0/introduction/
+#: db-strings.txt:5074
+msgid ""
+"Use your phone in your language, control your data usage and personalize it "
+"by creating your own ringtones. You can also download locally-relevant apps "
+"that enrich and simplify your daily life. Firefox OS is truly a phone made "
+"with you in mind."
+msgstr ""
+
+#. Translators:
+#. Page path: /2-0/introduction/
+#: db-strings.txt:5101
+msgid ""
+"At Mozilla, we’re out to make a difference, not a profit. Firefox OS "
+"smartphones are backed by a global community of developers working to "
+"innovate and further Web technologies. When you choose Firefox OS, you’re "
+"helping build a brighter future for the Web for all."
+msgstr ""
+
+#. Translators:
+#. Page path: /2-0/introduction/
+#: db-strings.txt:5114
+msgid "A phone for everyone"
+msgstr ""
+
+#. Translators:
+#. Page path: /2-0/introduction/
+#: db-strings.txt:5123
+msgid ""
+"Your customers want to get the most out of life, so why should they get any "
+"less from their mobile device? Firefox OS devices are perfect for new "
+"smartphone users — easy to use and full of all the features that they "
+"expect. And because Firefox OS devices are powered by Mozilla, they’re the "
+"perfect choice for anyone committed to keeping the Web open for all."
+msgstr ""
+
+#. Translators:
+#. Page path: /2-0/about/
+#: db-strings.txt:5961
+msgid ""
+"<p>Behind every Firefox OS smartphone is Mozilla, a global community of "
+"thousands dedicated to keeping the Web accessible to all. That&rsquo;s "
+"because we believe each and every one of us has the right to a Web that "
+"isn&rsquo;t controlled by just a few large entities.<br /><br />Yeah, "
+"we&rsquo;re a little different than the other guys. Together, we can build a "
+"brighter future for the Web.</p> <p>&nbsp;</p> <p>&nbsp;</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:5990
+msgid "<p>Ready to show what you know?</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:6008
+msgid ""
+"<p>Think you are almost ready to start selling Firefox OS to your customers? "
+"Put your knowledge to the test and answer these questions to prove you have "
+"what it takes.</p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:6107
+msgid ""
+"<p>Which Firefox OS feature does this icon represent?<br /><br /><img src=\"/"
+"admin/page/page/25/course/assets/m05/t05/p35/m05-t05-p35-a05-b15-c05.png\" "
+"alt=\"\" /></p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:6143
+msgid ""
+"<p>Which Firefox OS feature does this icon represent?<br /><br /><img src=\"/"
+"admin/page/page/25/course/assets/m05/t05/p35/m05-t05-p35-a05-b15-c10.png\" "
+"alt=\"\" /></p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:6179
+msgid ""
+"<p>Which Firefox OS feature does this icon represent?<br /><br /><img src=\"/"
+"admin/page/page/25/course/assets/m05/t05/p35/m05-t05-p35-a05-b20-c05.png\" "
+"alt=\"\" /></p>"
+msgstr ""
+
+#. Translators:
+#. Page path: /2-0/take-the-challenge/
+#: db-strings.txt:6215
+msgid ""
+"<p>Which Firefox OS feature does this icon represent?<br /><br /><img src=\"/"
+"admin/page/page/25/course/assets/m05/t05/p35/m05-t05-p35-a05-b20-c10.png\" "
+"alt=\"\" /></p>"
+msgstr ""
+
+#: masterfirefoxos/base/templates/base.html:38
+#: masterfirefoxos/base/templates/base.html:80
+#: masterfirefoxos/base/templates/home.html:12
+msgid "Mozilla"
+msgstr ""
+
+#: masterfirefoxos/base/templates/base.html:90
+msgid "Source code"
+msgstr ""
+
+#: masterfirefoxos/base/templates/base.html:95
+msgid "Contact Us"
+msgstr ""
+
+#: masterfirefoxos/base/templates/base.html:96
+msgid "Partner with Us"
+msgstr ""
+
+#: masterfirefoxos/base/templates/base.html:97
+msgid "Donate"
+msgstr ""
+
+#: masterfirefoxos/base/templates/base.html:98
+msgid "Privacy Policy"
+msgstr ""
+
+#: masterfirefoxos/base/templates/base.html:99
+msgid "Legal Notices"
+msgstr ""
+
+#: masterfirefoxos/base/templates/base.html:100
+msgid "Report Trademark Abuse"
+msgstr ""
+
+#: masterfirefoxos/base/templates/base.html:104
+msgid "Mozilla on Twitter"
+msgstr ""
+
+#: masterfirefoxos/base/templates/base.html:105
+msgid "Firefox on Twitter"
+msgstr ""
+
+#: masterfirefoxos/base/templates/base.html:106
+msgid "Mozilla on Facebook"
+msgstr ""
+
+#: masterfirefoxos/base/templates/base.html:107
+msgid "Firefox on Facebook"
+msgstr ""
+
+#: masterfirefoxos/base/templates/home.html:49
+msgid "Learn more"
+msgstr ""
+
+#: masterfirefoxos/base/templates/includes/nav-information.html:3
+msgid "Home"
+msgstr ""
+
+#: masterfirefoxos/base/templates/includes/nav-information.html:4
+msgid "About"
+msgstr ""
+
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:3
+msgid "Language"
+msgstr ""
+
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:15
+msgid "Firefox OS version"
+msgstr ""
+
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:21
+msgid "Which version do I have?"
+msgstr ""
+
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:23
+msgid "Change"
+msgstr ""
+
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:34
+msgid ""
+"Documentation for Firefox OS {version} is not yet available in {language}, "
+"so we redirected you to the English version."
+msgstr ""
+
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:36
+msgid "The latest version available in {language} is {version}."
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:181
+msgid "Bengali"
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:182
+msgid "Croatian"
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:183
+msgid "Czech"
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:184
+msgid "English"
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:185
+msgid "German"
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:186
+msgid "Greek"
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:187
+msgid "Hindi"
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:188
+msgid "Hungarian"
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:189
+msgid "Italian"
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:190
+msgid "Japanese"
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:191
+msgid "Polish"
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:192
+msgid "Portuguese"
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:193
+msgid "Serbian"
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:194
+msgid "Spanish"
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:195
+msgid "Tamil"
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:196
+msgid "Pirate"
+msgstr ""
