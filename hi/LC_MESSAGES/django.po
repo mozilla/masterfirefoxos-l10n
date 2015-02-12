@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-11 16:54+0000\n"
-"PO-Revision-Date: 2015-02-10 09:20:55\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2015-02-11 23:58:29\n"
+"Last-Translator:  <kumar.dpkkmr.dipak@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hi\n"
 "MIME-Version: 1.0\n"
@@ -32,7 +32,7 @@ msgstr ""
 #: masterfirefoxos/base/templates/base.html:43
 #: masterfirefoxos/base/templates/home.html:17
 msgid "Master Firefox OS"
-msgstr ""
+msgstr "मास्टर फ़ायरफ़ॉक्स ओएस"
 
 #. Translators:
 #. Page path: /1-1/
@@ -48,6 +48,8 @@ msgid ""
 "<p>Welcome to the Firefox OS global partner and community training hub. "
 "Select any topic to get started.</p>"
 msgstr ""
+"<P>फ़ायरफ़ॉक्स ओएस वैश्विक साझेदार और समुदाय प्रशिक्षण केंद्र में आपका "
+"स्वागत है. किसी भी विषय का चयन करें आरंभ करने के लिए.</P>"
 
 #. Translators:
 #. Page path: /1-1/introduction/
@@ -76,6 +78,8 @@ msgid ""
 "<p>Find out what makes Firefox OS perfect for new smartphone users by giving"
 " them just what they need.</p>"
 msgstr ""
+"<P>सिर्फ वे क्या जरूरत है उन्हें देकर नया स्मार्टफोन उपयोगकर्ताओं के लिए "
+"एकदम सही फ़ायरफ़ॉक्स ओएस क्या करता है बाहर का पता लगाएं.</p>"
 
 #. Translators:
 #. Page path: /1-1/introduction/
@@ -87,10 +91,10 @@ msgstr ""
 #. Page path: /2-0/introduction/
 #: db-strings.txt:42 db-strings.txt.py:2544 db-strings.txt.py:5010
 #: db-strings.txt:7530
-#, fuzzy
 #| msgid "<p>Ready to explore the key benefits of Firefox OS?</p>"
 msgid "<h2>Ready to explore the key benefits of Firefox OS?</h2>"
-msgstr "<p>Firefox OS के प्रमुख लाभों का पता लगाने के लिए तैयार हैं?</p>"
+msgstr ""
+"<h2>फ़ायरफ़ॉक्स ओएस के प्रमुख लाभों का पता लगाने के लिए तैयार हैं?</h2>"
 
 #. Translators:
 #. Page path: /1-1/introduction/
@@ -99,17 +103,15 @@ msgstr "<p>Firefox OS के प्रमुख लाभों का पता
 #. Translators:
 #. Page path: /1-4/introduction/
 #: db-strings.txt:60 db-strings.txt.py:2562 db-strings.txt.py:5028
-#, fuzzy
 #| msgid "<p>The Adaptive Phone</p>"
 msgid "The Adaptive Phone"
-msgstr "<p>अनुकूलनीय फ़ोन</p>"
+msgstr "अनुकूलनीय फ़ोन"
 
 #. Translators:
 #. Page path: /1-1/introduction/
 #. Translators:
 #. Page path: /1-3T/introduction/
 #: db-strings.txt:69 db-strings.txt.py:2571
-#, fuzzy
 #| msgid ""
 #| "dapts to the needs of customers better than any other ne by pating ir ds and"
 #| " instantly delivering the ormation they br><br>With Adaptive  rch your "
@@ -120,21 +122,20 @@ msgid ""
 "want.<br><br>With Adaptive App Search your customers will get more of what "
 "they’re looking for, exactly when they need it.</p>"
 msgstr ""
-"<p>Firefox OS किसी अन्य फ़ोन से बेहतर अपने ग्राहकों की जरुरतों के मुताबिक "
-"बदलते हैं जिससे वे उनकी जरूरतों का अनुमान लगा सकें और तत्काल उनकी द्वारा "
-"चाही गई सूचनाएँ दे सकें.<br><br>अनुकूली एप्प खोज से आपके ग्राहक उन चीजों को "
-"अधिकाधिक पाएँगे जिसके लिए वे खोज रहे हैं, ठीक उसी समय जब उन्हे जरूरत होती "
-"है.</p>"
+"<p>फ़ायरफ़ॉक्स ओएस किसी अन्य फ़ोन से बेहतर अपने ग्राहकों की जरुरतों के "
+"मुताबिक बदलते हैं जिससे वे उनकी जरूरतों का अनुमान लगा सकें और तत्काल उनकी "
+"द्वारा चाही गई सूचनाएँ दे सकें.<br><br>अनुकूली एप्प खोज से आपके ग्राहक उन "
+"चीजों को अधिकाधिक पाएँगे जिसके लिए वे खोज रहे हैं, ठीक उसी समय जब उन्हे "
+"जरूरत होती है.</p>"
 
 #. Translators:
 #. Page path: /1-1/introduction/
 #. Translators:
 #. Page path: /1-3T/introduction/
 #: db-strings.txt:87 db-strings.txt.py:2589
-#, fuzzy
 #| msgid "<p>Have It All</p>"
 msgid "Have It All"
-msgstr "<p>यह सब आपके लिए है</p>"
+msgstr "यह सब आपके लिए है"
 
 #. Translators:
 #. Page path: /1-1/introduction/
