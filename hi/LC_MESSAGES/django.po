@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-11 16:54+0000\n"
-"PO-Revision-Date: 2015-02-12 01:17:27\n"
+"PO-Revision-Date: 2015-02-12 04:59:54\n"
 "Last-Translator:  <kumar.dpkkmr.dipak@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hi\n"
@@ -638,7 +638,6 @@ msgstr "अनिश्चित अपग्रेडर"
 #. Translators:
 #. Page path: /1-1/customer-guide/
 #: db-strings.txt:501
-#, fuzzy
 #| msgid ""
 #| "s the easiest smartphone you’ll ever use.<br><br>Adaptive  rch ps you d  "
 #| "things you need simply — and instantly. The r erface is intuitive,  will "
@@ -650,10 +649,12 @@ msgid ""
 " instantly. The user interface is so intuitive, you will be able to quickly "
 "discover and download your favorite apps so you’re ready to go.</p>"
 msgstr ""
-"<p>Firefox OS सबसे आसान स्मार्टफ़ोन है जिसे आपने कभी उपयोग किया है. अनुकूली "
-"एप्प खोज चीजों को आसानी से और तुरन्त खोजने में मदद करता है. उपयोक्ता अंतरफलक"
-" इतना सहज है कि जल्दी से पसंदीदा ऐप्स का पता लगा सकते हैं और बिना किसी देरी "
-"के डाउनलोड भी कर सकते है.</p>"
+"<h3><em>\"यह प्रयोग करने में आसान होने की जरूरत है.\"</ em></ "
+"h3><p><strong>आप क्या कह सकते हैं?</strong></p><p>फ़ायरफ़ॉक्स ओएस है सबसे "
+"आसान स्मार्टफोन आप आरंभ करने के लिए. और तुरन्त — अनुकूली एप्लिकेशन को खोज आप"
+" बस जरूरत है चीजों को खोजने में मदद करता है. यूजर इंटरफेस इतना सहज है, तुम "
+"जल्दी से पता चलता है और तुम जाने के लिए तैयार कर रहे हैं ताकि अपने पसंदीदा "
+"एप्लिकेशन डाउनलोड करने में सक्षम हो जाएगा.</p>"
 
 #. Translators:
 #. Page path: /1-1/customer-guide/
@@ -665,15 +666,13 @@ msgstr ""
 #. Page path: /2-0/customer-guide/
 #: db-strings.txt:519 db-strings.txt.py:2940 db-strings.txt.py:5487
 #: db-strings.txt:7926
-#, fuzzy
 #| msgid "<p>The Firefox Fan</p>"
 msgid "The Firefox Fan"
-msgstr "<p>Firefox प्रशंसक</p>"
+msgstr "फ़ायरफ़ॉक्स फैन"
 
 #. Translators:
 #. Page path: /1-1/customer-guide/
 #: db-strings.txt:528
-#, fuzzy
 #| msgid ""
 #| "and love Firefox, you’ll love Firefox OS. Firefox OS rtphones  irely based, "
 #| "bringing the best of the Web to r phone. Plus, efox OS designed a munity "
@@ -687,11 +686,13 @@ msgid ""
 "keeping the Web accessible to all. When you choose Firefox OS, you have the "
 "full power of the Web in your hands.</p>"
 msgstr ""
-"<p>यदि आप Firefox को जानते हैं और प्यार करतेहैं, तो आप Firefox OS को भी "
-"प्यार करेंगे.<br><br>Firefox OS स्मार्टफोन्स पूरी तरह से HTML5 के आधार पर "
-"है, अपके फ़ोन में वेब का सर्वश्रेष्ठ लाने के लिए. इसके अलावा, Firefox OS सभी"
-" के लिए वेब सुलभ रखने के लिए समर्पित एक समुदाय द्वारा बनाया गया है. जब आप "
-"Firefox OS चुनते हैं, तो आपके हाथों में वेब की पूरी शक्ति आ जाती है.</p>"
+"<h3><em>\"मैं फ़ायरफ़ॉक्स प्यार करता हूँ!\"</ em></h3> <p><strong>आप क्या कह"
+" सकते हैं?</strong></p> <p>आप' जानते हैं और फ़ायरफ़ॉक्स से प्यार करते हैं, "
+"तो आप 'फ़ायरफ़ॉक्स ओएस प्यार करता हूँ. फ़ायरफ़ॉक्स ओएस स्मार्टफोन्स के लिए "
+"पूरी तरह से अपने फोन के लिए वेब का सबसे अच्छा लाने, HTML5- के आधार पर कर रहे"
+" हैं. इसके अलावा, फ़ायरफ़ॉक्स ओएस सभी के लिए सुलभ वेब रखने के लिए समर्पित एक"
+" समुदाय द्वारा बनाया गया है. आप फ़ायरफ़ॉक्स ओएस चुनते हैं, तो आप अपने हाथ "
+"में वेब की पूरी शक्ति है.</p>"
 
 #. Translators:
 #. Page path: /1-1/key-features/
@@ -737,6 +738,8 @@ msgid ""
 "<p>Discover what makes Firefox OS the most unique and exciting mobile "
 "operating system.</p>"
 msgstr ""
+"<p>फ़ायरफ़ॉक्स सबसे अनूठा और रोमांचक मोबाइल ऑपरेटिंग सिस्टम ओएस बनाता क्या "
+"है.</p>"
 
 #. Translators:
 #. Page path: /1-1/key-features/
@@ -801,10 +804,9 @@ msgstr ""
 #. Translators:
 #. Page path: /2-0/key-features/
 #: db-strings.txt:654 db-strings.txt.py:5622 db-strings.txt.py:8034
-#, fuzzy
 #| msgid "<p>Facebook</p>"
 msgid "Facebook and Twitter"
-msgstr "<p>फेसबुक</p>"
+msgstr "फेसबुक और ट्विटर"
 
 #. Translators:
 #. Page path: /1-1/key-features/
@@ -813,7 +815,6 @@ msgstr "<p>फेसबुक</p>"
 #. Translators:
 #. Page path: /1-4/key-features/
 #: db-strings.txt:663 db-strings.txt.py:3084 db-strings.txt.py:5631
-#, fuzzy
 #| msgid ""
 #| "s deeply integrated with your favorite social networks. ily syncur ok tacts "
 #| "to your phone to keep your community  in one ce.</p>"
@@ -822,9 +823,9 @@ msgid ""
 "import your Facebook contacts to your phone to keep your community all in "
 "one place.</p>"
 msgstr ""
-"<p>Firefox OS आपके पसंदीदा सोसल संजाल के एकीकृत है. अपने Facebook संपर्क को "
-"अपने फोन में अपने समुदाय के साथ एक स्थान पर बनाए रखने के लिए आसानी से सिंक "
-"करें.</p>"
+"<p>गहरा अपने पसंदीदा सामाजिक नेटवर्क के साथ एकीकृत. आप आसानी से एक जगह में "
+"अपने सभी समुदाय रखने के लिए अपने फोन को अपने फेसबुक संपर्कों को आयात कर सकते"
+" हैं.</p>"
 
 #. Translators:
 #. Page path: /1-1/key-features/
@@ -846,15 +847,14 @@ msgstr "सम्पर्क"
 #. Translators:
 #. Page path: /1-4/key-features/
 #: db-strings.txt:690 db-strings.txt.py:3111 db-strings.txt.py:5658
-#, fuzzy
 #| msgid ""
 #| "ed, with easy access to your friends and colleagues, rever you p>"
 msgid ""
 "<p>Stay connected, with easy access to your friends and colleagues from "
 "wherever you are.</p>"
 msgstr ""
-"<p>कनेक्टेड रहें, अपने मित्र और सहकर्मियों के साथ आसानी से पहुँच के साथ जहाँ"
-" भी आप हैं.</p>"
+"<p>आप जहाँ भी रहे हैं से अपने मित्रों और सहकर्मियों के लिए आसान पहुँच के "
+"साथ, जुड़े रहते हैं.</p>"
 
 #. Translators:
 #. Page path: /1-1/key-features/
@@ -874,7 +874,6 @@ msgstr "कैमरा और गैलरी"
 #. Translators:
 #. Page path: /1-1/key-features/
 #: db-strings.txt:717
-#, fuzzy
 #| msgid ""
 #| "n style filters for fun, creative shots and lots of ways share r raphs,  "
 #| "full-featured camera and photo gallery l have all rbjects ling.</p>"
@@ -883,9 +882,9 @@ msgid ""
 "share your photographs, the full-featured camera and photo gallery will have"
 " all your subjects smiling.</p>"
 msgstr ""
-"<p>मज़ा, रचनात्मक शॉट्स, और अपनी बहुत सारे तस्वीरें साझा करने के लिए, "
-"निर्मित शैली फिल्टर के साथ पूर्ण विशेषताओं कैमरा और फोटो गैलरी आपके सभी "
-"विषयों को मुस्कुरा देंगे.</p>"
+"<p>निर्माण के साथ मज़ा, रचनात्मक शॉट्स, और बहुत सारे तरीके के लिए शैली "
+"फिल्टर अपनी तस्वीरें साझा करने के लिए, पूर्ण विशेषताओं कैमरा और फोटो गैलरी "
+"आपके सभी विषयों मुस्कुरा होगा.</p>"
 
 #. Translators:
 #. Page path: /1-1/key-features/
@@ -917,7 +916,7 @@ msgstr ""
 #. Page path: /1-4/key-features/
 #: db-strings.txt:762 db-strings.txt.py:5730
 msgid "Maps"
-msgstr ""
+msgstr "मैप्स"
 
 #. Translators:
 #. Page path: /1-1/key-features/
@@ -939,17 +938,15 @@ msgstr ""
 #. Page path: /2-0/key-features/
 #: db-strings.txt:789 db-strings.txt.py:3183 db-strings.txt.py:5757
 #: db-strings.txt:8142
-#, fuzzy
 #| msgid "<p>Music and Video</p>"
 msgid "Music and Video"
-msgstr "<p>संगीत और वीडियो</p>"
+msgstr "संगीत और वीडियो"
 
 #. Translators:
 #. Page path: /1-1/key-features/
 #. Translators:
 #. Page path: /1-4/key-features/
 #: db-strings.txt:798 db-strings.txt.py:5766
-#, fuzzy
 #| msgid ""
 #| "lay your music collection, rate songs and create playlists  rvorites. ch eos"
 #| " from your phone, or online via YouTube.</"
@@ -958,22 +955,20 @@ msgid ""
 "music collection by album or artist, rate songs and create playlists for "
 "your favorites.</p>"
 msgstr ""
-"<p>अपने संगीत संग्रह को ब्राउज करें और चलाएँ, गानों को रेट करें और अपने "
-"पसंदीदा के लिए प्लेलिस्ट बनाएँ. अपने फोन से वीडियो देखें या ऑनलाइन YouTube "
-"के द्वारा.</p>"
+"<p>यूट्यूब के माध्यम से ऑनलाइन अपने फोन से यह सब खेलने के लिए, या. ब्राउज़ "
+"करें और एल्बम या कलाकार, दर गीतों द्वारा अपने संगीत संग्रह खेलते हैं और अपने"
+" पसंदीदा के लिए प्लेलिस्ट बना.</p>"
 
 #. Translators:
 #. Page path: /1-1/key-features/
 #: db-strings.txt:816
-#, fuzzy
 #| msgid "<p>Messages and Email</p>"
 msgid "SMS and Email"
-msgstr "<p>संदेश और ईमेल</p>"
+msgstr "SMS और ईमेल"
 
 #. Translators:
 #. Page path: /1-1/key-features/
 #: db-strings.txt:825
-#, fuzzy
 #| msgid ""
 #| "ed easily and conveniently. Set up multiple email ounts, with port   "
 #| "mostmmon Exchange, SMTP or IMAP email viders.</p>"
@@ -983,7 +978,7 @@ msgid ""
 "Exchange, SMTP or IMAP email providers.</p>"
 msgstr ""
 "<p>आसानी और सुविधा से कनेक्टेड रहें. कई ईमेल खाता सेटअप करें, सबसे सामान्य "
-"Exchange, SMTP या IMAP ईमेल प्रदाता से.</p>"
+"विनिमय, SMTP या IMAP ईमेल प्रदाता से.</p>"
 
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
@@ -1012,6 +1007,8 @@ msgid ""
 "<p>Still have questions? Not for long! Find all the answers you're looking "
 "for here.</p>"
 msgstr ""
+"<p>अभी भी प्रश्न हैं? लंबे समय के लिए नहीं! तुम यहाँ के लिए देख रहे हैं सारे"
+" सवालों के जवाब का पता लगाएं.</p>"
 
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
@@ -1023,7 +1020,6 @@ msgstr ""
 #. Page path: /2-0/frequently-asked-questions/
 #: db-strings.txt:852 db-strings.txt.py:3246 db-strings.txt.py:5811
 #: db-strings.txt:8250
-#, fuzzy
 #| msgid ""
 #| "probably have questions and so will your customers! Select h stion  e on "
 #| "efox OS.</p>"
@@ -1032,8 +1028,9 @@ msgid ""
 "questions and so will your customers! Select each question for more on "
 "Firefox OS.</p>"
 msgstr ""
-"<p>अब तक, आपके पास शायद प्रश्न हैं और इसलिए आपके ग्राहकों के पास भी होंगे! "
-"Firefox OS पर अधिक प्रश्न के लिए प्रत्येक का चयन करें.</p>"
+"<h2>आप प्रश्न हैं? हम जवाब है!</h2> <p>अब तक, आप शायद प्रश्न हैं और इसलिए "
+"अपने ग्राहकों को होगा! फ़ायरफ़ॉक्स ओएस पर अधिक के लिए प्रत्येक प्रश्न का चयन"
+" करें.</p>"
 
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
@@ -1042,15 +1039,13 @@ msgstr ""
 #. Translators:
 #. Page path: /1-4/frequently-asked-questions/
 #: db-strings.txt:861 db-strings.txt.py:3255 db-strings.txt.py:5829
-#, fuzzy
 #| msgid "<p>What is Adaptive App Search?</p>"
 msgid "What is Adaptive App Search?"
-msgstr "<p>अनुकूली एप्प्स खोज क्या है?</p>"
+msgstr "अनुकूली एप्प्स खोज क्या है?"
 
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
 #: db-strings.txt:870
-#, fuzzy
 #| msgid ""
 #| " Search is a new way to find content from across the Web  engage anp-e "
 #| "erience without having to download the app find what you d. never  rch, your"
@@ -1066,7 +1061,7 @@ msgstr ""
 "<p>अनुकूली एप्प खोज वेब पर सामग्री खोजने के लिए एक नया तरीका है और संलग्न "
 "एप्प की तरह अनुभव व बिना डाउनलोड किए जो चाहिए खोजें. जब आप खोजते है तब आपके "
 "फ़ोन खोज परिणाम के अनुकूल हो जाते है और उन परिणामों को बाद में आसानी से "
-"प्राप्त  करने के लिए मुखपृष्ठ स्क्रीन पर जोड़ने देते है </p>"
+"प्राप्त करने के लिए मुखपृष्ठ स्क्रीन पर जोड़ने देते है.</p>"
 
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
@@ -1078,10 +1073,9 @@ msgstr ""
 #. Page path: /2-0/frequently-asked-questions/
 #: db-strings.txt:879 db-strings.txt.py:3273 db-strings.txt.py:5847
 #: db-strings.txt:8268
-#, fuzzy
 #| msgid "<p>How many and what types of apps will be available?</p>"
 msgid "How many and what types of apps will be available?"
-msgstr "<p>कितने और किस प्रकार के एप्प्स उपलब्ध हो जाएँगे?</p>"
+msgstr "कितने और किस प्रकार के एप्प्स उपलब्ध हो जाएँगे?"
 
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
@@ -1113,15 +1107,13 @@ msgstr ""
 #. Page path: /2-0/frequently-asked-questions/
 #: db-strings.txt:897 db-strings.txt.py:3291 db-strings.txt.py:5865
 #: db-strings.txt:8286
-#, fuzzy
 #| msgid "<p>What makes Firefox OS more secure than other phones?</p>"
 msgid "What makes Firefox OS more secure than other phones?"
-msgstr "<p>क्या Firefox OS को दूसरे फ़ोन से अधिक सुरक्षित बनाता है?</p>"
+msgstr "क्या Firefox OS को दूसरे फ़ोन से अधिक सुरक्षित बनाता है?"
 
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
 #: db-strings.txt:906
-#, fuzzy
 #| msgid ""
 #| "as a robust security model that is battle-hardened from e than de of ting "
 #| "the open Web. It is designed to protect  user and tem m iciousplications and"
@@ -1131,9 +1123,9 @@ msgid ""
 "than a decade of supporting the Open Web. It is designed to protect the user"
 " and system from malicious applications and content.</p>"
 msgstr ""
-"<p>Firefox OS के पास एक मजबूत सुरक्षा मॉडल है जो एक दशक से खोलो वेब का "
-"समर्थन के लिए कठोर युद्ध कर रहा है यह दुर्भावनापूर्ण अनुप्रयोगों और सामग्री "
-"से उपयोक्ता और सिस्टम को सुरक्षित रखने के लिए बनाया गया है.</p>"
+"<p>फ़ायरफ़ॉक्स ओएस ओपन वेब का समर्थन करने का एक दशक से अधिक से युद्ध कठोर है"
+" कि एक मजबूत सुरक्षा मॉडल है. यह दुर्भावनापूर्ण अनुप्रयोगों और सामग्री से "
+"उपयोगकर्ता और सिस्टम की रक्षा के लिए बनाया गया है.</p>"
 
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
@@ -1145,10 +1137,9 @@ msgstr ""
 #. Page path: /2-0/frequently-asked-questions/
 #: db-strings.txt:915 db-strings.txt.py:3327 db-strings.txt.py:5901
 #: db-strings.txt:8322
-#, fuzzy
 #| msgid "<p>Do Android apps work on this phone?</p>"
 msgid "Do Android apps work on this phone?"
-msgstr "<p>कया Android एप्प्स इस फ़ोन पर काम करते हैं?</p>"
+msgstr "कया Android एप्प्स इस फ़ोन पर काम करते हैं?"
 
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
@@ -1178,15 +1169,13 @@ msgstr ""
 #. Translators:
 #. Page path: /1-4/frequently-asked-questions/
 #: db-strings.txt:933 db-strings.txt.py:3345 db-strings.txt.py:5919
-#, fuzzy
 #| msgid "<p>Do my apps work offline?</p>"
 msgid "Do my apps work offline?"
-msgstr "<p>कया मेरा एप्प्स ऑफ़लाइन काम करेगा?</p>"
+msgstr "कया मेरा एप्प्स ऑफ़लाइन काम करेगा?"
 
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
 #: db-strings.txt:942
-#, fuzzy
 #| msgid ""
 #| "s built on Web technologies but has offline capabilities  all  ne’s e "
 #| "ctions. That means apps do not require an ive Internet tion to work ess y "
@@ -1199,8 +1188,8 @@ msgid ""
 msgstr ""
 "<p>Firefox OS वेब प्रौद्योगिकियों पर बनाया गया है, लेकिन सभी फ़ोन के मुख्य "
 "कार्यात्मकता के लिए ऑफ़लाइन क्षमता है. इसका मतलब है कि समारोह के लिए एप्प्स "
-"को  एक सक्रिय इंटरनेट कनेक्शन की आवश्यकता नहीं है जब तक डेटा भेजने या "
-"प्राप्त करने की आवशकता न हो.</p>"
+"को एक सक्रिय इंटरनेट कनेक्शन की आवश्यकता नहीं है जब तक डेटा भेजने या प्राप्त"
+" करने की आवशकता न हो.</p>"
 
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
@@ -1212,10 +1201,9 @@ msgstr ""
 #. Page path: /2-0/frequently-asked-questions/
 #: db-strings.txt:951 db-strings.txt.py:3363 db-strings.txt.py:5937
 #: db-strings.txt:8376
-#, fuzzy
 #| msgid "<p>What about customer support for apps?</p>"
 msgid "What about customer support for apps?"
-msgstr "<p>एप्प्स के लिए ग्राहक सहायता के बारे में क्या है?</p>"
+msgstr "एप्प्स के लिए ग्राहक सहायता के बारे में क्या है?"
 
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
