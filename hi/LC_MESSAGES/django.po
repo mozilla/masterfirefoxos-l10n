@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-11 16:54+0000\n"
-"PO-Revision-Date: 2015-02-11 23:58:29\n"
+"PO-Revision-Date: 2015-02-12 00:43:39\n"
 "Last-Translator:  <kumar.dpkkmr.dipak@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hi\n"
@@ -140,7 +140,6 @@ msgstr "यह सब आपके लिए है"
 #. Translators:
 #. Page path: /1-1/introduction/
 #: db-strings.txt:96
-#, fuzzy
 #| msgid ""
 #| "s packed with all the features that made your customers t a rtphone  st "
 #| "place: Camera, Gallery, social features, ic and br><br>Firefox OS rs e "
@@ -168,7 +167,6 @@ msgstr ""
 #. Translators:
 #. Page path: /1-4/introduction/
 #: db-strings.txt:114 db-strings.txt.py:2616 db-strings.txt.py:5082
-#, fuzzy
 #| msgid "<p>Keep the Web in Your Hands</p>"
 msgid "Keep the Web in Your Hands"
 msgstr "<p>अपने हाथ में वेब को रखें</p>"
@@ -183,6 +181,12 @@ msgid ""
 "interests and needs in mind. When customers' choose Firefox OS, they’re "
 "helping build a brighter future for the Web for all.</p>"
 msgstr ""
+"<p>मोज़िला पर, हम एक फर्क है, न कि लाभ कमाने के लिए बाहर रहे "
+"हैं.<br><br>फ़ायरफ़ॉक्स ओएस स्मार्टफोन्स के लिए अपने ग्राहकों' की ओर से नया "
+"करने के लिए काम कर रहे डेवलपर्स के हजारों के एक वैश्विक समुदाय द्वारा "
+"समर्थित है और साथ स्थानीय स्तर पर बना रहे हैं उनके हितों और मन में की जरूरत "
+"है. ग्राहकों को 'फ़ायरफ़ॉक्स ओएस चुनते हैं, तो वे सभी के लिए वेब के लिए एक "
+"उज्जवल भविष्य का निर्माण मदद कर रहे हैं.</p>"
 
 #. Translators:
 #. Page path: /1-1/introduction/
@@ -197,7 +201,6 @@ msgstr "एक फ़ोन जो हर पल को महत्वपूर्
 #. Translators:
 #. Page path: /1-1/introduction/
 #: db-strings.txt:141
-#, fuzzy
 #| msgid ""
 #| " needs are always changing. That’s why Firefox OS does the e — ng so r "
 #| "tomers can live every moment to its fullest.><br>Firefox ices are fect  new "
@@ -212,12 +215,13 @@ msgid ""
 "OS devices are the right choice for anyone committed to ensuring that the "
 "Web remains a public resource available to all.</p>"
 msgstr ""
-"आपके ग्राहकों की जरूरतें हमेशा बदलती रहती हैं. इसलिए Firefox OS अपने "
-"ग्राहकों की जरूरतों के मुताबिक बदलते है — ताकि आपके ग्राहक हर पल पूरी तरह जी"
-" सके.<br><br>Firefox OS नए स्मार्टफ़ोन उपयोक्ताओं के लिए परिपूर्ण है "
-"—ग्राहकों की उम्मीद के अनुसार सभी सुविधाओं से भरा और उपयोग में आसान. और "
-"चूँकि Firefox OS Mozilla द्वारा ऊर्जावान है, वे उन सभी के लिए सही विकल्प है "
-"जो यह सुनिश्चित करने के लिए प्रतिबद्ध हैं कि वेब सभी के लिए खुली रहे."
+"<p>आपके ग्राहकों' की जरूरतें हमेशा बदलती रहती हैं. इसलिए फ़ायरफ़ॉक्स ओएस "
+"अपने ग्राहकों' की जरूरतों के मुताबिक बदलते है — ताकि आपके ग्राहक हर पल पूरी "
+"तरह जी सके.<br><br>फ़ायरफ़ॉक्स ओएस नए स्मार्टफ़ोन उपयोक्ताओं के लिए परिपूर्ण"
+" है —ग्राहकों की उम्मीद के अनुसार सभी सुविधाओं से भरा और उपयोग में आसान. और "
+"चूँकि फ़ायरफ़ॉक्स ओएस मोज़िला द्वारा ऊर्जावान है, वे उन सभी के लिए सही "
+"विकल्प है जो यह सुनिश्चित करने के लिए प्रतिबद्ध हैं कि वेब सभी के लिए खुली "
+"रहे.</p>"
 
 #. Translators:
 #. Page path: /1-1/introduction/
@@ -248,7 +252,6 @@ msgstr "प्रदर्शन सुझाव"
 #. Translators:
 #. Page path: /1-1/demo-tips/
 #: db-strings.txt:168
-#, fuzzy
 #| msgid ""
 #| "g the features of Firefox OS and how easy it is to use l be yourst g "
 #| "l.<br><br>Browse the demonstration videos ow to get rted.</p>"
@@ -257,9 +260,9 @@ msgid ""
 " OS and how easy it is to use will be your best selling tool. Browse the "
 "demonstration videos below to get started.</p>"
 msgstr ""
-"<p>Firefox OS की विशेषताओं का प्रदर्शन और बिक्री करने के लिए इसका सरल उपयोग "
-"आपका सबसे बेहतर उपकरण होगा. तो आपको क्या दिखाना चाहिए?<br><br>आरंभ करने के "
-"लिए नीचे दिए गए प्रदर्शन वीडियो को खोलें.</p>"
+"<h2>फ़ायरफ़ॉक्स ओएस की विशेषताओं का प्रदर्शन</h2><p>बिक्री करने के लिए इसका "
+"सरल उपयोग आपका सबसे बेहतर उपकरण होगा. तो आपको क्या दिखाना चाहिए.आरंभ करने के"
+" लिए नीचे दिए गए प्रदर्शन वीडियो को खोलें.</p>"
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
@@ -275,14 +278,15 @@ msgid ""
 "<p>Learn how to show off and talk about the key features and benefits of "
 "Firefox OS to your customers.</p>"
 msgstr ""
+"<p>दिखावा और अपने ग्राहकों के लिए प्रमुख विशेषताओं और फ़ायरफ़ॉक्स ओएस के "
+"लाभों के बारे में बात करने के बारे में जानें.</p>"
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
 #: db-strings.txt:186
-#, fuzzy
 #| msgid "Introducing Firefox OS"
 msgid "Intro to FirefoxOS"
-msgstr "Firefox OS का परिचय"
+msgstr "परिचय का Firefox OS"
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
@@ -293,7 +297,7 @@ msgstr "Firefox OS का परिचय"
 #: db-strings.txt:195 db-strings.txt.py:5163 db-strings.txt.py:7683
 msgid ""
 "<p>When you only have a minute, make it count with this simple pitch.</p>"
-msgstr ""
+msgstr "<p>आप केवल एक मिनट है, यह इस सरल पिच के साथ गिनती कर सकते हैं.</p>"
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
@@ -330,6 +334,8 @@ msgid ""
 "<p>Show customers how Firefox OS adapts to them, giving them more of what "
 "they need, when they need it.</p>"
 msgstr ""
+"<p>दिखाएँ ग्राहकों फ़ायरफ़ॉक्स ओएस जब वे इसकी जरूरत है, उन्हें वे क्या जरूरत"
+" के अधिक दे रही है, उन्हें करने के लिए अनुकूल बनाना कैसे.</p>"
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
@@ -337,13 +343,13 @@ msgstr ""
 #. Page path: /1-4/demo-tips/
 #: db-strings.txt:231 db-strings.txt.py:5199
 msgid "SijuLONPI9U"
-msgstr ""
+msgstr "SijuLONPI9U"
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
 #: db-strings.txt:240
 msgid "HERE Maps"
-msgstr ""
+msgstr "HERE मैप्स"
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
@@ -352,6 +358,8 @@ msgid ""
 "<p>Demonstrate the powerful map features of Firefox OS, including local "
 "transit info.</p>"
 msgstr ""
+"<p>स्थानीय पारगमन जानकारी सहित, फ़ायरफ़ॉक्स ओएस के शक्तिशाली मानचित्र "
+"सुविधाओं प्रदर्शित करता है.</p>"
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
@@ -359,21 +367,22 @@ msgstr ""
 #. Page path: /1-4/demo-tips/
 #: db-strings.txt:258 db-strings.txt.py:5226
 msgid "Dvne9wMwV6E"
-msgstr ""
+msgstr "Dvne9wMwV6E"
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
 #: db-strings.txt:267
-#, fuzzy
 #| msgid "ConnectA2"
 msgid "Stay Connected"
-msgstr "कनेक्ट-ए2"
+msgstr "जुड़े रहो"
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
 #: db-strings.txt:276
 msgid "<p>It’s easier than ever to stay connected with Firefox OS.</p>"
 msgstr ""
+"<p>यह' कभी फ़ायरफ़ॉक्स ओएस के साथ जुड़े रहने के लिए की तुलना में आसान "
+"है.</p>"
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
@@ -381,15 +390,14 @@ msgstr ""
 #. Page path: /1-4/demo-tips/
 #: db-strings.txt:285 db-strings.txt.py:5253
 msgid "-2V-hbYu9WQ"
-msgstr ""
+msgstr "-2V-hbYu9WQ"
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
 #: db-strings.txt:294
-#, fuzzy
 #| msgid "Firefox browser"
 msgid "Firefox Browser"
-msgstr "Firefox ब्राउज़र"
+msgstr "फ़ायरफ़ॉक्स ब्राउज़र"
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
@@ -398,6 +406,8 @@ msgid ""
 "<p>Firefox OS lets customers take control of their online lives and get the "
 "best of the Web no matter where they go.</p>"
 msgstr ""
+"<p>फ़ायरफ़ॉक्स ओएस ग्राहकों को अपने ऑनलाइन जीवन का नियंत्रण लेने के लिए और "
+"वे कहाँ जाना है, कोई बात नहीं वेब का सबसे अच्छा प्राप्त करने देता है.</p>"
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
@@ -405,7 +415,7 @@ msgstr ""
 #. Page path: /1-4/demo-tips/
 #: db-strings.txt:312 db-strings.txt.py:5280
 msgid "46dngYXUcFg"
-msgstr ""
+msgstr "46dngYXUcFg"
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
@@ -433,6 +443,7 @@ msgstr "Marketplace"
 msgid ""
 "<p>Firefox Marketplace has the cool games and apps your customers want.</p>"
 msgstr ""
+"<p>फ़ायरफ़ॉक्स बाज़ार शांत खेल है और अपने ग्राहकों को चाहते क्षुधा.</p>"
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
@@ -440,12 +451,11 @@ msgstr ""
 #. Page path: /1-4/demo-tips/
 #: db-strings.txt:339 db-strings.txt.py:5307
 msgid "nwAUQvNuyTw"
-msgstr ""
+msgstr "nwAUQvNuyTw"
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
 #: db-strings.txt:348
-#, fuzzy
 #| msgid "Camera and Gallery"
 msgid "Camera & Gallery"
 msgstr "कैमरा और गैलरी"
@@ -457,6 +467,8 @@ msgid ""
 "<p>Photograph, edit and share. Show off our full-featured camera and gallery"
 " apps, including built-in style filters, video and more.</p>"
 msgstr ""
+"<p>तस्वीर, संपादित करें और साझा करें. सहित, हमारे पूर्ण विशेषताओं कैमरा और "
+"गैलरी क्षुधा से दिखाओ में निर्मित शैली फिल्टर, वीडियो और अधिक.</p>"
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
@@ -464,15 +476,14 @@ msgstr ""
 #. Page path: /1-4/demo-tips/
 #: db-strings.txt:366 db-strings.txt.py:5334
 msgid "ikbujo0l7dI"
-msgstr ""
+msgstr "ikbujo0l7dI"
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
 #: db-strings.txt:375
-#, fuzzy
 #| msgid "FM Radio"
 msgid "Music & FM Radio"
-msgstr "FM रेडियो"
+msgstr "संगीत और एफएम रेडियो"
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
@@ -481,6 +492,8 @@ msgid ""
 "<p>With music at their fingertips, your customers will see how Firefox OS "
 "keeps them entertained and dancing in the streets.</p>"
 msgstr ""
+"<p>अपनी उंगलियों पर संगीत के साथ, अपने ग्राहकों फ़ायरफ़ॉक्स ओएस उन्हें "
+"सड़कों में मनोरंजन और नृत्य रहता है कि कैसे देखेंगे.</p>"
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
@@ -488,7 +501,7 @@ msgstr ""
 #. Page path: /1-4/demo-tips/
 #: db-strings.txt:393 db-strings.txt.py:5361
 msgid "kGb4OLORKPA"
-msgstr ""
+msgstr "kGb4OLORKPA"
 
 #. Translators:
 #. Page path: /1-1/customer-guide/
