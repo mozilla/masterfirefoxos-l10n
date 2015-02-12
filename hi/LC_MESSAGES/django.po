@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-11 16:54+0000\n"
-"PO-Revision-Date: 2015-02-12 04:59:54\n"
+"PO-Revision-Date: 2015-02-12 05:11:54\n"
 "Last-Translator:  <kumar.dpkkmr.dipak@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hi\n"
@@ -1210,7 +1210,6 @@ msgstr "एप्प्स के लिए ग्राहक सहायत�
 #. Translators:
 #. Page path: /1-4/frequently-asked-questions/
 #: db-strings.txt:960 db-strings.txt.py:5946
-#, fuzzy
 #| msgid ""
 #| "o need support with an app built for Firefox OS will be ected toe  eloperr "
 #| "assistance. If the customer experience h Firefox OS atively acted by  "
@@ -1239,7 +1238,6 @@ msgstr ""
 #. Page path: /2-0/frequently-asked-questions/
 #: db-strings.txt:969 db-strings.txt.py:3381 db-strings.txt.py:5955
 #: db-strings.txt:8394
-#, fuzzy
 #| msgid "<p>How do I download and install apps on Firefox OS?</p>"
 msgid "How do I download and install apps on Firefox OS?"
 msgstr ""
@@ -1271,7 +1269,6 @@ msgstr ""
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
 #: db-strings.txt:987
-#, fuzzy
 #| msgid "<p>What email providers are supported?</p>"
 msgid "Which email providers are supported?"
 msgstr "<p>क्या ईमेल प्रदाताओं का समर्थन हैं?</p>"
@@ -1297,7 +1294,6 @@ msgstr "<p>Hotmail और Yahoo मेल भविष्य में अधि
 #. Page path: /2-0/frequently-asked-questions/
 #: db-strings.txt:1005 db-strings.txt.py:3417 db-strings.txt.py:5991
 #: db-strings.txt:8430
-#, fuzzy
 #| msgid "<p>Where should I go if I have more questions?</p>"
 msgid "Where should I go if I have more questions?"
 msgstr "<p>मुझे कहाँ जाना चाहिए यदि मेरे पास और सवाल हैं?</p>"
@@ -1312,7 +1308,6 @@ msgstr "<p>मुझे कहाँ जाना चाहिए यदि म�
 #. Page path: /2-0/frequently-asked-questions/
 #: db-strings.txt:1014 db-strings.txt.py:3426 db-strings.txt.py:6000
 #: db-strings.txt:8439
-#, fuzzy
 #| msgid ""
 #| "f='https://support.mozilla.org/en-kb/firefox-r->https://support.mozilla.org"
 #| "/en-US/kb/firefox-os-user-de</a> for e on.</p>"
@@ -1413,11 +1408,12 @@ msgid ""
 "<p>Put your new knowledge to the test with this series of fun, interactive "
 "quizzes.</p>"
 msgstr ""
+"<p>मज़ा, इंटरैक्टिव क्विज़ की इस श्रृंखला के साथ परीक्षण करने के लिए अपने नए"
+" ज्ञान रखो.</p>"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
 #: db-strings.txt:1077
-#, fuzzy
 #| msgid ""
 #| "e almost ready to start selling Firefox OS to your tomers? Put r dge to  "
 #| "test and answer these questions to ve you have what es.</p>"
@@ -1472,7 +1468,6 @@ msgstr ""
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
 #: db-strings.txt:1104 db-strings.txt.py:3516 db-strings.txt.py:6099
-#, fuzzy
 #| msgid " do you access the Adaptive App Search feature on Firefox OS?"
 msgid ""
 "<p>How do you access the Adaptive App Search feature on Firefox OS?</p>"
@@ -1482,7 +1477,6 @@ msgstr ""
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
 #: db-strings.txt:1113
-#, fuzzy
 #| msgid "<p>What is Adaptive App Search?</p>"
 msgid ""
 "<p>That’s right! You simply swipe to the left to access the Adaptive App "
@@ -1492,27 +1486,27 @@ msgstr "<p>अनुकूली एप्प्स खोज क्या ह�
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
 #: db-strings.txt:1122 db-strings.txt.py:1131
-#, fuzzy
 #| msgid "<p>What is Adaptive App Search?</p>"
 msgid ""
 "<p>That’s not it. You simply swipe to the left to access the Adaptive App "
 "Search feature.</p>"
-msgstr "<p>अनुकूली एप्प्स खोज क्या है?</p>"
+msgstr ""
+"<p>कि यह नहीं है. आप बस अनुकूली एप्लिकेशन को खोज सुविधा का उपयोग करने के लिए"
+" बाईं ओर स्वाइप करें.</p>"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
 #: db-strings.txt:1140 db-strings.txt.py:6135
-#, fuzzy
 #| msgid ""
 #| "llowing apps is preloaded on every Firefox OS phone? ect all t ly."
 msgid ""
 "<p>Which of the following apps is pre-loaded on every Firefox OS phone? "
 "Select all that apply.</p>"
 msgstr ""
-"निम्नलिखित में से कौनसी एप्प्स Firefox OS फ़ोन पर पहले से मौजूद है? लागू "
-"होने वाले सभी का चयन करें."
+"<p>निम्नलिखित में से कौनसी एप्प्स Firefox OS फ़ोन पर पहले से मौजूद है? लागू "
+"होने वाले सभी का चयन करें.</p>"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1524,15 +1518,14 @@ msgstr ""
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:1149 db-strings.txt.py:3561 db-strings.txt.py:6144
 #: db-strings.txt:8583
-#, fuzzy
 #| msgid ""
 #| "llowing apps is preloaded on every Firefox OS phone? ect all t ly."
 msgid ""
 "<p>That’s right! All of these apps come pre-loaded on every Firefox OS "
 "phone.</p>"
 msgstr ""
-"निम्नलिखित में से कौनसी एप्प्स Firefox OS फ़ोन पर पहले से मौजूद है? लागू "
-"होने वाले सभी का चयन करें."
+"<p>यह सही है! इन क्षुधा के सभी हर फ़ायरफ़ॉक्स ओएस फोन पर प्री-लोडेड आते "
+"हैं.</p>"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
