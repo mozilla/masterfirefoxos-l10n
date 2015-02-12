@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-11 16:54+0000\n"
-"PO-Revision-Date: 2015-02-12 00:43:39\n"
+"PO-Revision-Date: 2015-02-12 01:17:27\n"
 "Last-Translator:  <kumar.dpkkmr.dipak@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hi\n"
@@ -519,7 +519,6 @@ msgstr "ग्राहक मार्गदर्शिका"
 #. Translators:
 #. Page path: /1-1/customer-guide/
 #: db-strings.txt:411
-#, fuzzy
 #| msgid ""
 #| "g your customer’s needs and knowing how to respond on the t is al to  es "
 #| "opportunity.<br><br>Check out the common tomer ments ow, then drage  to "
@@ -549,6 +548,8 @@ msgid ""
 "<p>See how Firefox OS fits into your customers' lives, no matter who they "
 "are or where they're from.</p>"
 msgstr ""
+"<p>फ़ायरफ़ॉक्स ओएस अपने ग्राहकों को 'जीवन में फिट बैठता है कोई फर्क नहीं "
+"पड़ता कि वे कहाँ से हैं वे कर रहे हैं या जो, देखें।</p>"
 
 #. Translators:
 #. Page path: /1-1/customer-guide/
@@ -560,15 +561,13 @@ msgstr ""
 #. Page path: /2-0/customer-guide/
 #: db-strings.txt:438 db-strings.txt.py:2859 db-strings.txt.py:5406
 #: db-strings.txt:7845
-#, fuzzy
 #| msgid "<p>The Smartphone Rookie</p>"
 msgid "The Smartphone Rookie"
-msgstr "<p>हालिया स्मार्टफ़ोन उपयोक्ता</p>"
+msgstr "हालिया स्मार्टफ़ोन उपयोक्ता"
 
 #. Translators:
 #. Page path: /1-1/customer-guide/
 #: db-strings.txt:447
-#, fuzzy
 #| msgid ""
 #| "s the best choice for first time smartphone users. It’s er easy used pts to "
 #| "your needs better than any other ne, so you get more what  needth s time "
@@ -582,11 +581,13 @@ msgid ""
 " searching. Plus, it is packed with all the features you’d expect, from "
 "camera, to email, apps, music, maps and more.</p>"
 msgstr ""
-"<p>प्रथम बार स्मार्टफ़ोन उपयोक्ताओं के लिए Firefox OS  सबसे अच्छा विकल्प है."
-" यह प्रयोग करने में सबसे आसान है, और यह किसी भी अन्य फ़ोन से बेहतर आपकी "
-"आवश्यकताओं के अनुकूल है, ताकि आप कम समय के खोज साथ आपको जरूरत से अधिक मिलता "
-"है. इसके अलावा, यह उम्मीद मुताबिक सभी सुविधाओं के साथ पैक किया जाता है जैसे "
-"कि कैमरा से, ईमेल तक, Firefox Marketplace से एप्प्स, संगीत और अधिक.</p>"
+"<h3><em>\"मैं एक स्मार्टफोन था कभी नहीं किया है.\"</ em></ h3><p><strong> आप"
+" क्या कह सकते हैं?</strong></p><p>फ़ायरफ़ॉक्स ओएस सबसे अच्छा है पहली बार "
+"स्मार्टफोन उपयोगकर्ताओं के लिए पसंद है. यह उपयोग करने के लिए सुपर आसान है, "
+"और यह किसी भी अन्य फोन की तुलना में बेहतर अपनी आवश्यकताओं के लिए अनुकूल "
+"बनाना, तो आप कम समय खोज के साथ क्या जरूरत के अधिक मिलता है. इसके अलावा, यह "
+"एप्लिकेशन, संगीत, नक्शे और ईमेल करने के लिए कैमरे से आप की उम्मीद थी सभी "
+"सुविधाओं, साथ पैक किया जाता है और अधिक.</p>"
 
 #. Translators:
 #. Page path: /1-1/customer-guide/
@@ -598,15 +599,13 @@ msgstr ""
 #. Page path: /2-0/customer-guide/
 #: db-strings.txt:465 db-strings.txt.py:2886 db-strings.txt.py:5433
 #: db-strings.txt:7872
-#, fuzzy
 #| msgid "<p>The Value Seeker</p>"
 msgid "The Value Seeker"
-msgstr "<p>मूल्य जिज्ञासु</p>"
+msgstr "मूल्य साधक"
 
 #. Translators:
 #. Page path: /1-1/customer-guide/
 #: db-strings.txt:474
-#, fuzzy
 #| msgid ""
 #| "ives you the most value for your money. It has everything  ect in tphone "
 #| "amera, email, apps from the Firefox ketplace, ic and more — thest petitive "
@@ -617,9 +616,10 @@ msgid ""
 "has everything you expect in a smartphone — camera, email, apps, music, maps"
 " and more — at the most competitive prices.</p>"
 msgstr ""
-"<p>Firefox OS आपको आपके पैसे का सबसे अधिक मूल्य देता है. इसमे वह सब है जो आप"
-" एक स्मार्टफ़ोन में उम्मीद करते है - Firefox Marketplace से एप्प्स, कैमरा, "
-"ईमेल और अधिक - सबसे अधिक प्रतिस्पर्धी कीमतों पर.</p>"
+"<h3><em>\"मैं एक अच्छा सौदा करना चाहते हैं.\"</em></h3><p><strong>आप कह सकते"
+" हैं क्या?</strong></p><p>फ़ायरफ़ॉक्स ओएस आप सबसे अधिक देता है अपने पैसे के "
+"लिए मूल्य— कैमरा, ईमेल, एप्लिकेशन, संगीत, नक्शे और अधिक —यह आप एक स्मार्टफोन"
+" में उम्मीद है सब कुछ है. सबसे अधिक प्रतिस्पर्धी कीमतों पर.</p>"
 
 #. Translators:
 #. Page path: /1-1/customer-guide/
@@ -631,10 +631,9 @@ msgstr ""
 #. Page path: /2-0/customer-guide/
 #: db-strings.txt:492 db-strings.txt.py:2913 db-strings.txt.py:5460
 #: db-strings.txt:7899
-#, fuzzy
 #| msgid "<p>The Uncertain Upgrader</p>"
 msgid "The Uncertain Upgrader"
-msgstr "<p>अनिश्चित नवीनीकरण करने वाला</p>"
+msgstr "अनिश्चित अपग्रेडर"
 
 #. Translators:
 #. Page path: /1-1/customer-guide/
