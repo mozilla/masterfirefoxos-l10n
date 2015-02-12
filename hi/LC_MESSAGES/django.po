@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-11 16:54+0000\n"
-"PO-Revision-Date: 2015-02-12 05:11:54\n"
+"PO-Revision-Date: 2015-02-12 07:59:52\n"
 "Last-Translator:  <kumar.dpkkmr.dipak@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hi\n"
@@ -763,7 +763,6 @@ msgstr ""
 #. Translators:
 #. Page path: /1-1/key-features/
 #: db-strings.txt:609
-#, fuzzy
 #| msgid ""
 #| "ource for the best apps for Firefox OS. Browse hundreds of e s in le "
 #| "egories: Games, Tools, Lifestyle and more.</p>"
@@ -796,6 +795,10 @@ msgid ""
 "enter websites, perform searches and access your browsing history. Plus, "
 "tabs let you multitask by browsing multiple pages simultaneously.</p>"
 msgstr ""
+"<p>तेज, स्मार्ट, सुरक्षित तरीका वेब का सबसे अच्छा पाने के लिए. वेबसाइटों में"
+" प्रवेश खोजों प्रदर्शन और अपने ब्राउज़िंग इतिहास का उपयोग करने के लिए URL "
+"बार प्रयोग करें. इसके अलावा, टैब्स एक साथ कई पृष्ठों ब्राउज़िंग द्वारा आप "
+"बहु कार्य करते हैं.</p>"
 
 #. Translators:
 #. Page path: /1-1/key-features/
@@ -927,6 +930,10 @@ msgid ""
 " HERE Maps can pinpoint your location and even give you directions (car, "
 "walking or public transportation) to get you to your destination.</p>"
 msgstr ""
+"<p>उपग्रह, सार्वजनिक परिवहन, और जीना यातायात विचारों जाओ जल्दी दूरदराज के "
+"उपयोग के लिए स्थानीय स्तर पर अपने नक्शे को बचाने के भी हित के अंक के लिए "
+"खोज. HERE मैप्स आप दिशाओं (कार, पैदल या सार्वजनिक परिवहन) आप अपने गंतव्य के "
+"लिए प्राप्त करने के लिए देने के भी अपने स्थान को इंगित कर सकते हैं.</p>"
 
 #. Translators:
 #. Page path: /1-1/key-features/
@@ -1276,13 +1283,14 @@ msgstr "<p>क्या ईमेल प्रदाताओं का सम�
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
 #: db-strings.txt:996
-#, fuzzy
 #| msgid ""
 #| "Yahoo mail are currently supported with more on the way in  .</p>"
 msgid ""
 "<p>Hotmail and Yahoo mail are currently supported with more on the way in "
 "future releases.</p>"
-msgstr "<p>Hotmail और Yahoo मेल भविष्य में अधिक अच्छे से अभी समर्थित है.</p>"
+msgstr ""
+"<p>हॉटमेल और याहू मेल वर्तमान में भविष्य के रिलीज में रास्ते पर और अधिक के "
+"साथ समर्थन कर रहे हैं.</p>"
 
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
@@ -1429,10 +1437,9 @@ msgstr ""
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
 #: db-strings.txt:1086
-#, fuzzy
 #| msgid "<p>Get Ready to Sell!</p>"
 msgid "<p>Get ready to sell!</p>"
-msgstr "<p>बेचने के लिए तैयार हो जाएँ!</p>"
+msgstr "<p>बेचने के लिए तैयार हो जाओ!</p>"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1537,28 +1544,26 @@ msgstr ""
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:1158 db-strings.txt.py:3570 db-strings.txt.py:6153
 #: db-strings.txt:8592
-#, fuzzy
 #| msgid ""
 #| "llowing apps is preloaded on every Firefox OS phone? ect all t ly."
 msgid ""
 "<p>Actually, all of these apps come pre-loaded on every Firefox OS "
 "phone.</p>"
 msgstr ""
-"निम्नलिखित में से कौनसी एप्प्स Firefox OS फ़ोन पर पहले से मौजूद है? लागू "
-"होने वाले सभी का चयन करें."
+"<p>असल में, इन क्षुधा की सभी हर फ़ायरफ़ॉक्स ओएस फोन पर प्री-लोडेड आते "
+"हैं.</p>"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
 #: db-strings.txt:1167
-#, fuzzy
 #| msgid ""
 #| "llowing apps is preloaded on every Firefox OS phone? ect all t ly."
 msgid ""
 "<p>Actually, they're are more. All of these apps come pre-loaded on every "
 "Firefox OS phone.</p>"
 msgstr ""
-"निम्नलिखित में से कौनसी एप्प्स Firefox OS फ़ोन पर पहले से मौजूद है? लागू "
-"होने वाले सभी का चयन करें."
+"<p>असल में, वे कर रहे हैं और अधिक कर रहे हैं. इन क्षुधा के सभी हर "
+"फ़ायरफ़ॉक्स ओएस फोन पर प्री-लोडेड आते हैं.</p>"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1567,7 +1572,6 @@ msgstr ""
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
 #: db-strings.txt:1176 db-strings.txt.py:4020 db-strings.txt.py:6603
-#, fuzzy
 #| msgid ""
 #| " word or subject that interests you using Adaptive App rch what s? ect  that"
 #| " apply."
@@ -1575,8 +1579,8 @@ msgid ""
 "<p>When you type a word or subject that interests you using Adaptive App "
 "Search what happens? Select all that apply.</p>"
 msgstr ""
-"जब आप अनुकूली खोज का उपयोग कर आप अपनी रुचि वाले शब्द या विषय कि खोज करते हैं"
-" तब क्या होता हैं? लागू होने वाले सभी का चयन करें."
+"<p>आप क्या होता है अनुकूली एप्लिकेशन की खोज का उपयोग करके आप हितों कि एक "
+"शब्द या विषय टाइप करते हैं? लागू होने वाले सभी का चयन करें.</p>"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1585,10 +1589,9 @@ msgstr ""
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
 #: db-strings.txt:1185 db-strings.txt.py:4029 db-strings.txt.py:6612
-#, fuzzy
 #| msgid "<p>What is Adaptive App Search?</p>"
 msgid "<p>That’s right. All of these are true of Adaptive App Search!</p>"
-msgstr "<p>अनुकूली एप्प्स खोज क्या है?</p>"
+msgstr "<p>यह सही है. इन सब के सब अनुकूली अनुप्रयोग खोज के सत्य हैं!</p>"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1598,25 +1601,23 @@ msgstr "<p>अनुकूली एप्प्स खोज क्या ह�
 #. Page path: /1-4/take-the-challenge/
 #: db-strings.txt:1194 db-strings.txt.py:1203 db-strings.txt.py:4038
 #: db-strings.txt:4047 db-strings.txt.py:6621 db-strings.txt.py:6630
-#, fuzzy
 #| msgid "Marketplace and Adaptive App Search"
 msgid "<p>Actually, all of these are true of Adaptive App Search!</p>"
-msgstr "मार्केटप्लेस और अनुकूलन योग्य एप्प की खोज"
+msgstr "<p>असल में, इन सभी के अनुकूली अनुप्रयोग खोज के सत्य हैं!</p>"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:1212 db-strings.txt.py:9222
-#, fuzzy
 #| msgid ""
 #| "customer responses indicate a ideal candidate for Firefox  ect all t ly."
 msgid ""
 "<p>Which of these customer responses indicate an ideal candidate for Firefox"
 " OS? Select all that apply.</p>"
 msgstr ""
-"ग्राहकों की प्रतिक्रियाओं के कौन से संकेत, जो एक Firefox OS आदर्श उम्मीदवार "
-"को दर्शाता है? लागू होने वाले सभी का चयन करें."
+"<p>इन ग्राहकों की प्रतिक्रियाओं में से कौन सा फ़ायरफ़ॉक्स ओएस के लिए एक "
+"आदर्श उम्मीदवार संकेत मिलता है? लागू होने वाले सभी का चयन करें.</p>"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1628,15 +1629,14 @@ msgstr ""
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:1221 db-strings.txt.py:4209 db-strings.txt.py:6792
 #: db-strings.txt:9231
-#, fuzzy
 #| msgid ""
 #| "customer responses indicate a ideal candidate for Firefox  ect all t ly."
 msgid ""
 "<p>That’s right. All of these customers are ideal candidates for Firefox "
 "OS!</p>"
 msgstr ""
-"ग्राहकों की प्रतिक्रियाओं के कौन से संकेत, जो एक Firefox OS आदर्श उम्मीदवार "
-"को दर्शाता है? लागू होने वाले सभी का चयन करें."
+"<p>यह सही है. इन ग्राहकों के सभी फ़ायरफ़ॉक्स ओएस के लिए आदर्श उम्मीदवार "
+"हैं!</p>"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1649,74 +1649,66 @@ msgstr ""
 #: db-strings.txt:1230 db-strings.txt.py:1239 db-strings.txt.py:4218
 #: db-strings.txt:4227 db-strings.txt.py:6801 db-strings.txt.py:6810
 #: db-strings.txt:9240 db-strings.txt.py:9249
-#, fuzzy
 #| msgid ""
 #| "customer responses indicate a ideal candidate for Firefox  ect all t ly."
 msgid ""
 "<p>In fact, ALL of these customers are ideal candidates for Firefox OS!</p>"
 msgstr ""
-"ग्राहकों की प्रतिक्रियाओं के कौन से संकेत, जो एक Firefox OS आदर्श उम्मीदवार "
-"को दर्शाता है? लागू होने वाले सभी का चयन करें."
+"<p>वास्तव में, इन ALL ग्राहकों के लिए Firefox ओएस के लिए आदर्श उम्मीदवार "
+"हैं!</p>"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
 #: db-strings.txt:1248 db-strings.txt.py:1320 db-strings.txt.py:1644
-#, fuzzy
 #| msgid ""
 #| "S feature does this icon represent?<br><br><img "
 #| "ets/m05/t05/p35/m05-t05-p35-a05-b15-c10.png'/>"
 msgid "<p>Which Firefox OS feature does this icon represent?<br><br><br></p>"
 msgstr ""
-"कौन-सा आइकन Firefox OS सुविधा को प्रदर्शित करता है?<br><br><img "
-"src='course/assets/m05/t05/p35/m05-t05-p35-a05-b15-c10.png'/>"
+"<p>इस चिह्न का प्रतिनिधित्व करता है जो फ़ायरफ़ॉक्स ओएस "
+"सुविधा?<br><br><br></p>"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
 #: db-strings.txt:1257 db-strings.txt.py:6216
-#, fuzzy
 #| msgid "Marketplace and Adaptive App Search"
 msgid "<p>That’s right. This icon represents Contacts.</p>"
-msgstr "मार्केटप्लेस और अनुकूलन योग्य एप्प की खोज"
+msgstr "<p>यह सही है. यह आइकन संपर्क का प्रतिनिधित्व करता है.</p>"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
 #: db-strings.txt:1266 db-strings.txt.py:1275 db-strings.txt.py:6225
-#, fuzzy
 #| msgid "Marketplace and Adaptive App Search"
 msgid "<p>Actually, this icon represents Contacts.</p>"
-msgstr "मार्केटप्लेस और अनुकूलन योग्य एप्प की खोज"
+msgstr "<p>दरअसल, इस आइकन संपर्क का प्रतिनिधित्व करता है.</p>"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
 #: db-strings.txt:1284
-#, fuzzy
 #| msgid ""
 #| "S feature does this icon represent?<br><br><img "
 #| "ets/m05/t05/p35/m05-t05-p35-a05-b20-c05.png'/>"
 msgid "<p>Which Firefox OS feature does this represent?<br><br><br></p>"
 msgstr ""
-"कौनसा आइकन Firefox OS विशेषता को प्रदर्शित करता है?<br><br><img "
-"src='course/assets/m05/t05/p35/m05-t05-p35-a05-b20-c05.png'/>"
+"<p>किस फ़ायरफ़ॉक्स ओएस सुविधा यह प्रतिनिधित्व करता है?<br><br><br></p>"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
 #: db-strings.txt:1293
-#, fuzzy
 #| msgid "Marketplace and Adaptive App Search"
 msgid "<p>That’s right. This icon represents the Firefox browser.</p>"
-msgstr "मार्केटप्लेस और अनुकूलन योग्य एप्प की खोज"
+msgstr "<p>यह सही है. यह आइकन Firefox ब्राउज़र का प्रतिनिधित्व करता है.</p>"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
 #: db-strings.txt:1302 db-strings.txt.py:1311
-#, fuzzy
 #| msgid "Marketplace and Adaptive App Search"
 msgid "<p>Actually, this icon represents the Firefox browser.</p>"
-msgstr "मार्केटप्लेस और अनुकूलन योग्य एप्प की खोज"
+msgstr "<p>दरअसल, इस आइकन Firefox ब्राउज़र का प्रतिनिधित्व करता है.</p>"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1725,18 +1717,16 @@ msgstr "मार्केटप्लेस और अनुकूलन यो
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
 #: db-strings.txt:1329 db-strings.txt.py:3705 db-strings.txt.py:6288
-#, fuzzy
 #| msgid "Marketplace and Adaptive App Search"
 msgid "<p>That’s right. This icon represents Adaptive App Search.</p>"
-msgstr "मार्केटप्लेस और अनुकूलन योग्य एप्प की खोज"
+msgstr "<p>यह सही है. यह आइकन अनुकूली app की खोज का प्रतिनिधित्व करता है.</p>"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
 #: db-strings.txt:1338 db-strings.txt.py:1347
-#, fuzzy
 #| msgid "Marketplace and Adaptive App Search"
 msgid "<p>Actually, this icon represents the Adaptive App Search.</p>"
-msgstr "मार्केटप्लेस और अनुकूलन योग्य एप्प की खोज"
+msgstr "<p>दरअसल, इस आइकन अनुकूली app की खोज का प्रतिनिधित्व करता है.</p>"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
