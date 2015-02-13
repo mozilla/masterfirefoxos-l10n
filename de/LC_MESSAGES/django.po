@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-13 16:54+0000\n"
-"PO-Revision-Date: 2015-02-13 00:21:06\n"
+"PO-Revision-Date: 2015-02-13 12:09:39\n"
 "Last-Translator: Michael Köhler <michael.koehler1@gmx.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: de\n"
@@ -5707,7 +5707,7 @@ msgstr "Mozilla"
 
 #: masterfirefoxos/base/templates/base.html:64
 msgid "Menu"
-msgstr ""
+msgstr "Menü"
 
 #: masterfirefoxos/base/templates/base.html:87
 msgid ""
@@ -5715,6 +5715,10 @@ msgid ""
 "available under a <a href=\"https://www.mozilla.org/foundation/licensing"
 "/website-content/\">Creative Commons license</a>."
 msgstr ""
+"Teile dieses Inhalts stehen unter einem ©1998–{0} von einzelnen "
+"Mitwirkenden. Der Inhalt steht unter einer <a "
+"href=\"https://www.mozilla.org/foundation/licensing/website-content"
+"/\">Creative-Commons-Lizenz</a>."
 
 #: masterfirefoxos/base/templates/base.html:90
 msgid "Source code"
