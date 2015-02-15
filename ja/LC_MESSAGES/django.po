@@ -2,54 +2,7 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
-#. Translators:
-#. Page path: /1-1/introduction/
-#. Translators:
-#. Page path: /1-1/customer-guide/
-#. Translators:
-#. Page path: /1-1/key-features/
-#. Translators:
-#. Page path: /1-3T/introduction/
-#. Translators:
-#. Page path: /1-3T/customer-guide/
-#. Translators:
-#. Page path: /1-3T/key-features/
-#. Translators:
-#. Page path: /1-4/introduction/
-#. Translators:
-#. Page path: /1-4/customer-guide/
-#. Translators:
-#. Page path: /1-4/key-features/
-#. Translators:
-#. Page path: /2-0/introduction/
-#. Translators:
-#. Page path: /2-0/customer-guide/
-#. Translators:
-#. Page path: /2-0/key-features/
-#: db-strings.txt:51 db-strings.txt.py:78 db-strings.txt.py:105
-#: db-strings.txt:429 db-strings.txt.py:456 db-strings.txt.py:483
-#: db-strings.txt:510 db-strings.txt.py:564 db-strings.txt.py:591
-#: db-strings.txt:618 db-strings.txt.py:645 db-strings.txt.py:672
-#: db-strings.txt:699 db-strings.txt.py:726 db-strings.txt.py:753
-#: db-strings.txt:780 db-strings.txt.py:807 db-strings.txt.py:2553
-#: db-strings.txt:2580 db-strings.txt.py:2607 db-strings.txt.py:2850
-#: db-strings.txt:2877 db-strings.txt.py:2904 db-strings.txt.py:2931
-#: db-strings.txt:2985 db-strings.txt.py:3012 db-strings.txt.py:3039
-#: db-strings.txt:3066 db-strings.txt.py:3093 db-strings.txt.py:3120
-#: db-strings.txt:3147 db-strings.txt.py:3174 db-strings.txt.py:3201
-#: db-strings.txt:5019 db-strings.txt.py:5046 db-strings.txt.py:5073
-#: db-strings.txt:5397 db-strings.txt.py:5424 db-strings.txt.py:5451
-#: db-strings.txt:5478 db-strings.txt.py:5532 db-strings.txt.py:5559
-#: db-strings.txt:5586 db-strings.txt.py:5613 db-strings.txt.py:5640
-#: db-strings.txt:5667 db-strings.txt.py:5694 db-strings.txt.py:5721
-#: db-strings.txt:5748 db-strings.txt.py:5775 db-strings.txt.py:7539
-#: db-strings.txt:7566 db-strings.txt.py:7593 db-strings.txt.py:7809
-#: db-strings.txt:7836 db-strings.txt.py:7863 db-strings.txt.py:7890
-#: db-strings.txt:7944 db-strings.txt.py:7971 db-strings.txt.py:7998
-#: db-strings.txt:8025 db-strings.txt.py:8052 db-strings.txt.py:8079
-#: db-strings.txt:8106 db-strings.txt.py:8133 db-strings.txt.py:8160
-#: db-strings.txt:8187
+# 
 #, fuzzy
 msgid ""
 msgstr ""
@@ -98,9 +51,7 @@ msgstr "Firefox OS マスター講座"
 msgid ""
 "Welcome to the Firefox OS global partner and community training hub. Select "
 "any topic to get started."
-msgstr ""
-"<p>Firefox OS グローバルパートナーとコミュニティのためのサイトへようこそ。学"
-"習するトピックを選んでください</p>"
+msgstr "<p>Firefox OS グローバルパートナーとコミュニティのためのサイトへようこそ。学習するトピックを選んでください</p>"
 
 #. Translators:
 #. Page path: /1-1/introduction/
@@ -126,11 +77,9 @@ msgstr "導入"
 #: db-strings.txt:33 db-strings.txt.py:2535 db-strings.txt.py:5001
 #: db-strings.txt:7521
 msgid ""
-"<p>Find out what makes Firefox OS perfect for new smartphone users by giving "
-"them just what they need.</p>"
-msgstr ""
-"<p>Firefox OSが、これからスマートフォンを使い始める方にとって最適な理由を学び"
-"ましょう。</p>"
+"<p>Find out what makes Firefox OS perfect for new smartphone users by giving"
+" them just what they need.</p>"
+msgstr "<p>Firefox OSが、これからスマートフォンを使い始める方にとって最適な理由を学びましょう。</p>"
 
 #. Translators:
 #. Page path: /1-1/introduction/
@@ -166,8 +115,8 @@ msgid ""
 "want.<br><br>With Adaptive App Search your customers will get more of what "
 "they’re looking for, exactly when they need it.</p>"
 msgstr ""
-"<p>Firefox OS は利用者のニーズをいち早く察知し、必要とされる情報を素早く提示"
-"します。<br><br>適用的検索を使うと、必要な時に必要な情報を検索できます。</p>"
+"<p>Firefox OS "
+"は利用者のニーズをいち早く察知し、必要とされる情報を素早く提示します。<br><br>適用的検索を使うと、必要な時に必要な情報を検索できます。</p>"
 
 #. Translators:
 #. Page path: /1-1/introduction/
@@ -224,11 +173,11 @@ msgstr ""
 #: db-strings.txt:141
 msgid ""
 "<p>Your customers' needs are always changing. Firefox OS smartphones adapt "
-"to your customers' needs so they can live every moment to its fullest."
-"<br><br>Easy to use, they’re perfect for new smartphone users and full of "
-"all the features that customers expect. Powered by Mozilla, Firefox OS "
-"devices are the right choice for anyone committed to ensuring that the Web "
-"remains a public resource available to all.</p>"
+"to your customers' needs so they can live every moment to its "
+"fullest.<br><br>Easy to use, they’re perfect for new smartphone users and "
+"full of all the features that customers expect. Powered by Mozilla, Firefox "
+"OS devices are the right choice for anyone committed to ensuring that the "
+"Web remains a public resource available to all.</p>"
 msgstr ""
 
 #. Translators:
@@ -261,12 +210,12 @@ msgstr "デモのTIPS"
 #. Page path: /1-1/demo-tips/
 #: db-strings.txt:168
 msgid ""
-"<h2>Demonstrations That Matter</h2> <p>Demonstrating the features of Firefox "
-"OS and how easy it is to use will be your best selling tool. Browse the "
+"<h2>Demonstrations That Matter</h2> <p>Demonstrating the features of Firefox"
+" OS and how easy it is to use will be your best selling tool. Browse the "
 "demonstration videos below to get started.</p>"
 msgstr ""
-"<h2>デモが重要</h2><p>デモを通じて Firefox OS の機能と、それらが簡単に使える"
-"ことを伝えてください。まずは以下のビデオを見せるところから始めましょう。</p>"
+"<h2>デモが重要</h2><p>デモを通じて Firefox OS "
+"の機能と、それらが簡単に使えることを伝えてください。まずは以下のビデオを見せるところから始めましょう。</p>"
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
@@ -331,9 +280,7 @@ msgstr "適用的なアプリ検索"
 msgid ""
 "<p>Show customers how Firefox OS adapts to them, giving them more of what "
 "they need, when they need it.</p>"
-msgstr ""
-"<p>Firefox OS がユーザーへどのように適応するかを示しましょう。必要な時に、必"
-"要な物を提示することを伝えましょう。</p>"
+msgstr "<p>Firefox OS がユーザーへどのように適応するかを示しましょう。必要な時に、必要な物を提示することを伝えましょう。</p>"
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
@@ -398,8 +345,8 @@ msgid ""
 "<p>Firefox OS lets customers take control of their online lives and get the "
 "best of the Web no matter where they go.</p>"
 msgstr ""
-"<p>Firefox OS では、ユーザだけがオンラインでの活動をコントロールできます。ど"
-"こであろうと、Web の力と魅力を最大限に利用できます。</p>"
+"<p>Firefox OS では、ユーザだけがオンラインでの活動をコントロールできます。どこであろうと、Web "
+"の力と魅力を最大限に利用できます。</p>"
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
@@ -434,9 +381,7 @@ msgstr "Marketplace"
 #: db-strings.txt:330
 msgid ""
 "<p>Firefox Marketplace has the cool games and apps your customers want.</p>"
-msgstr ""
-"<p>Firefox Marketplace には楽しいゲームや、利用者が欲しいと思うアプリがありま"
-"す。</p>"
+msgstr "<p>Firefox Marketplace には楽しいゲームや、利用者が欲しいと思うアプリがあります。</p>"
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
@@ -456,8 +401,8 @@ msgstr "カメラとギャラリー"
 #. Page path: /1-1/demo-tips/
 #: db-strings.txt:357
 msgid ""
-"<p>Photograph, edit and share. Show off our full-featured camera and gallery "
-"apps, including built-in style filters, video and more.</p>"
+"<p>Photograph, edit and share. Show off our full-featured camera and gallery"
+" apps, including built-in style filters, video and more.</p>"
 msgstr ""
 
 #. Translators:
@@ -545,12 +490,12 @@ msgstr "スマートフォン初心者"
 #. Page path: /1-1/customer-guide/
 #: db-strings.txt:447
 msgid ""
-"<h3><em>\"I have never had a smartphone.\"</em></h3> <p><strong>What can you "
-"say?</strong></p> <p>Firefox OS is the best choice for first time smartphone "
-"users. It is super easy to use, and it adapts to your needs better than any "
-"other phone, so you get more of what you need with less time searching. "
-"Plus, it is packed with all the features you’d expect, from camera, to "
-"email, apps, music, maps and more.</p>"
+"<h3><em>\"I have never had a smartphone.\"</em></h3> <p><strong>What can you"
+" say?</strong></p> <p>Firefox OS is the best choice for first time "
+"smartphone users. It is super easy to use, and it adapts to your needs "
+"better than any other phone, so you get more of what you need with less time"
+" searching. Plus, it is packed with all the features you’d expect, from "
+"camera, to email, apps, music, maps and more.</p>"
 msgstr ""
 
 #. Translators:
@@ -570,10 +515,10 @@ msgstr ""
 #. Page path: /1-1/customer-guide/
 #: db-strings.txt:474
 msgid ""
-"<h3><em>\"I want a good deal.\"</em></h3> <p><strong>What can you say?</"
-"strong></p> <p>Firefox OS gives you the most value for your money. It has "
-"everything you expect in a smartphone — camera, email, apps, music, maps and "
-"more — at the most competitive prices.</p>"
+"<h3><em>\"I want a good deal.\"</em></h3> <p><strong>What can you "
+"say?</strong></p> <p>Firefox OS gives you the most value for your money. It "
+"has everything you expect in a smartphone — camera, email, apps, music, maps"
+" and more — at the most competitive prices.</p>"
 msgstr ""
 
 #. Translators:
@@ -595,8 +540,8 @@ msgstr ""
 msgid ""
 "<h3><em>\"It needs to be easy to use.\"</em></h3> <p><strong>What can you "
 "say?</strong></p> <p>Firefox OS is the easiest smartphone to get you "
-"started. Adaptive App Search helps you find the things you need simply — and "
-"instantly. The user interface is so intuitive, you will be able to quickly "
+"started. Adaptive App Search helps you find the things you need simply — and"
+" instantly. The user interface is so intuitive, you will be able to quickly "
 "discover and download your favorite apps so you’re ready to go.</p>"
 msgstr ""
 
@@ -617,12 +562,12 @@ msgstr "Firefox ファン"
 #. Page path: /1-1/customer-guide/
 #: db-strings.txt:528
 msgid ""
-"<h3><em>\"I love firefox!\"</em></h3> <p><strong>What can you say?</strong></"
-"p> <p>If you know and love Firefox, you’ll love Firefox OS. Firefox OS "
-"smartphones are entirely HTML5-based, bringing the best of the Web to your "
-"phone. Plus, Firefox OS is designed by a community dedicated to keeping the "
-"Web accessible to all. When you choose Firefox OS, you have the full power "
-"of the Web in your hands.</p>"
+"<h3><em>\"I love firefox!\"</em></h3> <p><strong>What can you "
+"say?</strong></p> <p>If you know and love Firefox, you’ll love Firefox OS. "
+"Firefox OS smartphones are entirely HTML5-based, bringing the best of the "
+"Web to your phone. Plus, Firefox OS is designed by a community dedicated to "
+"keeping the Web accessible to all. When you choose Firefox OS, you have the "
+"full power of the Web in your hands.</p>"
 msgstr ""
 
 #. Translators:
@@ -643,8 +588,8 @@ msgstr "主な特徴"
 #: db-strings.txt:546
 msgid ""
 "<h2>Features that count</h2> <p>Firefox OS is packed with the features that "
-"your customers expect in a smartphone. It fits their lives perfectly so they "
-"can keep pace with the world around them.</p> <h3>Have it all</h3>"
+"your customers expect in a smartphone. It fits their lives perfectly so they"
+" can keep pace with the world around them.</p> <h3>Have it all</h3>"
 msgstr ""
 
 #. Translators:
@@ -666,10 +611,11 @@ msgstr ""
 #. Page path: /1-1/key-features/
 #: db-strings.txt:582
 msgid ""
-"<p>A new way to get what you need right when you need it, without any of the "
-"headaches of downloading applications. Search for anything, and Firefox OS "
-"adapts to your request, displaying photos, video, music, news, maps and more "
-"- making it much easier for you to find what you were really looking for.</p>"
+"<p>A new way to get what you need right when you need it, without any of the"
+" headaches of downloading applications. Search for anything, and Firefox OS "
+"adapts to your request, displaying photos, video, music, news, maps and more"
+" - making it much easier for you to find what you were really looking "
+"for.</p>"
 msgstr ""
 
 #. Translators:
@@ -702,8 +648,8 @@ msgid ""
 "enter websites, perform searches and access your browsing history. Plus, "
 "tabs let you multitask by browsing multiple pages simultaneously.</p>"
 msgstr ""
-"<p>高速、スマート、安全に使えるブラウザです。アドレスバーに検索語を入れると、"
-"Web 検索や履歴の検索、またすでに開いてるタブの検索も行えます。</p>"
+"<p>高速、スマート、安全に使えるブラウザです。アドレスバーに検索語を入れると、Web "
+"検索や履歴の検索、またすでに開いてるタブの検索も行えます。</p>"
 
 #. Translators:
 #. Page path: /1-1/key-features/
@@ -773,8 +719,8 @@ msgstr "カメラとギャラリー"
 #: db-strings.txt:717
 msgid ""
 "<p>With built-in style filters for fun, creative shots, and lots of ways to "
-"share your photographs, the full-featured camera and photo gallery will have "
-"all your subjects smiling.</p>"
+"share your photographs, the full-featured camera and photo gallery will have"
+" all your subjects smiling.</p>"
 msgstr ""
 
 #. Translators:
@@ -797,9 +743,7 @@ msgstr "FM ラジオ"
 msgid ""
 "<p>All the audio you want on the go, all on one device. Just plug in your "
 "earphones and start listening.</p>"
-msgstr ""
-"<p>端末さえあれば、出先でも音楽を楽しめます。イヤフォンをさすだけで、ラジオを"
-"聞くことができます。</p>"
+msgstr "<p>端末さえあれば、出先でも音楽を楽しめます。イヤフォンをさすだけで、ラジオを聞くことができます。</p>"
 
 #. Translators:
 #. Page path: /1-1/key-features/
@@ -814,8 +758,8 @@ msgstr "地図"
 #: db-strings.txt:771
 msgid ""
 "<p>Get satellite, public transport, and live traffic views, search for "
-"points of interest and even save your map locally for quicker remote access. "
-"HERE Maps can pinpoint your location and even give you directions (car, "
+"points of interest and even save your map locally for quicker remote access."
+" HERE Maps can pinpoint your location and even give you directions (car, "
 "walking or public transportation) to get you to your destination.</p>"
 msgstr ""
 
@@ -853,12 +797,10 @@ msgstr "SMS とメール"
 #. Page path: /1-1/key-features/
 #: db-strings.txt:825
 msgid ""
-"<p>Stay connected to your friends and colleagues wherever you are. It's easy "
-"to set up multiple email accounts, with support for the most common "
+"<p>Stay connected to your friends and colleagues wherever you are. It's easy"
+" to set up multiple email accounts, with support for the most common "
 "Exchange, SMTP or IMAP email providers.</p>"
-msgstr ""
-"<p>どこにいても、友達や仲間とつながれます。</p>複数アカウントを管理でき、"
-"Exchange や SMTP、IMAPに対応しています。"
+msgstr "<p>どこにいても、友達や仲間とつながれます。</p>複数アカウントを管理でき、Exchange や SMTP、IMAPに対応しています。"
 
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
@@ -902,9 +844,7 @@ msgid ""
 "<h2>You have questions? We have answers!</h2> <p>By now, you probably have "
 "questions and so will your customers! Select each question for more on "
 "Firefox OS.</p>"
-msgstr ""
-"<h2>質問への回答はこちら</h2><p>まだ解決されない疑問や質問があるかと思いま"
-"す。以下から質問とその回答を探してください。</p>"
+msgstr "<h2>質問への回答はこちら</h2><p>まだ解決されない疑問や質問があるかと思います。以下から質問とその回答を探してください。</p>"
 
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
@@ -923,8 +863,8 @@ msgid ""
 "<p>Adaptive App Search is a new way to find content from across the Web and "
 "engage in an app-like experience without the headaches of downloading the "
 "app to find what you need. Whenever you search, your phone adapts to the "
-"search result and makes it easy to add those results to your home screen for "
-"easy access later.</p>"
+"search result and makes it easy to add those results to your home screen for"
+" easy access later.</p>"
 msgstr ""
 
 #. Translators:
@@ -969,8 +909,8 @@ msgstr "Firefox OS が他の端末と比べて安全な理由は？"
 #: db-strings.txt:906
 msgid ""
 "<p>Firefox OS has a robust security model that is battle-hardened from more "
-"than a decade of supporting the Open Web. It is designed to protect the user "
-"and system from malicious applications and content.</p>"
+"than a decade of supporting the Open Web. It is designed to protect the user"
+" and system from malicious applications and content.</p>"
 msgstr ""
 
 #. Translators:
@@ -1062,8 +1002,8 @@ msgid ""
 "<p>Firefox OS offers two ways to get apps:</p> <ul> <li>Firefox Marketplace "
 "— Our go-to source for great apps like Twitter and awesome local content "
 "from the best Web developers in your region.</li> <li>Adaptive App Search — "
-"Just type a single word like “sushi” to discover related mobile apps in your "
-"region, delivered by a superior mobile experience and tuned to bring you "
+"Just type a single word like “sushi” to discover related mobile apps in your"
+" region, delivered by a superior mobile experience and tuned to bring you "
 "what you want.</li> </ul>"
 msgstr ""
 
@@ -1105,12 +1045,13 @@ msgstr "Firefox OS に関する質問をするには？"
 #: db-strings.txt:1014 db-strings.txt.py:3426 db-strings.txt.py:6000
 #: db-strings.txt:8412
 msgid ""
-"<p>Visit <a href=\"https://support.mozilla.org/en-US/kb/firefox-os-user-guide"
-"\">https://support.mozilla.org/en-US/kb/firefox-os-user-guide</a> for more "
-"information.</p>"
+"<p>Visit <a href=\"https://support.mozilla.org/en-US/kb/firefox-os-user-"
+"guide\">https://support.mozilla.org/en-US/kb/firefox-os-user-guide</a> for "
+"more information.</p>"
 msgstr ""
-"<p><a href=\"https://support.mozilla.org/kb/firefox-os-user-guide\">https://"
-"support.mozilla.org/kb/firefox-os-user-guide</a>へアクセスしてください。</p>"
+"<p><a href=\"https://support.mozilla.org/kb/firefox-os-user-"
+"guide\">https://support.mozilla.org/kb/firefox-os-user-"
+"guide</a>へアクセスしてください。</p>"
 
 #. Translators:
 #. Page path: /1-1/about/
@@ -1194,8 +1135,8 @@ msgstr "<p>クイズに答えて、新しく覚えたことを確認しましょ
 #. Page path: /1-1/take-the-challenge/
 #: db-strings.txt:1077
 msgid ""
-"<h2>Ready to show what you know?</h2> <p>Think you're ready to start selling "
-"Firefox OS to your customers? Put your knowledge to work and answer these "
+"<h2>Ready to show what you know?</h2> <p>Think you're ready to start selling"
+" Firefox OS to your customers? Put your knowledge to work and answer these "
 "questions to prove you have what it takes.</p>"
 msgstr ""
 
@@ -1209,13 +1150,13 @@ msgstr ""
 #. Page path: /1-1/take-the-challenge/
 #: db-strings.txt:1095
 msgid ""
-"<p>If you have worked through the questions and all of the content, then you "
-"have the basics to match the needs of Firefox OS to your customers."
-"<br><br>Easy to use, a Firefox OS smartphone is perfect for new smartphone "
-"users and full of all the features that customers want and need.<br><br>And "
-"it is powered by Mozilla, making Firefox OS the right choice for anyone "
-"committed to ensuring that the power of the Web remains in the hands of "
-"users everywhere!</p>"
+"<p>If you have worked through the questions and all of the content, then you"
+" have the basics to match the needs of Firefox OS to your "
+"customers.<br><br>Easy to use, a Firefox OS smartphone is perfect for new "
+"smartphone users and full of all the features that customers want and "
+"need.<br><br>And it is powered by Mozilla, making Firefox OS the right "
+"choice for anyone committed to ensuring that the power of the Web remains in"
+" the hands of users everywhere!</p>"
 msgstr ""
 
 #. Translators:
@@ -1225,7 +1166,8 @@ msgstr ""
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
 #: db-strings.txt:1104 db-strings.txt.py:3516 db-strings.txt.py:6099
-msgid "<p>How do you access the Adaptive App Search feature on Firefox OS?</p>"
+msgid ""
+"<p>How do you access the Adaptive App Search feature on Firefox OS?</p>"
 msgstr ""
 
 #. Translators:
@@ -1265,8 +1207,8 @@ msgstr ""
 #: db-strings.txt:1149 db-strings.txt.py:3561 db-strings.txt.py:6144
 #: db-strings.txt:8556
 msgid ""
-"<p>That’s right! All of these apps come pre-loaded on every Firefox OS phone."
-"</p>"
+"<p>That’s right! All of these apps come pre-loaded on every Firefox OS "
+"phone.</p>"
 msgstr ""
 
 #. Translators:
@@ -1280,7 +1222,8 @@ msgstr ""
 #: db-strings.txt:1158 db-strings.txt.py:3570 db-strings.txt.py:6153
 #: db-strings.txt:8565
 msgid ""
-"<p>Actually, all of these apps come pre-loaded on every Firefox OS phone.</p>"
+"<p>Actually, all of these apps come pre-loaded on every Firefox OS "
+"phone.</p>"
 msgstr ""
 
 #. Translators:
@@ -1330,8 +1273,8 @@ msgstr ""
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:1212 db-strings.txt.py:9195
 msgid ""
-"<p>Which of these customer responses indicate an ideal candidate for Firefox "
-"OS? Select all that apply.</p>"
+"<p>Which of these customer responses indicate an ideal candidate for Firefox"
+" OS? Select all that apply.</p>"
 msgstr ""
 
 #. Translators:
@@ -1345,8 +1288,8 @@ msgstr ""
 #: db-strings.txt:1221 db-strings.txt.py:4209 db-strings.txt.py:6792
 #: db-strings.txt:9204
 msgid ""
-"<p>That’s right. All of these customers are ideal candidates for Firefox OS!"
-"</p>"
+"<p>That’s right. All of these customers are ideal candidates for Firefox "
+"OS!</p>"
 msgstr ""
 
 #. Translators:
@@ -1561,8 +1504,8 @@ msgstr ""
 #. Page path: /1-1/take-the-challenge/
 #: db-strings.txt:1482 db-strings.txt.py:1491
 msgid ""
-"<p>Actually, when you meet a Firefox fan, talk about how choosing Firefox OS "
-"helps to keep the Web free and open.</p>"
+"<p>Actually, when you meet a Firefox fan, talk about how choosing Firefox OS"
+" helps to keep the Web free and open.</p>"
 msgstr ""
 
 #. Translators:
@@ -1580,8 +1523,8 @@ msgstr ""
 #. Page path: /1-1/take-the-challenge/
 #: db-strings.txt:1509
 msgid ""
-"<p>That’s right. With this customer, highlight the great value of Firefox OS "
-"and the full feature set, including social apps that are preloaded on the "
+"<p>That’s right. With this customer, highlight the great value of Firefox OS"
+" and the full feature set, including social apps that are preloaded on the "
 "phone.</p>"
 msgstr ""
 
@@ -1824,8 +1767,8 @@ msgstr ""
 #. Page path: /1-1/take-the-challenge/
 #: db-strings.txt:1806 db-strings.txt.py:1815
 msgid ""
-"<p>Actually, the best response to this objection is to talk about the robust "
-"security model.</p>"
+"<p>Actually, the best response to this objection is to talk about the robust"
+" security model.</p>"
 msgstr ""
 
 #. Translators:
@@ -1952,8 +1895,8 @@ msgstr ""
 #. Page path: /1-4/take-the-challenge/
 #: db-strings.txt:1941 db-strings.txt.py:4803 db-strings.txt.py:7314
 msgid ""
-"<p>Your background image changes instantly to reveal popular photos from the "
-"Web.</p>"
+"<p>Your background image changes instantly to reveal popular photos from the"
+" Web.</p>"
 msgstr ""
 
 #. Translators:
@@ -2071,10 +2014,9 @@ msgstr "<p>適応的アプリ検索</p>"
 #. Page path: /1-1/take-the-challenge/
 #: db-strings.txt:2112
 msgid ""
-"<p>With Adaptive App Search, Firefox OS adapts to your needs better than any "
-"other phone.</p>"
-msgstr ""
-"<p>適応的アプリ検索を使えば、他の電話より簡単に必要なアプリを探せます。</p>"
+"<p>With Adaptive App Search, Firefox OS adapts to your needs better than any"
+" other phone.</p>"
+msgstr "<p>適応的アプリ検索を使えば、他の電話より簡単に必要なアプリを探せます。</p>"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -2125,8 +2067,8 @@ msgstr ""
 #: db-strings.txt:7152 db-strings.txt.py:9483 db-strings.txt.py:9519
 msgid ""
 "<p>Firefox OS gives you the most value for your money, with everything you "
-"expect — camera, email, apps, music, maps and more — at the most competitive "
-"prices.</p>"
+"expect — camera, email, apps, music, maps and more — at the most competitive"
+" prices.</p>"
 msgstr ""
 
 #. Translators:
@@ -2161,9 +2103,9 @@ msgstr ""
 #: db-strings.txt:2184 db-strings.txt.py:7134
 msgid ""
 "<p>Firefox OS gives you the most value for your money, with everything you "
-"expect — camera, email, apps, music, maps and more — at the most competitive "
-"prices. Plus, Adaptive App Search feature makes it easy to find the apps you "
-"really need, when you need it.</p>"
+"expect — camera, email, apps, music, maps and more — at the most competitive"
+" prices. Plus, Adaptive App Search feature makes it easy to find the apps "
+"you really need, when you need it.</p>"
 msgstr ""
 
 #. Translators:
@@ -2289,8 +2231,8 @@ msgstr ""
 #. Page path: /1-4/take-the-challenge/
 #: db-strings.txt:2310 db-strings.txt.py:4749 db-strings.txt.py:7260
 msgid ""
-"<p>Results are instantly usable — you don’t have to download the app first.</"
-"p>"
+"<p>Results are instantly usable — you don’t have to download the app "
+"first.</p>"
 msgstr ""
 
 #. Translators:
@@ -2304,7 +2246,8 @@ msgstr ""
 #: db-strings.txt:2319 db-strings.txt.py:4758 db-strings.txt.py:7269
 #: db-strings.txt:9645
 msgid ""
-"<p>You can easily import contacts from Facebook to your Firefox OS phone.</p>"
+"<p>You can easily import contacts from Facebook to your Firefox OS "
+"phone.</p>"
 msgstr ""
 
 #. Translators:
@@ -2345,9 +2288,9 @@ msgstr ""
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
 #: db-strings.txt:2346 db-strings.txt.py:4785 db-strings.txt.py:7296
-msgid "<p>Firefox OS is built entirely using HTML5 and open Web standards.</p>"
-msgstr ""
-"<p>Firefox OS は HTML5 とオープンな Web 標準を利用して作成されています。</p>"
+msgid ""
+"<p>Firefox OS is built entirely using HTML5 and open Web standards.</p>"
+msgstr "<p>Firefox OS は HTML5 とオープンな Web 標準を利用して作成されています。</p>"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -2425,8 +2368,8 @@ msgstr ""
 #. Page path: /1-4/take-the-challenge/
 #: db-strings.txt:2445 db-strings.txt.py:7395
 msgid ""
-"<p>Access to over 20,000 free and paid apps at launch, including some of the "
-"most popular global apps today.</p>"
+"<p>Access to over 20,000 free and paid apps at launch, including some of the"
+" most popular global apps today.</p>"
 msgstr ""
 
 #. Translators:
@@ -2475,8 +2418,8 @@ msgstr ""
 #: db-strings.txt:2598
 msgid ""
 "<p>Firefox OS is packed with all the features that made your customers want "
-"a smartphone in the first place: Camera, Gallery, social features, Music and "
-"more.<br><br>Firefox OS users have complete access to apps in the Firefox "
+"a smartphone in the first place: Camera, Gallery, social features, Music and"
+" more.<br><br>Firefox OS users have complete access to apps in the Firefox "
 "Marketplace, without the need for a sign-in. There, they can get all the "
 "popular, big name apps, as well as local content designed to help them get "
 "the most out of the world around them.</p>"
@@ -2496,12 +2439,12 @@ msgstr ""
 #. Page path: /1-3T/introduction/
 #: db-strings.txt:2643
 msgid ""
-"<p>Your customers’ needs are always changing. That’s why Firefox OS does the "
-"same — adapting so your customers can live every moment to its fullest."
-"<br><br>Firefox OS devices are perfect for new smartphone users — easy to "
-"use and full of all the features that customers expect. And because Firefox "
-"OS devices are powered by Mozilla, they’re the perfect choice for anyone "
-"committed to keeping the Web open for all.</p>"
+"<p>Your customers’ needs are always changing. That’s why Firefox OS does the"
+" same — adapting so your customers can live every moment to its "
+"fullest.<br><br>Firefox OS devices are perfect for new smartphone users — "
+"easy to use and full of all the features that customers expect. And because "
+"Firefox OS devices are powered by Mozilla, they’re the perfect choice for "
+"anyone committed to keeping the Web open for all.</p>"
 msgstr ""
 
 #. Translators:
@@ -2510,8 +2453,8 @@ msgstr ""
 #. Page path: /2-0/demo-tips/
 #: db-strings.txt:2670 db-strings.txt.py:7656
 msgid ""
-"<h2>Demonstrations That Matter</h2> <p>Demonstrating the features of Firefox "
-"OS and how easy it is to use will be your best selling tool.<br><br>Browse "
+"<h2>Demonstrations That Matter</h2> <p>Demonstrating the features of Firefox"
+" OS and how easy it is to use will be your best selling tool.<br><br>Browse "
 "the demonstration videos below to get started.</p>"
 msgstr ""
 
@@ -2564,8 +2507,8 @@ msgstr "Marketplace と適応的アプリ検索"
 #. Page path: /1-3T/demo-tips/
 #: db-strings.txt:2751
 msgid ""
-"<p>Show your customers how easy it is to get apps in Firefox Marketplace, or "
-"from anywhere on the Web with Adaptive App Search. It’s all about giving "
+"<p>Show your customers how easy it is to get apps in Firefox Marketplace, or"
+" from anywhere on the Web with Adaptive App Search. It’s all about giving "
 "users more of what they need, when they need it.</p>"
 msgstr ""
 
@@ -2586,8 +2529,8 @@ msgstr "豊かなメディア体験"
 #: db-strings.txt:2778
 msgid ""
 "<p>With the Camera, Gallery, Music apps and more, Firefox OS will keep your "
-"customers entertained on the go and connected to the things that matter most "
-"to them.</p>"
+"customers entertained on the go and connected to the things that matter most"
+" to them.</p>"
 msgstr ""
 
 #. Translators:
@@ -2630,8 +2573,9 @@ msgstr ""
 msgid ""
 "<h2>Who is your ideal Firefox customer?</h2> <p>Understanding your "
 "customer’s needs and knowing how to respond on the spot is critical to any "
-"sales opportunity.<br><br>Check out the common customer segments below, then "
-"drag the bar to learn how to best respond to each of their unique needs.</p>"
+"sales opportunity.<br><br>Check out the common customer segments below, then"
+" drag the bar to learn how to best respond to each of their unique "
+"needs.</p>"
 msgstr ""
 
 #. Translators:
@@ -2650,10 +2594,10 @@ msgstr ""
 #. Page path: /1-3T/customer-guide/
 #: db-strings.txt:2895
 msgid ""
-"<h3><em>\"I want a good deal.\"</em></h3> <p><strong>Here’s what you can say:"
-"</strong></p> <p>Firefox OS gives you the most value for your money. It has "
-"everything you expect in a smartphone — camera, email, apps from the Firefox "
-"Marketplace, music and more — at the most competitive prices.</p>"
+"<h3><em>\"I want a good deal.\"</em></h3> <p><strong>Here’s what you can "
+"say:</strong></p> <p>Firefox OS gives you the most value for your money. It "
+"has everything you expect in a smartphone — camera, email, apps from the "
+"Firefox Marketplace, music and more — at the most competitive prices.</p>"
 msgstr ""
 
 #. Translators:
@@ -2674,8 +2618,8 @@ msgstr ""
 #. Page path: /1-4/customer-guide/
 #: db-strings.txt:2949 db-strings.txt.py:5496
 msgid ""
-"<h3><em>\"I love firefox!\"</em></h3> <p><strong><strong>Here’s what you can "
-"say:</strong></strong></p> <p>If you know and love Firefox, you’ll love "
+"<h3><em>\"I love firefox!\"</em></h3> <p><strong><strong>Here’s what you can"
+" say:</strong></strong></p> <p>If you know and love Firefox, you’ll love "
 "Firefox OS. Firefox OS smartphones are entirely HTML5-based, bringing the "
 "best of the Web to your phone. Plus, Firefox OS is designed by a community "
 "dedicated to keeping the Web accessible to all. When you choose Firefox OS, "
@@ -2736,8 +2680,8 @@ msgstr "Facebook"
 #: db-strings.txt:3138 db-strings.txt.py:5685 db-strings.txt.py:8070
 msgid ""
 "<p>With built-in style filters for fun, creative shots and lots of ways to "
-"share your photographs, the full-featured camera and photo gallery will have "
-"all your subjects smiling.</p>"
+"share your photographs, the full-featured camera and photo gallery will have"
+" all your subjects smiling.</p>"
 msgstr ""
 
 #. Translators:
@@ -2798,8 +2742,8 @@ msgstr ""
 #: db-strings.txt:3300 db-strings.txt.py:5874 db-strings.txt.py:8268
 msgid ""
 "<p>Firefox OS has a robust security model that is battle-hardened from more "
-"than a decade of supporting the open Web. It is designed to protect the user "
-"and system from malicious applications and content.</p>"
+"than a decade of supporting the open Web. It is designed to protect the user"
+" and system from malicious applications and content.</p>"
 msgstr ""
 
 #. Translators:
@@ -2870,8 +2814,8 @@ msgid ""
 "<p>Firefox OS provides two ways to get apps:</p> <ul> <li>Marketplace — our "
 "go-to source for hundreds of great free apps, including popular apps like "
 "Twitter and Facebook, and for awesome local content from the best Web "
-"developers in your region.</li> <li>Adaptive App Search — just type a single "
-"word like “news” to discover related mobile apps in your region.</li> </ul>"
+"developers in your region.</li> <li>Adaptive App Search — just type a single"
+" word like “news” to discover related mobile apps in your region.</li> </ul>"
 msgstr ""
 
 #. Translators:
@@ -2909,8 +2853,8 @@ msgstr ""
 #. Page path: /1-3T/take-the-challenge/
 #: db-strings.txt:3489
 msgid ""
-"<h2>Ready to show what you know?</h2> <p>Think you are almost ready to start "
-"selling Firefox OS to your customers? Put your knowledge to the test and "
+"<h2>Ready to show what you know?</h2> <p>Think you are almost ready to start"
+" selling Firefox OS to your customers? Put your knowledge to the test and "
 "answer these questions to prove you have what it takes.</p>"
 msgstr ""
 
@@ -2928,12 +2872,13 @@ msgstr ""
 #. Page path: /1-3T/take-the-challenge/
 #: db-strings.txt:3507
 msgid ""
-"<p>If you have worked through the questions and all of the content, then you "
-"have the basics to match the needs of Firefox OS to your customers."
-"<br><br>Easy to use, a Firefox OS smartphone is perfect for new smartphone "
-"users and full of all the features that customers want and need.<br><br>And "
-"it is powered by Mozilla, making Firefox OS the right choice for anyone "
-"committed to ensuring that the Web remains in your hands!</p>"
+"<p>If you have worked through the questions and all of the content, then you"
+" have the basics to match the needs of Firefox OS to your "
+"customers.<br><br>Easy to use, a Firefox OS smartphone is perfect for new "
+"smartphone users and full of all the features that customers want and "
+"need.<br><br>And it is powered by Mozilla, making Firefox OS the right "
+"choice for anyone committed to ensuring that the Web remains in your "
+"hands!</p>"
 msgstr ""
 
 #. Translators:
@@ -3093,8 +3038,8 @@ msgstr ""
 #. Page path: /1-3T/take-the-challenge/
 #: db-strings.txt:3858 db-strings.txt.py:3867
 msgid ""
-"<p>Actually, when you meet a Firefox fan, talk about how choosing Firefox OS "
-"shows a commitment to keeping the Web in their hands</p>"
+"<p>Actually, when you meet a Firefox fan, talk about how choosing Firefox OS"
+" shows a commitment to keeping the Web in their hands</p>"
 msgstr ""
 
 #. Translators:
@@ -3151,8 +3096,8 @@ msgstr ""
 msgid ""
 "<p>All of these statements are true, but only one is the best response for "
 "this particular customer, who seems to be a Firefox fan. Talk about how the "
-"Firefox OS phones, made by Mozilla, are part of keeping the Web in the hands "
-"of the people.</p>"
+"Firefox OS phones, made by Mozilla, are part of keeping the Web in the hands"
+" of the people.</p>"
 msgstr ""
 
 #. Translators:
@@ -3161,8 +3106,8 @@ msgstr ""
 #. Page path: /1-4/take-the-challenge/
 #: db-strings.txt:3984 db-strings.txt.py:6567
 msgid ""
-"<p>While all of these statements are true, which two responses would be most "
-"useful to a first-time smartphone customer?</p>"
+"<p>While all of these statements are true, which two responses would be most"
+" useful to a first-time smartphone customer?</p>"
 msgstr ""
 
 #. Translators:
@@ -3374,8 +3319,8 @@ msgstr ""
 #: db-strings.txt:4605 db-strings.txt.py:4632 db-strings.txt.py:4659
 #: db-strings.txt:9555
 msgid ""
-"<p>If you love Firefox, you’ll love Firefox OS. Choosing a Firefox OS device "
-"puts the power of the Web in your hands.</p>"
+"<p>If you love Firefox, you’ll love Firefox OS. Choosing a Firefox OS device"
+" puts the power of the Web in your hands.</p>"
 msgstr ""
 
 #. Translators:
@@ -3413,8 +3358,8 @@ msgstr ""
 #: db-strings.txt:4668
 msgid ""
 "<p>The Firefox OS smartphone is preloaded with all the features that you’d "
-"expect, including Messages, Facebook, Email and more, all at a better value."
-"</p>"
+"expect, including Messages, Facebook, Email and more, all at a better "
+"value.</p>"
 msgstr ""
 
 #. Translators:
@@ -3456,8 +3401,8 @@ msgstr ""
 #. Page path: /1-3T/take-the-challenge/
 #: db-strings.txt:4848
 msgid ""
-"<p>Every phone has access to hundreds of free apps at launch, including some "
-"of the most popular global apps today.</p>"
+"<p>Every phone has access to hundreds of free apps at launch, including some"
+" of the most popular global apps today.</p>"
 msgstr ""
 
 #. Translators:
@@ -3516,8 +3461,8 @@ msgstr ""
 #. Page path: /1-4/introduction/
 #: db-strings.txt:5091
 msgid ""
-"<p>At Mozilla, we’re out to make a difference, not a profit. <br><br>Firefox "
-"OS smartphones are backed by a global community of thousands of developers "
+"<p>At Mozilla, we’re out to make a difference, not a profit. <br><br>Firefox"
+" OS smartphones are backed by a global community of thousands of developers "
 "working to innovate on your customers’ behalf and made locally with their "
 "interests and needs in mind. When customers choose Firefox OS, they’re "
 "helping build a brighter future for the Web for all.</p>"
@@ -3529,8 +3474,8 @@ msgstr ""
 msgid ""
 "<p>Your customer’s needs are always changing. Firefox OS smartphones adapt "
 "to your customers’ needs so they can live every moment to its fullest.</p> "
-"<p>Easy to use, they’re perfect for new smartphone users and full of all the "
-"features that customers expect. Powered by Mozilla, Firefox OS devices are "
+"<p>Easy to use, they’re perfect for new smartphone users and full of all the"
+" features that customers expect. Powered by Mozilla, Firefox OS devices are "
 "the right choice for anyone committed to ensuring that the Web remains</p>"
 msgstr ""
 
@@ -3538,9 +3483,9 @@ msgstr ""
 #. Page path: /1-4/demo-tips/
 #: db-strings.txt:5145
 msgid ""
-"<h2>Demonstrations That Matter</h2> <p>Demonstrating the features of Firefox "
-"OS and how easy it is to use will be your best selling tool. So what should "
-"you show?<br><br>Browse the demonstration videos below to get started.</p>"
+"<h2>Demonstrations That Matter</h2> <p>Demonstrating the features of Firefox"
+" OS and how easy it is to use will be your best selling tool. So what should"
+" you show?<br><br>Browse the demonstration videos below to get started.</p>"
 msgstr ""
 
 #. Translators:
@@ -3561,8 +3506,8 @@ msgstr "地図"
 #. Page path: /1-4/demo-tips/
 #: db-strings.txt:5217
 msgid ""
-"Demonstrate the powerful map features of Firefox OS, including local transit "
-"info."
+"Demonstrate the powerful map features of Firefox OS, including local transit"
+" info."
 msgstr ""
 
 #. Translators:
@@ -3613,8 +3558,8 @@ msgstr "音楽と FM ラジオ"
 #. Page path: /1-4/demo-tips/
 #: db-strings.txt:5352
 msgid ""
-"With music at their fingertips, your customers will see how Firefox OS keeps "
-"them entertained and dancing in the streets."
+"With music at their fingertips, your customers will see how Firefox OS keeps"
+" them entertained and dancing in the streets."
 msgstr ""
 
 #. Translators:
@@ -3633,10 +3578,10 @@ msgstr ""
 #. Page path: /1-4/customer-guide/
 #: db-strings.txt:5442
 msgid ""
-"<h3><em>\"I want a good deal.\"</em></h3> <p><strong>Here’s what you can say:"
-"</strong></p> <p>Firefox OS gives you the most value for your money. It has "
-"everything you expect in a smartphone — camera, email, apps, music, maps and "
-"more — at the most competitive prices.</p>"
+"<h3><em>\"I want a good deal.\"</em></h3> <p><strong>Here’s what you can "
+"say:</strong></p> <p>Firefox OS gives you the most value for your money. It "
+"has everything you expect in a smartphone — camera, email, apps, music, maps"
+" and more — at the most competitive prices.</p>"
 msgstr ""
 
 #. Translators:
@@ -3675,9 +3620,10 @@ msgstr ""
 #. Page path: /1-4/key-features/
 #: db-strings.txt:5604
 msgid ""
-"<p>The fast, smart, safe way to get the best of the Web. Use the awesome bar "
-"to enter website URL’s, perform searches, and access your browsing history. "
-"Plus, tabs let you multitask by browsing multiple pages simultaneously. </p>"
+"<p>The fast, smart, safe way to get the best of the Web. Use the awesome bar"
+" to enter website URL’s, perform searches, and access your browsing history."
+" Plus, tabs let you multitask by browsing multiple pages simultaneously. "
+"</p>"
 msgstr ""
 
 #. Translators:
@@ -3698,8 +3644,8 @@ msgid ""
 "to set up multiple email accounts, with support for the most common "
 "Exchange, SMTP or IMAP email providers. </p>"
 msgstr ""
-"<p>どこにいても、友達や仲間とつながりましょう。メールアプリは複数アカウントを"
-"利用でき、Exchange、SMTP、そして IMAP に対応しています。</p>"
+"<p>どこにいても、友達や仲間とつながりましょう。メールアプリは複数アカウントを利用でき、Exchange、SMTP、そして IMAP "
+"に対応しています。</p>"
 
 #. Translators:
 #. Page path: /1-4/frequently-asked-questions/
@@ -3717,12 +3663,12 @@ msgstr ""
 #: db-strings.txt:5892
 msgid ""
 "<p>Users can place bookmarks to any website on the home page to provide the "
-"functionality of that website directly from the home screen. Also, users can "
-"simply enter any search term on the home screen and instantly create a one-"
+"functionality of that website directly from the home screen. Also, users can"
+" simply enter any search term on the home screen and instantly create a one-"
 "time use or downloadable app. Creating and consuming these apps on demand "
 "puts users in complete control of their smartphone experience and will make "
-"it possible for people to get the exact content they want, when they want it."
-"</p>"
+"it possible for people to get the exact content they want, when they want "
+"it.</p>"
 msgstr ""
 
 #. Translators:
@@ -3741,8 +3687,8 @@ msgstr ""
 msgid ""
 "<p>Firefox OS is built on Web technologies but has offline capabilities for "
 "all the phone’s core functionalities. That means apps do not require an "
-"active Internet connection to work unless they need to send or receive date."
-"</p>"
+"active Internet connection to work unless they need to send or receive "
+"date.</p>"
 msgstr ""
 
 #. Translators:
@@ -3750,8 +3696,8 @@ msgstr ""
 #: db-strings.txt:5964
 msgid ""
 "<p>Firefox OS provides two ways to get apps:</p> <ul> <li>Firefox "
-"Marketplace — Our go-to source for great apps like Twitter and awesome local "
-"content from the best Web developers in your region.</li> <li>Adaptive App "
+"Marketplace — Our go-to source for great apps like Twitter and awesome local"
+" content from the best Web developers in your region.</li> <li>Adaptive App "
 "Search — Just type a single word like \"news\" to discover related mobile "
 "apps in your region, delivered by a superior mobile experience and tuned to "
 "bring you what you want.<br><br></li> </ul>"
@@ -3771,20 +3717,20 @@ msgstr ""
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:6072 db-strings.txt.py:8484
 msgid ""
-"<p>Think you are almost ready to start selling Firefox OS to your customers? "
-"Put your knowledge to the test and answer these questions to prove you have "
-"what it takes.</p>"
+"<p>Think you are almost ready to start selling Firefox OS to your customers?"
+" Put your knowledge to the test and answer these questions to prove you have"
+" what it takes.</p>"
 msgstr ""
 
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
 #: db-strings.txt:6090
 msgid ""
-"<p>If you have worked through the questions and all of the content, then you "
-"have the basics to match the needs of Firefox OS to your customers. "
+"<p>If you have worked through the questions and all of the content, then you"
+" have the basics to match the needs of Firefox OS to your customers. "
 "<br><br>Easy to use, a Firefox OS smartphone is perfect for new smartphone "
-"users and full of all the features that customers want and need. <br><br>And "
-"it is powered by Mozilla, making Firefox OS the right choice for anyone "
+"users and full of all the features that customers want and need. <br><br>And"
+" it is powered by Mozilla, making Firefox OS the right choice for anyone "
 "committed to ensuring that the Web remains in your hands!</p>"
 msgstr ""
 
@@ -3834,8 +3780,8 @@ msgstr ""
 #. Page path: /1-4/take-the-challenge/
 #: db-strings.txt:6441 db-strings.txt.py:6450
 msgid ""
-"<p>Actually, when you meet a Firefox fan, talk about how choosing Firefox OS "
-"shows a commitment to keeping the Web in their hands.</p>"
+"<p>Actually, when you meet a Firefox fan, talk about how choosing Firefox OS"
+" shows a commitment to keeping the Web in their hands.</p>"
 msgstr ""
 
 #. Translators:
@@ -3851,9 +3797,9 @@ msgstr ""
 #. Page path: /1-4/take-the-challenge/
 #: db-strings.txt:6468
 msgid ""
-"<p>That’s right. With this customer, highlight the great value of Firefox OS "
-"full feature set of Firefox OS, including social apps that are preloaded on "
-"the phone, all at great value.</p>"
+"<p>That’s right. With this customer, highlight the great value of Firefox OS"
+" full feature set of Firefox OS, including social apps that are preloaded on"
+" the phone, all at great value.</p>"
 msgstr ""
 
 #. Translators:
@@ -3881,8 +3827,8 @@ msgstr ""
 msgid ""
 "<p>All of these statements are true, but only one is the best response for "
 "this particular customer, who seems to be a Firefox fan. Talk about how the "
-"Firefox OS phones, made by Mozilla, are part of keeping the Web in the hands "
-"of the people. </p>"
+"Firefox OS phones, made by Mozilla, are part of keeping the Web in the hands"
+" of the people. </p>"
 msgstr ""
 
 #. Translators:
@@ -3973,8 +3919,8 @@ msgstr "コミュニテイによる開発"
 msgid ""
 "At Mozilla, we’re out to make a difference, not a profit.   Firefox OS "
 "smartphones are backed by a global community of developers working to "
-"innovate and further Web technologies.    When you choose Firefox OS, you’re "
-"helping build a brighter future for the Web for all."
+"innovate and further Web technologies.    When you choose Firefox OS, you’re"
+" helping build a brighter future for the Web for all."
 msgstr ""
 
 #. Translators:
@@ -4005,8 +3951,8 @@ msgstr ""
 #: db-strings.txt:7710
 msgid ""
 "<p>Show your customers how easy it is to get apps in the Firefox "
-"Marketplace. Tell them that the Marketplace has the cool games and apps that "
-"they’re looking for. Demonstrate an example of a local app that will help "
+"Marketplace. Tell them that the Marketplace has the cool games and apps that"
+" they’re looking for. Demonstrate an example of a local app that will help "
 "make their lives easier.</p>"
 msgstr ""
 
@@ -4029,8 +3975,8 @@ msgstr "豊かなメディア体験"
 #: db-strings.txt:7737
 msgid ""
 "<p>With Camera, Gallery, Music apps and more, Firefox OS will keep your "
-"customers entertained on the go and connected to the things that matter most "
-"to them.  Camera: Photograph, edit and share. Show off our full-featured "
+"customers entertained on the go and connected to the things that matter most"
+" to them.  Camera: Photograph, edit and share. Show off our full-featured "
 "camera and gallery apps, including built-in style filters, video and more  "
 "Music: With music at their fingertips, your customers will see how Firefox "
 "OS keeps them entertained and dancing in the streets.</p>"
@@ -4072,10 +4018,10 @@ msgstr ""
 #. Page path: /2-0/customer-guide/
 #: db-strings.txt:7854
 msgid ""
-"<h3><em>\"I want a good deal.\"</em></h3> <p><strong>Here’s what you can say:"
-"</strong></p> <p>Firefox OS gives you the most value for your money."
-"<br><br>It has everything you expect in a smartphone — camera, email, apps, "
-"music, maps and more — at the most competitive prices.</p>"
+"<h3><em>\"I want a good deal.\"</em></h3> <p><strong>Here’s what you can "
+"say:</strong></p> <p>Firefox OS gives you the most value for your "
+"money.<br><br>It has everything you expect in a smartphone — camera, email, "
+"apps, music, maps and more — at the most competitive prices.</p>"
 msgstr ""
 
 #. Translators:
@@ -4093,12 +4039,13 @@ msgstr ""
 #. Page path: /2-0/customer-guide/
 #: db-strings.txt:7908
 msgid ""
-"<h3><em>\"I love firefox!\"</em></h3> <p><strong><strong>Here’s what you can "
-"say:</strong></strong></p> <p>If you know and love Firefox, you’ll love "
+"<h3><em>\"I love firefox!\"</em></h3> <p><strong><strong>Here’s what you can"
+" say:</strong></strong></p> <p>If you know and love Firefox, you’ll love "
 "Firefox OS. <br><br>Firefox OS smartphones are entirely HTML5-based, "
 "bringing the best of the Web to your phone. <br><br>Plus, Firefox OS is "
-"designed by a community dedicated to keeping the Web accessible to all. When "
-"you choose Firefox OS, you have the full power of the Web in your hands.</p>"
+"designed by a community dedicated to keeping the Web accessible to all. When"
+" you choose Firefox OS, you have the full power of the Web in your "
+"hands.</p>"
 msgstr ""
 
 #. Translators:
@@ -4125,8 +4072,8 @@ msgstr ""
 msgid ""
 "<p>Experience the fast, smart, safe way to get the best of the Web. Use the "
 "Search Bar to visit websites, perform searches and access apps from the "
-"Marketplace. Multitask with tabs and browse multiple pages at the same time</"
-"p>"
+"Marketplace. Multitask with tabs and browse multiple pages at the same "
+"time</p>"
 msgstr ""
 
 #. Translators:
@@ -4141,8 +4088,8 @@ msgstr ""
 #. Page path: /2-0/key-features/
 #: db-strings.txt:8043
 msgid ""
-"<p>Easily import your Facebook friends to your phone and keep your community "
-"all in one place thanks to deep integration with your favorite social "
+"<p>Easily import your Facebook friends to your phone and keep your community"
+" all in one place thanks to deep integration with your favorite social "
 "networks.</p>"
 msgstr ""
 
@@ -4156,8 +4103,8 @@ msgstr "Bluetooth"
 #. Page path: /2-0/key-features/
 #: db-strings.txt:8097
 msgid ""
-"<p>Easily pair your device with a wide range of Bluetooth accessories. Share "
-"contacts, images, videos or your favorite URLs with friends.</p>"
+"<p>Easily pair your device with a wide range of Bluetooth accessories. Share"
+" contacts, images, videos or your favorite URLs with friends.</p>"
 msgstr ""
 
 #. Translators:
@@ -4187,8 +4134,8 @@ msgstr "Find My Device"
 #. Page path: /2-0/key-features/
 #: db-strings.txt:8178
 msgid ""
-"Location tracking helps you find your device if you lose it. Remote wipe and "
-"lock capabilities help you keep your personal information safe."
+"Location tracking helps you find your device if you lose it. Remote wipe and"
+" lock capabilities help you keep your personal information safe."
 msgstr ""
 
 #. Translators:
@@ -4227,8 +4174,8 @@ msgstr "WhatsApp を利用できますか？"
 msgid ""
 "Not directly, but the ConnectA2 app allows you to send instant messages to "
 "your contacts on ConnectA2 and/or WhatsApp.  You can send and receive "
-"messages, emoticons, pictures, videos and audio files for free. You can also "
-"create and use group chats and receive notifications of new messages, even "
+"messages, emoticons, pictures, videos and audio files for free. You can also"
+" create and use group chats and receive notifications of new messages, even "
 "when the app is closed."
 msgstr ""
 
@@ -4275,8 +4222,8 @@ msgid ""
 "to match Firefox OS to the needs of your customers. <br><br>Easy to use, a "
 "Firefox OS smartphone is perfect for new smartphone users and full of all "
 "the features that customers want and need. <br><br>And it’s powered by "
-"Mozilla, making Firefox OS the right choice for anyone committed to ensuring "
-"that the power of the Web remains in their hands!</p>"
+"Mozilla, making Firefox OS the right choice for anyone committed to ensuring"
+" that the power of the Web remains in their hands!</p>"
 msgstr ""
 
 #. Translators:
@@ -4285,15 +4232,14 @@ msgstr ""
 msgid ""
 "<p>What are some examples of the kind of personalization and control that "
 "Firefox OS allows?  Select all that apply.</p>"
-msgstr ""
-"<p>以下から、Firefox OS でできるカスタマイズや設定を全て選んでください。</p>"
+msgstr "<p>以下から、Firefox OS でできるカスタマイズや設定を全て選んでください。</p>"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:8520
 msgid ""
-"<p>That’s right! All of these things are possible with a Firefox OS phone.</"
-"p>"
+"<p>That’s right! All of these things are possible with a Firefox OS "
+"phone.</p>"
 msgstr "<p>正解です。全てのことが可能です。</p>"
 
 #. Translators:
@@ -4378,16 +4324,16 @@ msgstr ""
 #: db-strings.txt:8844
 msgid ""
 "<p>That’s right. When you meet a Firefox fan, talk about how choosing "
-"Firefox OS shows a commitment to keeping the power of the Web in their hands."
-"</p>"
+"Firefox OS shows a commitment to keeping the power of the Web in their "
+"hands.</p>"
 msgstr ""
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:8853 db-strings.txt.py:8862
 msgid ""
-"<p>Actually, when you meet a Firefox fan, talk about how choosing Firefox OS "
-"shows a commitment to keeping power of the the Web in their hands.</p>"
+"<p>Actually, when you meet a Firefox fan, talk about how choosing Firefox OS"
+" shows a commitment to keeping power of the the Web in their hands.</p>"
 msgstr ""
 
 #. Translators:
@@ -4414,8 +4360,8 @@ msgstr ""
 msgid ""
 "<p>That’s right. This customer seems like a Firefox fan. Talk about how the "
 "Firefox OS phones, made by Mozilla, show a commitment to keeping the power "
-"of the Web in the hands of the people. And while all of these statements are "
-"true, only this one is the best response for this particular customer.</p>"
+"of the Web in the hands of the people. And while all of these statements are"
+" true, only this one is the best response for this particular customer.</p>"
 msgstr ""
 
 #. Translators:
@@ -4432,8 +4378,8 @@ msgstr ""
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:8943
 msgid ""
-"<p>What does the Find My Device feature on your Firefox OS phone help you do "
-"in the case that your phone is lost or stolen?</p>"
+"<p>What does the Find My Device feature on your Firefox OS phone help you do"
+" in the case that your phone is lost or stolen?</p>"
 msgstr ""
 
 #. Translators:
@@ -4456,8 +4402,8 @@ msgstr ""
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:8979
 msgid ""
-"<p>While all of these statements are true, which two responses would be most "
-"useful to a first-time smartphone customer? </p>"
+"<p>While all of these statements are true, which two responses would be most"
+" useful to a first-time smartphone customer? </p>"
 msgstr ""
 
 #. Translators:
@@ -4568,12 +4514,12 @@ msgstr "<p>動画をシェアする</p>"
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:9447
 msgid ""
-"<p>With the Firefox Marketplace, the best preloaded apps and an awesome user "
-"experience, Firefox OS is packed with the features that users are looking "
+"<p>With the Firefox Marketplace, the best preloaded apps and an awesome user"
+" experience, Firefox OS is packed with the features that users are looking "
 "for in a smartphone.</p>"
 msgstr ""
-"<p>Firefox OS には、Firefox Marketplace、プリインストールアプリ、素晴らしい"
-"ユーザ体験といった、スマートフォンに期待される全てがあります。</p>"
+"<p>Firefox OS には、Firefox "
+"Marketplace、プリインストールアプリ、素晴らしいユーザ体験といった、スマートフォンに期待される全てがあります。</p>"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -4582,9 +4528,8 @@ msgid ""
 "<p>Since it’s made by Firefox, Firefox OS is backed by a global community "
 "working on your behalf and with your interests in mind.</p>"
 msgstr ""
-"<p>Firefox をもとに作られているため、Firefox OS はあなたのやりたいことをあな"
-"たの代わりに実現するべく働く世界規模のコミュニティによって支えられています。"
-"</p>"
+"<p>Firefox をもとに作られているため、Firefox OS "
+"はあなたのやりたいことをあなたの代わりに実現するべく働く世界規模のコミュニティによって支えられています。</p>"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -4594,8 +4539,8 @@ msgid ""
 "easy to use and allows for greater control, personalization and "
 "customization than many other smartphones on the market.</p>"
 msgstr ""
-"<p>Firefox OS は利用者と、そのニーズを念頭に置いて作成されています。そのため"
-"他のスマートフォンと比べても極めて簡単に使えるようにできています。</p>"
+"<p>Firefox OS "
+"は利用者と、そのニーズを念頭に置いて作成されています。そのため他のスマートフォンと比べても極めて簡単に使えるようにできています。</p>"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -4659,9 +4604,9 @@ msgstr "<p>遠隔から端末をロックできます。</p>"
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:9672
-msgid "<p>Firefox OS is built entirely using HTML5 and Open Web standards.</p>"
-msgstr ""
-"<p>Firefox OS は HTML5 とオープンな Web 標準に基づいて作成されています。</p>"
+msgid ""
+"<p>Firefox OS is built entirely using HTML5 and Open Web standards.</p>"
+msgstr "<p>Firefox OS は HTML5 とオープンな Web 標準に基づいて作成されています。</p>"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -4690,9 +4635,9 @@ msgid ""
 "relevant apps for the Firefox OS platform. New apps and content are added "
 "every day. </p>"
 msgstr ""
-"<p>Firefox OS は世界的な開発者コミュニティと、アプリを新規に開発 / Firefox "
-"OS 上へ移植すると決めたコンテンツプロバイダーによって支えられています。"
-"Firefox OS で利用できる新しいアプリやコンテンツは毎日増加しています。</p>"
+"<p>Firefox OS は世界的な開発者コミュニティと、アプリを新規に開発 / Firefox OS "
+"上へ移植すると決めたコンテンツプロバイダーによって支えられています。Firefox OS "
+"で利用できる新しいアプリやコンテンツは毎日増加しています。</p>"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -4700,9 +4645,7 @@ msgstr ""
 msgid ""
 "<p>Apps developers are slowly realizing the benefit of HTML5 in support of "
 "the Open Web.</p>"
-msgstr ""
-"<p>アプリ開発者は、オープン Webを支える HTML5 の利点を徐々に認識しつつありま"
-"す。</p>"
+msgstr "<p>アプリ開発者は、オープン Webを支える HTML5 の利点を徐々に認識しつつあります。</p>"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -4716,8 +4659,8 @@ msgstr ""
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:9753
 msgid ""
-"<p>They’re new and backed by a global community working to help keep the Web "
-"accessible to all.</p>"
+"<p>They’re new and backed by a global community working to help keep the Web"
+" accessible to all.</p>"
 msgstr ""
 
 #. Translators:
@@ -4753,18 +4696,16 @@ msgid ""
 "<ol> <li>Open the Settings app on your device.</li> <li>Scroll down and "
 "select <strong>Device information</strong>.</li> <li>On the Device "
 "information screen, select <strong>More Information</strong> and look for "
-"the version numbers under <em>OS version</em> at the top of the screen. <ul> "
-"<li><em>Firefox OS 1.0.1.0</em> means you have version 1.0.1</li> "
+"the version numbers under <em>OS version</em> at the top of the screen. <ul>"
+" <li><em>Firefox OS 1.0.1.0</em> means you have version 1.0.1</li> "
 "<li><em>Firefox OS 1.1.0.0</em> means you have version 1.1</li> "
 "<li><em>1.3.0.0</em> means you have version 1.3</li> <li><em>2.0.0.0</em> "
 "means you have version 2.0</li> </ul> </li> </ol>"
 msgstr ""
-"<ol><li>設定アプリを起動します。</li><li>スクロールし、<strong>端末情報</"
-"strong>を選びます。</li><li>端末情報で、<strong>その他の情報</strong>を選び、"
-"画面上部にある<em>OS のバージョン</em>の数字を確認します。"
-"<ul><li><em>Firefox OS 1.0.1.0</em>は、バージョン 1.0.1 を意味します。</"
-"li><li><em>1.3.0.0</em>はバージョン 1.3 を意味します。</li><li><em>2.0.0.0</"
-"em> は 2.0 を意味します。</li></ul></li></ol>"
+"<ol><li>設定アプリを起動します。</li><li>スクロールし、<strong>端末情報</strong>を選びます。</li><li>端末情報で、<strong>その他の情報</strong>を選び、画面上部にある<em>OS"
+" のバージョン</em>の数字を確認します。<ul><li><em>Firefox OS 1.0.1.0</em>は、バージョン 1.0.1 "
+"を意味します。</li><li><em>1.3.0.0</em>はバージョン 1.3 を意味します。</li><li><em>2.0.0.0</em> "
+"は 2.0 を意味します。</li></ul></li></ol>"
 
 #: masterfirefoxos/base/templates/base.html:39
 #: masterfirefoxos/base/templates/base.html:82
@@ -4779,8 +4720,8 @@ msgstr ""
 #: masterfirefoxos/base/templates/base.html:87
 msgid ""
 "Portions of this content are ©1998–{0} by individual contributors. Content "
-"available under a <a href=\"https://www.mozilla.org/foundation/licensing/"
-"website-content/\">Creative Commons license</a>."
+"available under a <a href=\"https://www.mozilla.org/foundation/licensing"
+"/website-content/\">Creative Commons license</a>."
 msgstr ""
 
 #: masterfirefoxos/base/templates/base.html:90
@@ -4859,9 +4800,7 @@ msgstr "変更"
 msgid ""
 "Documentation for Firefox OS {version} is not yet available in {language}, "
 "so we redirected you to the English version."
-msgstr ""
-"Firefox OS {version} の {language} 語版文書はまだ用意されていません。英語版を"
-"ご覧ください。"
+msgstr "Firefox OS {version} の {language} 語版文書はまだ用意されていません。英語版をご覧ください。"
 
 #: masterfirefoxos/base/templates/includes/version-language-switcher.html:36
 msgid "The latest version available in {language} is {version}."
