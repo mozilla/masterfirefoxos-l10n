@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-17 16:54+0000\n"
-"PO-Revision-Date: 2015-02-17 09:09:50\n"
-"Last-Translator: Jockr <rcmainak24@gmail.com>\n"
+"PO-Revision-Date: 2015-02-17 10:21:55\n"
+"Last-Translator: Ayan Choudhury <ping2ayan@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: bn\n"
 "MIME-Version: 1.0\n"
@@ -3509,7 +3509,7 @@ msgstr "আমাদের সাথে যোগাযোগ করুন"
 
 #: masterfirefoxos/base/templates/base.html:96
 msgid "Partner with Us"
-msgstr "আমাদের সঙ্গে অংশীদার"
+msgstr "আমাদের অংশীদার হোন"
 
 #: masterfirefoxos/base/templates/base.html:97
 msgid "Donate"
@@ -3529,15 +3529,15 @@ msgstr "ট্রেডমার্ক অপব্যবহার সম্ব�
 
 #: masterfirefoxos/base/templates/base.html:104
 msgid "Mozilla on Twitter"
-msgstr "Mozilla -এ Twitter"
+msgstr "Twitter-এ Mozilla"
 
 #: masterfirefoxos/base/templates/base.html:105
 msgid "Firefox on Twitter"
-msgstr "Firefox -এ Twitter"
+msgstr "Twitter-এ Firefox"
 
 #: masterfirefoxos/base/templates/base.html:106
 msgid "Mozilla on Facebook"
-msgstr "Mozilla -এ Facebook"
+msgstr "Facebook-এ Mozilla"
 
 #: masterfirefoxos/base/templates/base.html:107
 msgid "Firefox on Facebook"
@@ -3576,6 +3576,8 @@ msgid ""
 "Documentation for Firefox OS {version} is not yet available in {language}, "
 "so we redirected you to the English version."
 msgstr ""
+"Firefox OS {version}-এর ডকুমেন্টেশন {language}-এর জন্য এখনও অবধি উপলব্ধ নয়, "
+"তাই আমরা আপনাকে ইংরাজী সংস্করণে নিয়ে যাচ্ছি।"
 
 #: masterfirefoxos/base/templates/includes/version-language-switcher.html:36
 msgid "The latest version available in {language} is {version}."
