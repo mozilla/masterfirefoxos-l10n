@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-16 16:57+0000\n"
-"PO-Revision-Date: 2015-02-10 09:20:46\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2015-02-16 22:52:23\n"
+"Last-Translator: Ayan Choudhury <ping2ayan@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: bn\n"
 "MIME-Version: 1.0\n"
@@ -32,7 +32,7 @@ msgstr ""
 #: masterfirefoxos/base/templates/base.html:44
 #: masterfirefoxos/base/templates/home.html:17
 msgid "Master Firefox OS"
-msgstr ""
+msgstr "মাস্টার Firefox OS"
 
 #. Translators:
 #. Page path: /1-1/
@@ -4530,7 +4530,6 @@ msgstr ""
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:8457
-#, fuzzy
 #| msgid "Take the challenge"
 msgid "Take the Challenge"
 msgstr "চ্যালেঞ্জ গ্রহণ করুন"
@@ -5019,11 +5018,11 @@ msgstr ""
 #: masterfirefoxos/base/templates/base.html:82
 #: masterfirefoxos/base/templates/home.html:12
 msgid "Mozilla"
-msgstr ""
+msgstr "Mozilla"
 
 #: masterfirefoxos/base/templates/base.html:64
 msgid "Menu"
-msgstr ""
+msgstr "মেনু"
 
 #: masterfirefoxos/base/templates/base.html:87
 msgid ""
@@ -5074,35 +5073,35 @@ msgstr ""
 
 #: masterfirefoxos/base/templates/base.html:107
 msgid "Firefox on Facebook"
-msgstr ""
+msgstr "Facebook-এ Firefox"
 
 #: masterfirefoxos/base/templates/home.html:49
 msgid "Learn more"
-msgstr ""
+msgstr "আরও জানুন"
 
 #: masterfirefoxos/base/templates/includes/nav-information.html:3
 msgid "Home"
-msgstr ""
+msgstr "হোম"
 
 #: masterfirefoxos/base/templates/includes/nav-information.html:4
 msgid "About"
-msgstr ""
+msgstr "সম্বন্ধে"
 
 #: masterfirefoxos/base/templates/includes/version-language-switcher.html:3
 msgid "Language"
-msgstr ""
+msgstr "ভাষা"
 
 #: masterfirefoxos/base/templates/includes/version-language-switcher.html:15
 msgid "Firefox OS version"
-msgstr ""
+msgstr "Firefox OS সংস্করণ"
 
 #: masterfirefoxos/base/templates/includes/version-language-switcher.html:21
 msgid "Which version do I have?"
-msgstr ""
+msgstr "আমার কোন সংস্করণ আছে?"
 
 #: masterfirefoxos/base/templates/includes/version-language-switcher.html:23
 msgid "Change"
-msgstr ""
+msgstr "বদল করুন"
 
 #: masterfirefoxos/base/templates/includes/version-language-switcher.html:34
 msgid ""
@@ -5112,68 +5111,68 @@ msgstr ""
 
 #: masterfirefoxos/base/templates/includes/version-language-switcher.html:36
 msgid "The latest version available in {language} is {version}."
-msgstr ""
+msgstr "সর্বশেষ সংস্করণ {version} উপলব্ধ আছে {language}-তে।"
 
 #: masterfirefoxos/settings/base.py:185
 msgid "Bengali"
-msgstr ""
+msgstr "বাংলা"
 
 #: masterfirefoxos/settings/base.py:186
 msgid "Croatian"
-msgstr ""
+msgstr "ক্রোয়েশিয়ান"
 
 #: masterfirefoxos/settings/base.py:187
 msgid "Czech"
-msgstr ""
+msgstr "চেক"
 
 #: masterfirefoxos/settings/base.py:188
 msgid "English"
-msgstr ""
+msgstr "ইংরাজী"
 
 #: masterfirefoxos/settings/base.py:189
 msgid "German"
-msgstr ""
+msgstr "জার্মান"
 
 #: masterfirefoxos/settings/base.py:190
 msgid "Greek"
-msgstr ""
+msgstr "গ্রীক"
 
 #: masterfirefoxos/settings/base.py:191
 msgid "Hindi"
-msgstr ""
+msgstr "হিন্দি"
 
 #: masterfirefoxos/settings/base.py:192
 msgid "Hungarian"
-msgstr ""
+msgstr "হাঙ্গেরিয়ান"
 
 #: masterfirefoxos/settings/base.py:193
 msgid "Italian"
-msgstr ""
+msgstr "ইতালিয়ান"
 
 #: masterfirefoxos/settings/base.py:194
 msgid "Japanese"
-msgstr ""
+msgstr "জাপানিজ"
 
 #: masterfirefoxos/settings/base.py:195
 msgid "Polish"
-msgstr ""
+msgstr "পোলিশ"
 
 #: masterfirefoxos/settings/base.py:196
 msgid "Portuguese"
-msgstr ""
+msgstr "পর্তুগীজ"
 
 #: masterfirefoxos/settings/base.py:197
 msgid "Serbian"
-msgstr ""
+msgstr "সার্বিয়ান"
 
 #: masterfirefoxos/settings/base.py:198
 msgid "Spanish"
-msgstr ""
+msgstr "স্প্যানিশ"
 
 #: masterfirefoxos/settings/base.py:199
 msgid "Tamil"
-msgstr ""
+msgstr "তামিল"
 
 #: masterfirefoxos/settings/base.py:200
 msgid "Pirate"
-msgstr ""
+msgstr "পাইরেট"
