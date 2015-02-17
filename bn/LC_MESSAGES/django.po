@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-16 16:57+0000\n"
-"PO-Revision-Date: 2015-02-17 01:59:05\n"
+"PO-Revision-Date: 2015-02-17 02:41:16\n"
 "Last-Translator:  <kumar.dpkkmr.dipak@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: bn\n"
@@ -858,6 +858,7 @@ msgid ""
 "<p>Still have questions? Not for long! Find all the answers you're looking "
 "for here.</p>"
 msgstr ""
+"<p>এখনও প্রশ্ন আছে? দীর্ঘ জন্য! আপনি এখানে খুঁজছেন সব উত্তর খুঁজুন.</p>"
 
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
@@ -1205,7 +1206,7 @@ msgstr ""
 #. Page path: /1-1/take-the-challenge/
 #: db-strings.txt:1086
 msgid "<p>Get ready to sell!</p>"
-msgstr ""
+msgstr "<p>বিক্রি করার জন্য প্রস্তুত পান!</p>"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1239,6 +1240,8 @@ msgid ""
 "<p>That’s right! You simply swipe to the left to access the Adaptive App "
 "Search feature.</p>"
 msgstr ""
+"<p>যে ঠিক! আপনি কেবল অভিযোজিত অ্যাপ সন্ধান বৈশিষ্ট্য ব্যবহার করার জন্য বাম "
+"ধুমধাড়াক্কা.</p>"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1247,6 +1250,8 @@ msgid ""
 "<p>That’s not it. You simply swipe to the left to access the Adaptive App "
 "Search feature.</p>"
 msgstr ""
+"<p>যে এটা না. আপনি কেবল অভিযোজিত অ্যাপ সন্ধান বৈশিষ্ট্য ব্যবহার করার জন্য "
+"বাম ধুমধাড়াক্কা.</p>"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1298,6 +1303,8 @@ msgid ""
 "<p>Actually, they're are more. All of these apps come pre-loaded on every "
 "Firefox OS phone.</p>"
 msgstr ""
+"<p>বাস্তবিক, তারা আরো. এই অ্যাপ্লিকেশনের সমস্ত প্রতি ফায়ারফক্স ওএস ফোন "
+"প্রাক লোড আসা.</p>"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1344,6 +1351,8 @@ msgid ""
 "<p>Which of these customer responses indicate an ideal candidate for Firefox"
 " OS? Select all that apply.</p>"
 msgstr ""
+"<p>এই গ্রাহক প্রতিক্রিয়া কোন ফায়ারফক্স ওএস এর জন্য একটি আদর্শ প্রার্থী "
+"ইঙ্গিত? আবেদন যে সব নির্বাচন করুন.</p>"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1401,19 +1410,19 @@ msgstr "<p>আসলে, এই আইকন কন্টাক্ট নির�
 #. Page path: /1-1/take-the-challenge/
 #: db-strings.txt:1284
 msgid "<p>Which Firefox OS feature does this represent?<br><br><br></p>"
-msgstr ""
+msgstr "<p>এই প্রতিনিধিত্ব করেন যা ফায়ারফক্স ওএস বৈশিষ্ট্য?<br><br><br></p>"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
 #: db-strings.txt:1293
 msgid "<p>That’s right. This icon represents the Firefox browser.</p>"
-msgstr ""
+msgstr "<p>এটা ঠিক. এই আইকন ফায়ারফক্স ব্রাউজার প্রতিনিধিত্ব করে.</p>"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
 #: db-strings.txt:1302 db-strings.txt.py:1311
 msgid "<p>Actually, this icon represents the Firefox browser.</p>"
-msgstr ""
+msgstr "<p>বাস্তবিক, এই আইকন ফায়ারফক্স ব্রাউজার প্রতিনিধিত্ব করে.</p>"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1429,7 +1438,7 @@ msgstr "<p>একদম সঠিক! এই আইকন বুদ্ধিদ�
 #. Page path: /1-1/take-the-challenge/
 #: db-strings.txt:1338 db-strings.txt.py:1347
 msgid "<p>Actually, this icon represents the Adaptive App Search.</p>"
-msgstr ""
+msgstr "<p>বাস্তবিক, এই আইকন অভিযোজিত অ্যাপ অনুসন্ধান প্রতিনিধিত্ব করে.</p>"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1548,6 +1557,8 @@ msgid ""
 "<p>That’s right. With a first time smart phone user, you should talk about "
 "its simplicity and features like Adaptive App Search.</p>"
 msgstr ""
+"<p>এটা ঠিক. একটি প্রথম সময় স্মার্ট ফোন ব্যবহারকারীর সঙ্গে, আপনি অভিযোজিত "
+"অ্যাপ অনুসন্ধান মত তার সরলতা ও বৈশিষ্ট্য সম্পর্কে কথা বলা উচিত.</p>"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1556,6 +1567,8 @@ msgid ""
 "<p>Actually, with a first time smart phone user, you should talk about its "
 "simplicity and features like Adaptive App Search.</p>"
 msgstr ""
+"<p>বাস্তবিক, একটি প্রথম সময় স্মার্ট ফোন ব্যবহারকারীর সঙ্গে, আপনি অভিযোজিত "
+"অ্যাপ অনুসন্ধান মত তার সরলতা ও বৈশিষ্ট্য সম্পর্কে কথা বলা উচিত.</p>"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1884,7 +1897,7 @@ msgstr "<p>বামে সুইপ করুন</p>"
 #. Page path: /1-3T/take-the-challenge/
 #: db-strings.txt:1833 db-strings.txt.py:4245
 msgid "<p>Click on the home button.</p>"
-msgstr ""
+msgstr "<p>হোম বাটন ক্লিক করুন.</p>"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1917,7 +1930,7 @@ msgstr "<p>Firefox Marketplace</p>"
 #: db-strings.txt:1869 db-strings.txt.py:2022 db-strings.txt.py:2058
 #: db-strings.txt:2094 db-strings.txt.py:2373
 msgid "<p>Firefox browser</p>"
-msgstr ""
+msgstr "<p>Firefox browser</p>"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1949,7 +1962,7 @@ msgstr "<p>Facebook</p>"
 #. Page path: /1-1/take-the-challenge/
 #: db-strings.txt:1896
 msgid "<p>Email and SMS</p>"
-msgstr ""
+msgstr "<p>ইমেইল এবং SMS</p>"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1965,13 +1978,13 @@ msgstr "<p>FM রেডিও</p>"
 #. Page path: /1-1/take-the-challenge/
 #: db-strings.txt:1914
 msgid "<p>Music Player</p>"
-msgstr ""
+msgstr "<p>সঙ্গীত প্লেয়ার</p>"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
 #: db-strings.txt:1923
 msgid "<p>HERE Maps</p>"
-msgstr ""
+msgstr "<p>HERE মানচিত্র</p>"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -2081,7 +2094,7 @@ msgstr "<p>আমি একজন Firefox ভক্ত।</p>"
 #: db-strings.txt:2004 db-strings.txt.py:2040 db-strings.txt.py:2076
 #: db-strings.txt:2355
 msgid "<p>SMS</p>"
-msgstr ""
+msgstr "<p>SMS</p>"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -2561,7 +2574,7 @@ msgstr ""
 #: db-strings.txt:2490 db-strings.txt.py:4956 db-strings.txt.py:7476
 #: db-strings.txt:9825
 msgid "Which Version Do I Have?"
-msgstr ""
+msgstr "আমি কোন সংস্করণ আছে?"
 
 #. Translators:
 #. Page path: /1-1/which-version/
@@ -2646,7 +2659,7 @@ msgstr ""
 #. Page path: /1-3T/demo-tips/
 #: db-strings.txt:2715
 msgid "Easy to use"
-msgstr ""
+msgstr "ব্যবহার করা সহজ"
 
 #. Translators:
 #. Page path: /1-3T/demo-tips/
@@ -2661,13 +2674,13 @@ msgstr ""
 #. Page path: /1-3T/demo-tips/
 #: db-strings.txt:2733
 msgid "eBDX7k0gkJg"
-msgstr ""
+msgstr "eBDX7k0gkJg"
 
 #. Translators:
 #. Page path: /1-3T/demo-tips/
 #: db-strings.txt:2742
 msgid "Marketplace and Adaptive App Search"
-msgstr ""
+msgstr "মার্কেটপ্লেস এবং অভিযোজিত অ্যাপ অনুসন্ধান"
 
 #. Translators:
 #. Page path: /1-3T/demo-tips/
@@ -2682,13 +2695,13 @@ msgstr ""
 #. Page path: /1-3T/demo-tips/
 #: db-strings.txt:2760
 msgid "t_yNwJDAgKw"
-msgstr ""
+msgstr "t_yNwJDAgKw"
 
 #. Translators:
 #. Page path: /1-3T/demo-tips/
 #: db-strings.txt:2769
 msgid "Rich Media Experience"
-msgstr ""
+msgstr "রিচ মিডিয়া অভিজ্ঞতা"
 
 #. Translators:
 #. Page path: /1-3T/demo-tips/
@@ -2703,13 +2716,13 @@ msgstr ""
 #. Page path: /1-3T/demo-tips/
 #: db-strings.txt:2787
 msgid "YarD9ZluQJU"
-msgstr ""
+msgstr "YarD9ZluQJU"
 
 #. Translators:
 #. Page path: /1-3T/demo-tips/
 #: db-strings.txt:2796
 msgid "Social and Contact Sync"
-msgstr ""
+msgstr "সামাজিক ও যোগাযোগ সিঙ্ক"
 
 #. Translators:
 #. Page path: /1-3T/demo-tips/
@@ -2727,7 +2740,7 @@ msgstr ""
 #. Page path: /1-3T/demo-tips/
 #: db-strings.txt:2814
 msgid "hGvNjO82y-4"
-msgstr ""
+msgstr "hGvNjO82y"
 
 #. Translators:
 #. Page path: /1-3T/customer-guide/
@@ -2849,7 +2862,7 @@ msgstr ""
 #. Page path: /1-3T/key-features/
 #: db-strings.txt:3075
 msgid "Facebook"
-msgstr ""
+msgstr "ফেসবুক"
 
 #. Translators:
 #. Page path: /1-3T/key-features/
@@ -3077,7 +3090,7 @@ msgstr ""
 #. Page path: /1-3T/take-the-challenge/
 #: db-strings.txt:3525
 msgid "<p>That’s right! You simply go to your home screen and it’s there!</p>"
-msgstr ""
+msgstr "<p>যে ঠিক! আপনি কেবল আপনার বাসা পর্দায় যেতে এবং এটি আছে!</p>"
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -3401,26 +3414,26 @@ msgstr ""
 #. Page path: /1-3T/take-the-challenge/
 #: db-strings.txt:4272
 msgid "<p>Marketplace</p>"
-msgstr ""
+msgstr "<p>Marketplace</p>"
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
 #: db-strings.txt:4281 db-strings.txt.py:4425 db-strings.txt.py:4461
 #: db-strings.txt:4497 db-strings.txt.py:4533
 msgid "<p>Browser</p>"
-msgstr ""
+msgstr "<p>Browser</p>"
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
 #: db-strings.txt:4308
 msgid "<p>ConnectA2</p>"
-msgstr ""
+msgstr "<p>ConnectA2</p>"
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
 #: db-strings.txt:4317
 msgid "<p>YouTube</p>"
-msgstr ""
+msgstr "<p>YouTube</p>"
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -4366,7 +4379,7 @@ msgstr ""
 #. Page path: /2-0/demo-tips/
 #: db-strings.txt:7773
 msgid "blOcJrnirn0"
-msgstr ""
+msgstr "blOcJrnirn0"
 
 #. Translators:
 #. Page path: /2-0/customer-guide/
