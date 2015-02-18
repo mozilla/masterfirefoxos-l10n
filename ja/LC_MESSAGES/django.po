@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-18 06:23+0000\n"
-"PO-Revision-Date: 2015-02-17 13:11:06\n"
+"PO-Revision-Date: 2015-02-17 23:09:48\n"
 "Last-Translator: Matjaz Horvat <matjaz.horvat@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ja\n"
@@ -585,7 +585,7 @@ msgstr "クイズに答えて、新しく覚えたことを確認しましょう
 #: db-strings.txt:8520
 msgid ""
 "That’s right! All of these apps come pre-loaded on every Firefox OS phone."
-msgstr ""
+msgstr "<p>正解です。全てのことが可能です。</p>"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -598,7 +598,7 @@ msgstr ""
 #: db-strings.txt:1149 db-strings.txt.py:3552 db-strings.txt.py:6126
 #: db-strings.txt:8529
 msgid "Actually, all of these apps come pre-loaded on every Firefox OS phone."
-msgstr ""
+msgstr "<p> Firefox OS 端末では、上記の全てのことを行えます。</p>"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -622,7 +622,7 @@ msgstr ""
 #: db-strings.txt:9168
 msgid ""
 "That’s right. All of these customers are ideal candidates for Firefox OS!"
-msgstr ""
+msgstr "<p>正解です。全てのことが可能です。</p>"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -680,7 +680,7 @@ msgstr ""
 #: db-strings.txt:1356 db-strings.txt.py:3723 db-strings.txt.py:6297
 #: db-strings.txt:8700
 msgid "That’s right. These statements are all true about Firefox OS."
-msgstr ""
+msgstr "<p>正解です。全てのことが可能です。</p>"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -931,6 +931,8 @@ msgid ""
 "backed by a global community working on your behalf and with your interests "
 "in mind."
 msgstr ""
+"<p>Firefox をもとに作られているため、Firefox OS "
+"はあなたのやりたいことをあなたの代わりに実現するべく働く世界規模のコミュニティによって支えられています。</p>"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1298,7 +1300,7 @@ msgstr ""
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:3561 db-strings.txt.py:6135 db-strings.txt.py:8538
 msgid "There are more. Try again"
-msgstr ""
+msgstr "<p>まだ他にもあります。探してみてください。</p>"
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -1308,7 +1310,7 @@ msgstr ""
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:3579 db-strings.txt.py:6153 db-strings.txt.py:8556
 msgid "That’s right! This icon represents Messages —or text messaging."
-msgstr ""
+msgstr "<p>正解です。このアイコンは SMS（メッセージ）アプリのものでした。</p>"
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -1319,7 +1321,7 @@ msgstr ""
 #: db-strings.txt:3588 db-strings.txt.py:3597 db-strings.txt.py:6162
 #: db-strings.txt:6171 db-strings.txt.py:8565 db-strings.txt.py:8574
 msgid "Actually, this icon represents Messages — or text messaging."
-msgstr ""
+msgstr "<p>このアイコンは SMS（メッセージ）アプリのものでした。</p>"
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -1327,7 +1329,7 @@ msgstr ""
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:3615 db-strings.txt.py:8592
 msgid "That’s right. This icon represents the Contacts."
-msgstr ""
+msgstr "<p>正解です。このアイコンは Firefox ブラウザのものです。</p>"
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -1338,7 +1340,7 @@ msgstr ""
 #: db-strings.txt:3624 db-strings.txt.py:3633 db-strings.txt.py:6207
 #: db-strings.txt:8601 db-strings.txt.py:8610
 msgid "Actually, this icon represents the Contacts."
-msgstr ""
+msgstr "<p>このアイコンは Firefox ブラウザのものでした。</p>"
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -1450,7 +1452,7 @@ msgstr "メッセージ"
 msgid ""
 "With Adaptive App Search, Firefox OS adapts to you needs better than any "
 "other phone."
-msgstr ""
+msgstr "<p>適応的アプリ検索を使えば、他の電話より簡単に必要なアプリを探せます。</p>"
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -1673,6 +1675,8 @@ msgid ""
 "Search Bar to visit websites, perform searches and access apps from the "
 "Marketplace. Multitask with tabs and browse multiple pages at the same time"
 msgstr ""
+"<p>高速、スマート、安全に使えるブラウザです。アドレスバーに検索語を入れると、Web "
+"検索や履歴の検索、またすでに開いてるタブの検索も行えます。</p>"
 
 #. Translators:
 #. Page path: /2-0/key-features/
@@ -1720,7 +1724,7 @@ msgstr ""
 msgid ""
 "Stay connected easily and conveniently. Set up multiple email accounts, with"
 " support for the most common Exchange, POP3 or IMAP email providers."
-msgstr ""
+msgstr "<p>どこにいても、友達や仲間とつながれます。</p>複数アカウントを管理でき、Exchange や SMTP、IMAPに対応しています。"
 
 #. Translators:
 #. Page path: /2-0/key-features/
@@ -2013,13 +2017,13 @@ msgstr ""
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:8988
 msgid "That’s right. All of these are true of the Cost Control app!"
-msgstr ""
+msgstr "<p>正解です。全てのことが可能です。</p>"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:8997 db-strings.txt.py:9006
 msgid "Actually, all of these are true of the Cost Control app!"
-msgstr ""
+msgstr "<p>実は全て正解です。</p>"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
