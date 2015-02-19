@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-18 16:54+0000\n"
+"POT-Creation-Date: 2015-02-19 16:54+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -26,8 +26,8 @@ msgstr ""
 #. Page path: /1-4/
 #. Translators:
 #. Page path: /2-0/
-#: db-strings.txt:6 db-strings.txt.py:2499 db-strings.txt.py:4956
-#: db-strings.txt:7467 masterfirefoxos/base/templates/base.html:14
+#: db-strings.txt:6 db-strings.txt.py:3390 db-strings.txt.py:6666
+#: db-strings.txt:10095 masterfirefoxos/base/templates/base.html:14
 #: masterfirefoxos/base/templates/base.html:45
 #: masterfirefoxos/base/templates/home.html:17
 msgid "Master Firefox OS"
@@ -142,87 +142,56 @@ msgstr ""
 msgid "The latest version available in {language} is {version}."
 msgstr "The latest varrsion available in {language} is {version} ahoy❗."
 
-#: masterfirefoxos/settings/base.py:187
-msgid "Bengali"
-msgstr "Bengali ye scalleywag❗"
+#~ msgid "Bengali"
+#~ msgstr "Bengali ye scalleywag❗"
 
-#: masterfirefoxos/settings/base.py:188
-msgid "Croatian"
-msgstr "Croatian cap'n❗"
+#~ msgid "Croatian"
+#~ msgstr "Croatian cap'n❗"
 
-#: masterfirefoxos/settings/base.py:189
-msgid "Czech"
-msgstr "Czech ahoy❗"
+#~ msgid "Czech"
+#~ msgstr "Czech ahoy❗"
 
-#: masterfirefoxos/settings/base.py:190
-msgid "English"
-msgstr "English ye scalleywag❗"
+#~ msgid "English"
+#~ msgstr "English ye scalleywag❗"
 
-#: masterfirefoxos/settings/base.py:191
-msgid "German"
-msgstr "Garrman ye scalleywag❗"
+#~ msgid "German"
+#~ msgstr "Garrman ye scalleywag❗"
 
-#: masterfirefoxos/settings/base.py:192
-msgid "Greek"
-msgstr "Greek ahoy❗"
+#~ msgid "Greek"
+#~ msgstr "Greek ahoy❗"
 
-#: masterfirefoxos/settings/base.py:193
-msgid "Hindi"
-msgstr "Hindi ahoy❗"
+#~ msgid "Hindi"
+#~ msgstr "Hindi ahoy❗"
 
-#: masterfirefoxos/settings/base.py:194
-msgid "Hungarian"
-msgstr "Hungarian yo-ho-ho❗"
+#~ msgid "Hungarian"
+#~ msgstr "Hungarian yo-ho-ho❗"
 
-#: masterfirefoxos/settings/base.py:195
-msgid "Italian"
-msgstr "Italian ye scalleywag❗"
+#~ msgid "Italian"
+#~ msgstr "Italian ye scalleywag❗"
 
-#: masterfirefoxos/settings/base.py:196
-msgid "Japanese"
-msgstr "Japanese cap'n❗"
+#~ msgid "Japanese"
+#~ msgstr "Japanese cap'n❗"
 
-#: masterfirefoxos/settings/base.py:197
-msgid "Polish"
-msgstr "Polish aye❗"
+#~ msgid "Polish"
+#~ msgstr "Polish aye❗"
 
-#: masterfirefoxos/settings/base.py:198
-msgid "Portuguese"
-msgstr "Portuguese shiver me timbers❗"
+#~ msgid "Portuguese"
+#~ msgstr "Portuguese shiver me timbers❗"
 
-#: masterfirefoxos/settings/base.py:199
-msgid "Serbian"
-msgstr "Sarrbian cap'n❗"
+#~ msgid "Serbian"
+#~ msgstr "Sarrbian cap'n❗"
 
-#: masterfirefoxos/settings/base.py:200
-msgid "Spanish"
-msgstr "Spanish ye scalleywag❗"
+#~ msgid "Spanish"
+#~ msgstr "Spanish ye scalleywag❗"
 
-#: masterfirefoxos/settings/base.py:201
-msgid "Tamil"
-msgstr "Tamil ahoy❗"
+#~ msgid "Tamil"
+#~ msgstr "Tamil ahoy❗"
 
-#: masterfirefoxos/settings/base.py:202
-msgid "Pirate"
-msgstr "Pirate aye❗"
+#~ msgid "Pirate"
+#~ msgstr "Pirate aye❗"
 
 #~ msgid "<h2>Ready to explore the key benefits of Firefox OS?</h2>"
 #~ msgstr "<h2>Ready to explore th' key benefits o' Firefox OS yo-ho-ho❗?</h2>"
-
-#~ msgid "You have questions? We have answers!"
-#~ msgstr "Ye' have questions? We have answarrs ye landlubbers❗❗"
-
-#~ msgid "Who is your ideal Firefox customer?"
-#~ msgstr "Who is yerr ideal Firefox customerr shiver me timbers❗?"
-
-#~ msgid "Demonstrations That Matter"
-#~ msgstr "Demonstrations That Matterr arrRRr❗"
-
-#~ msgid "Features that count"
-#~ msgstr "Features that count aye❗"
-
-#~ msgid "Just what you need"
-#~ msgstr "Just what ye' need ahoy❗"
 
 #~ msgid ""
 #~ "Which Firefox OS feature does this icon represent? <img "
@@ -266,14 +235,6 @@ msgstr "Pirate aye❗"
 
 #~ msgid "Search bar"
 #~ msgstr "Search barr ye landlubbers❗"
-
-#~ msgid ""
-#~ "What&rsquo;s the best response to this customer&rsquo;s objection?<br "
-#~ "/>&ldquo;I&rsquo;ve never heard of Firefox OS phones.&rdquo;"
-#~ msgstr ""
-#~ "What me mateys❗&rsquo;s th' best response to this customerr ye "
-#~ "landlubbers❗&rsquo;s objection prepare to be boarded❗?<br />&ldquo;I "
-#~ "arrRRr❗&rsquo;ve neverr heard o' Firefox OS phones ye landlubbers❗.&rdquo;"
 
 #~ msgid "Demonstrations that matter"
 #~ msgstr "Demonstrations that matterr arrRRr❗"
