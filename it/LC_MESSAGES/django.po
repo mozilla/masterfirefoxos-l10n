@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-18 16:54+0000\n"
-"PO-Revision-Date: 2015-02-19 05:10:00\n"
+"PO-Revision-Date: 2015-02-19 06:45:11\n"
 "Last-Translator: Francesco Lodolo <francesco.lodolo@mozillaitalia.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: it\n"
@@ -44,7 +44,6 @@ msgstr "Domina Firefox OS"
 #. Page path: /2-0/
 #: db-strings.txt:15 db-strings.txt.py:2508 db-strings.txt.py:4965
 #: db-strings.txt:7476
-#, fuzzy
 #| msgid ""
 #| "<p>Welcome to the Firefox OS global partner and community training hub. "
 #| "Select any topic to get started.</p>"
@@ -53,9 +52,7 @@ msgid ""
 "any topic to get started."
 msgstr ""
 "Benvenuto nel centro di formazione dedicato ai partner globali e alla "
-"comunità di Firefox OS. Qui troverai tutte le informazioni utili per "
-"presentare le caratteristiche di Firefox OS. Seleziona un argomento per "
-"iniziare."
+"comunità di Firefox OS. Seleziona un argomento per iniziare."
 
 #. Translators:
 #. Page path: /1-1/introduction/
@@ -2747,7 +2744,7 @@ msgstr ""
 
 #: masterfirefoxos/base/templates/base.html:35
 msgid "Submit"
-msgstr ""
+msgstr "Invia"
 
 #: masterfirefoxos/base/templates/base.html:40
 #: masterfirefoxos/base/templates/base.html:83
@@ -2757,7 +2754,7 @@ msgstr "Mozilla"
 
 #: masterfirefoxos/base/templates/base.html:65
 msgid "Menu"
-msgstr ""
+msgstr "Menu"
 
 #: masterfirefoxos/base/templates/base.html:88
 msgid ""
@@ -2765,6 +2762,10 @@ msgid ""
 "available under a <a href=\"https://www.mozilla.org/foundation/licensing"
 "/website-content/\">Creative Commons license</a>."
 msgstr ""
+"Parte di questi contenuti sono ©1998–{0} di singoli collaboratori. I "
+"contenuti sono disponibili secondo la <a "
+"href=\"https://www.mozilla.org/foundation/licensing/website-"
+"content/\">licenza Creative Commons</a>."
 
 #: masterfirefoxos/base/templates/base.html:91
 msgid "Source code"
