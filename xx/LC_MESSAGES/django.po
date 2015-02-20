@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-20 16:57+0000\n"
+"POT-Creation-Date: 2015-02-20 17:21+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -130,7 +130,7 @@ msgstr "Which varrsion do I have prepare to be boarded❗?"
 msgid "Change"
 msgstr "Change aye❗"
 
-#: masterfirefoxos/base/templates/includes/version-language-switcher.html:34
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:36
 msgid ""
 "Documentation for Firefox OS {version} is not yet available in {language}, "
 "so we redirected you to the English version."
@@ -138,57 +138,73 @@ msgstr ""
 "Documentation fer Firefox OS {version} is not yet available in {language}, "
 "so we redirect'd ye' to th' English varrsion matey❗."
 
-#: masterfirefoxos/base/templates/includes/version-language-switcher.html:36
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:38
 msgid "The latest version available in {language} is {version}."
 msgstr "The latest varrsion available in {language} is {version} ahoy❗."
 
-#~ msgid "Bengali"
-#~ msgstr "Bengali ye scalleywag❗"
+#: masterfirefoxos/settings/base.py:187
+msgid "Bengali"
+msgstr "Bengali ye scalleywag❗"
 
-#~ msgid "Croatian"
-#~ msgstr "Croatian cap'n❗"
+#: masterfirefoxos/settings/base.py:188
+msgid "Croatian"
+msgstr "Croatian cap'n❗"
 
-#~ msgid "Czech"
-#~ msgstr "Czech ahoy❗"
+#: masterfirefoxos/settings/base.py:189
+msgid "Czech"
+msgstr "Czech ahoy❗"
 
-#~ msgid "English"
-#~ msgstr "English ye scalleywag❗"
+#: masterfirefoxos/settings/base.py:190
+msgid "English"
+msgstr "English ye scalleywag❗"
 
-#~ msgid "German"
-#~ msgstr "Garrman ye scalleywag❗"
+#: masterfirefoxos/settings/base.py:191
+msgid "German"
+msgstr "Garrman ye scalleywag❗"
 
-#~ msgid "Greek"
-#~ msgstr "Greek ahoy❗"
+#: masterfirefoxos/settings/base.py:192
+msgid "Greek"
+msgstr "Greek ahoy❗"
 
-#~ msgid "Hindi"
-#~ msgstr "Hindi ahoy❗"
+#: masterfirefoxos/settings/base.py:193
+msgid "Hindi"
+msgstr "Hindi ahoy❗"
 
-#~ msgid "Hungarian"
-#~ msgstr "Hungarian yo-ho-ho❗"
+#: masterfirefoxos/settings/base.py:194
+msgid "Hungarian"
+msgstr "Hungarian yo-ho-ho❗"
 
-#~ msgid "Italian"
-#~ msgstr "Italian ye scalleywag❗"
+#: masterfirefoxos/settings/base.py:195
+msgid "Italian"
+msgstr "Italian ye scalleywag❗"
 
-#~ msgid "Japanese"
-#~ msgstr "Japanese cap'n❗"
+#: masterfirefoxos/settings/base.py:196
+msgid "Japanese"
+msgstr "Japanese cap'n❗"
 
-#~ msgid "Polish"
-#~ msgstr "Polish aye❗"
+#: masterfirefoxos/settings/base.py:197
+msgid "Polish"
+msgstr "Polish aye❗"
 
-#~ msgid "Portuguese"
-#~ msgstr "Portuguese shiver me timbers❗"
+#: masterfirefoxos/settings/base.py:198
+msgid "Portuguese"
+msgstr "Portuguese shiver me timbers❗"
 
-#~ msgid "Serbian"
-#~ msgstr "Sarrbian cap'n❗"
+#: masterfirefoxos/settings/base.py:199
+msgid "Serbian"
+msgstr "Sarrbian cap'n❗"
 
-#~ msgid "Spanish"
-#~ msgstr "Spanish ye scalleywag❗"
+#: masterfirefoxos/settings/base.py:200
+msgid "Spanish"
+msgstr "Spanish ye scalleywag❗"
 
-#~ msgid "Tamil"
-#~ msgstr "Tamil ahoy❗"
+#: masterfirefoxos/settings/base.py:201
+msgid "Tamil"
+msgstr "Tamil ahoy❗"
 
-#~ msgid "Pirate"
-#~ msgstr "Pirate aye❗"
+#: masterfirefoxos/settings/base.py:202
+msgid "Pirate"
+msgstr "Pirate aye❗"
 
 #~ msgid "<h2>Ready to explore the key benefits of Firefox OS?</h2>"
 #~ msgstr "<h2>Ready to explore th' key benefits o' Firefox OS yo-ho-ho❗?</h2>"

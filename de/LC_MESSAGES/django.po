@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-20 16:57+0000\n"
+"POT-Creation-Date: 2015-02-20 17:21+0000\n"
 "PO-Revision-Date: 2015-02-20 08:06:09\n"
 "Last-Translator: Michael Köhler <michael.koehler1@gmx.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -4375,7 +4375,7 @@ msgstr "Welche Version verwende ich?"
 msgid "Change"
 msgstr "Ändern"
 
-#: masterfirefoxos/base/templates/includes/version-language-switcher.html:34
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:36
 msgid ""
 "Documentation for Firefox OS {version} is not yet available in {language}, "
 "so we redirected you to the English version."
@@ -4383,57 +4383,73 @@ msgstr ""
 "Die Dokumentation für Firefox OS {version} ist noch nicht auf {language} "
 "verfügbar, daher haben wir Sie auf die englische Version weitergeleitet."
 
-#: masterfirefoxos/base/templates/includes/version-language-switcher.html:36
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:38
 msgid "The latest version available in {language} is {version}."
 msgstr "Die neueste auf {language} verfügbare Version ist {version}."
 
-#~ msgid "Bengali"
-#~ msgstr "Bengalisch"
+#: masterfirefoxos/settings/base.py:187
+msgid "Bengali"
+msgstr "Bengalisch"
 
-#~ msgid "Croatian"
-#~ msgstr "Kroatisch"
+#: masterfirefoxos/settings/base.py:188
+msgid "Croatian"
+msgstr "Kroatisch"
 
-#~ msgid "Czech"
-#~ msgstr "Tschechisch"
+#: masterfirefoxos/settings/base.py:189
+msgid "Czech"
+msgstr "Tschechisch"
 
-#~ msgid "English"
-#~ msgstr "Englisch"
+#: masterfirefoxos/settings/base.py:190
+msgid "English"
+msgstr "Englisch"
 
-#~ msgid "German"
-#~ msgstr "Deutsch"
+#: masterfirefoxos/settings/base.py:191
+msgid "German"
+msgstr "Deutsch"
 
-#~ msgid "Greek"
-#~ msgstr "Griechisch"
+#: masterfirefoxos/settings/base.py:192
+msgid "Greek"
+msgstr "Griechisch"
 
-#~ msgid "Hindi"
-#~ msgstr "Hindi"
+#: masterfirefoxos/settings/base.py:193
+msgid "Hindi"
+msgstr "Hindi"
 
-#~ msgid "Hungarian"
-#~ msgstr "Ungarisch"
+#: masterfirefoxos/settings/base.py:194
+msgid "Hungarian"
+msgstr "Ungarisch"
 
-#~ msgid "Italian"
-#~ msgstr "Italienisch"
+#: masterfirefoxos/settings/base.py:195
+msgid "Italian"
+msgstr "Italienisch"
 
-#~ msgid "Japanese"
-#~ msgstr "Japanisch"
+#: masterfirefoxos/settings/base.py:196
+msgid "Japanese"
+msgstr "Japanisch"
 
-#~ msgid "Polish"
-#~ msgstr "Polnisch"
+#: masterfirefoxos/settings/base.py:197
+msgid "Polish"
+msgstr "Polnisch"
 
-#~ msgid "Portuguese"
-#~ msgstr "Portugiesisch"
+#: masterfirefoxos/settings/base.py:198
+msgid "Portuguese"
+msgstr "Portugiesisch"
 
-#~ msgid "Serbian"
-#~ msgstr "Serbisch"
+#: masterfirefoxos/settings/base.py:199
+msgid "Serbian"
+msgstr "Serbisch"
 
-#~ msgid "Spanish"
-#~ msgstr "Spanisch"
+#: masterfirefoxos/settings/base.py:200
+msgid "Spanish"
+msgstr "Spanisch"
 
-#~ msgid "Tamil"
-#~ msgstr "Tamil"
+#: masterfirefoxos/settings/base.py:201
+msgid "Tamil"
+msgstr "Tamil"
 
-#~ msgid "Pirate"
-#~ msgstr "Piratisch"
+#: masterfirefoxos/settings/base.py:202
+msgid "Pirate"
+msgstr "Piratisch"
 
 #~ msgid "<h2>Ready to explore the key benefits of Firefox OS?</h2>"
 #~ msgstr ""

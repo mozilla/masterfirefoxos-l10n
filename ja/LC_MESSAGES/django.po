@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-20 16:57+0000\n"
+"POT-Creation-Date: 2015-02-20 17:21+0000\n"
 "PO-Revision-Date: 2015-02-20 08:49:28\n"
 "Last-Translator: <nshimizu@mozilla-japan.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2444,63 +2444,79 @@ msgstr "OS のバージョンを調べる。"
 msgid "Change"
 msgstr "変更"
 
-#: masterfirefoxos/base/templates/includes/version-language-switcher.html:34
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:36
 msgid ""
 "Documentation for Firefox OS {version} is not yet available in {language}, "
 "so we redirected you to the English version."
 msgstr "Firefox OS {version} の {language} 語版文書はまだ用意されていません。英語版をご覧ください。"
 
-#: masterfirefoxos/base/templates/includes/version-language-switcher.html:36
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:38
 msgid "The latest version available in {language} is {version}."
 msgstr "{language} の最新バージョンは {version} です。"
 
-#~ msgid "Bengali"
-#~ msgstr "ベンガル"
+#: masterfirefoxos/settings/base.py:187
+msgid "Bengali"
+msgstr "ベンガル"
 
-#~ msgid "Croatian"
-#~ msgstr "クロアチア"
+#: masterfirefoxos/settings/base.py:188
+msgid "Croatian"
+msgstr "クロアチア"
 
-#~ msgid "Czech"
-#~ msgstr "チェコ"
+#: masterfirefoxos/settings/base.py:189
+msgid "Czech"
+msgstr "チェコ"
 
-#~ msgid "English"
-#~ msgstr "英"
+#: masterfirefoxos/settings/base.py:190
+msgid "English"
+msgstr "英"
 
-#~ msgid "German"
-#~ msgstr "ドイツ"
+#: masterfirefoxos/settings/base.py:191
+msgid "German"
+msgstr "ドイツ"
 
-#~ msgid "Greek"
-#~ msgstr "ギリシア"
+#: masterfirefoxos/settings/base.py:192
+msgid "Greek"
+msgstr "ギリシア"
 
-#~ msgid "Hindi"
-#~ msgstr "ヒンディー"
+#: masterfirefoxos/settings/base.py:193
+msgid "Hindi"
+msgstr "ヒンディー"
 
-#~ msgid "Hungarian"
-#~ msgstr "ハンガリー"
+#: masterfirefoxos/settings/base.py:194
+msgid "Hungarian"
+msgstr "ハンガリー"
 
-#~ msgid "Italian"
-#~ msgstr "イタリア"
+#: masterfirefoxos/settings/base.py:195
+msgid "Italian"
+msgstr "イタリア"
 
-#~ msgid "Japanese"
-#~ msgstr "日本"
+#: masterfirefoxos/settings/base.py:196
+msgid "Japanese"
+msgstr "日本"
 
-#~ msgid "Polish"
-#~ msgstr "ポーランド"
+#: masterfirefoxos/settings/base.py:197
+msgid "Polish"
+msgstr "ポーランド"
 
-#~ msgid "Portuguese"
-#~ msgstr "ポルトガル"
+#: masterfirefoxos/settings/base.py:198
+msgid "Portuguese"
+msgstr "ポルトガル"
 
-#~ msgid "Serbian"
-#~ msgstr "セルビア"
+#: masterfirefoxos/settings/base.py:199
+msgid "Serbian"
+msgstr "セルビア"
 
-#~ msgid "Spanish"
-#~ msgstr "スペイン"
+#: masterfirefoxos/settings/base.py:200
+msgid "Spanish"
+msgstr "スペイン"
 
-#~ msgid "Tamil"
-#~ msgstr "タミル"
+#: masterfirefoxos/settings/base.py:201
+msgid "Tamil"
+msgstr "タミル"
 
-#~ msgid "Pirate"
-#~ msgstr "著作権侵害"
+#: masterfirefoxos/settings/base.py:202
+msgid "Pirate"
+msgstr "著作権侵害"
 
 #~ msgid "<h2>Ready to explore the key benefits of Firefox OS?</h2>"
 #~ msgstr "<h2>Firefox OS の主な利点</h2>"
