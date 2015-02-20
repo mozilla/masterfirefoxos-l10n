@@ -1,0 +1,400 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-02-19 17:25+0000\n"
+"PO-Revision-Date: 2015-02-20 00:10:24\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
+
+#. Translators:
+#. Page path: /1-1/
+#. Translators:
+#. Page path: /1-3T/
+#. Translators:
+#. Page path: /1-4/
+#. Translators:
+#. Page path: /2-0/
+#: db-strings.txt:6 db-strings.txt.py:3390 db-strings.txt.py:6666
+#: db-strings.txt:10095 masterfirefoxos/base/templates/base.html:14
+#: masterfirefoxos/base/templates/base.html:45
+#: masterfirefoxos/base/templates/home.html:17
+msgid "Master Firefox OS"
+msgstr ""
+
+#: masterfirefoxos/base/templates/base.html:35
+msgid "Submit"
+msgstr ""
+
+#: masterfirefoxos/base/templates/base.html:40
+#: masterfirefoxos/base/templates/base.html:83
+#: masterfirefoxos/base/templates/home.html:12
+msgid "Mozilla"
+msgstr ""
+
+#: masterfirefoxos/base/templates/base.html:65
+msgid "Menu"
+msgstr ""
+
+#: masterfirefoxos/base/templates/base.html:88
+msgid ""
+"Portions of this content are ©1998–{0} by individual contributors. Content "
+"available under a <a href=\"https://www.mozilla.org/foundation/licensing"
+"/website-content/\">Creative Commons license</a>."
+msgstr ""
+
+#: masterfirefoxos/base/templates/base.html:91
+msgid "Source code"
+msgstr ""
+
+#: masterfirefoxos/base/templates/base.html:96
+msgid "Contact Us"
+msgstr ""
+
+#: masterfirefoxos/base/templates/base.html:97
+msgid "Partner with Us"
+msgstr ""
+
+#: masterfirefoxos/base/templates/base.html:98
+msgid "Donate"
+msgstr ""
+
+#: masterfirefoxos/base/templates/base.html:99
+msgid "Privacy Policy"
+msgstr ""
+
+#: masterfirefoxos/base/templates/base.html:100
+msgid "Legal Notices"
+msgstr ""
+
+#: masterfirefoxos/base/templates/base.html:101
+msgid "Report Trademark Abuse"
+msgstr ""
+
+#: masterfirefoxos/base/templates/base.html:105
+msgid "Mozilla on Twitter"
+msgstr ""
+
+#: masterfirefoxos/base/templates/base.html:106
+msgid "Firefox on Twitter"
+msgstr ""
+
+#: masterfirefoxos/base/templates/base.html:107
+msgid "Mozilla on Facebook"
+msgstr ""
+
+#: masterfirefoxos/base/templates/base.html:108
+msgid "Firefox on Facebook"
+msgstr ""
+
+#: masterfirefoxos/base/templates/home.html:49
+msgid "Learn more"
+msgstr ""
+
+#: masterfirefoxos/base/templates/includes/nav-information.html:3
+msgid "Home"
+msgstr ""
+
+#: masterfirefoxos/base/templates/includes/nav-information.html:4
+msgid "About"
+msgstr ""
+
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:3
+msgid "Language"
+msgstr ""
+
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:15
+msgid "Firefox OS version"
+msgstr ""
+
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:21
+msgid "Which version do I have?"
+msgstr ""
+
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:23
+msgid "Change"
+msgstr ""
+
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:34
+msgid ""
+"Documentation for Firefox OS {version} is not yet available in {language}, "
+"so we redirected you to the English version."
+msgstr ""
+
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:36
+msgid "The latest version available in {language} is {version}."
+msgstr ""
+
+#~ msgid "<h2>Ready to explore the key benefits of Firefox OS?</h2>"
+#~ msgstr "தகவமைப்பு பேசி"
+
+#~ msgid ""
+#~ "<h2>Ready to show what you know?</h2> Think you're ready to start selling "
+#~ "Firefox OS to your customers? Put your knowledge to work and answer these "
+#~ "questions to prove you have what it takes."
+#~ msgstr ""
+#~ "நீங்கள் Firefox Osஐ வாடிக்கையாளர்களுக்கு விற்பனை செய்ய தொடங்கிவிட்டீர்கள் "
+#~ "என நினையுங்கள்? உங்களுடைய அறிவை போட்டு கீழேக் கேட்கப்படும் கேள்விகளுக்கு "
+#~ "பதில் சொல்லுவதன் மூலம் உங்களுக்கு என்ன தேவை என்பதை தெரியவரும்."
+
+#~ msgid ""
+#~ "<h2>Ready to show what you know?</h2> Think you are almost ready to start "
+#~ "selling Firefox OS to your customers? Put your knowledge to the test and "
+#~ "answer these questions to prove you have what it takes."
+#~ msgstr ""
+#~ "நீங்கள் Firefox Osஐ வாடிக்கையாளர்களுக்கு விற்பனை செய்ய தொடங்கிவிட்டீர்கள் "
+#~ "என நினையுங்கள்? உங்களுடைய அறிவை போட்டு கீழேக் கேட்கப்படும் கேள்விகளுக்கு "
+#~ "பதில் சொல்லுவதன் மூலம் உங்களுக்கு என்ன தேவை என்பதை தெரியவரும்."
+
+#~ msgid ""
+#~ "<h2>Features that count</h2> Firefox OS is packed with the features that "
+#~ "your customers expect in a smartphone. It’s designed to fit their lives "
+#~ "perfectly so they can keep pace with the world around them. <h3>Just what "
+#~ "you need</h3>"
+#~ msgstr ""
+#~ "உங்களுக்கு பயர்பாக்ஸை பற்றி தெரிந்திருந்தாலோ, பிடித்திருந்தாலோ நீங்கள் "
+#~ "Firefox OS ஐ நேசிப்பீர்கள். Firefox OS திறன்பேசிகள் முற்றிலும் HTML5ஐ-"
+#~ "அடிப்படையாக வைத்திருப்பதால் உங்களுடைய பேசிக்கு சிறந்த இணையத்தை கொண்டுவரும்."
+#~ " மற்றும், எல்லோரும் இணையத்தை அணுக தங்களை அர்பணித்த சமூகத்தால் Firefox OS "
+#~ "ஆனது வடிவமைக்கப்பட்டுள்ளது. எப்பொழுது Firefox OS ஐ நீங்கள் "
+#~ "தேர்வுச்செய்தீர்களோ அப்பொழுதே உங்கள் கைகளில் சக்தி மிகுந்த இணையம் "
+#~ "இருக்கும்."
+
+#~ msgid ""
+#~ "Firefox OS is intuitive and simple. Your customers  will find it easy to use"
+#~ " from the start thanks to its beautifully designed interface."
+#~ msgstr ""
+#~ "வாடிக்கையாளர்களுக்கு எற்றவாறு Firefox OS எப்படி மாறுகிறது என்பதை "
+#~ "காண்பியுங்கள், அவர்களுக்கு என்ன தேவையோ அதற்கு தகுந்தவாறு தேடி தருகிறது."
+
+#~ msgid ""
+#~ "Which Firefox OS feature does this icon represent? <img "
+#~ "src=\"/admin/page/page/25/course/assets/m05/t05/p35/m05-t05-p35-a05-b15-c05.png\""
+#~ " alt=\"\" />"
+#~ msgstr ""
+#~ "Firefox OS இன் எந்த வசதியை இந்த சின்னம் குறிக்கிறது? <img "
+#~ "src='course/assets/m05/t05/p35/m05-t05-p35-a05-b15-c05.png'/>"
+
+#~ msgid ""
+#~ "Which Firefox OS feature does this icon represent? <img "
+#~ "src=\"/admin/page/page/25/course/assets/m05/t05/p35/m05-t05-p35-a05-b15-c10.png\""
+#~ " alt=\"\" />"
+#~ msgstr ""
+#~ "Firefox OS இன் எந்த வசதியை இந்த சின்னம் குறிக்கிறது? <img "
+#~ "src='course/assets/m05/t05/p35/m05-t05-p35-a05-b15-c10.png'/>"
+
+#~ msgid ""
+#~ "Which Firefox OS feature does this icon represent? <img "
+#~ "src=\"/admin/page/page/25/course/assets/m05/t05/p35/m05-t05-p35-a05-b20-c05.png\""
+#~ " alt=\"\" />"
+#~ msgstr ""
+#~ "Firefox OS இன் எந்த வசதியை இந்த சின்னம் குறிக்கிறது? <img "
+#~ "src='course/assets/m05/t05/p35/m05-t05-p35-a05-b20-c05.png'/>"
+
+#~ msgid ""
+#~ "Which Firefox OS feature does this icon represent? <img "
+#~ "src=\"/admin/page/page/25/course/assets/m05/t05/p35/m05-t05-p35-a05-b20-c10.png\""
+#~ " alt=\"\" />"
+#~ msgstr ""
+#~ "Firefox OS இன் எந்த வசதியை இந்த சின்னம் குறிக்கிறது? <img "
+#~ "src='course/assets/m05/t05/p35/m05-t05-p35-a05-b20-c10.png'/>"
+
+#~ msgid ""
+#~ "That&rsquo;s right! All of these apps come pre-loaded on every Firefox OS "
+#~ "phone."
+#~ msgstr ""
+#~ "பின்வரும் பயன்பாடுகளில் எவை முன்கூட்டியே Firefox OS பேசியில் நிறுவப்பட்டு "
+#~ "இருக்கும்? பொருத்தமாக இருக்கும் அனைத்தையும் தேர்ந்தெடுங்கள்."
+
+#~ msgid ""
+#~ "That&rsquo;s right. All of these customers are ideal candidates for Firefox "
+#~ "OS!"
+#~ msgstr ""
+#~ "பின்வரும் வாடிக்கையாளர்களின் பதில்களில் எது Firefox OS பயனாளிக்கு "
+#~ "ஒத்துப்போகிறது? உகுந்த அனைத்தையும் தேர்வுசெய்யவும்"
+
+#~ msgid ""
+#~ "A customer tells you that she&rsquo;s ready to move up from her old feature "
+#~ "phone. What selling feature should you lead with?"
+#~ msgstr ""
+#~ "வாடிக்கையாளர் ஒருவர் தன்னுடைய பழைய செல்பேசியை மாற்ற நினைக்கிறேன் என "
+#~ "உங்களிடம் சொல்கிறார். நீங்கள் எந்த விற்பனை அம்சத்தை முன்னெடுக்கனும்?"
+
+#~ msgid ""
+#~ "A customer says to you, &ldquo;I&rsquo;m looking for an easy way to stay in "
+#~ "touch with my friends, but I don&rsquo;t want to spend a lot of "
+#~ "money.&rdquo; Which of the following statements would be a good response? "
+#~ "Select all that apply."
+#~ msgstr ""
+#~ "ஒரு வாடிக்கையாளர் உங்களிடம் சொல்கிறார், “நான் அதிக பணம் செலவு "
+#~ "செய்யமாட்டேன், ஆனால் எளிய வழியில் நண்பர்களுடன் தொடர்ந்து தொடர்பில் இருக்க "
+#~ "வேண்டும்”. பின்வரும் கூற்றுகளில் எவை நல்ல பதிலாக இருக்கம்? பொருத்தமான "
+#~ "அனைத்தையும் தேர்ந்தெடுக்கவும்."
+
+#~ msgid ""
+#~ "A customer says, &ldquo;I use Firefox on my home computer and I love it, but"
+#~ " I didn&rsquo;t know they had a smartphone OS. Why?&rdquo; Which of the "
+#~ "following statements would be the most appropriate response to this "
+#~ "particular customer?"
+#~ msgstr ""
+#~ "ஒரு வாடிக்கையாளர் உங்களிடம் சொல்கிறார், “நான் அதிக பணம் செலவு "
+#~ "செய்யமாட்டேன், ஆனால் எளிய வழியில் நண்பர்களுடன் தொடர்ந்து தொடர்பில் இருக்க "
+#~ "வேண்டும்”. பின்வரும் கூற்றுகளில் எவை நல்ல பதிலாக இருக்கம்? பொருத்தமான "
+#~ "அனைத்தையும் தேர்ந்தெடுக்கவும்."
+
+#~ msgid ""
+#~ "With Adaptive App Search, you can use an app once, quickly and easily, "
+#~ "without installing it. If you want to use it again later, it&rsquo;s easy to"
+#~ " add it to your homescreen."
+#~ msgstr ""
+#~ "தகவமைப்பு பயன்பாடு தேடலை நிறுவாமலே விரைவாக எளிதாக பயன்படுத்த முடியும். பிறகு"
+#~ " நீங்கள் பயன்படுத்த விரும்பினால் அதை எளிதில் முகப்பு திரையில் சேர்க்க "
+#~ "முடியும்."
+
+#~ msgid ""
+#~ "What&rsquo;s the best response to this customer&rsquo;s objection? "
+#~ "&ldquo;I&rsquo;ve heard there are not many apps.&rdquo;"
+#~ msgstr ""
+#~ "இந்த வாடிக்கையாளரின் எதிர்ப்புக்கு எது சிறந்த பதில்?”இதில் நிறைய பயன்பாடுகள்"
+#~ " இல்லை என்று நான் கேள்விப்பட்டேன்.”"
+
+#~ msgid ""
+#~ "What&rsquo;s the best response to this customer&rsquo;s objection?<br "
+#~ "/>&ldquo;I&rsquo;ve never heard of Firefox OS phones.&rdquo;"
+#~ msgstr ""
+#~ "இந்த வாடிக்கையாளரின் எதிர்ப்புக்கு எது சிறந்த பதில்?”நான் Firefox OS பற்றி "
+#~ "கேள்விப்பட்டதே இல்லை.”"
+
+#~ msgid ""
+#~ "What&rsquo;s the best response to this customer&rsquo;s objection?<br "
+#~ "/>&ldquo;How do I know this new phone is safe?&rdquo;"
+#~ msgstr ""
+#~ "இந்த வாடிக்கையாளரின் எதிர்ப்புக்கு எது சிறந்த பதில்?”இந்த பேசி பாதுகாப்பானதா"
+#~ " என எனக்கு எப்படி தெரியும்?”"
+
+#~ msgid ""
+#~ "Firefox OS gives you the most value for your money, with everything you "
+#~ "expect &mdash; camera, email, apps, music, maps and more &mdash; at the most"
+#~ " competitive prices."
+#~ msgstr ""
+#~ "Firefox OS ஆனது உங்களுடைய பணத்திற்கு தகுந்த மதிப்பை அளிக்கும் விதமாக நீங்கள்"
+#~ " எதிர்பார்த்த — படகருவி, மின்னஞ்சல், பயன்பாடுகள், இசை மேலும் கூடுதலாகவும் — "
+#~ "மலிவான விலையிலும் தருகிறது."
+
+#~ msgid ""
+#~ "A customer says to you, &ldquo;I&rsquo;m looking for an easy way to stay in "
+#~ "touch with my friends, but I don&rsquo;t want to spend a lot of "
+#~ "money&rdquo;. Which of the following statements would be a good response? "
+#~ "Select all that apply."
+#~ msgstr ""
+#~ "ஒரு வாடிக்கையாளர் உங்களிடம் சொல்கிறார், “நான் அதிக பணம் செலவு "
+#~ "செய்யமாட்டேன், ஆனால் எளிய வழியில் நண்பர்களுடன் தொடர்ந்து தொடர்பில் இருக்க "
+#~ "வேண்டும்”. பின்வரும் கூற்றுகளில் எவை நல்ல பதிலாக இருக்கம்? பொருத்தமான "
+#~ "அனைத்தையும் தேர்ந்தெடுக்கவும்."
+
+#~ msgid ""
+#~ "A customer says, &ldquo;I use Firefox on my home computer and I love it, but"
+#~ " I didn&rsquo;t know they had a mobile OS. Why?&rdquo; Which of the "
+#~ "following statements would be the most appropriate response to this "
+#~ "particular customer?"
+#~ msgstr ""
+#~ "ஒரு வாடிக்கையாளர் உங்களிடம் சொல்கிறார், “நான் அதிக பணம் செலவு "
+#~ "செய்யமாட்டேன், ஆனால் எளிய வழியில் நண்பர்களுடன் தொடர்ந்து தொடர்பில் இருக்க "
+#~ "வேண்டும்”. பின்வரும் கூற்றுகளில் எவை நல்ல பதிலாக இருக்கம்? பொருத்தமான "
+#~ "அனைத்தையும் தேர்ந்தெடுக்கவும்."
+
+#~ msgid ""
+#~ "What&rsquo;s the best response to this customer&rsquo;s objection? "
+#~ "&ldquo;I&rsquo;ve never heard of Firefox OS phones.&rdquo;"
+#~ msgstr ""
+#~ "இந்த வாடிக்கையாளரின் எதிர்ப்புக்கு எது சிறந்த பதில்?”நான் Firefox OS பற்றி "
+#~ "கேள்விப்பட்டதே இல்லை.”"
+
+#~ msgid ""
+#~ "Firefox OS gives you the most value for your money, with everything you "
+#~ "expect &mdash; camera, email, apps, music and more &mdash; at the most "
+#~ "competitive prices."
+#~ msgstr ""
+#~ "Firefox OS ஆனது உங்களுடைய பணத்திற்கு தகுந்த மதிப்பை அளிக்கும் விதமாக நீங்கள்"
+#~ " எதிர்பார்த்த — படகருவி, மின்னஞ்சல், பயன்பாடுகள், இசை மேலும் கூடுதலாகவும் — "
+#~ "மலிவான விலையிலும் தருகிறது."
+
+#~ msgid ""
+#~ "Firefox OS gives you the most value for your money, with everything you "
+#~ "expect &mdash; Camera, Email, apps, Music and more &mdash; at the most "
+#~ "competitive prices. Plus, Adaptive App Search feature makes it easy to find "
+#~ "the app you really need, when you need it."
+#~ msgstr ""
+#~ "Firefox OS ஆனது உங்களுடைய பணத்திற்கு தகுந்த மதிப்பை அளிக்கும் விதமாக நீங்கள்"
+#~ " எதிர்பார்த்த — படகருவி, மின்னஞ்சல், பயன்பாடுகள், இசை மேலும் கூடுதலாகவும் — "
+#~ "மலிவான விலையிலும் தருகிறது."
+
+#~ msgid ""
+#~ "Firefox OS gives you the most value for your money, with everything you "
+#~ "expect &mdash; Camera, Email, apps, Music and more &mdash; at the most "
+#~ "competitive prices."
+#~ msgstr ""
+#~ "Firefox OS ஆனது உங்களுடைய பணத்திற்கு தகுந்த மதிப்பை அளிக்கும் விதமாக நீங்கள்"
+#~ " எதிர்பார்த்த — படகருவி, மின்னஞ்சல், பயன்பாடுகள், இசை மேலும் கூடுதலாகவும் — "
+#~ "மலிவான விலையிலும் தருகிறது."
+
+#~ msgid ""
+#~ "A customer tells you that smartphones seem complicated.  What selling "
+#~ "feature should you lead with?"
+#~ msgstr ""
+#~ "ஒரு வாடிக்கையாளர் உங்களிடம் சொல்கிறார் திறன்பேசிகள் சிக்கலானது. நீங்கள் "
+#~ "எந்த விற்பனை அம்சத்தை முன்னெடுக்கனும்?"
+
+#~ msgid "phone"
+#~ msgstr "பேசி"
+
+#~ msgid "What can you say?"
+#~ msgstr "இங்கே நீங்க என்ன சொல்ல முடியும்"
+
+#~ msgid "Select the forward arrow to discover the key features of Firefox OS."
+#~ msgstr ""
+#~ "Firefox OS இன் முக்கிய அம்சங்களை கண்டறிய முன்னோக்கிய அம்புக்குறியை "
+#~ "தேர்ந்தெடுக்கவும்."
+
+#~ msgid "Adaptive App Search..."
+#~ msgstr "தகவமைப்பு பயன்பாடு தேடல்..."
+
+#~ msgid "Marketplace..."
+#~ msgstr "Marketplace..."
+
+#~ msgid "Firefox browser..."
+#~ msgstr "பயர்பாக்ஸ் உலாவி..."
+
+#~ msgid "Camera and Gallery..."
+#~ msgstr "படகருவியும் படங்களும்..."
+
+#~ msgid "FM Radio..."
+#~ msgstr "பண்பலை வானொலி..."
+
+#~ msgid "Play it all from your phone, or online via Youtube."
+#~ msgstr "இசையும் காணொளியும்..."
+
+#~ msgid "Here’s what you can say"
+#~ msgstr "இங்கே நீங்க என்ன சொல்ல முடியும்"
+
+#~ msgid "Here’s what you can say:"
+#~ msgstr "இங்கே நீங்க என்ன சொல்ல முடியும்:"
+
+#~ msgid ""
+#~ "Stay connected, with easy access to your friends and colleagues, wherever "
+#~ "you are."
+#~ msgstr ""
+#~ "நீங்கள் எங்கே இருந்தாலும் உங்களுடைய தோழர்களுடனும் சக ஊழியர்களுடனும் "
+#~ "தொடர்ந்து இணைந்திருக்க முடியும்."
