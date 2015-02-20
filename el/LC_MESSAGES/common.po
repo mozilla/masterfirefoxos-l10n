@@ -1,0 +1,375 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-02-19 17:25+0000\n"
+"PO-Revision-Date: 2015-02-20 00:10:10\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
+
+#. Translators:
+#. Page path: /1-1/
+#. Translators:
+#. Page path: /1-3T/
+#. Translators:
+#. Page path: /1-4/
+#. Translators:
+#. Page path: /2-0/
+#: db-strings.txt:6 db-strings.txt.py:3390 db-strings.txt.py:6666
+#: db-strings.txt:10095 masterfirefoxos/base/templates/base.html:14
+#: masterfirefoxos/base/templates/base.html:45
+#: masterfirefoxos/base/templates/home.html:17
+msgid "Master Firefox OS"
+msgstr ""
+
+#: masterfirefoxos/base/templates/base.html:35
+msgid "Submit"
+msgstr ""
+
+#: masterfirefoxos/base/templates/base.html:40
+#: masterfirefoxos/base/templates/base.html:83
+#: masterfirefoxos/base/templates/home.html:12
+msgid "Mozilla"
+msgstr ""
+
+#: masterfirefoxos/base/templates/base.html:65
+msgid "Menu"
+msgstr ""
+
+#: masterfirefoxos/base/templates/base.html:88
+msgid ""
+"Portions of this content are ©1998–{0} by individual contributors. Content "
+"available under a <a href=\"https://www.mozilla.org/foundation/licensing"
+"/website-content/\">Creative Commons license</a>."
+msgstr ""
+
+#: masterfirefoxos/base/templates/base.html:91
+msgid "Source code"
+msgstr ""
+
+#: masterfirefoxos/base/templates/base.html:96
+msgid "Contact Us"
+msgstr ""
+
+#: masterfirefoxos/base/templates/base.html:97
+msgid "Partner with Us"
+msgstr ""
+
+#: masterfirefoxos/base/templates/base.html:98
+msgid "Donate"
+msgstr ""
+
+#: masterfirefoxos/base/templates/base.html:99
+msgid "Privacy Policy"
+msgstr ""
+
+#: masterfirefoxos/base/templates/base.html:100
+msgid "Legal Notices"
+msgstr ""
+
+#: masterfirefoxos/base/templates/base.html:101
+msgid "Report Trademark Abuse"
+msgstr ""
+
+#: masterfirefoxos/base/templates/base.html:105
+msgid "Mozilla on Twitter"
+msgstr ""
+
+#: masterfirefoxos/base/templates/base.html:106
+msgid "Firefox on Twitter"
+msgstr ""
+
+#: masterfirefoxos/base/templates/base.html:107
+msgid "Mozilla on Facebook"
+msgstr ""
+
+#: masterfirefoxos/base/templates/base.html:108
+msgid "Firefox on Facebook"
+msgstr ""
+
+#: masterfirefoxos/base/templates/home.html:49
+msgid "Learn more"
+msgstr ""
+
+#: masterfirefoxos/base/templates/includes/nav-information.html:3
+msgid "Home"
+msgstr ""
+
+#: masterfirefoxos/base/templates/includes/nav-information.html:4
+msgid "About"
+msgstr ""
+
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:3
+msgid "Language"
+msgstr ""
+
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:15
+msgid "Firefox OS version"
+msgstr ""
+
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:21
+msgid "Which version do I have?"
+msgstr ""
+
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:23
+msgid "Change"
+msgstr ""
+
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:34
+msgid ""
+"Documentation for Firefox OS {version} is not yet available in {language}, "
+"so we redirected you to the English version."
+msgstr ""
+
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:36
+msgid "The latest version available in {language} is {version}."
+msgstr ""
+
+#~ msgid "<h2>Ready to explore the key benefits of Firefox OS?</h2>"
+#~ msgstr "Έτοιμοι να εξερευνήσετε τα βασικά προτερήματα του Firefox OS;"
+
+#~ msgid ""
+#~ "<h2>Ready to show what you know?</h2> Think you're ready to start selling "
+#~ "Firefox OS to your customers? Put your knowledge to work and answer these "
+#~ "questions to prove you have what it takes."
+#~ msgstr ""
+#~ "Είστε  έτοιμοι να ξεκινήσετε να πουλάτε το Firefox OS στους πελάτες σας; "
+#~ "Βάλτε μπροστά τις γνώσεις σας και απαντήστε αυτές τις ερωτήσεις για να το "
+#~ "επιβεβαιώσετε."
+
+#~ msgid ""
+#~ "<h2>Ready to show what you know?</h2> Think you are almost ready to start "
+#~ "selling Firefox OS to your customers? Put your knowledge to the test and "
+#~ "answer these questions to prove you have what it takes."
+#~ msgstr ""
+#~ "Είστε  έτοιμοι να ξεκινήσετε να πουλάτε το Firefox OS στους πελάτες σας; "
+#~ "Βάλτε μπροστά τις γνώσεις σας και απαντήστε αυτές τις ερωτήσεις για να το "
+#~ "επιβεβαιώσετε."
+
+#~ msgid ""
+#~ "<h2>Features that count</h2> Firefox OS is packed with the features that "
+#~ "your customers expect in a smartphone. It’s designed to fit their lives "
+#~ "perfectly so they can keep pace with the world around them. <h3>Just what "
+#~ "you need</h3>"
+#~ msgstr ""
+#~ "Το Firefox OS περιέχει όλα τα χαρακτηριστικά που οι πελάτες σας περιμένουν "
+#~ "από ένα smartphone. Ταιριάζει τέλεια στη ζωή τους ώστε να είναι σε αρμονία "
+#~ "με τον κόσμο γύρω τους."
+
+#~ msgid ""
+#~ "Which Firefox OS feature does this icon represent? <img "
+#~ "src=\"/admin/page/page/25/course/assets/m05/t05/p35/m05-t05-p35-a05-b15-c05.png\""
+#~ " alt=\"\" />"
+#~ msgstr ""
+#~ "Ποιο χαρακτηριστικό του Firefox OS αντιπροσωπεύει αυτό το εικονίδιο; Ποιο "
+#~ "χαρακτηριστικό του Firefox OS αντιπροσωπεύει αυτό το εικονίδιο; <img "
+#~ "src='course/assets/m05/t05/p35/m05-t05-p35-a05-b15-c05.png'/>"
+
+#~ msgid ""
+#~ "Which Firefox OS feature does this icon represent? <img "
+#~ "src=\"/admin/page/page/25/course/assets/m05/t05/p35/m05-t05-p35-a05-b15-c10.png\""
+#~ " alt=\"\" />"
+#~ msgstr ""
+#~ "Ποιο χαρακτηριστικό του Firefox OS αντιπροσωπεύει αυτό το εικονίδιο; <img "
+#~ "src='course/assets/m05/t05/p35/m05-t05-p35-a05-b15-c10.png'/>"
+
+#~ msgid ""
+#~ "Which Firefox OS feature does this icon represent? <img "
+#~ "src=\"/admin/page/page/25/course/assets/m05/t05/p35/m05-t05-p35-a05-b20-c05.png\""
+#~ " alt=\"\" />"
+#~ msgstr ""
+#~ "Ποιο χαρακτηριστικό του Firefox OS αντιπροσωπεύει αυτό το εικονίδιο; <img "
+#~ "src='course/assets/m05/t05/p35/m05-t05-p35-a05-b20-c10.png'/>"
+
+#~ msgid ""
+#~ "Which Firefox OS feature does this icon represent? <img "
+#~ "src=\"/admin/page/page/25/course/assets/m05/t05/p35/m05-t05-p35-a05-b20-c10.png\""
+#~ " alt=\"\" />"
+#~ msgstr ""
+#~ "Ποιο χαρακτηριστικό του Firefox OS αντιπροσωπεύει αυτό το εικονίδιο; <img "
+#~ "src='course/assets/m05/t05/p35/m05-t05-p35-a05-b20-c10.png'/>"
+
+#~ msgid "Search bar"
+#~ msgstr "Χάρτες"
+
+#~ msgid ""
+#~ "That&rsquo;s right! All of these apps come pre-loaded on every Firefox OS "
+#~ "phone."
+#~ msgstr ""
+#~ "Ποιες από τις παρακάτω εφαρμογές έρχονται προεγκατεστημένες με κάθε τηλέφωνο"
+#~ " Firefox OS; Επιλέξτε όλες όσες ταιριάζουν."
+
+#~ msgid ""
+#~ "That&rsquo;s right. All of these customers are ideal candidates for Firefox "
+#~ "OS!"
+#~ msgstr ""
+#~ "Ποιες από αυτές τις απαντήσεις πελατών φανερώνουν έναν ιδανικό υποψήφιο για "
+#~ "το Firefox OS; Επιλέξτε όλα όσα ταιριάζουν."
+
+#~ msgid ""
+#~ "A customer tells you that she&rsquo;s ready to move up from her old feature "
+#~ "phone. What selling feature should you lead with?"
+#~ msgstr ""
+#~ "Μια πελάτης σας λέει πως είναι έτοιμη να προχωρήσει πέρα από το "
+#~ "πεπαλαιωμένων χαρακτηριστικών τηλέφωνο της. Με ποιο χαρακτηριστικό θα πρέπει"
+#~ " να ξεκινήσετε;"
+
+#~ msgid ""
+#~ "With Adaptive App Search, you can use an app once, quickly and easily, "
+#~ "without installing it. If you want to use it again later, it&rsquo;s easy to"
+#~ " add it to your homescreen."
+#~ msgstr ""
+#~ "Με την προσαρμοσμένη αναζήτηση εφαρμογών, μπορείτε να χρησιμοποιήσετε μια "
+#~ "εφαρμογή εύκολα και γρήγορα, χωρίς να την εγκαταστήσετε. Αν θέλετε να τη "
+#~ "χρησιμοποιήσετε ξανά αργότερα, είναι εύκολο να την προσθέσετε στην αρχική "
+#~ "σας οθόνη."
+
+#~ msgid ""
+#~ "What&rsquo;s the best response to this customer&rsquo;s objection? "
+#~ "&ldquo;I&rsquo;ve heard there are not many apps.&rdquo;"
+#~ msgstr ""
+#~ "Ποια είναι η καλύτερη απάντηση στην ένσταση αυτού του πελάτη; «Έχω ακούσει "
+#~ "πως δεν υπάρχουν και πολλές εφαρμογές.»”"
+
+#~ msgid ""
+#~ "What&rsquo;s the best response to this customer&rsquo;s objection?<br "
+#~ "/>&ldquo;I&rsquo;ve never heard of Firefox OS phones.&rdquo;"
+#~ msgstr ""
+#~ "Ποια είναι η καλύτερη απάντηση στην ένσταση αυτού του πελάτη; «Δεν έχω "
+#~ "ακούσει ξανά για κινητά Firefox OS.»"
+
+#~ msgid ""
+#~ "What&rsquo;s the best response to this customer&rsquo;s objection?<br "
+#~ "/>&ldquo;How do I know this new phone is safe?&rdquo;"
+#~ msgstr ""
+#~ "Ποια είναι η καλύτερη απάντηση στην ένσταση αυτού του χρήστη; «Πως γνωρίζω "
+#~ "ότι αυτό το νέο τηλέφωνο είναι ασφαλές;»"
+
+#~ msgid ""
+#~ "Firefox OS gives you the most value for your money, with everything you "
+#~ "expect &mdash; camera, email, apps, music, maps and more &mdash; at the most"
+#~ " competitive prices."
+#~ msgstr ""
+#~ "Το Firefox OS σας δίνει την καλύτερη αναλογία επιδόσεων για την τιμή του. "
+#~ "Διαθέτει ό,τι αναμένετε από ένα smartphone -- κάμερα, email, εφαρμογές, "
+#~ "μουσική, χάρτες και περισσότερα -- στις πιο ανταγωνιστικές τιμές."
+
+#~ msgid ""
+#~ "What&rsquo;s the best response to this customer&rsquo;s objection? "
+#~ "&ldquo;I&rsquo;ve never heard of Firefox OS phones.&rdquo;"
+#~ msgstr ""
+#~ "Ποια είναι η καλύτερη απάντηση στην ένσταση αυτού του πελάτη; «Δεν έχω "
+#~ "ακούσει ξανά για κινητά Firefox OS.»"
+
+#~ msgid ""
+#~ "Firefox OS gives you the most value for your money, with everything you "
+#~ "expect &mdash; camera, email, apps, music and more &mdash; at the most "
+#~ "competitive prices."
+#~ msgstr ""
+#~ "Το Firefox OS σας δίνει την καλύτερη αναλογία επιδόσεων για την τιμή του. "
+#~ "Διαθέτει ό,τι αναμένετε από ένα smartphone -- κάμερα, email, εφαρμογές, "
+#~ "μουσική, χάρτες και περισσότερα -- στις πιο ανταγωνιστικές τιμές."
+
+#~ msgid ""
+#~ "Firefox OS gives you the most value for your money, with everything you "
+#~ "expect &mdash; Camera, Email, apps, Music and more &mdash; at the most "
+#~ "competitive prices. Plus, Adaptive App Search feature makes it easy to find "
+#~ "the app you really need, when you need it."
+#~ msgstr ""
+#~ "Το Firefox OS σας δίνει την καλύτερη αναλογία επιδόσεων για την τιμή του. "
+#~ "Διαθέτει ό,τι αναμένετε από ένα smartphone -- κάμερα, email, εφαρμογές, "
+#~ "μουσική, χάρτες και περισσότερα -- στις πιο ανταγωνιστικές τιμές."
+
+#~ msgid ""
+#~ "Firefox OS gives you the most value for your money, with everything you "
+#~ "expect &mdash; Camera, Email, apps, Music and more &mdash; at the most "
+#~ "competitive prices."
+#~ msgstr ""
+#~ "Το Firefox OS σας δίνει την καλύτερη αναλογία επιδόσεων για την τιμή του. "
+#~ "Διαθέτει ό,τι αναμένετε από ένα smartphone -- κάμερα, email, εφαρμογές, "
+#~ "μουσική, χάρτες και περισσότερα -- στις πιο ανταγωνιστικές τιμές."
+
+#~ msgid ""
+#~ "Behind every Firefox OS smartphone is Mozilla, a global community of "
+#~ "thousands dedicated to keeping the Web accessible to all. That&rsquo;s "
+#~ "because we believe each and every one of us has the right to a Web that "
+#~ "isn&rsquo;t controlled by just a few large entities.<br /><br />Yeah, "
+#~ "we&rsquo;re a little different than the other guys. Together, we can build a"
+#~ " brighter future for the Web. &nbsp; &nbsp;"
+#~ msgstr ""
+#~ "Πίσω από κάθε Firefox OS smartphone βρίσκεται το ίδρυμα Mozilla: Μια "
+#~ "παγκόσμια κοινότητα χιλιάδων ανθρώπων, αφοσιωμένων στη διατήρηση της "
+#~ "προσβασιμότητας του ιστού από όλους. Κι αυτό επειδή πιστεύουμε πως ο καθένας"
+#~ " μας έχει το δικαίωμα πρόσβασης σε έναν ιστό που δεν ελέγχεται από μερικούς "
+#~ "μόνο μεγάλους οργανισμούς. Ναι, είμαστε λίγο διαφορετικοί από τους άλλους. "
+#~ "Μαζί, μπορούμε να χτίσουμε ένα λαμπρότερο μέλλον για τον ιστό."
+
+#~ msgid ""
+#~ "A customer tells you that smartphones seem complicated.  What selling "
+#~ "feature should you lead with?"
+#~ msgstr ""
+#~ "Ένας πελάτης σας λέει πως τα smartphones φαίνονται περίπλοκα. Με ποιο "
+#~ "χαρακτηριστικό θα πρέπει να ξεκινήσετε;"
+
+#~ msgid "What can you say?"
+#~ msgstr "Να τι μπορείτε να πείτε:"
+
+#~ msgid "Select the forward arrow to discover the key features of Firefox OS."
+#~ msgstr ""
+#~ "Επιλέξτε το βέλος προς τα εμπρός για να ανακαλύψετε τα βασικά χαρακτηριστικά"
+#~ " του Firefox OS."
+
+#~ msgid "Adaptive App Search..."
+#~ msgstr "Αποκτήστε τα όλα..."
+
+#~ msgid "Marketplace..."
+#~ msgstr "Marketplace..."
+
+#~ msgid "Firefox browser..."
+#~ msgstr "Περιηγητής Firefox..."
+
+#~ msgid "Facebook and Twitter..."
+#~ msgstr "Facebook και Twitter..."
+
+#~ msgid "Contacts..."
+#~ msgstr "Επαφές..."
+
+#~ msgid "Camera and Gallery..."
+#~ msgstr "Κάμερα και πολυμέσα..."
+
+#~ msgid "FM Radio..."
+#~ msgstr "Ραδιόφωνο FM..."
+
+#~ msgid "Maps..."
+#~ msgstr "Χάρτες..."
+
+#~ msgid "Play it all from your phone, or online via Youtube."
+#~ msgstr "Μουσική και βίντεο..."
+
+#~ msgid "SMS and Email..."
+#~ msgstr "SMS και email..."
+
+#~ msgid "Here’s what you can say"
+#~ msgstr "Χαρακτηριστικά που αξίζουν"
+
+#~ msgid "Here’s what you can say:"
+#~ msgstr "Χαρακτηριστικά που αξίζουν"
+
+#~ msgid ""
+#~ "Stay connected, with easy access to your friends and colleagues, wherever "
+#~ "you are."
+#~ msgstr ""
+#~ "Μείνετε δικτυωμένοι, με έυκολη πρόσβαση σε φίλους και συναδέλφους όπου και "
+#~ "αν βρίσκεστε."

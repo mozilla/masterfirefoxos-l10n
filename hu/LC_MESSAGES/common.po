@@ -1,0 +1,368 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-02-19 17:25+0000\n"
+"PO-Revision-Date: 2015-02-20 00:10:13\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
+
+#. Translators:
+#. Page path: /1-1/
+#. Translators:
+#. Page path: /1-3T/
+#. Translators:
+#. Page path: /1-4/
+#. Translators:
+#. Page path: /2-0/
+#: db-strings.txt:6 db-strings.txt.py:3390 db-strings.txt.py:6666
+#: db-strings.txt:10095 masterfirefoxos/base/templates/base.html:14
+#: masterfirefoxos/base/templates/base.html:45
+#: masterfirefoxos/base/templates/home.html:17
+msgid "Master Firefox OS"
+msgstr ""
+
+#: masterfirefoxos/base/templates/base.html:35
+msgid "Submit"
+msgstr ""
+
+#: masterfirefoxos/base/templates/base.html:40
+#: masterfirefoxos/base/templates/base.html:83
+#: masterfirefoxos/base/templates/home.html:12
+msgid "Mozilla"
+msgstr ""
+
+#: masterfirefoxos/base/templates/base.html:65
+msgid "Menu"
+msgstr ""
+
+#: masterfirefoxos/base/templates/base.html:88
+msgid ""
+"Portions of this content are ©1998–{0} by individual contributors. Content "
+"available under a <a href=\"https://www.mozilla.org/foundation/licensing"
+"/website-content/\">Creative Commons license</a>."
+msgstr ""
+
+#: masterfirefoxos/base/templates/base.html:91
+msgid "Source code"
+msgstr ""
+
+#: masterfirefoxos/base/templates/base.html:96
+msgid "Contact Us"
+msgstr ""
+
+#: masterfirefoxos/base/templates/base.html:97
+msgid "Partner with Us"
+msgstr ""
+
+#: masterfirefoxos/base/templates/base.html:98
+msgid "Donate"
+msgstr ""
+
+#: masterfirefoxos/base/templates/base.html:99
+msgid "Privacy Policy"
+msgstr ""
+
+#: masterfirefoxos/base/templates/base.html:100
+msgid "Legal Notices"
+msgstr ""
+
+#: masterfirefoxos/base/templates/base.html:101
+msgid "Report Trademark Abuse"
+msgstr ""
+
+#: masterfirefoxos/base/templates/base.html:105
+msgid "Mozilla on Twitter"
+msgstr ""
+
+#: masterfirefoxos/base/templates/base.html:106
+msgid "Firefox on Twitter"
+msgstr ""
+
+#: masterfirefoxos/base/templates/base.html:107
+msgid "Mozilla on Facebook"
+msgstr ""
+
+#: masterfirefoxos/base/templates/base.html:108
+msgid "Firefox on Facebook"
+msgstr ""
+
+#: masterfirefoxos/base/templates/home.html:49
+msgid "Learn more"
+msgstr ""
+
+#: masterfirefoxos/base/templates/includes/nav-information.html:3
+msgid "Home"
+msgstr ""
+
+#: masterfirefoxos/base/templates/includes/nav-information.html:4
+msgid "About"
+msgstr ""
+
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:3
+msgid "Language"
+msgstr ""
+
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:15
+msgid "Firefox OS version"
+msgstr ""
+
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:21
+msgid "Which version do I have?"
+msgstr ""
+
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:23
+msgid "Change"
+msgstr ""
+
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:34
+msgid ""
+"Documentation for Firefox OS {version} is not yet available in {language}, "
+"so we redirected you to the English version."
+msgstr ""
+
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:36
+msgid "The latest version available in {language} is {version}."
+msgstr ""
+
+#~ msgid "<h2>Ready to explore the key benefits of Firefox OS?</h2>"
+#~ msgstr "Készen áll a Firefox OS főbb előnyeinek megismerésére?"
+
+#~ msgid ""
+#~ "<h2>Ready to show what you know?</h2> Think you're ready to start selling "
+#~ "Firefox OS to your customers? Put your knowledge to work and answer these "
+#~ "questions to prove you have what it takes."
+#~ msgstr ""
+#~ "Úgy érzi, készen áll a Firefox OS eladására vásárlóinak? Kezdje el használni"
+#~ " tudását és válaszolja meg ezeket a kérdéseket, bizonyítsa, hogy képes rá!"
+
+#~ msgid ""
+#~ "<h2>Ready to show what you know?</h2> Think you are almost ready to start "
+#~ "selling Firefox OS to your customers? Put your knowledge to the test and "
+#~ "answer these questions to prove you have what it takes."
+#~ msgstr ""
+#~ "Úgy érzi, készen áll a Firefox OS eladására vásárlóinak? Kezdje el használni"
+#~ " tudását és válaszolja meg ezeket a kérdéseket, bizonyítsa, hogy képes rá!"
+
+#~ msgid ""
+#~ "<h2>Features that count</h2> Firefox OS is packed with the features that "
+#~ "your customers expect in a smartphone. It’s designed to fit their lives "
+#~ "perfectly so they can keep pace with the world around them. <h3>Just what "
+#~ "you need</h3>"
+#~ msgstr ""
+#~ "A Firefox OS tele van azokkal a funkciókkal, amelyeket vásárlói elvárnak egy"
+#~ " okostelefontól. Tökéletesen illeszkedik életükbe, így lépést tarthatnak a "
+#~ "körülöttük lévő világgal."
+
+#~ msgid ""
+#~ "Which Firefox OS feature does this icon represent? <img "
+#~ "src=\"/admin/page/page/25/course/assets/m05/t05/p35/m05-t05-p35-a05-b15-c05.png\""
+#~ " alt=\"\" />"
+#~ msgstr ""
+#~ "Ez az ikon melyik Firefox OS funkciót jelképezi? <img "
+#~ "src='course/assets/m05/t05/p35/m05-t05-p35-a05-b15-c05.png'/>"
+
+#~ msgid ""
+#~ "Which Firefox OS feature does this icon represent? <img "
+#~ "src=\"/admin/page/page/25/course/assets/m05/t05/p35/m05-t05-p35-a05-b15-c10.png\""
+#~ " alt=\"\" />"
+#~ msgstr ""
+#~ "Ez az ikon melyik Firefox OS funkciót jelképezi? <img "
+#~ "src='course/assets/m05/t05/p35/m05-t05-p35-a05-b15-c10.png'/>"
+
+#~ msgid ""
+#~ "Which Firefox OS feature does this icon represent? <img "
+#~ "src=\"/admin/page/page/25/course/assets/m05/t05/p35/m05-t05-p35-a05-b20-c05.png\""
+#~ " alt=\"\" />"
+#~ msgstr ""
+#~ "Ez az ikon melyik Firefox OS funkciót jelképezi? <img "
+#~ "src='course/assets/m05/t05/p35/m05-t05-p35-a05-b20-c10.png'/>"
+
+#~ msgid ""
+#~ "Which Firefox OS feature does this icon represent? <img "
+#~ "src=\"/admin/page/page/25/course/assets/m05/t05/p35/m05-t05-p35-a05-b20-c10.png\""
+#~ " alt=\"\" />"
+#~ msgstr ""
+#~ "Ez az ikon melyik Firefox OS funkciót jelképezi? <img "
+#~ "src='course/assets/m05/t05/p35/m05-t05-p35-a05-b20-c10.png'/>"
+
+#~ msgid "Search bar"
+#~ msgstr "Térképek"
+
+#~ msgid ""
+#~ "That&rsquo;s right! All of these apps come pre-loaded on every Firefox OS "
+#~ "phone."
+#~ msgstr ""
+#~ "A következő appok közül melyik érhető el alapesetben minden Firefox OS "
+#~ "telefonon? Jelölje be az összes jó választ."
+
+#~ msgid ""
+#~ "That&rsquo;s right. All of these customers are ideal candidates for Firefox "
+#~ "OS!"
+#~ msgstr ""
+#~ "A következő válaszok közül melyik jelez ideális vásárlójelöltet a Firefox "
+#~ "OS-hez?"
+
+#~ msgid ""
+#~ "A customer tells you that she&rsquo;s ready to move up from her old feature "
+#~ "phone. What selling feature should you lead with?"
+#~ msgstr ""
+#~ "Egy vásárló azt mondja, hogy készen áll a régi középkategóriás telefonjának "
+#~ "leváltására. Melyik funkcióval kell a vásárlás mellett érvelnie?"
+
+#~ msgid ""
+#~ "With Adaptive App Search, you can use an app once, quickly and easily, "
+#~ "without installing it. If you want to use it again later, it&rsquo;s easy to"
+#~ " add it to your homescreen."
+#~ msgstr ""
+#~ "Az adaptív app kereséssel egy appot használhat egyszer, gyorsan és "
+#~ "egyszerűen, telepítés nélkül is. Ha később újra szeretné használni, akkor "
+#~ "egyszerűen hozzáadhatja a kezdőoldalához."
+
+#~ msgid ""
+#~ "What&rsquo;s the best response to this customer&rsquo;s objection? "
+#~ "&ldquo;I&rsquo;ve heard there are not many apps.&rdquo;"
+#~ msgstr ""
+#~ "Mi a legjobb válasz a következő vásárlói tiltakozásra: „Úgy hallottam, nincs"
+#~ " sok app.”?"
+
+#~ msgid ""
+#~ "What&rsquo;s the best response to this customer&rsquo;s objection?<br "
+#~ "/>&ldquo;I&rsquo;ve never heard of Firefox OS phones.&rdquo;"
+#~ msgstr ""
+#~ "Mi a legjobb válasz a következő vásárlói tiltakozásra: „Soha nem hallottam a"
+#~ " Firefox OS telefonokról.”?"
+
+#~ msgid ""
+#~ "What&rsquo;s the best response to this customer&rsquo;s objection?<br "
+#~ "/>&ldquo;How do I know this new phone is safe?&rdquo;"
+#~ msgstr ""
+#~ "Mi a legjobb válasz a következő vásárlói tiltakozásra: „Honnan tudhatom, "
+#~ "hogy az új telefon biztonságos?”?"
+
+#~ msgid ""
+#~ "Firefox OS gives you the most value for your money, with everything you "
+#~ "expect &mdash; camera, email, apps, music, maps and more &mdash; at the most"
+#~ " competitive prices."
+#~ msgstr ""
+#~ "A Firefox OS adja a legtöbb értéket a pénzéért. Tartalmazza az összes olyan "
+#~ "funkciót, amit egy okostelefontól elvár – fényképezőgép, e-mail, appok, "
+#~ "zene, térképek és sok más – a legversenyképesebb áron."
+
+#~ msgid ""
+#~ "What&rsquo;s the best response to this customer&rsquo;s objection? "
+#~ "&ldquo;I&rsquo;ve never heard of Firefox OS phones.&rdquo;"
+#~ msgstr ""
+#~ "Mi a legjobb válasz a következő vásárlói tiltakozásra: „Soha nem hallottam a"
+#~ " Firefox OS telefonokról.”?"
+
+#~ msgid ""
+#~ "Firefox OS gives you the most value for your money, with everything you "
+#~ "expect &mdash; camera, email, apps, music and more &mdash; at the most "
+#~ "competitive prices."
+#~ msgstr ""
+#~ "A Firefox OS adja a legtöbb értéket a pénzéért. Tartalmazza az összes olyan "
+#~ "funkciót, amit egy okostelefontól elvár – fényképezőgép, e-mail, appok, "
+#~ "zene, térképek és sok más – a legversenyképesebb áron."
+
+#~ msgid ""
+#~ "Firefox OS gives you the most value for your money, with everything you "
+#~ "expect &mdash; Camera, Email, apps, Music and more &mdash; at the most "
+#~ "competitive prices. Plus, Adaptive App Search feature makes it easy to find "
+#~ "the app you really need, when you need it."
+#~ msgstr ""
+#~ "A Firefox OS adja a legtöbb értéket a pénzéért. Tartalmazza az összes olyan "
+#~ "funkciót, amit egy okostelefontól elvár – fényképezőgép, e-mail, appok, "
+#~ "zene, térképek és sok más – a legversenyképesebb áron."
+
+#~ msgid ""
+#~ "Firefox OS gives you the most value for your money, with everything you "
+#~ "expect &mdash; Camera, Email, apps, Music and more &mdash; at the most "
+#~ "competitive prices."
+#~ msgstr ""
+#~ "A Firefox OS adja a legtöbb értéket a pénzéért. Tartalmazza az összes olyan "
+#~ "funkciót, amit egy okostelefontól elvár – fényképezőgép, e-mail, appok, "
+#~ "zene, térképek és sok más – a legversenyképesebb áron."
+
+#~ msgid ""
+#~ "Behind every Firefox OS smartphone is Mozilla, a global community of "
+#~ "thousands dedicated to keeping the Web accessible to all. That&rsquo;s "
+#~ "because we believe each and every one of us has the right to a Web that "
+#~ "isn&rsquo;t controlled by just a few large entities.<br /><br />Yeah, "
+#~ "we&rsquo;re a little different than the other guys. Together, we can build a"
+#~ " brighter future for the Web. &nbsp; &nbsp;"
+#~ msgstr ""
+#~ "Minden Firefox OS okostelefon mögött ott áll a Mozilla több ezer fős "
+#~ "globális közössége, akik elkötelezettek a web mindenki számára elérhetőnek "
+#~ "megőrzése iránt. Ennek oka, hogy szerintünk mindenkinek joga van egy olyan "
+#~ "webhez, amelyet nem csak néhány nagy társaság irányít.<br/><br/>Igen, egy "
+#~ "picit különbözünk a többiektől. Együtt fényesebb jövőt építhetünk a web "
+#~ "számára."
+
+#~ msgid ""
+#~ "A customer tells you that smartphones seem complicated.  What selling "
+#~ "feature should you lead with?"
+#~ msgstr ""
+#~ "Egy vásárló szerint az okostelefonok bonyolultnak tűnnek. Melyik funkcióval "
+#~ "kell a vásárlás mellett érvelnie?"
+
+#~ msgid "What can you say?"
+#~ msgstr "A következőt mondhatja"
+
+#~ msgid "Select the forward arrow to discover the key features of Firefox OS."
+#~ msgstr "Válassza az előre nyilat a Firefox OS fő funkcióinak felfedezéséhez."
+
+#~ msgid "Adaptive App Search..."
+#~ msgstr "Adaptív app keresés..."
+
+#~ msgid "Marketplace..."
+#~ msgstr "Marketplace..."
+
+#~ msgid "Firefox browser..."
+#~ msgstr "Firefox böngésző..."
+
+#~ msgid "Facebook and Twitter..."
+#~ msgstr "Facebook és Twitter..."
+
+#~ msgid "Contacts..."
+#~ msgstr "Névjegyek..."
+
+#~ msgid "Camera and Gallery..."
+#~ msgstr "Kamera és Galéria..."
+
+#~ msgid "FM Radio..."
+#~ msgstr "FM rádió..."
+
+#~ msgid "Maps..."
+#~ msgstr "Térképek..."
+
+#~ msgid "Play it all from your phone, or online via Youtube."
+#~ msgstr "Zene és videó...."
+
+#~ msgid "SMS and Email..."
+#~ msgstr "SMS és e-mail..."
+
+#~ msgid "Here’s what you can say"
+#~ msgstr "Funkciók, amelyek számítanak"
+
+#~ msgid "Here’s what you can say:"
+#~ msgstr "Funkciók, amelyek számítanak"
+
+#~ msgid ""
+#~ "Stay connected, with easy access to your friends and colleagues, wherever "
+#~ "you are."
+#~ msgstr ""
+#~ "Maradjon kapcsolatban, egyszerűen elérve ismerőseit és kollégáit, bárhol is "
+#~ "legyen."

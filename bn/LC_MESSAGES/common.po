@@ -1,0 +1,191 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-02-19 17:25+0000\n"
+"PO-Revision-Date: 2015-02-20 00:10:02\n"
+"Last-Translator: Ayan Choudhury <ping2ayan@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: bn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
+
+#. Translators:
+#. Page path: /1-1/
+#. Translators:
+#. Page path: /1-3T/
+#. Translators:
+#. Page path: /1-4/
+#. Translators:
+#. Page path: /2-0/
+#: db-strings.txt:6 db-strings.txt.py:3390 db-strings.txt.py:6666
+#: db-strings.txt:10095 masterfirefoxos/base/templates/base.html:14
+#: masterfirefoxos/base/templates/base.html:45
+#: masterfirefoxos/base/templates/home.html:17
+msgid "Master Firefox OS"
+msgstr "মাস্টার Firefox OS"
+
+#: masterfirefoxos/base/templates/base.html:35
+msgid "Submit"
+msgstr "জমা দিন"
+
+#: masterfirefoxos/base/templates/base.html:40
+#: masterfirefoxos/base/templates/base.html:83
+#: masterfirefoxos/base/templates/home.html:12
+msgid "Mozilla"
+msgstr "Mozilla"
+
+#: masterfirefoxos/base/templates/base.html:65
+msgid "Menu"
+msgstr "মেনু"
+
+#: masterfirefoxos/base/templates/base.html:88
+msgid ""
+"Portions of this content are ©1998–{0} by individual contributors. Content "
+"available under a <a href=\"https://www.mozilla.org/foundation/licensing"
+"/website-content/\">Creative Commons license</a>."
+msgstr ""
+
+#: masterfirefoxos/base/templates/base.html:91
+msgid "Source code"
+msgstr "সোর্স কোড"
+
+#: masterfirefoxos/base/templates/base.html:96
+msgid "Contact Us"
+msgstr "আমাদের সাথে যোগাযোগ করুন"
+
+#: masterfirefoxos/base/templates/base.html:97
+msgid "Partner with Us"
+msgstr "আমাদের অংশীদার হোন"
+
+#: masterfirefoxos/base/templates/base.html:98
+msgid "Donate"
+msgstr "দান করা"
+
+#: masterfirefoxos/base/templates/base.html:99
+msgid "Privacy Policy"
+msgstr "গোপনীয়তা নীতি"
+
+#: masterfirefoxos/base/templates/base.html:100
+msgid "Legal Notices"
+msgstr "আইনি নোটিশ"
+
+#: masterfirefoxos/base/templates/base.html:101
+msgid "Report Trademark Abuse"
+msgstr "ট্রেডমার্ক অপব্যবহার সম্বন্ধে রিপোর্ট"
+
+#: masterfirefoxos/base/templates/base.html:105
+msgid "Mozilla on Twitter"
+msgstr "Twitter-এ Mozilla"
+
+#: masterfirefoxos/base/templates/base.html:106
+msgid "Firefox on Twitter"
+msgstr "Twitter-এ Firefox"
+
+#: masterfirefoxos/base/templates/base.html:107
+msgid "Mozilla on Facebook"
+msgstr "Facebook-এ Mozilla"
+
+#: masterfirefoxos/base/templates/base.html:108
+msgid "Firefox on Facebook"
+msgstr "Facebook-এ Firefox"
+
+#: masterfirefoxos/base/templates/home.html:49
+msgid "Learn more"
+msgstr "আরও জানুন"
+
+#: masterfirefoxos/base/templates/includes/nav-information.html:3
+msgid "Home"
+msgstr "হোম"
+
+#: masterfirefoxos/base/templates/includes/nav-information.html:4
+msgid "About"
+msgstr "সম্বন্ধে"
+
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:3
+msgid "Language"
+msgstr "ভাষা"
+
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:15
+msgid "Firefox OS version"
+msgstr "Firefox OS সংস্করণ"
+
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:21
+msgid "Which version do I have?"
+msgstr "আমার কোন সংস্করণ আছে?"
+
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:23
+msgid "Change"
+msgstr "বদল করুন"
+
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:34
+msgid ""
+"Documentation for Firefox OS {version} is not yet available in {language}, "
+"so we redirected you to the English version."
+msgstr ""
+"Firefox OS {version}-এর ডকুমেন্টেশন {language}-এর জন্য এখনও অবধি উপলব্ধ নয়, "
+"তাই আমরা আপনাকে ইংরাজী সংস্করণে নিয়ে যাচ্ছি।"
+
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:36
+msgid "The latest version available in {language} is {version}."
+msgstr "সর্বশেষ সংস্করণ {version} উপলব্ধ আছে {language}-তে।"
+
+#~ msgid "Bengali"
+#~ msgstr "বাংলা"
+
+#~ msgid "Croatian"
+#~ msgstr "ক্রোয়েশিয়ান"
+
+#~ msgid "Czech"
+#~ msgstr "চেক"
+
+#~ msgid "English"
+#~ msgstr "ইংরাজী"
+
+#~ msgid "German"
+#~ msgstr "জার্মান"
+
+#~ msgid "Greek"
+#~ msgstr "গ্রীক"
+
+#~ msgid "Hindi"
+#~ msgstr "হিন্দি"
+
+#~ msgid "Hungarian"
+#~ msgstr "হাঙ্গেরিয়ান"
+
+#~ msgid "Italian"
+#~ msgstr "ইতালিয়ান"
+
+#~ msgid "Japanese"
+#~ msgstr "জাপানিজ"
+
+#~ msgid "Polish"
+#~ msgstr "পোলিশ"
+
+#~ msgid "Portuguese"
+#~ msgstr "পর্তুগীজ"
+
+#~ msgid "Serbian"
+#~ msgstr "সার্বিয়ান"
+
+#~ msgid "Spanish"
+#~ msgstr "স্প্যানিশ"
+
+#~ msgid "Tamil"
+#~ msgstr "তামিল"
+
+#~ msgid "Pirate"
+#~ msgstr "পাইরেট"
+
+#~ msgid "<h2>Ready to explore the key benefits of Firefox OS?</h2>"
+#~ msgstr "<h2>আপনি কি Firefox OS এর প্রধান সুবিধাগুলো অনুসন্ধান করতে তৈরী?</h2>"

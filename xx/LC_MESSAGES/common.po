@@ -1,0 +1,316 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-02-19 17:25+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: html,pirate\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural= n != 1\n"
+
+#. Translators:
+#. Page path: /1-1/
+#. Translators:
+#. Page path: /1-3T/
+#. Translators:
+#. Page path: /1-4/
+#. Translators:
+#. Page path: /2-0/
+#: db-strings.txt:6 db-strings.txt.py:3390 db-strings.txt.py:6666
+#: db-strings.txt:10095 masterfirefoxos/base/templates/base.html:14
+#: masterfirefoxos/base/templates/base.html:45
+#: masterfirefoxos/base/templates/home.html:17
+msgid "Master Firefox OS"
+msgstr "Masterr Firefox OS ahoy❗"
+
+#: masterfirefoxos/base/templates/base.html:35
+msgid "Submit"
+msgstr ""
+
+#: masterfirefoxos/base/templates/base.html:40
+#: masterfirefoxos/base/templates/base.html:83
+#: masterfirefoxos/base/templates/home.html:12
+msgid "Mozilla"
+msgstr "Mozillar cap'n❗"
+
+#: masterfirefoxos/base/templates/base.html:65
+msgid "Menu"
+msgstr "Menu me mateys❗"
+
+#: masterfirefoxos/base/templates/base.html:88
+msgid ""
+"Portions of this content are ©1998–{0} by individual contributors. Content "
+"available under a <a href=\"https://www.mozilla.org/foundation/licensing"
+"/website-content/\">Creative Commons license</a>."
+msgstr ""
+"Portions o' this content bee ©1998–{0} by individual contributors. Content "
+"available underr a  matey❗<a "
+"href=\"https://www.mozilla.org/foundation/licensing/website-"
+"content/\">Creative Commons license ye landlubbers❗</a> arrRRr❗."
+
+#: masterfirefoxos/base/templates/base.html:91
+msgid "Source code"
+msgstr "Source code ye landlubbers❗"
+
+#: masterfirefoxos/base/templates/base.html:96
+msgid "Contact Us"
+msgstr "Contact Us shiver me timbers❗"
+
+#: masterfirefoxos/base/templates/base.html:97
+msgid "Partner with Us"
+msgstr "Partnerr wit' Us matey❗"
+
+#: masterfirefoxos/base/templates/base.html:98
+msgid "Donate"
+msgstr "Donate aye❗"
+
+#: masterfirefoxos/base/templates/base.html:99
+msgid "Privacy Policy"
+msgstr "Privacy Policy arrRRr❗"
+
+#: masterfirefoxos/base/templates/base.html:100
+msgid "Legal Notices"
+msgstr "Legal Notices arr❗"
+
+#: masterfirefoxos/base/templates/base.html:101
+msgid "Report Trademark Abuse"
+msgstr "Reparrt Trademark Abuse shiver me timbers❗"
+
+#: masterfirefoxos/base/templates/base.html:105
+msgid "Mozilla on Twitter"
+msgstr "Mozillar on Twitterr ye scalleywag❗"
+
+#: masterfirefoxos/base/templates/base.html:106
+msgid "Firefox on Twitter"
+msgstr "Firefox on Twitterr aye❗"
+
+#: masterfirefoxos/base/templates/base.html:107
+msgid "Mozilla on Facebook"
+msgstr "Mozillar on Facebook ye scalleywag❗"
+
+#: masterfirefoxos/base/templates/base.html:108
+msgid "Firefox on Facebook"
+msgstr "Firefox on Facebook aye❗"
+
+#: masterfirefoxos/base/templates/home.html:49
+msgid "Learn more"
+msgstr "Learn more shiver me timbers❗"
+
+#: masterfirefoxos/base/templates/includes/nav-information.html:3
+msgid "Home"
+msgstr "Home me mateys❗"
+
+#: masterfirefoxos/base/templates/includes/nav-information.html:4
+msgid "About"
+msgstr "About ahoy❗"
+
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:3
+msgid "Language"
+msgstr "Language cap'n❗"
+
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:15
+msgid "Firefox OS version"
+msgstr "Firefox OS varrsion aye❗"
+
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:21
+msgid "Which version do I have?"
+msgstr "Which varrsion do I have prepare to be boarded❗?"
+
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:23
+msgid "Change"
+msgstr "Change aye❗"
+
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:34
+msgid ""
+"Documentation for Firefox OS {version} is not yet available in {language}, "
+"so we redirected you to the English version."
+msgstr ""
+"Documentation fer Firefox OS {version} is not yet available in {language}, "
+"so we redirect'd ye' to th' English varrsion matey❗."
+
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:36
+msgid "The latest version available in {language} is {version}."
+msgstr "The latest varrsion available in {language} is {version} ahoy❗."
+
+#~ msgid "Bengali"
+#~ msgstr "Bengali ye scalleywag❗"
+
+#~ msgid "Croatian"
+#~ msgstr "Croatian cap'n❗"
+
+#~ msgid "Czech"
+#~ msgstr "Czech ahoy❗"
+
+#~ msgid "English"
+#~ msgstr "English ye scalleywag❗"
+
+#~ msgid "German"
+#~ msgstr "Garrman ye scalleywag❗"
+
+#~ msgid "Greek"
+#~ msgstr "Greek ahoy❗"
+
+#~ msgid "Hindi"
+#~ msgstr "Hindi ahoy❗"
+
+#~ msgid "Hungarian"
+#~ msgstr "Hungarian yo-ho-ho❗"
+
+#~ msgid "Italian"
+#~ msgstr "Italian ye scalleywag❗"
+
+#~ msgid "Japanese"
+#~ msgstr "Japanese cap'n❗"
+
+#~ msgid "Polish"
+#~ msgstr "Polish aye❗"
+
+#~ msgid "Portuguese"
+#~ msgstr "Portuguese shiver me timbers❗"
+
+#~ msgid "Serbian"
+#~ msgstr "Sarrbian cap'n❗"
+
+#~ msgid "Spanish"
+#~ msgstr "Spanish ye scalleywag❗"
+
+#~ msgid "Tamil"
+#~ msgstr "Tamil ahoy❗"
+
+#~ msgid "Pirate"
+#~ msgstr "Pirate aye❗"
+
+#~ msgid "<h2>Ready to explore the key benefits of Firefox OS?</h2>"
+#~ msgstr "<h2>Ready to explore th' key benefits o' Firefox OS yo-ho-ho❗?</h2>"
+
+#~ msgid ""
+#~ "Which Firefox OS feature does this icon represent? <img "
+#~ "src=\"/admin/page/page/25/course/assets/m05/t05/p35/m05-t05-p35-a05-b15-c05.png\""
+#~ " alt=\"\" />"
+#~ msgstr ""
+#~ "Which Firefox OS feature does this icon represent?  prepare to be "
+#~ "boarded❗<img "
+#~ "src=\"/admin/page/page/25/course/assets/m05/t05/p35/m05-t05-p35-a05-b15-c05.png\""
+#~ " alt=\"\" />"
+
+#~ msgid ""
+#~ "Which Firefox OS feature does this icon represent? <img "
+#~ "src=\"/admin/page/page/25/course/assets/m05/t05/p35/m05-t05-p35-a05-b15-c10.png\""
+#~ " alt=\"\" />"
+#~ msgstr ""
+#~ "Which Firefox OS feature does this icon represent?  prepare to be "
+#~ "boarded❗<img "
+#~ "src=\"/admin/page/page/25/course/assets/m05/t05/p35/m05-t05-p35-a05-b15-c10.png\""
+#~ " alt=\"\" />"
+
+#~ msgid ""
+#~ "Which Firefox OS feature does this icon represent? <img "
+#~ "src=\"/admin/page/page/25/course/assets/m05/t05/p35/m05-t05-p35-a05-b20-c05.png\""
+#~ " alt=\"\" />"
+#~ msgstr ""
+#~ "Which Firefox OS feature does this icon represent?  prepare to be "
+#~ "boarded❗<img "
+#~ "src=\"/admin/page/page/25/course/assets/m05/t05/p35/m05-t05-p35-a05-b20-c05.png\""
+#~ " alt=\"\" />"
+
+#~ msgid ""
+#~ "Which Firefox OS feature does this icon represent? <img "
+#~ "src=\"/admin/page/page/25/course/assets/m05/t05/p35/m05-t05-p35-a05-b20-c10.png\""
+#~ " alt=\"\" />"
+#~ msgstr ""
+#~ "Which Firefox OS feature does this icon represent?  prepare to be "
+#~ "boarded❗<img "
+#~ "src=\"/admin/page/page/25/course/assets/m05/t05/p35/m05-t05-p35-a05-b20-c10.png\""
+#~ " alt=\"\" />"
+
+#~ msgid "Search bar"
+#~ msgstr "Search barr ye landlubbers❗"
+
+#~ msgid "Here’s what you can say:"
+#~ msgstr "Harre’s what ye' can say prepare to be boarded❗:"
+
+#~ msgid "Here’s what you can say"
+#~ msgstr "Harre’s what ye' can say ye landlubbers❗"
+
+#~ msgid "Play it all from your phone, or online via Youtube."
+#~ msgstr "Play it all from yerr phone, orr online viar Youtube arrRRr❗."
+
+#~ msgid "Contacts..."
+#~ msgstr "Contacts ye landlubbers❗..."
+
+#~ msgid "Select the forward arrow to discover the key features of Firefox OS."
+#~ msgstr ""
+#~ "Select th' forward arroww to discoverr th' key features o' Firefox OS ahoy❗."
+
+#~ msgid "Question 18"
+#~ msgstr "Question 18 ye landlubbers❗"
+
+#~ msgid "Question 19"
+#~ msgstr "Question 19 ye landlubbers❗"
+
+#~ msgid "Question 17"
+#~ msgstr "Question 17 ye landlubbers❗"
+
+#~ msgid "Question 16"
+#~ msgstr "Question 16 ye landlubbers❗"
+
+#~ msgid "Question 15"
+#~ msgstr "Question 15 ye landlubbers❗"
+
+#~ msgid "Question 14"
+#~ msgstr "Question 14 ye landlubbers❗"
+
+#~ msgid "Question 13"
+#~ msgstr "Question 13 ye landlubbers❗"
+
+#~ msgid "Question 12"
+#~ msgstr "Question 12 ye landlubbers❗"
+
+#~ msgid "Question 11"
+#~ msgstr "Question 11 ye landlubbers❗"
+
+#~ msgid "Question 10"
+#~ msgstr "Question 10 ye landlubbers❗"
+
+#~ msgid "Question 9"
+#~ msgstr "Question 9 shiver me timbers❗"
+
+#~ msgid "Question 8"
+#~ msgstr "Question 8 shiver me timbers❗"
+
+#~ msgid "Question 7"
+#~ msgstr "Question 7 shiver me timbers❗"
+
+#~ msgid "Question 6"
+#~ msgstr "Question 6 shiver me timbers❗"
+
+#~ msgid "Question 5"
+#~ msgstr "Question 5 shiver me timbers❗"
+
+#~ msgid "Question 4"
+#~ msgstr "Question 4 shiver me timbers❗"
+
+#~ msgid "Question 3"
+#~ msgstr "Question 3 shiver me timbers❗"
+
+#~ msgid "Question 2"
+#~ msgstr "Question 2 shiver me timbers❗"
+
+#~ msgid "Question 1"
+#~ msgstr "Question 1 shiver me timbers❗"
+
+#~ msgid "What can you say?"
+#~ msgstr "What can ye' say me mateys❗?"
+
+#~ msgid "Question 20"
+#~ msgstr "Question 20 ye landlubbers❗"
