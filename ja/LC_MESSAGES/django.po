@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-19 17:25+0000\n"
-"PO-Revision-Date: 2015-02-20 02:10:38\n"
-"Last-Translator: Matjaz Horvat <matjaz.horvat@gmail.com>\n"
+"PO-Revision-Date: 2015-02-20 03:26:16\n"
+"Last-Translator:  <nshimizu@mozilla-japan.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
@@ -45,7 +45,7 @@ msgstr "Firefox OS マスター講座"
 #: db-strings.txt:15 db-strings.txt.py:3399 db-strings.txt.py:6675
 #: db-strings.txt:10104
 msgid "Welcome!"
-msgstr ""
+msgstr "ようこそ"
 
 #. Translators:
 #. Page path: /1-1/
@@ -57,7 +57,6 @@ msgstr ""
 #. Page path: /2-0/
 #: db-strings.txt:42 db-strings.txt.py:3426 db-strings.txt.py:6702
 #: db-strings.txt:10131
-#, fuzzy
 #| msgid ""
 #| "<p>Welcome to the Firefox OS global partner and community training hub. "
 #| "Select any topic to get started.</p>"
@@ -1600,7 +1599,6 @@ msgstr ""
 #. Translators:
 #. Page path: /2-0/introduction/
 #: db-strings.txt:10284
-#, fuzzy
 #| msgid "Keep the Web in Your Hands"
 msgid "Keep the Web in your hands"
 msgstr "コミュニテイによる開発"
@@ -1657,7 +1655,6 @@ msgstr ""
 #. Translators:
 #. Page path: /2-0/demo-tips/
 #: db-strings.txt:10536
-#, fuzzy
 #| msgid "Rich Media Experience"
 msgid "Rich media experience"
 msgstr "豊かなメディア体験"
@@ -1683,7 +1680,6 @@ msgstr ""
 #. Translators:
 #. Page path: /2-0/demo-tips/
 #: db-strings.txt:10581
-#, fuzzy
 #| msgid "Social and Contact Sync"
 msgid "Social and contact sync"
 msgstr "SNSと連絡先との同期"
@@ -1887,7 +1883,6 @@ msgstr "Mozilla のミッション"
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:11733
-#, fuzzy
 #| msgid "Take the challenge"
 msgid "Take the Challenge"
 msgstr "確認しよう"
@@ -2365,7 +2360,7 @@ msgstr ""
 
 #: masterfirefoxos/base/templates/base.html:35
 msgid "Submit"
-msgstr ""
+msgstr "送信"
 
 #: masterfirefoxos/base/templates/base.html:40
 #: masterfirefoxos/base/templates/base.html:83
@@ -2375,7 +2370,7 @@ msgstr "Mozilla"
 
 #: masterfirefoxos/base/templates/base.html:65
 msgid "Menu"
-msgstr ""
+msgstr "メニュー"
 
 #: masterfirefoxos/base/templates/base.html:88
 msgid ""
