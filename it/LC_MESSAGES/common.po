@@ -1,0 +1,398 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-02-19 17:25+0000\n"
+"PO-Revision-Date: 2015-02-20 00:10:17\n"
+"Last-Translator: Francesco Lodolo <francesco.lodolo@mozillaitalia.org>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pontoon\n"
+
+#. Translators:
+#. Page path: /1-1/
+#. Translators:
+#. Page path: /1-3T/
+#. Translators:
+#. Page path: /1-4/
+#. Translators:
+#. Page path: /2-0/
+#: db-strings.txt:6 db-strings.txt.py:3390 db-strings.txt.py:6666
+#: db-strings.txt:10095 masterfirefoxos/base/templates/base.html:14
+#: masterfirefoxos/base/templates/base.html:45
+#: masterfirefoxos/base/templates/home.html:17
+msgid "Master Firefox OS"
+msgstr "Domina Firefox OS"
+
+#: masterfirefoxos/base/templates/base.html:35
+msgid "Submit"
+msgstr "Invia"
+
+#: masterfirefoxos/base/templates/base.html:40
+#: masterfirefoxos/base/templates/base.html:83
+#: masterfirefoxos/base/templates/home.html:12
+msgid "Mozilla"
+msgstr "Mozilla"
+
+#: masterfirefoxos/base/templates/base.html:65
+msgid "Menu"
+msgstr "Menu"
+
+#: masterfirefoxos/base/templates/base.html:88
+msgid ""
+"Portions of this content are ©1998–{0} by individual contributors. Content "
+"available under a <a href=\"https://www.mozilla.org/foundation/licensing"
+"/website-content/\">Creative Commons license</a>."
+msgstr ""
+"Parte di questi contenuti sono ©1998–{0} di singoli collaboratori. I "
+"contenuti sono disponibili secondo la <a "
+"href=\"https://www.mozilla.org/foundation/licensing/website-"
+"content/\">licenza Creative Commons</a>."
+
+#: masterfirefoxos/base/templates/base.html:91
+msgid "Source code"
+msgstr "Codice sorgente"
+
+#: masterfirefoxos/base/templates/base.html:96
+msgid "Contact Us"
+msgstr "Contattaci"
+
+#: masterfirefoxos/base/templates/base.html:97
+msgid "Partner with Us"
+msgstr "Diventa nostro partner"
+
+#: masterfirefoxos/base/templates/base.html:98
+msgid "Donate"
+msgstr "Fai una donazione"
+
+#: masterfirefoxos/base/templates/base.html:99
+msgid "Privacy Policy"
+msgstr "Informativa sulla privacy"
+
+#: masterfirefoxos/base/templates/base.html:100
+msgid "Legal Notices"
+msgstr "Note legali"
+
+#: masterfirefoxos/base/templates/base.html:101
+msgid "Report Trademark Abuse"
+msgstr "Segnala abusi dei marchi"
+
+#: masterfirefoxos/base/templates/base.html:105
+msgid "Mozilla on Twitter"
+msgstr "Mozilla su Twitter"
+
+#: masterfirefoxos/base/templates/base.html:106
+msgid "Firefox on Twitter"
+msgstr "Firefox su Twitter"
+
+#: masterfirefoxos/base/templates/base.html:107
+msgid "Mozilla on Facebook"
+msgstr "Mozilla su Facebook"
+
+#: masterfirefoxos/base/templates/base.html:108
+msgid "Firefox on Facebook"
+msgstr "Firefox su Facebook"
+
+#: masterfirefoxos/base/templates/home.html:49
+msgid "Learn more"
+msgstr "Ulteriori informazioni"
+
+#: masterfirefoxos/base/templates/includes/nav-information.html:3
+msgid "Home"
+msgstr "Home"
+
+#: masterfirefoxos/base/templates/includes/nav-information.html:4
+msgid "About"
+msgstr "Informazioni"
+
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:3
+msgid "Language"
+msgstr "Lingua"
+
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:15
+msgid "Firefox OS version"
+msgstr "Versione di Firefox OS"
+
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:21
+msgid "Which version do I have?"
+msgstr "Che versione sto utilizzando?"
+
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:23
+msgid "Change"
+msgstr "Cambia"
+
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:34
+msgid ""
+"Documentation for Firefox OS {version} is not yet available in {language}, "
+"so we redirected you to the English version."
+msgstr ""
+"La documentazione per Firefox OS {version} non è ancora disponibile in "
+"{language}, verrai reindirizzato alla versione inglese."
+
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:36
+msgid "The latest version available in {language} is {version}."
+msgstr "La versione più recente disponibile in {language} è {version}."
+
+#~ msgid "Bengali"
+#~ msgstr "Bengalese"
+
+#~ msgid "Croatian"
+#~ msgstr "Croato"
+
+#~ msgid "Czech"
+#~ msgstr "Ceco"
+
+#~ msgid "English"
+#~ msgstr "Inglese"
+
+#~ msgid "German"
+#~ msgstr "Tedesco"
+
+#~ msgid "Greek"
+#~ msgstr "Greco"
+
+#~ msgid "Hindi"
+#~ msgstr "Hindi"
+
+#~ msgid "Hungarian"
+#~ msgstr "Ungherese"
+
+#~ msgid "Italian"
+#~ msgstr "Italiano"
+
+#~ msgid "Japanese"
+#~ msgstr "Giapponese"
+
+#~ msgid "Polish"
+#~ msgstr "Polacco"
+
+#~ msgid "Portuguese"
+#~ msgstr "Portoghese"
+
+#~ msgid "Serbian"
+#~ msgstr "Serbo"
+
+#~ msgid "Spanish"
+#~ msgstr "Spagnolo"
+
+#~ msgid "Tamil"
+#~ msgstr "Tamil"
+
+#~ msgid "Pirate"
+#~ msgstr "Pirata"
+
+#~ msgid "<h2>Ready to explore the key benefits of Firefox OS?</h2>"
+#~ msgstr "<h2>Sei pronto per scoprire i vantaggi principali di Firefox OS?</h2>"
+
+#~ msgid ""
+#~ "Which Firefox OS feature does this icon represent? <img "
+#~ "src=\"/admin/page/page/25/course/assets/m05/t05/p35/m05-t05-p35-a05-b15-c05.png\""
+#~ " alt=\"\" />"
+#~ msgstr ""
+#~ "Quale funzione di Firefox OS rappresenta questa icona? <img "
+#~ "src='course/assets/m05/t05/p35/m05-t05-p35-a05-b15-c05.png'/>"
+
+#~ msgid ""
+#~ "Which Firefox OS feature does this icon represent? <img "
+#~ "src=\"/admin/page/page/25/course/assets/m05/t05/p35/m05-t05-p35-a05-b15-c10.png\""
+#~ " alt=\"\" />"
+#~ msgstr ""
+#~ "Quale funzione di Firefox OS rappresenta questa icona? <img "
+#~ "src='course/assets/m05/t05/p35/m05-t05-p35-a05-b15-c10.png'/>"
+
+#~ msgid ""
+#~ "Which Firefox OS feature does this icon represent? <img "
+#~ "src=\"/admin/page/page/25/course/assets/m05/t05/p35/m05-t05-p35-a05-b20-c05.png\""
+#~ " alt=\"\" />"
+#~ msgstr ""
+#~ "Quale funzione di Firefox OS rappresenta questa icona? <img "
+#~ "src='course/assets/m05/t05/p35/m05-t05-p35-a05-b20-c10.png'/>"
+
+#~ msgid ""
+#~ "Which Firefox OS feature does this icon represent? <img "
+#~ "src=\"/admin/page/page/25/course/assets/m05/t05/p35/m05-t05-p35-a05-b20-c10.png\""
+#~ " alt=\"\" />"
+#~ msgstr ""
+#~ "Quale funzione di Firefox OS rappresenta questa icona? <img "
+#~ "src='course/assets/m05/t05/p35/m05-t05-p35-a05-b20-c10.png'/>"
+
+#~ msgid "Search bar"
+#~ msgstr "Mappe"
+
+#~ msgid ""
+#~ "That&rsquo;s right! All of these apps come pre-loaded on every Firefox OS "
+#~ "phone."
+#~ msgstr ""
+#~ "Quale delle seguenti app è preinstallata su ogni telefono Firefox OS? "
+#~ "Seleziona tutte le voci corrette."
+
+#~ msgid ""
+#~ "That&rsquo;s right. All of these customers are ideal candidates for Firefox "
+#~ "OS!"
+#~ msgstr ""
+#~ "Quale delle seguenti risposte dei clienti identificano un candidato ideale "
+#~ "per Firefox OS? Seleziona tutte le risposta valide."
+
+#~ msgid ""
+#~ "A customer tells you that she&rsquo;s ready to move up from her old feature "
+#~ "phone. What selling feature should you lead with?"
+#~ msgstr ""
+#~ "Un cliente ti dice che è pronto a cambiare il vecchio telefono (non "
+#~ "smartphone). Quale caratteristica dovresti descrivere per convincerlo?"
+
+#~ msgid ""
+#~ "With Adaptive App Search, you can use an app once, quickly and easily, "
+#~ "without installing it. If you want to use it again later, it&rsquo;s easy to"
+#~ " add it to your homescreen."
+#~ msgstr ""
+#~ "Con la ricerca adattiva delle app puoi utilizzare un’app una sola volta, in "
+#~ "modo semplice e veloce, senza installarla. Se vuoi utilizzarla più avanti, è"
+#~ " semplice aggiungerla alla schermata principale."
+
+#~ msgid ""
+#~ "What&rsquo;s the best response to this customer&rsquo;s objection? "
+#~ "&ldquo;I&rsquo;ve heard there are not many apps.&rdquo;"
+#~ msgstr ""
+#~ "Qual è la risposta migliore all’obiezione del cliente: “Ho sentito dire che "
+#~ "non ci sono molte app.”?"
+
+#~ msgid ""
+#~ "What&rsquo;s the best response to this customer&rsquo;s objection?<br "
+#~ "/>&ldquo;I&rsquo;ve never heard of Firefox OS phones.&rdquo;"
+#~ msgstr ""
+#~ "Qual è la risposta migliore all’obiezione del cliente: “Non ho mai sentito "
+#~ "parlare di telefoni Firefox OS.”?"
+
+#~ msgid ""
+#~ "What&rsquo;s the best response to this customer&rsquo;s objection?<br "
+#~ "/>&ldquo;How do I know this new phone is safe?&rdquo;"
+#~ msgstr ""
+#~ "Qual è la risposta migliore all’obiezione del cliente: “Come faccio a sapere"
+#~ " se questo telefono è sicuro?”?"
+
+#~ msgid ""
+#~ "Firefox OS gives you the most value for your money, with everything you "
+#~ "expect &mdash; camera, email, apps, music, maps and more &mdash; at the most"
+#~ " competitive prices."
+#~ msgstr ""
+#~ "Firefox OS offre il massimo rapporto qualità/prezzo. Include tutte le "
+#~ "funzioni che ti aspetti da uno smartphone — fotocamera, email, app, musica, "
+#~ "mappe e molto altro ancora — al prezzo più competitivo."
+
+#~ msgid ""
+#~ "What&rsquo;s the best response to this customer&rsquo;s objection? "
+#~ "&ldquo;I&rsquo;ve never heard of Firefox OS phones.&rdquo;"
+#~ msgstr ""
+#~ "Qual è la risposta migliore all’obiezione del cliente: “Non ho mai sentito "
+#~ "parlare di telefoni Firefox OS.”?"
+
+#~ msgid ""
+#~ "Firefox OS gives you the most value for your money, with everything you "
+#~ "expect &mdash; camera, email, apps, music and more &mdash; at the most "
+#~ "competitive prices."
+#~ msgstr ""
+#~ "Firefox OS offre il massimo rapporto qualità/prezzo. Include tutte le "
+#~ "funzioni che ti aspetti da uno smartphone — fotocamera, email, app, musica, "
+#~ "mappe e molto altro ancora — al prezzo più competitivo."
+
+#~ msgid ""
+#~ "Firefox OS gives you the most value for your money, with everything you "
+#~ "expect &mdash; Camera, Email, apps, Music and more &mdash; at the most "
+#~ "competitive prices. Plus, Adaptive App Search feature makes it easy to find "
+#~ "the app you really need, when you need it."
+#~ msgstr ""
+#~ "Firefox OS offre il massimo rapporto qualità/prezzo. Include tutte le "
+#~ "funzioni che ti aspetti da uno smartphone — fotocamera, email, app, musica, "
+#~ "mappe e molto altro ancora — al prezzo più competitivo."
+
+#~ msgid ""
+#~ "Firefox OS gives you the most value for your money, with everything you "
+#~ "expect &mdash; Camera, Email, apps, Music and more &mdash; at the most "
+#~ "competitive prices."
+#~ msgstr ""
+#~ "Firefox OS offre il massimo rapporto qualità/prezzo. Include tutte le "
+#~ "funzioni che ti aspetti da uno smartphone — fotocamera, email, app, musica, "
+#~ "mappe e molto altro ancora — al prezzo più competitivo."
+
+#~ msgid ""
+#~ "Behind every Firefox OS smartphone is Mozilla, a global community of "
+#~ "thousands dedicated to keeping the Web accessible to all. That&rsquo;s "
+#~ "because we believe each and every one of us has the right to a Web that "
+#~ "isn&rsquo;t controlled by just a few large entities.<br /><br />Yeah, "
+#~ "we&rsquo;re a little different than the other guys. Together, we can build a"
+#~ " brighter future for the Web. &nbsp; &nbsp;"
+#~ msgstr ""
+#~ "Alla base di ogni smartphone Firefox OS c’è Mozilla: una comunità globale di"
+#~ " migliaia di persone che si impegnano per mantenere il Web accessibile a "
+#~ "tutti. Questo perché crediamo che tutti abbiano diritto a un Web libero dal "
+#~ "controllo di pochi grandi nomi. Già, siamo decisamente diversi dalla "
+#~ "concorrenza. Insieme possiamo costruire un futuro migliore per il Web."
+
+#~ msgid ""
+#~ "A customer tells you that smartphones seem complicated.  What selling "
+#~ "feature should you lead with?"
+#~ msgstr ""
+#~ "Un cliente ti dice che gli smartphone sono troppo complicati da utilizzare. "
+#~ "Quale caratteristica dovresti descrivere per convincerlo?"
+
+#~ msgid "Demonstrations that matter"
+#~ msgstr "Dimostrazioni significative"
+
+#~ msgid "What can you say?"
+#~ msgstr "Ecco che cosa puoi rispondere"
+
+#~ msgid "Select the forward arrow to discover the key features of Firefox OS."
+#~ msgstr ""
+#~ "Seleziona la freccia in avanti per scoprire tutte le caratteristiche "
+#~ "principali di Firefox OS."
+
+#~ msgid "Adaptive App Search..."
+#~ msgstr "Ricerca adattiva delle app..."
+
+#~ msgid "Marketplace..."
+#~ msgstr "Marketplace..."
+
+#~ msgid "Firefox browser..."
+#~ msgstr "Browser Firefox..."
+
+#~ msgid "Facebook and Twitter..."
+#~ msgstr "Facebook e Twitter..."
+
+#~ msgid "Contacts..."
+#~ msgstr "Contatti..."
+
+#~ msgid "Camera and Gallery..."
+#~ msgstr "Fotocamera e Galleria..."
+
+#~ msgid "FM Radio..."
+#~ msgstr "Radio FM..."
+
+#~ msgid "Maps..."
+#~ msgstr "Mappe..."
+
+#~ msgid "Play it all from your phone, or online via Youtube."
+#~ msgstr "Musica e Video..."
+
+#~ msgid "SMS and Email..."
+#~ msgstr "SMS e Email..."
+
+#~ msgid "Here’s what you can say"
+#~ msgstr "Caratteristiche che contano"
+
+#~ msgid "Here’s what you can say:"
+#~ msgstr "Caratteristiche che contano"
+
+#~ msgid ""
+#~ "Stay connected, with easy access to your friends and colleagues, wherever "
+#~ "you are."
+#~ msgstr "Rimani in contatto con i tuoi amici e colleghi ovunque ti trovi."

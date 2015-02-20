@@ -27,21 +27,6 @@ msgstr ""
 #. Page path: /1-4/
 #. Translators:
 #. Page path: /2-0/
-#: db-strings.txt:6 db-strings.txt.py:3390 db-strings.txt.py:6666
-#: db-strings.txt:10095 masterfirefoxos/base/templates/base.html:14
-#: masterfirefoxos/base/templates/base.html:45
-#: masterfirefoxos/base/templates/home.html:17
-msgid "Master Firefox OS"
-msgstr "मास्टर फ़ायरफ़ॉक्स ओएस"
-
-#. Translators:
-#. Page path: /1-1/
-#. Translators:
-#. Page path: /1-3T/
-#. Translators:
-#. Page path: /1-4/
-#. Translators:
-#. Page path: /2-0/
 #: db-strings.txt:15 db-strings.txt.py:3399 db-strings.txt.py:6675
 #: db-strings.txt:10104
 msgid "Welcome!"
@@ -3014,109 +2999,6 @@ msgstr ""
 "Firefox OS के पास एक मजबूत सुरक्षा मॉडल है जो एक दशक से खोलो वेब का समर्थन "
 "के लिए कठोर युद्ध कर रहा है यह दुर्भावनापूर्ण अनुप्रयोगों और सामग्री से "
 "उपयोक्ता और सिस्टम को सुरक्षित रखने के लिए बनाया गया है."
-
-#: masterfirefoxos/base/templates/base.html:35
-msgid "Submit"
-msgstr ""
-
-#: masterfirefoxos/base/templates/base.html:40
-#: masterfirefoxos/base/templates/base.html:83
-#: masterfirefoxos/base/templates/home.html:12
-msgid "Mozilla"
-msgstr ""
-
-#: masterfirefoxos/base/templates/base.html:65
-msgid "Menu"
-msgstr ""
-
-#: masterfirefoxos/base/templates/base.html:88
-msgid ""
-"Portions of this content are ©1998–{0} by individual contributors. Content "
-"available under a <a href=\"https://www.mozilla.org/foundation/licensing"
-"/website-content/\">Creative Commons license</a>."
-msgstr ""
-
-#: masterfirefoxos/base/templates/base.html:91
-msgid "Source code"
-msgstr ""
-
-#: masterfirefoxos/base/templates/base.html:96
-msgid "Contact Us"
-msgstr ""
-
-#: masterfirefoxos/base/templates/base.html:97
-msgid "Partner with Us"
-msgstr ""
-
-#: masterfirefoxos/base/templates/base.html:98
-msgid "Donate"
-msgstr ""
-
-#: masterfirefoxos/base/templates/base.html:99
-msgid "Privacy Policy"
-msgstr ""
-
-#: masterfirefoxos/base/templates/base.html:100
-msgid "Legal Notices"
-msgstr ""
-
-#: masterfirefoxos/base/templates/base.html:101
-msgid "Report Trademark Abuse"
-msgstr ""
-
-#: masterfirefoxos/base/templates/base.html:105
-msgid "Mozilla on Twitter"
-msgstr ""
-
-#: masterfirefoxos/base/templates/base.html:106
-msgid "Firefox on Twitter"
-msgstr ""
-
-#: masterfirefoxos/base/templates/base.html:107
-msgid "Mozilla on Facebook"
-msgstr ""
-
-#: masterfirefoxos/base/templates/base.html:108
-msgid "Firefox on Facebook"
-msgstr ""
-
-#: masterfirefoxos/base/templates/home.html:49
-msgid "Learn more"
-msgstr ""
-
-#: masterfirefoxos/base/templates/includes/nav-information.html:3
-msgid "Home"
-msgstr ""
-
-#: masterfirefoxos/base/templates/includes/nav-information.html:4
-msgid "About"
-msgstr ""
-
-#: masterfirefoxos/base/templates/includes/version-language-switcher.html:3
-msgid "Language"
-msgstr ""
-
-#: masterfirefoxos/base/templates/includes/version-language-switcher.html:15
-msgid "Firefox OS version"
-msgstr ""
-
-#: masterfirefoxos/base/templates/includes/version-language-switcher.html:21
-msgid "Which version do I have?"
-msgstr ""
-
-#: masterfirefoxos/base/templates/includes/version-language-switcher.html:23
-msgid "Change"
-msgstr ""
-
-#: masterfirefoxos/base/templates/includes/version-language-switcher.html:34
-msgid ""
-"Documentation for Firefox OS {version} is not yet available in {language}, "
-"so we redirected you to the English version."
-msgstr ""
-
-#: masterfirefoxos/base/templates/includes/version-language-switcher.html:36
-msgid "The latest version available in {language} is {version}."
-msgstr ""
 
 #~ msgid "<h2>Ready to explore the key benefits of Firefox OS?</h2>"
 #~ msgstr ""

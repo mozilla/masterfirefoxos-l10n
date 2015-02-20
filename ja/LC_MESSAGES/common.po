@@ -1,0 +1,189 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-02-19 17:25+0000\n"
+"PO-Revision-Date: 2015-02-20 00:10:18\n"
+"Last-Translator: Matjaz Horvat <matjaz.horvat@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pontoon\n"
+
+#. Translators:
+#. Page path: /1-1/
+#. Translators:
+#. Page path: /1-3T/
+#. Translators:
+#. Page path: /1-4/
+#. Translators:
+#. Page path: /2-0/
+#: db-strings.txt:6 db-strings.txt.py:3390 db-strings.txt.py:6666
+#: db-strings.txt:10095 masterfirefoxos/base/templates/base.html:14
+#: masterfirefoxos/base/templates/base.html:45
+#: masterfirefoxos/base/templates/home.html:17
+msgid "Master Firefox OS"
+msgstr "Firefox OS マスター講座"
+
+#: masterfirefoxos/base/templates/base.html:35
+msgid "Submit"
+msgstr ""
+
+#: masterfirefoxos/base/templates/base.html:40
+#: masterfirefoxos/base/templates/base.html:83
+#: masterfirefoxos/base/templates/home.html:12
+msgid "Mozilla"
+msgstr "Mozilla"
+
+#: masterfirefoxos/base/templates/base.html:65
+msgid "Menu"
+msgstr ""
+
+#: masterfirefoxos/base/templates/base.html:88
+msgid ""
+"Portions of this content are ©1998–{0} by individual contributors. Content "
+"available under a <a href=\"https://www.mozilla.org/foundation/licensing"
+"/website-content/\">Creative Commons license</a>."
+msgstr ""
+
+#: masterfirefoxos/base/templates/base.html:91
+msgid "Source code"
+msgstr "ソースコード"
+
+#: masterfirefoxos/base/templates/base.html:96
+msgid "Contact Us"
+msgstr "連絡先"
+
+#: masterfirefoxos/base/templates/base.html:97
+msgid "Partner with Us"
+msgstr "パートナー"
+
+#: masterfirefoxos/base/templates/base.html:98
+msgid "Donate"
+msgstr "寄付"
+
+#: masterfirefoxos/base/templates/base.html:99
+msgid "Privacy Policy"
+msgstr "プライバシーポリシー"
+
+#: masterfirefoxos/base/templates/base.html:100
+msgid "Legal Notices"
+msgstr "法的通知"
+
+#: masterfirefoxos/base/templates/base.html:101
+msgid "Report Trademark Abuse"
+msgstr "商標の不正使用を報告"
+
+#: masterfirefoxos/base/templates/base.html:105
+msgid "Mozilla on Twitter"
+msgstr "Mozilla の Twitter アカウント"
+
+#: masterfirefoxos/base/templates/base.html:106
+msgid "Firefox on Twitter"
+msgstr "Firefox の Twitter アカウント"
+
+#: masterfirefoxos/base/templates/base.html:107
+msgid "Mozilla on Facebook"
+msgstr "Mozilla の Facebook ページ"
+
+#: masterfirefoxos/base/templates/base.html:108
+msgid "Firefox on Facebook"
+msgstr "Firefox の Facebook ページ"
+
+#: masterfirefoxos/base/templates/home.html:49
+msgid "Learn more"
+msgstr "より詳しく知るには"
+
+#: masterfirefoxos/base/templates/includes/nav-information.html:3
+msgid "Home"
+msgstr "ホーム"
+
+#: masterfirefoxos/base/templates/includes/nav-information.html:4
+msgid "About"
+msgstr "概要"
+
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:3
+msgid "Language"
+msgstr "言語"
+
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:15
+msgid "Firefox OS version"
+msgstr "Firefox OS のバージョン"
+
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:21
+msgid "Which version do I have?"
+msgstr "OS のバージョンを調べる。"
+
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:23
+msgid "Change"
+msgstr "変更"
+
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:34
+msgid ""
+"Documentation for Firefox OS {version} is not yet available in {language}, "
+"so we redirected you to the English version."
+msgstr "Firefox OS {version} の {language} 語版文書はまだ用意されていません。英語版をご覧ください。"
+
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:36
+msgid "The latest version available in {language} is {version}."
+msgstr "{language} の最新バージョンは {version} です。"
+
+#~ msgid "Bengali"
+#~ msgstr "ベンガル"
+
+#~ msgid "Croatian"
+#~ msgstr "クロアチア"
+
+#~ msgid "Czech"
+#~ msgstr "チェコ"
+
+#~ msgid "English"
+#~ msgstr "英"
+
+#~ msgid "German"
+#~ msgstr "ドイツ"
+
+#~ msgid "Greek"
+#~ msgstr "ギリシア"
+
+#~ msgid "Hindi"
+#~ msgstr "ヒンディー"
+
+#~ msgid "Hungarian"
+#~ msgstr "ハンガリー"
+
+#~ msgid "Italian"
+#~ msgstr "イタリア"
+
+#~ msgid "Japanese"
+#~ msgstr "日本"
+
+#~ msgid "Polish"
+#~ msgstr "ポーランド"
+
+#~ msgid "Portuguese"
+#~ msgstr "ポルトガル"
+
+#~ msgid "Serbian"
+#~ msgstr "セルビア"
+
+#~ msgid "Spanish"
+#~ msgstr "スペイン"
+
+#~ msgid "Tamil"
+#~ msgstr "タミル"
+
+#~ msgid "Pirate"
+#~ msgstr "著作権侵害"
+
+#~ msgid "<h2>Ready to explore the key benefits of Firefox OS?</h2>"
+#~ msgstr "<h2>Firefox OS の主な利点</h2>"

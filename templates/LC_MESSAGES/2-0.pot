@@ -9,30 +9,13 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-19 17:25+0000\n"
-"PO-Revision-Date: 2015-02-20 00:10:18\n"
-"Last-Translator: Matjaz Horvat <matjaz.horvat@gmail.com>\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: ja\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Pontoon\n"
-
-#. Translators:
-#. Page path: /1-1/
-#. Translators:
-#. Page path: /1-3T/
-#. Translators:
-#. Page path: /1-4/
-#. Translators:
-#. Page path: /2-0/
-#: db-strings.txt:6 db-strings.txt.py:3390 db-strings.txt.py:6666
-#: db-strings.txt:10095 masterfirefoxos/base/templates/base.html:14
-#: masterfirefoxos/base/templates/base.html:45
-#: masterfirefoxos/base/templates/home.html:17
-msgid "Master Firefox OS"
-msgstr "Firefox OS マスター講座"
 
 #. Translators:
 #. Page path: /1-1/
@@ -57,14 +40,10 @@ msgstr ""
 #. Page path: /2-0/
 #: db-strings.txt:42 db-strings.txt.py:3426 db-strings.txt.py:6702
 #: db-strings.txt:10131
-#, fuzzy
-#| msgid ""
-#| "<p>Welcome to the Firefox OS global partner and community training hub. "
-#| "Select any topic to get started.</p>"
 msgid ""
 "Welcome to the Firefox OS global partner and community training hub. Select "
 "any topic to get started."
-msgstr "Firefox OS グローバルパートナーとコミュニティのためのサイトへようこそ。学習するトピックを選んでください"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/introduction/
@@ -77,7 +56,7 @@ msgstr "Firefox OS グローバルパートナーとコミュニティのため�
 #: db-strings.txt:51 db-strings.txt.py:3435 db-strings.txt.py:6711
 #: db-strings.txt:10140
 msgid "Introduction"
-msgstr "導入"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/introduction/
@@ -92,7 +71,7 @@ msgstr "導入"
 msgid ""
 "Find out what makes Firefox OS perfect for new smartphone users by giving "
 "them just what they need."
-msgstr "Firefox OSが、これからスマートフォンを使い始める方にとって最適な理由を学びましょう。"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/introduction/
@@ -105,7 +84,7 @@ msgstr "Firefox OSが、これからスマートフォンを使い始める方�
 #: db-strings.txt:267 db-strings.txt.py:3651 db-strings.txt.py:6927
 #: db-strings.txt:10356
 msgid "z8IAfoqxOPI"
-msgstr "z8IAfoqxOPI"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
@@ -118,7 +97,7 @@ msgstr "z8IAfoqxOPI"
 #: db-strings.txt:276 db-strings.txt.py:3660 db-strings.txt.py:6936
 #: db-strings.txt:10365
 msgid "Demo Tips"
-msgstr "デモのTIPS"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
@@ -133,7 +112,7 @@ msgstr "デモのTIPS"
 msgid ""
 "Learn how to show off and talk about the key features and benefits of "
 "Firefox OS to your customers."
-msgstr "Firefox OS の機能と利点の伝え方、デモ方法について学びましょう。"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
@@ -146,7 +125,7 @@ msgstr "Firefox OS の機能と利点の伝え方、デモ方法について学�
 #: db-strings.txt:330 db-strings.txt.py:3678 db-strings.txt.py:6990
 #: db-strings.txt:10383
 msgid "Demonstrations That Matter"
-msgstr "デモが重要"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
@@ -159,7 +138,7 @@ msgid ""
 "Demonstrating the features of Firefox OS and how easy it is to use will be "
 "your best selling tool. Browse the demonstration videos below to get "
 "started."
-msgstr "デモを通じて Firefox OS の機能と、それらが簡単に使えることを伝えてください。まずは以下のビデオを見せるところから始めましょう。"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
@@ -182,7 +161,7 @@ msgstr ""
 #: db-strings.txt:12678 db-strings.txt.py:12759 db-strings.txt.py:12786
 #: db-strings.txt:12813
 msgid "Firefox Browser"
-msgstr "Firefox ブラウザ"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
@@ -204,7 +183,7 @@ msgstr "Firefox ブラウザ"
 #: db-strings.txt:5937 db-strings.txt.py:7242 db-strings.txt.py:7773
 #: db-strings.txt:10491 db-strings.txt.py:10977
 msgid "Marketplace"
-msgstr "Marketplace"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/customer-guide/
@@ -217,7 +196,7 @@ msgstr "Marketplace"
 #: db-strings.txt:717 db-strings.txt.py:3966 db-strings.txt.py:7377
 #: db-strings.txt:10626
 msgid "Customer Guide"
-msgstr "利用者ガイド"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/customer-guide/
@@ -258,7 +237,7 @@ msgstr ""
 #: db-strings.txt:807 db-strings.txt.py:4056 db-strings.txt.py:7467
 #: db-strings.txt:10716
 msgid "The Smartphone Rookie"
-msgstr "スマートフォン初心者"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/customer-guide/
@@ -297,7 +276,7 @@ msgstr ""
 #: db-strings.txt:942 db-strings.txt.py:4191 db-strings.txt.py:7602
 #: db-strings.txt:10851
 msgid "The Firefox Fan"
-msgstr "Firefox ファン"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/key-features/
@@ -310,7 +289,7 @@ msgstr "Firefox ファン"
 #: db-strings.txt:978 db-strings.txt.py:4227 db-strings.txt.py:7638
 #: db-strings.txt:10887
 msgid "Key Features"
-msgstr "主な特徴"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/key-features/
@@ -354,7 +333,7 @@ msgstr ""
 #: db-strings.txt:2913 db-strings.txt.py:2949 db-strings.txt.py:3228
 #: db-strings.txt:4407 db-strings.txt.py:7818 db-strings.txt.py:11022
 msgid "Firefox browser"
-msgstr "Firefox ブラウザ"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/key-features/
@@ -364,7 +343,7 @@ msgstr "Firefox ブラウザ"
 #. Page path: /2-0/key-features/
 #: db-strings.txt:1203 db-strings.txt.py:7863 db-strings.txt.py:11067
 msgid "Facebook and Twitter"
-msgstr "Facebook と ツイッター"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/key-features/
@@ -390,7 +369,7 @@ msgstr "Facebook と ツイッター"
 #: db-strings.txt:9609 db-strings.txt.py:11112 db-strings.txt.py:12750
 #: db-strings.txt:12777 db-strings.txt.py:12804
 msgid "Contacts"
-msgstr "連絡先"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/key-features/
@@ -414,7 +393,7 @@ msgstr "連絡先"
 #: db-strings.txt:5955 db-strings.txt.py:7287 db-strings.txt.py:7953
 #: db-strings.txt:9438 db-strings.txt.py:11157 db-strings.txt.py:12687
 msgid "Camera and Gallery"
-msgstr "カメラとギャラリー"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/key-features/
@@ -427,7 +406,7 @@ msgstr "カメラとギャラリー"
 #: db-strings.txt:1428 db-strings.txt.py:4632 db-strings.txt.py:8088
 #: db-strings.txt:11247
 msgid "Music and Video"
-msgstr "音楽と動画"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
@@ -440,7 +419,7 @@ msgstr "音楽と動画"
 #: db-strings.txt:1509 db-strings.txt.py:4713 db-strings.txt.py:8169
 #: db-strings.txt:11418
 msgid "Frequently Asked Questions"
-msgstr "よくある質問"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
@@ -453,7 +432,7 @@ msgstr "よくある質問"
 #: db-strings.txt:1527 db-strings.txt.py:4731 db-strings.txt.py:8223
 #: db-strings.txt:11436
 msgid "You have questions? We have answers!"
-msgstr "質問への回答はこちら"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
@@ -468,7 +447,7 @@ msgstr "質問への回答はこちら"
 msgid ""
 "By now, you probably have questions and so will your customers! Select each "
 "question for more on Firefox OS."
-msgstr "まだ解決されない疑問や質問があるかと思います。以下から質問とその回答を探してください。"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
@@ -483,7 +462,7 @@ msgstr "まだ解決されない疑問や質問があるかと思います。以
 msgid ""
 "Still have questions? Not for long! Find all the answers you're looking for "
 "here."
-msgstr "質問をお持ちの場合は、こちらでその答えを探せます。"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
@@ -496,7 +475,7 @@ msgstr "質問をお持ちの場合は、こちらでその答えを探せます
 #: db-strings.txt:1608 db-strings.txt.py:4812 db-strings.txt.py:8268
 #: db-strings.txt:11499
 msgid "How many and what types of apps will be available?"
-msgstr "アプリの総数と種類は？"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
@@ -509,7 +488,7 @@ msgstr "アプリの総数と種類は？"
 #: db-strings.txt:1626 db-strings.txt.py:4830 db-strings.txt.py:8286
 #: db-strings.txt:11517
 msgid "What makes Firefox OS more secure than other phones?"
-msgstr "Firefox OS が他の端末と比べて安全な理由は？"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
@@ -522,7 +501,7 @@ msgstr "Firefox OS が他の端末と比べて安全な理由は？"
 #: db-strings.txt:1644 db-strings.txt.py:4866 db-strings.txt.py:8322
 #: db-strings.txt:11553
 msgid "Do Android apps work on this phone?"
-msgstr "Android のアプリは利用できますか？"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
@@ -535,7 +514,7 @@ msgstr "Android のアプリは利用できますか？"
 #: db-strings.txt:1680 db-strings.txt.py:4902 db-strings.txt.py:8358
 #: db-strings.txt:11607
 msgid "What about customer support for apps?"
-msgstr "アプリのカスタマーサポートはありますか？"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
@@ -548,7 +527,7 @@ msgstr "アプリのカスタマーサポートはありますか？"
 #: db-strings.txt:1698 db-strings.txt.py:4920 db-strings.txt.py:8376
 #: db-strings.txt:11625
 msgid "How do I download and install apps on Firefox OS?"
-msgstr "アプリのインストール方法を教えてください"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
@@ -561,7 +540,7 @@ msgstr "アプリのインストール方法を教えてください"
 #: db-strings.txt:1734 db-strings.txt.py:4956 db-strings.txt.py:8412
 #: db-strings.txt:11661
 msgid "Where should I go if I have more questions?"
-msgstr "Firefox OS に関する質問をするには？"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
@@ -578,8 +557,6 @@ msgid ""
 "guide\">https://support.mozilla.org/en-US/kb/firefox-os-user-guide</a> for "
 "more information."
 msgstr ""
-"<a href=\"https://support.mozilla.org/kb/firefox-os-user-"
-"guide\">https://support.mozilla.org/kb/firefox-os-user-guide</a>へアクセスしてください。"
 
 #. Translators:
 #. Page path: /1-1/about/
@@ -621,7 +598,7 @@ msgstr ""
 #: db-strings.txt:1797 db-strings.txt.py:5019 db-strings.txt.py:8475
 #: db-strings.txt:11724
 msgid "CqhwzZycdFU"
-msgstr "CqhwzZycdFU"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -649,7 +626,7 @@ msgstr ""
 msgid ""
 "Put your new knowledge to the test with this series of fun, interactive "
 "quizzes."
-msgstr "クイズに答えて、新しく覚えたことを確認しましょう。"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -663,7 +640,7 @@ msgstr "クイズに答えて、新しく覚えたことを確認しましょう
 #: db-strings.txt:11967
 msgid ""
 "That’s right! All of these apps come pre-loaded on every Firefox OS phone."
-msgstr "<p>正解です。全てのことが可能です。</p>"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -676,7 +653,7 @@ msgstr "<p>正解です。全てのことが可能です。</p>"
 #: db-strings.txt:2013 db-strings.txt.py:5235 db-strings.txt.py:8727
 #: db-strings.txt:11976
 msgid "Actually, all of these apps come pre-loaded on every Firefox OS phone."
-msgstr "<p> Firefox OS 端末では、上記の全てのことを行えます。</p>"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -700,7 +677,7 @@ msgstr ""
 #: db-strings.txt:12615
 msgid ""
 "That’s right. All of these customers are ideal candidates for Firefox OS!"
-msgstr "<p>正解です。全てのことが可能です。</p>"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -758,7 +735,7 @@ msgstr ""
 #: db-strings.txt:2220 db-strings.txt.py:5406 db-strings.txt.py:8898
 #: db-strings.txt:12147
 msgid "That’s right. These statements are all true about Firefox OS."
-msgstr "<p>正解です。全てのことが可能です。</p>"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -887,7 +864,7 @@ msgstr ""
 #: db-strings.txt:9222 db-strings.txt.py:9294 db-strings.txt.py:9330
 #: db-strings.txt:12471 db-strings.txt.py:12543 db-strings.txt.py:12579
 msgid "That’s right!"
-msgstr "正解です。"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -900,7 +877,7 @@ msgstr "正解です。"
 #: db-strings.txt:2580 db-strings.txt.py:5766 db-strings.txt.py:9258
 #: db-strings.txt:12507
 msgid "That’s right."
-msgstr "正解です。"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -925,7 +902,7 @@ msgstr ""
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:2715 db-strings.txt.py:9420 db-strings.txt.py:12669
 msgid "Firefox Marketplace"
-msgstr "Firefox Marketplace"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -940,7 +917,7 @@ msgstr "Firefox Marketplace"
 #: db-strings.txt:2742 db-strings.txt.py:4452 db-strings.txt.py:5964
 #: db-strings.txt:9447 db-strings.txt.py:12696
 msgid "Facebook"
-msgstr "Facebook"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -953,7 +930,7 @@ msgstr "Facebook"
 #: db-strings.txt:2823 db-strings.txt.py:6585 db-strings.txt.py:10014
 #: db-strings.txt:13200
 msgid "I’ve never used a smartphone before."
-msgstr "スマートフォンを使ったことがありません。"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -992,7 +969,7 @@ msgstr ""
 #: db-strings.txt:2850 db-strings.txt.py:6612 db-strings.txt.py:10041
 #: db-strings.txt:13227
 msgid "I’m a Firefox fan."
-msgstr "Firefox のファンです。"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1009,8 +986,6 @@ msgid ""
 "backed by a global community working on your behalf and with your interests "
 "in mind."
 msgstr ""
-"<p>Firefox をもとに作られているため、Firefox OS "
-"はあなたのやりたいことをあなたの代わりに実現するべく働く世界規模のコミュニティによって支えられています。</p>"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1153,7 +1128,7 @@ msgstr ""
 #: db-strings.txt:3246 db-strings.txt.py:6486 db-strings.txt.py:9915
 #: db-strings.txt:13119
 msgid "True"
-msgstr "正解"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1166,7 +1141,7 @@ msgstr "正解"
 #: db-strings.txt:3255 db-strings.txt.py:6495 db-strings.txt.py:9924
 #: db-strings.txt:13128
 msgid "False"
-msgstr "不正解"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/which-version/
@@ -1179,7 +1154,7 @@ msgstr "不正解"
 #: db-strings.txt:3345 db-strings.txt.py:6621 db-strings.txt.py:10050
 #: db-strings.txt:13236
 msgid "Which Version Do I Have?"
-msgstr "OS バージョンの確認方法は？"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-3T/demo-tips/
@@ -1189,7 +1164,7 @@ msgstr "OS バージョンの確認方法は？"
 #. Page path: /2-0/demo-tips/
 #: db-strings.txt:3741 db-strings.txt.py:7017 db-strings.txt.py:10446
 msgid "Introducing Firefox OS"
-msgstr "Firefox OS の紹介"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-3T/demo-tips/
@@ -1251,7 +1226,7 @@ msgstr ""
 #. Page path: /2-0/key-features/
 #: db-strings.txt:4677 db-strings.txt.py:8133 db-strings.txt.py:11292
 msgid "Messages and Email"
-msgstr "メッセージとメール"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-3T/frequently-asked-questions/
@@ -1274,7 +1249,7 @@ msgstr ""
 #. Page path: /2-0/frequently-asked-questions/
 #: db-strings.txt:4848 db-strings.txt.py:8304 db-strings.txt.py:11535
 msgid "What do you mean I can convert mobile sites into apps?"
-msgstr "モバイルサイトをアプリにできる、とはどういうことですか？"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-3T/frequently-asked-questions/
@@ -1335,7 +1310,7 @@ msgstr ""
 #. Page path: /2-0/frequently-asked-questions/
 #: db-strings.txt:4938 db-strings.txt.py:8394 db-strings.txt.py:11643
 msgid "What email providers are supported?"
-msgstr "利用できる電子メールサービスは何ですか？"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -1378,7 +1353,7 @@ msgstr ""
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:5244 db-strings.txt.py:8736 db-strings.txt.py:11985
 msgid "There are more. Try again"
-msgstr "<p>まだ他にもあります。探してみてください。</p>"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -1388,7 +1363,7 @@ msgstr "<p>まだ他にもあります。探してみてください。</p>"
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:5262 db-strings.txt.py:8754 db-strings.txt.py:12003
 msgid "That’s right! This icon represents Messages —or text messaging."
-msgstr "<p>正解です。このアイコンは SMS（メッセージ）アプリのものでした。</p>"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -1399,7 +1374,7 @@ msgstr "<p>正解です。このアイコンは SMS（メッセージ）アプ�
 #: db-strings.txt:5271 db-strings.txt.py:5280 db-strings.txt.py:8763
 #: db-strings.txt:8772 db-strings.txt.py:12012 db-strings.txt.py:12021
 msgid "Actually, this icon represents Messages — or text messaging."
-msgstr "<p>このアイコンは SMS（メッセージ）アプリのものでした。</p>"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -1407,7 +1382,7 @@ msgstr "<p>このアイコンは SMS（メッセージ）アプリのもので�
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:5298 db-strings.txt.py:12039
 msgid "That’s right. This icon represents the Contacts."
-msgstr "<p>正解です。このアイコンは Firefox ブラウザのものです。</p>"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -1418,7 +1393,7 @@ msgstr "<p>正解です。このアイコンは Firefox ブラウザのもので
 #: db-strings.txt:5307 db-strings.txt.py:5316 db-strings.txt.py:8808
 #: db-strings.txt:12048 db-strings.txt.py:12057
 msgid "Actually, this icon represents the Contacts."
-msgstr "<p>このアイコンは Firefox ブラウザのものでした。</p>"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -1477,7 +1452,7 @@ msgstr ""
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:6009 db-strings.txt.py:12723
 msgid "Calendar"
-msgstr "カレンダー"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -1485,7 +1460,7 @@ msgstr "カレンダー"
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:6018 db-strings.txt.py:12732
 msgid "Clock"
-msgstr "時計"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -1495,7 +1470,7 @@ msgstr "時計"
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:6045 db-strings.txt.py:9456 db-strings.txt.py:12705
 msgid "Email and Messages"
-msgstr "メールとメッセージ"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -1505,7 +1480,7 @@ msgstr "メールとメッセージ"
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:6063 db-strings.txt.py:9474 db-strings.txt.py:12714
 msgid "Music"
-msgstr "音楽"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -1518,7 +1493,7 @@ msgstr "音楽"
 #: db-strings.txt:9564 db-strings.txt.py:9600 db-strings.txt.py:12741
 #: db-strings.txt:12768 db-strings.txt.py:12795
 msgid "Messages"
-msgstr "メッセージ"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -1530,7 +1505,7 @@ msgstr "メッセージ"
 msgid ""
 "With Adaptive App Search, Firefox OS adapts to you needs better than any "
 "other phone."
-msgstr "<p>適応的アプリ検索を使えば、他の電話より簡単に必要なアプリを探せます。</p>"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -1570,7 +1545,7 @@ msgstr ""
 #. Page path: /2-0/introduction/
 #: db-strings.txt:10194
 msgid "An excellent user experience"
-msgstr "優れたユーザ体験"
+msgstr ""
 
 #. Translators:
 #. Page path: /2-0/introduction/
@@ -1585,7 +1560,7 @@ msgstr ""
 #. Page path: /2-0/introduction/
 #: db-strings.txt:10239
 msgid "Made with you in mind"
-msgstr "ユーザを第一に"
+msgstr ""
 
 #. Translators:
 #. Page path: /2-0/introduction/
@@ -1600,10 +1575,8 @@ msgstr ""
 #. Translators:
 #. Page path: /2-0/introduction/
 #: db-strings.txt:10284
-#, fuzzy
-#| msgid "Keep the Web in Your Hands"
 msgid "Keep the Web in your hands"
-msgstr "コミュニテイによる開発"
+msgstr ""
 
 #. Translators:
 #. Page path: /2-0/introduction/
@@ -1619,7 +1592,7 @@ msgstr ""
 #. Page path: /2-0/introduction/
 #: db-strings.txt:10320
 msgid "A phone for everyone"
-msgstr "みんなのためのスマートフォン"
+msgstr ""
 
 #. Translators:
 #. Page path: /2-0/introduction/
@@ -1657,10 +1630,8 @@ msgstr ""
 #. Translators:
 #. Page path: /2-0/demo-tips/
 #: db-strings.txt:10536
-#, fuzzy
-#| msgid "Rich Media Experience"
 msgid "Rich media experience"
-msgstr "豊かなメディア体験"
+msgstr ""
 
 #. Translators:
 #. Page path: /2-0/demo-tips/
@@ -1683,10 +1654,8 @@ msgstr ""
 #. Translators:
 #. Page path: /2-0/demo-tips/
 #: db-strings.txt:10581
-#, fuzzy
-#| msgid "Social and Contact Sync"
 msgid "Social and contact sync"
-msgstr "SNSと連絡先との同期"
+msgstr ""
 
 #. Translators:
 #. Page path: /2-0/demo-tips/
@@ -1751,8 +1720,6 @@ msgid ""
 "Search Bar to visit websites, perform searches and access apps from the "
 "Marketplace. Multitask with tabs and browse multiple pages at the same time"
 msgstr ""
-"<p>高速、スマート、安全に使えるブラウザです。アドレスバーに検索語を入れると、Web "
-"検索や履歴の検索、またすでに開いてるタブの検索も行えます。</p>"
 
 #. Translators:
 #. Page path: /2-0/key-features/
@@ -1775,7 +1742,7 @@ msgstr ""
 #. Page path: /2-0/key-features/
 #: db-strings.txt:11202
 msgid "Bluetooth"
-msgstr "Bluetooth"
+msgstr ""
 
 #. Translators:
 #. Page path: /2-0/key-features/
@@ -1800,13 +1767,13 @@ msgstr ""
 msgid ""
 "Stay connected easily and conveniently. Set up multiple email accounts, with"
 " support for the most common Exchange, POP3 or IMAP email providers."
-msgstr "<p>どこにいても、友達や仲間とつながれます。</p>複数アカウントを管理でき、Exchange や SMTP、IMAPに対応しています。"
+msgstr ""
 
 #. Translators:
 #. Page path: /2-0/key-features/
 #: db-strings.txt:11337
 msgid "Find My Device"
-msgstr "Find My Device"
+msgstr ""
 
 #. Translators:
 #. Page path: /2-0/key-features/
@@ -1820,7 +1787,7 @@ msgstr ""
 #. Page path: /2-0/key-features/
 #: db-strings.txt:11382
 msgid "Ringtones"
-msgstr "着信音"
+msgstr ""
 
 #. Translators:
 #. Page path: /2-0/key-features/
@@ -1844,7 +1811,7 @@ msgstr ""
 #. Page path: /2-0/frequently-asked-questions/
 #: db-strings.txt:11571
 msgid "Can I use WhatsApp on this phone?"
-msgstr "WhatsApp を利用できますか？"
+msgstr ""
 
 #. Translators:
 #. Page path: /2-0/frequently-asked-questions/
@@ -1861,7 +1828,7 @@ msgstr ""
 #. Page path: /2-0/frequently-asked-questions/
 #: db-strings.txt:11589
 msgid "Will my apps work offline?"
-msgstr "オフライン状態でもアプリを利用できますか？"
+msgstr ""
 
 #. Translators:
 #. Page path: /2-0/frequently-asked-questions/
@@ -1876,21 +1843,19 @@ msgstr ""
 #. Page path: /2-0/frequently-asked-questions/
 #: db-strings.txt:11652
 msgid "Exchange, POP3 and IMAP are currently supported."
-msgstr "Exchange、POP3、そして IMAP をサポートしています。"
+msgstr ""
 
 #. Translators:
 #. Page path: /2-0/about/
 #: db-strings.txt:11679
 msgid "The Mozilla Mission"
-msgstr "Mozilla のミッション"
+msgstr ""
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:11733
-#, fuzzy
-#| msgid "Take the challenge"
 msgid "Take the Challenge"
-msgstr "確認しよう"
+msgstr ""
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -1910,44 +1875,44 @@ msgstr ""
 msgid ""
 "What are some examples of the kind of personalization and control that "
 "Firefox OS allows?  Select all that apply."
-msgstr "以下から、Firefox OS でできるカスタマイズや設定を全て選んでください。"
+msgstr ""
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:11931
 msgid ""
 "That’s right! All of these things are possible with a Firefox OS phone."
-msgstr "正解です。全てのことが可能です。"
+msgstr ""
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:11940
 msgid "Actually, all of these things are possible with a Firefox OS phone."
-msgstr "Firefox OS 端末では、上記の全てのことを行えます。"
+msgstr ""
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:11949 db-strings.txt.py:12129 db-strings.txt.py:12381
 msgid "There are more. Try again."
-msgstr "まだ他にもあります。探してみてください。"
+msgstr ""
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:12075
 msgid "That’s right. This icon represents the Firefox Browser."
-msgstr "正解です。このアイコンは Firefox ブラウザのものです。"
+msgstr ""
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:12084 db-strings.txt.py:12093
 msgid "Actually, this icon represents the Firefox Browser."
-msgstr "このアイコンは Firefox ブラウザのものでした。"
+msgstr ""
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:12102
 msgid "What does Bluetooth allow users to do? Select all that apply"
-msgstr "以下から、Bluetooth を利用してできることを選んでください。"
+msgstr ""
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -1955,7 +1920,7 @@ msgstr "以下から、Bluetooth を利用してできることを選んでく�
 msgid ""
 "That’s right! All of these things can be shared via Bluetooth with your "
 "Firefox OS phone."
-msgstr "実は、全てを Bluetooth 経由で共有できます。"
+msgstr ""
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -1963,19 +1928,19 @@ msgstr "実は、全てを Bluetooth 経由で共有できます。"
 msgid ""
 "Actually, all of these things can be shared via Bluetooth with your Firefox "
 "OS phone.."
-msgstr "実は、全てを Bluetooth 経由で共有できます。"
+msgstr ""
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:12156
 msgid "Actually, all of these are true about Firefox OS."
-msgstr "実は全て正解です。"
+msgstr ""
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:12165
 msgid "Actually, all of these are true about Firefox OS"
-msgstr "実は全て正解です。"
+msgstr ""
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2093,13 +2058,13 @@ msgstr ""
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:12435
 msgid "That’s right. All of these are true of the Cost Control app!"
-msgstr "<p>正解です。全てのことが可能です。</p>"
+msgstr ""
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:12444 db-strings.txt.py:12453
 msgid "Actually, all of these are true of the Cost Control app!"
-msgstr "<p>実は全て正解です。</p>"
+msgstr ""
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2137,37 +2102,37 @@ msgstr ""
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:12642
 msgid "Set your phone to your language"
-msgstr "使用言語を変更する"
+msgstr ""
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:12651
 msgid "Control your data usage"
-msgstr "データ通信量を管理する"
+msgstr ""
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:12660
 msgid "Create your own ringtones"
-msgstr "着信音を作成する"
+msgstr ""
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:12822
 msgid "Share contacts"
-msgstr "連絡先をシェアする"
+msgstr ""
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:12831
 msgid "Share images"
-msgstr "写真をシェアする"
+msgstr ""
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:12840
 msgid "Share videos"
-msgstr "動画をシェアする"
+msgstr ""
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2177,8 +2142,6 @@ msgid ""
 "experience, Firefox OS is packed with the features that users are looking "
 "for in a smartphone."
 msgstr ""
-"Firefox OS には、Firefox "
-"Marketplace、プリインストールアプリ、素晴らしいユーザ体験といった、スマートフォンに期待される全てがあります。"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2187,8 +2150,6 @@ msgid ""
 "Since it’s made by Firefox, Firefox OS is backed by a global community "
 "working on your behalf and with your interests in mind."
 msgstr ""
-"Firefox をもとに作られているため、Firefox OS "
-"はあなたのやりたいことをあなたの代わりに実現するべく働く世界規模のコミュニティによって支えられています。"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2198,7 +2159,6 @@ msgid ""
 "to use and allows for greater control, personalization and customization "
 "than many other smartphones on the market."
 msgstr ""
-"Firefox OS は利用者と、そのニーズを念頭に置いて作成されています。そのため他のスマートフォンと比べても極めて簡単に使えるようにできています。"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2230,7 +2190,7 @@ msgstr ""
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:12993
 msgid "The Firefox Marketplace features free apps!"
-msgstr "12345"
+msgstr ""
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2245,43 +2205,43 @@ msgstr ""
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:13029
 msgid "Track the location of your lost/stolen device"
-msgstr "紛失、もしくは盗難された端末を追跡できます。"
+msgstr ""
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:13038
 msgid "Remotely wipe the device."
-msgstr "遠隔から端末を初期化できます。"
+msgstr ""
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:13047
 msgid "Remotely lock the device."
-msgstr "遠隔から端末をロックできます。"
+msgstr ""
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:13083
 msgid "Firefox OS is built entirely using HTML5 and Open Web standards."
-msgstr "Firefox OS は HTML5 とオープンな Web 標準に基づいて作成されています。"
+msgstr ""
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:13092
 msgid "You can use it to create and set a daily budget for data usage."
-msgstr "これを利用して、日々の通信料を見積もることができます。"
+msgstr ""
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:13101
 msgid "It shows usage per app."
-msgstr "アプリごとの使用量を確認できます。"
+msgstr ""
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:13110
 msgid "It shows usage by time."
-msgstr "使用量を時系列で表示させられます。"
+msgstr ""
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2292,8 +2252,6 @@ msgid ""
 "relevant apps for the Firefox OS platform. New apps and content are added "
 "every day."
 msgstr ""
-"Firefox OS は世界的な開発者コミュニティと、アプリを新規に開発 / Firefox OS "
-"上へ移植すると決めたコンテンツプロバイダーによって支えられています。Firefox OS で利用できる新しいアプリやコンテンツは毎日増加しています。"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2301,7 +2259,7 @@ msgstr ""
 msgid ""
 "Apps developers are slowly realizing the benefit of HTML5 in support of the "
 "Open Web."
-msgstr "アプリ開発者は、オープン Webを支える HTML5 の利点を徐々に認識しつつあります。"
+msgstr ""
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2358,161 +2316,3 @@ msgid ""
 "<li><em>1.3.0.0</em> means you have version 1.3</li> <li><em>2.0.0.0</em> "
 "means you have version 2.0</li> </ul> </li> </ol>"
 msgstr ""
-"<ol><li>設定アプリを起動します。</li><li>スクロールし、<strong>端末情報</strong>を選びます。</li><li>端末情報で、<strong>その他の情報</strong>を選び、画面上部にある<em>OS"
-" のバージョン</em>の数字を確認します。<ul><li><em>Firefox OS 1.0.1.0</em>は、バージョン 1.0.1 "
-"を意味します。</li><li><em>1.3.0.0</em>はバージョン 1.3 を意味します。</li><li><em>2.0.0.0</em> "
-"は 2.0 を意味します。</li></ul></li></ol>"
-
-#: masterfirefoxos/base/templates/base.html:35
-msgid "Submit"
-msgstr ""
-
-#: masterfirefoxos/base/templates/base.html:40
-#: masterfirefoxos/base/templates/base.html:83
-#: masterfirefoxos/base/templates/home.html:12
-msgid "Mozilla"
-msgstr "Mozilla"
-
-#: masterfirefoxos/base/templates/base.html:65
-msgid "Menu"
-msgstr ""
-
-#: masterfirefoxos/base/templates/base.html:88
-msgid ""
-"Portions of this content are ©1998–{0} by individual contributors. Content "
-"available under a <a href=\"https://www.mozilla.org/foundation/licensing"
-"/website-content/\">Creative Commons license</a>."
-msgstr ""
-
-#: masterfirefoxos/base/templates/base.html:91
-msgid "Source code"
-msgstr "ソースコード"
-
-#: masterfirefoxos/base/templates/base.html:96
-msgid "Contact Us"
-msgstr "連絡先"
-
-#: masterfirefoxos/base/templates/base.html:97
-msgid "Partner with Us"
-msgstr "パートナー"
-
-#: masterfirefoxos/base/templates/base.html:98
-msgid "Donate"
-msgstr "寄付"
-
-#: masterfirefoxos/base/templates/base.html:99
-msgid "Privacy Policy"
-msgstr "プライバシーポリシー"
-
-#: masterfirefoxos/base/templates/base.html:100
-msgid "Legal Notices"
-msgstr "法的通知"
-
-#: masterfirefoxos/base/templates/base.html:101
-msgid "Report Trademark Abuse"
-msgstr "商標の不正使用を報告"
-
-#: masterfirefoxos/base/templates/base.html:105
-msgid "Mozilla on Twitter"
-msgstr "Mozilla の Twitter アカウント"
-
-#: masterfirefoxos/base/templates/base.html:106
-msgid "Firefox on Twitter"
-msgstr "Firefox の Twitter アカウント"
-
-#: masterfirefoxos/base/templates/base.html:107
-msgid "Mozilla on Facebook"
-msgstr "Mozilla の Facebook ページ"
-
-#: masterfirefoxos/base/templates/base.html:108
-msgid "Firefox on Facebook"
-msgstr "Firefox の Facebook ページ"
-
-#: masterfirefoxos/base/templates/home.html:49
-msgid "Learn more"
-msgstr "より詳しく知るには"
-
-#: masterfirefoxos/base/templates/includes/nav-information.html:3
-msgid "Home"
-msgstr "ホーム"
-
-#: masterfirefoxos/base/templates/includes/nav-information.html:4
-msgid "About"
-msgstr "概要"
-
-#: masterfirefoxos/base/templates/includes/version-language-switcher.html:3
-msgid "Language"
-msgstr "言語"
-
-#: masterfirefoxos/base/templates/includes/version-language-switcher.html:15
-msgid "Firefox OS version"
-msgstr "Firefox OS のバージョン"
-
-#: masterfirefoxos/base/templates/includes/version-language-switcher.html:21
-msgid "Which version do I have?"
-msgstr "OS のバージョンを調べる。"
-
-#: masterfirefoxos/base/templates/includes/version-language-switcher.html:23
-msgid "Change"
-msgstr "変更"
-
-#: masterfirefoxos/base/templates/includes/version-language-switcher.html:34
-msgid ""
-"Documentation for Firefox OS {version} is not yet available in {language}, "
-"so we redirected you to the English version."
-msgstr "Firefox OS {version} の {language} 語版文書はまだ用意されていません。英語版をご覧ください。"
-
-#: masterfirefoxos/base/templates/includes/version-language-switcher.html:36
-msgid "The latest version available in {language} is {version}."
-msgstr "{language} の最新バージョンは {version} です。"
-
-#~ msgid "Bengali"
-#~ msgstr "ベンガル"
-
-#~ msgid "Croatian"
-#~ msgstr "クロアチア"
-
-#~ msgid "Czech"
-#~ msgstr "チェコ"
-
-#~ msgid "English"
-#~ msgstr "英"
-
-#~ msgid "German"
-#~ msgstr "ドイツ"
-
-#~ msgid "Greek"
-#~ msgstr "ギリシア"
-
-#~ msgid "Hindi"
-#~ msgstr "ヒンディー"
-
-#~ msgid "Hungarian"
-#~ msgstr "ハンガリー"
-
-#~ msgid "Italian"
-#~ msgstr "イタリア"
-
-#~ msgid "Japanese"
-#~ msgstr "日本"
-
-#~ msgid "Polish"
-#~ msgstr "ポーランド"
-
-#~ msgid "Portuguese"
-#~ msgstr "ポルトガル"
-
-#~ msgid "Serbian"
-#~ msgstr "セルビア"
-
-#~ msgid "Spanish"
-#~ msgstr "スペイン"
-
-#~ msgid "Tamil"
-#~ msgstr "タミル"
-
-#~ msgid "Pirate"
-#~ msgstr "著作権侵害"
-
-#~ msgid "<h2>Ready to explore the key benefits of Firefox OS?</h2>"
-#~ msgstr "<h2>Firefox OS の主な利点</h2>"
