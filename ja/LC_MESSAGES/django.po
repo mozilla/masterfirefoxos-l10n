@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-19 17:25+0000\n"
+"POT-Creation-Date: 2015-02-20 16:57+0000\n"
 "PO-Revision-Date: 2015-02-20 08:49:28\n"
 "Last-Translator: <nshimizu@mozilla-japan.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -57,9 +57,6 @@ msgstr "ようこそ"
 #. Page path: /2-0/
 #: db-strings.txt:42 db-strings.txt.py:3426 db-strings.txt.py:6702
 #: db-strings.txt:10131
-#| msgid ""
-#| "<p>Welcome to the Firefox OS global partner and community training hub. "
-#| "Select any topic to get started.</p>"
 msgid ""
 "Welcome to the Firefox OS global partner and community training hub. Select "
 "any topic to get started."
@@ -1599,7 +1596,6 @@ msgstr ""
 #. Translators:
 #. Page path: /2-0/introduction/
 #: db-strings.txt:10284
-#| msgid "Keep the Web in Your Hands"
 msgid "Keep the Web in your hands"
 msgstr "コミュニテイによる開発"
 
@@ -1655,7 +1651,6 @@ msgstr ""
 #. Translators:
 #. Page path: /2-0/demo-tips/
 #: db-strings.txt:10536
-#| msgid "Rich Media Experience"
 msgid "Rich media experience"
 msgstr "豊かなメディア体験"
 
@@ -1680,7 +1675,6 @@ msgstr ""
 #. Translators:
 #. Page path: /2-0/demo-tips/
 #: db-strings.txt:10581
-#| msgid "Social and Contact Sync"
 msgid "Social and contact sync"
 msgstr "SNSと連絡先との同期"
 
@@ -1883,7 +1877,6 @@ msgstr "Mozilla のミッション"
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:11733
-#| msgid "Take the challenge"
 msgid "Take the Challenge"
 msgstr "確認しよう"
 
