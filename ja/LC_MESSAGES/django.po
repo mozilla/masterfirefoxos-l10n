@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-23 17:38+0000\n"
+"POT-Creation-Date: 2015-02-24 16:57+0000\n"
 "PO-Revision-Date: 2015-02-20 11:48:21\n"
 "Last-Translator: <nshimizu@mozilla-japan.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1741,8 +1741,7 @@ msgid ""
 "Search Bar to visit websites, perform searches and access apps from the "
 "Marketplace. Multitask with tabs and browse multiple pages at the same time"
 msgstr ""
-"高速、スマート、安全に使えるブラウザです。アドレスバーに検索語を入れると、Web "
-"検索や履歴の検索、またすでに開いてるタブの検索も行えます。"
+"高速、スマート、安全に使えるブラウザです。アドレスバーに検索語を入れると、Web 検索や履歴の検索、またすでに開いてるタブの検索も行えます。"
 
 #. Translators:
 #. Page path: /2-0/key-features/
@@ -2444,13 +2443,13 @@ msgstr "OS のバージョンを調べる。"
 msgid "Change"
 msgstr "変更"
 
-#: masterfirefoxos/base/templates/includes/version-language-switcher.html:36
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:37
 msgid ""
 "Documentation for Firefox OS {version} is not yet available in {language}, "
 "so we redirected you to the English version."
 msgstr "Firefox OS {version} の {language} 語版文書はまだ用意されていません。英語版をご覧ください。"
 
-#: masterfirefoxos/base/templates/includes/version-language-switcher.html:38
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:39
 msgid "The latest version available in {language} is {version}."
 msgstr "{language} の最新バージョンは {version} です。"
 

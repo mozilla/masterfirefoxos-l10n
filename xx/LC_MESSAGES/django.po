@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-23 17:38+0000\n"
+"POT-Creation-Date: 2015-02-24 16:57+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -130,7 +130,7 @@ msgstr "Which varrsion do I have prepare to be boarded❗?"
 msgid "Change"
 msgstr "Change aye❗"
 
-#: masterfirefoxos/base/templates/includes/version-language-switcher.html:36
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:37
 msgid ""
 "Documentation for Firefox OS {version} is not yet available in {language}, "
 "so we redirected you to the English version."
@@ -138,7 +138,7 @@ msgstr ""
 "Documentation fer Firefox OS {version} is not yet available in {language}, "
 "so we redirect'd ye' to th' English varrsion matey❗."
 
-#: masterfirefoxos/base/templates/includes/version-language-switcher.html:38
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:39
 msgid "The latest version available in {language} is {version}."
 msgstr "The latest varrsion available in {language} is {version} ahoy❗."
 

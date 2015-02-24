@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-23 17:38+0000\n"
+"POT-Creation-Date: 2015-02-24 16:57+0000\n"
 "PO-Revision-Date: 2015-02-20 08:06:09\n"
 "Last-Translator: Michael Köhler <michael.koehler1@gmx.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -4372,7 +4372,7 @@ msgstr "Welche Version verwende ich?"
 msgid "Change"
 msgstr "Ändern"
 
-#: masterfirefoxos/base/templates/includes/version-language-switcher.html:36
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:37
 msgid ""
 "Documentation for Firefox OS {version} is not yet available in {language}, "
 "so we redirected you to the English version."
@@ -4380,7 +4380,7 @@ msgstr ""
 "Die Dokumentation für Firefox OS {version} ist noch nicht auf {language} "
 "verfügbar, daher haben wir Sie auf die englische Version weitergeleitet."
 
-#: masterfirefoxos/base/templates/includes/version-language-switcher.html:38
+#: masterfirefoxos/base/templates/includes/version-language-switcher.html:39
 msgid "The latest version available in {language} is {version}."
 msgstr "Die neueste auf {language} verfügbare Version ist {version}."
 
