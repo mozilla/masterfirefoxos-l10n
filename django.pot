@@ -89,81 +89,77 @@
 #: db-strings.txt:636 db-strings.txt.py:645 db-strings.txt.py:681
 #: db-strings.txt:690 db-strings.txt.py:726 db-strings.txt.py:735
 #: db-strings.txt:744 db-strings.txt.py:762 db-strings.txt.py:780
-#: db-strings.txt:798 db-strings.txt.py:816 db-strings.txt.py:825
-#: db-strings.txt:843 db-strings.txt.py:861 db-strings.txt.py:870
-#: db-strings.txt:888 db-strings.txt.py:906 db-strings.txt.py:915
-#: db-strings.txt:933 db-strings.txt.py:951 db-strings.txt.py:960
-#: db-strings.txt:987 db-strings.txt.py:1005 db-strings.txt.py:1023
-#: db-strings.txt:1032 db-strings.txt.py:1059 db-strings.txt.py:1077
-#: db-strings.txt:1086 db-strings.txt.py:1104 db-strings.txt.py:1122
-#: db-strings.txt:1131 db-strings.txt.py:1149 db-strings.txt.py:1167
-#: db-strings.txt:1176 db-strings.txt.py:1194 db-strings.txt.py:1212
-#: db-strings.txt:1221 db-strings.txt.py:1239 db-strings.txt.py:1257
-#: db-strings.txt:1266 db-strings.txt.py:1284 db-strings.txt.py:1302
-#: db-strings.txt:1311 db-strings.txt.py:1329 db-strings.txt.py:1347
-#: db-strings.txt:1356 db-strings.txt.py:1374 db-strings.txt.py:1392
-#: db-strings.txt:1401 db-strings.txt.py:1419 db-strings.txt.py:1437
-#: db-strings.txt:1446 db-strings.txt.py:1464 db-strings.txt.py:1482
-#: db-strings.txt:1491 db-strings.txt.py:1518 db-strings.txt.py:1536
-#: db-strings.txt:1554 db-strings.txt.py:1563 db-strings.txt.py:1572
-#: db-strings.txt:1770 db-strings.txt.py:1779 db-strings.txt.py:1815
-#: db-strings.txt:1833 db-strings.txt.py:1851 db-strings.txt.py:1860
-#: db-strings.txt:1869 db-strings.txt.py:1887 db-strings.txt.py:1896
-#: db-strings.txt:1905 db-strings.txt.py:1923 db-strings.txt.py:1932
-#: db-strings.txt:1941 db-strings.txt.py:3354 db-strings.txt.py:3363
-#: db-strings.txt:3372 db-strings.txt.py:3408 db-strings.txt.py:3417
-#: db-strings.txt:3444 db-strings.txt.py:3453 db-strings.txt.py:3462
-#: db-strings.txt:3480 db-strings.txt.py:3498 db-strings.txt.py:3507
-#: db-strings.txt:3525 db-strings.txt.py:3543 db-strings.txt.py:3552
-#: db-strings.txt:3570 db-strings.txt.py:3588 db-strings.txt.py:3597
-#: db-strings.txt:3624 db-strings.txt.py:3633 db-strings.txt.py:3669
-#: db-strings.txt:3687 db-strings.txt.py:3705 db-strings.txt.py:3714
-#: db-strings.txt:3723 db-strings.txt.py:3750 db-strings.txt.py:3759
-#: db-strings.txt:3795 db-strings.txt.py:3804 db-strings.txt.py:3840
-#: db-strings.txt:3849 db-strings.txt.py:3885 db-strings.txt.py:3894
-#: db-strings.txt:3930 db-strings.txt.py:3939 db-strings.txt.py:3975
-#: db-strings.txt:3993 db-strings.txt.py:4011 db-strings.txt.py:4020
-#: db-strings.txt:4029 db-strings.txt.py:4047 db-strings.txt.py:4065
-#: db-strings.txt:4074 db-strings.txt.py:4092 db-strings.txt.py:4110
-#: db-strings.txt:4119 db-strings.txt.py:4137 db-strings.txt.py:4155
-#: db-strings.txt:4164 db-strings.txt.py:4182 db-strings.txt.py:4200
-#: db-strings.txt:4209 db-strings.txt.py:4236 db-strings.txt.py:4254
-#: db-strings.txt:4272 db-strings.txt.py:4281 db-strings.txt.py:4308
-#: db-strings.txt:4326 db-strings.txt.py:4335 db-strings.txt.py:4353
-#: db-strings.txt:4371 db-strings.txt.py:4380 db-strings.txt.py:4398
-#: db-strings.txt:4416 db-strings.txt.py:4425 db-strings.txt.py:4443
-#: db-strings.txt:4461 db-strings.txt.py:4470 db-strings.txt.py:4488
-#: db-strings.txt:4506 db-strings.txt.py:4515 db-strings.txt.py:4533
-#: db-strings.txt:4551 db-strings.txt.py:4560 db-strings.txt.py:4578
-#: db-strings.txt:4596 db-strings.txt.py:4605 db-strings.txt.py:4623
-#: db-strings.txt:4641 db-strings.txt.py:4650 db-strings.txt.py:4668
-#: db-strings.txt:4686 db-strings.txt.py:4695 db-strings.txt.py:4722
-#: db-strings.txt:4740 db-strings.txt.py:4758 db-strings.txt.py:4767
-#: db-strings.txt:4776 db-strings.txt.py:4992 db-strings.txt.py:5001
-#: db-strings.txt:5037 db-strings.txt.py:5046 db-strings.txt.py:5055
-#: db-strings.txt:5073 db-strings.txt.py:5091 db-strings.txt.py:5109
-#: db-strings.txt:5118 db-strings.txt.py:5127 db-strings.txt.py:5145
-#: db-strings.txt:5154 db-strings.txt.py:5163 db-strings.txt.py:6630
-#: db-strings.txt:6639 db-strings.txt.py:6648 db-strings.txt.py:6684
-#: db-strings.txt:6693 db-strings.txt.py:6720 db-strings.txt.py:6729
-#: db-strings.txt:6738 db-strings.txt.py:6756 db-strings.txt.py:6774
-#: db-strings.txt:6783 db-strings.txt.py:6801 db-strings.txt.py:6819
-#: db-strings.txt:6828 db-strings.txt.py:6846 db-strings.txt.py:6864
-#: db-strings.txt:6873 db-strings.txt.py:6900 db-strings.txt.py:6909
-#: db-strings.txt:6945 db-strings.txt.py:6954 db-strings.txt.py:6963
-#: db-strings.txt:6981 db-strings.txt.py:6999 db-strings.txt.py:7026
-#: db-strings.txt:7035 db-strings.txt.py:7071 db-strings.txt.py:7080
-#: db-strings.txt:7116 db-strings.txt.py:7125 db-strings.txt.py:7161
-#: db-strings.txt:7170 db-strings.txt.py:7206 db-strings.txt.py:7215
-#: db-strings.txt:7251 db-strings.txt.py:7260 db-strings.txt.py:7296
-#: db-strings.txt:7305 db-strings.txt.py:7341 db-strings.txt.py:7350
-#: db-strings.txt:7386 db-strings.txt.py:7404 db-strings.txt.py:7422
-#: db-strings.txt:7431 db-strings.txt.py:7440 db-strings.txt.py:7458
-#: db-strings.txt:7476 db-strings.txt.py:7485 db-strings.txt.py:7503
-#: db-strings.txt:7521 db-strings.txt.py:7530 db-strings.txt.py:7548
-#: db-strings.txt:7566 db-strings.txt.py:7575 db-strings.txt.py:7593
-#: db-strings.txt:7611 db-strings.txt.py:7620 db-strings.txt.py:7647
-#: db-strings.txt:7665 db-strings.txt.py:7683 db-strings.txt.py:7692
+#: db-strings.txt:798 db-strings.txt.py:816 db-strings.txt.py:843
+#: db-strings.txt:861 db-strings.txt.py:888 db-strings.txt.py:906
+#: db-strings.txt:933 db-strings.txt.py:951 db-strings.txt.py:987
+#: db-strings.txt:1005 db-strings.txt.py:1023 db-strings.txt.py:1032
+#: db-strings.txt:1059 db-strings.txt.py:1077 db-strings.txt.py:1086
+#: db-strings.txt:1104 db-strings.txt.py:1122 db-strings.txt.py:1131
+#: db-strings.txt:1149 db-strings.txt.py:1167 db-strings.txt.py:1176
+#: db-strings.txt:1194 db-strings.txt.py:1212 db-strings.txt.py:1221
+#: db-strings.txt:1239 db-strings.txt.py:1257 db-strings.txt.py:1266
+#: db-strings.txt:1284 db-strings.txt.py:1302 db-strings.txt.py:1311
+#: db-strings.txt:1329 db-strings.txt.py:1347 db-strings.txt.py:1356
+#: db-strings.txt:1374 db-strings.txt.py:1392 db-strings.txt.py:1401
+#: db-strings.txt:1419 db-strings.txt.py:1437 db-strings.txt.py:1446
+#: db-strings.txt:1464 db-strings.txt.py:1482 db-strings.txt.py:1491
+#: db-strings.txt:1518 db-strings.txt.py:1527 db-strings.txt.py:1536
+#: db-strings.txt:1554 db-strings.txt.py:1572 db-strings.txt.py:1770
+#: db-strings.txt:1779 db-strings.txt.py:1815 db-strings.txt.py:1833
+#: db-strings.txt:1851 db-strings.txt.py:1860 db-strings.txt.py:1869
+#: db-strings.txt:1887 db-strings.txt.py:1896 db-strings.txt.py:1905
+#: db-strings.txt:1923 db-strings.txt.py:1932 db-strings.txt.py:1941
+#: db-strings.txt:3354 db-strings.txt.py:3363 db-strings.txt.py:3372
+#: db-strings.txt:3408 db-strings.txt.py:3417 db-strings.txt.py:3444
+#: db-strings.txt:3453 db-strings.txt.py:3462 db-strings.txt.py:3480
+#: db-strings.txt:3498 db-strings.txt.py:3507 db-strings.txt.py:3525
+#: db-strings.txt:3543 db-strings.txt.py:3552 db-strings.txt.py:3570
+#: db-strings.txt:3588 db-strings.txt.py:3597 db-strings.txt.py:3624
+#: db-strings.txt:3633 db-strings.txt.py:3669 db-strings.txt.py:3687
+#: db-strings.txt:3705 db-strings.txt.py:3714 db-strings.txt.py:3723
+#: db-strings.txt:3750 db-strings.txt.py:3759 db-strings.txt.py:3795
+#: db-strings.txt:3804 db-strings.txt.py:3840 db-strings.txt.py:3849
+#: db-strings.txt:3885 db-strings.txt.py:3894 db-strings.txt.py:3930
+#: db-strings.txt:3939 db-strings.txt.py:3975 db-strings.txt.py:3993
+#: db-strings.txt:4011 db-strings.txt.py:4020 db-strings.txt.py:4029
+#: db-strings.txt:4047 db-strings.txt.py:4065 db-strings.txt.py:4092
+#: db-strings.txt:4110 db-strings.txt.py:4137 db-strings.txt.py:4155
+#: db-strings.txt:4182 db-strings.txt.py:4200 db-strings.txt.py:4236
+#: db-strings.txt:4254 db-strings.txt.py:4272 db-strings.txt.py:4281
+#: db-strings.txt:4308 db-strings.txt.py:4326 db-strings.txt.py:4335
+#: db-strings.txt:4353 db-strings.txt.py:4371 db-strings.txt.py:4380
+#: db-strings.txt:4398 db-strings.txt.py:4416 db-strings.txt.py:4425
+#: db-strings.txt:4443 db-strings.txt.py:4461 db-strings.txt.py:4470
+#: db-strings.txt:4488 db-strings.txt.py:4506 db-strings.txt.py:4515
+#: db-strings.txt:4533 db-strings.txt.py:4551 db-strings.txt.py:4560
+#: db-strings.txt:4578 db-strings.txt.py:4596 db-strings.txt.py:4605
+#: db-strings.txt:4623 db-strings.txt.py:4641 db-strings.txt.py:4650
+#: db-strings.txt:4668 db-strings.txt.py:4686 db-strings.txt.py:4695
+#: db-strings.txt:4722 db-strings.txt.py:4740 db-strings.txt.py:4758
+#: db-strings.txt:4767 db-strings.txt.py:4776 db-strings.txt.py:4992
+#: db-strings.txt:5001 db-strings.txt.py:5037 db-strings.txt.py:5046
+#: db-strings.txt:5055 db-strings.txt.py:5073 db-strings.txt.py:5091
+#: db-strings.txt:5109 db-strings.txt.py:5118 db-strings.txt.py:5127
+#: db-strings.txt:5145 db-strings.txt.py:5154 db-strings.txt.py:5163
+#: db-strings.txt:6630 db-strings.txt.py:6639 db-strings.txt.py:6648
+#: db-strings.txt:6684 db-strings.txt.py:6693 db-strings.txt.py:6720
+#: db-strings.txt:6729 db-strings.txt.py:6738 db-strings.txt.py:6756
+#: db-strings.txt:6774 db-strings.txt.py:6783 db-strings.txt.py:6801
+#: db-strings.txt:6819 db-strings.txt.py:6828 db-strings.txt.py:6846
+#: db-strings.txt:6864 db-strings.txt.py:6873 db-strings.txt.py:6900
+#: db-strings.txt:6909 db-strings.txt.py:6945 db-strings.txt.py:6954
+#: db-strings.txt:6963 db-strings.txt.py:6981 db-strings.txt.py:6999
+#: db-strings.txt:7026 db-strings.txt.py:7035 db-strings.txt.py:7071
+#: db-strings.txt:7080 db-strings.txt.py:7116 db-strings.txt.py:7125
+#: db-strings.txt:7161 db-strings.txt.py:7170 db-strings.txt.py:7206
+#: db-strings.txt:7215 db-strings.txt.py:7251 db-strings.txt.py:7260
+#: db-strings.txt:7296 db-strings.txt.py:7305 db-strings.txt.py:7341
+#: db-strings.txt:7350 db-strings.txt.py:7386 db-strings.txt.py:7404
+#: db-strings.txt:7422 db-strings.txt.py:7431 db-strings.txt.py:7440
+#: db-strings.txt:7458 db-strings.txt.py:7476 db-strings.txt.py:7503
+#: db-strings.txt:7521 db-strings.txt.py:7548 db-strings.txt.py:7566
+#: db-strings.txt:7593 db-strings.txt.py:7611 db-strings.txt.py:7647
+#: db-strings.txt:7656 db-strings.txt.py:7683 db-strings.txt.py:7701
 #: db-strings.txt:7719 db-strings.txt.py:7737 db-strings.txt.py:7746
 #: db-strings.txt:7764 db-strings.txt.py:7782 db-strings.txt.py:7791
 #: db-strings.txt:7809 db-strings.txt.py:7827 db-strings.txt.py:7836
@@ -174,8 +170,8 @@
 #: db-strings.txt:8034 db-strings.txt.py:8052 db-strings.txt.py:8061
 #: db-strings.txt:8079 db-strings.txt.py:8097 db-strings.txt.py:8106
 #: db-strings.txt:8124 db-strings.txt.py:8142 db-strings.txt.py:8151
-#: db-strings.txt:8178 db-strings.txt.py:8187 db-strings.txt.py:8196
-#: db-strings.txt:8214 db-strings.txt.py:8232 db-strings.txt.py:8448
+#: db-strings.txt:8178 db-strings.txt.py:8196 db-strings.txt.py:8214
+#: db-strings.txt:8223 db-strings.txt.py:8232 db-strings.txt.py:8448
 #: db-strings.txt:8457 db-strings.txt.py:8493 db-strings.txt.py:8502
 #: db-strings.txt:8511 db-strings.txt.py:8529 db-strings.txt.py:8538
 #: db-strings.txt:8547 db-strings.txt.py:8565 db-strings.txt.py:8574
@@ -194,36 +190,34 @@
 #: db-strings.txt:10554 db-strings.txt.py:10590 db-strings.txt.py:10599
 #: db-strings.txt:10635 db-strings.txt.py:10653 db-strings.txt.py:10671
 #: db-strings.txt:10680 db-strings.txt.py:10689 db-strings.txt.py:10707
-#: db-strings.txt:10725 db-strings.txt.py:10734 db-strings.txt.py:10752
-#: db-strings.txt:10770 db-strings.txt.py:10779 db-strings.txt.py:10797
-#: db-strings.txt:10815 db-strings.txt.py:10824 db-strings.txt.py:10842
-#: db-strings.txt:10860 db-strings.txt.py:10869 db-strings.txt.py:10896
-#: db-strings.txt:10914 db-strings.txt.py:10932 db-strings.txt.py:10941
-#: db-strings.txt:10968 db-strings.txt.py:10986 db-strings.txt.py:10995
-#: db-strings.txt:11013 db-strings.txt.py:11031 db-strings.txt.py:11040
-#: db-strings.txt:11058 db-strings.txt.py:11076 db-strings.txt.py:11085
-#: db-strings.txt:11103 db-strings.txt.py:11121 db-strings.txt.py:11130
-#: db-strings.txt:11148 db-strings.txt.py:11166 db-strings.txt.py:11175
-#: db-strings.txt:11193 db-strings.txt.py:11211 db-strings.txt.py:11220
-#: db-strings.txt:11238 db-strings.txt.py:11256 db-strings.txt.py:11265
-#: db-strings.txt:11283 db-strings.txt.py:11301 db-strings.txt.py:11310
-#: db-strings.txt:11328 db-strings.txt.py:11346 db-strings.txt.py:11355
-#: db-strings.txt:11373 db-strings.txt.py:11391 db-strings.txt.py:11400
-#: db-strings.txt:11427 db-strings.txt.py:11445 db-strings.txt.py:11463
-#: db-strings.txt:11472 db-strings.txt.py:11481 db-strings.txt.py:11697
-#: db-strings.txt:11706 db-strings.txt.py:11742 db-strings.txt.py:11751
-#: db-strings.txt:11760 db-strings.txt.py:11778 db-strings.txt.py:11787
-#: db-strings.txt:11796 db-strings.txt.py:11814 db-strings.txt.py:11823
-#: db-strings.txt:11832 db-strings.txt.py:11850 db-strings.txt.py:11859
-#: db-strings.txt:11868 db-strings.txt.py:11886 db-strings.txt.py:11895
-#: db-strings.txt:11904 db-strings.txt.py:13245 db-strings.txt.py:13254
-#: db-strings.txt:13263
+#: db-strings.txt:10725 db-strings.txt.py:10752 db-strings.txt.py:10770
+#: db-strings.txt:10797 db-strings.txt.py:10815 db-strings.txt.py:10842
+#: db-strings.txt:10860 db-strings.txt.py:10896 db-strings.txt.py:10905
+#: db-strings.txt:10932 db-strings.txt.py:10950 db-strings.txt.py:10968
+#: db-strings.txt:10986 db-strings.txt.py:10995 db-strings.txt.py:11013
+#: db-strings.txt:11031 db-strings.txt.py:11040 db-strings.txt.py:11058
+#: db-strings.txt:11076 db-strings.txt.py:11085 db-strings.txt.py:11103
+#: db-strings.txt:11121 db-strings.txt.py:11130 db-strings.txt.py:11148
+#: db-strings.txt:11166 db-strings.txt.py:11175 db-strings.txt.py:11193
+#: db-strings.txt:11211 db-strings.txt.py:11220 db-strings.txt.py:11238
+#: db-strings.txt:11256 db-strings.txt.py:11265 db-strings.txt.py:11283
+#: db-strings.txt:11301 db-strings.txt.py:11310 db-strings.txt.py:11328
+#: db-strings.txt:11346 db-strings.txt.py:11355 db-strings.txt.py:11373
+#: db-strings.txt:11391 db-strings.txt.py:11400 db-strings.txt.py:11427
+#: db-strings.txt:11445 db-strings.txt.py:11463 db-strings.txt.py:11472
+#: db-strings.txt:11481 db-strings.txt.py:11697 db-strings.txt.py:11706
+#: db-strings.txt:11742 db-strings.txt.py:11751 db-strings.txt.py:11760
+#: db-strings.txt:11778 db-strings.txt.py:11787 db-strings.txt.py:11796
+#: db-strings.txt:11814 db-strings.txt.py:11823 db-strings.txt.py:11832
+#: db-strings.txt:11850 db-strings.txt.py:11859 db-strings.txt.py:11868
+#: db-strings.txt:11886 db-strings.txt.py:11895 db-strings.txt.py:11904
+#: db-strings.txt:13245 db-strings.txt.py:13254 db-strings.txt.py:13263
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-24 16:57+0000\n"
+"POT-Creation-Date: 2015-02-24 19:18+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -750,14 +744,26 @@ msgstr ""
 
 #. Translators:
 #. Page path: /1-1/customer-guide/
+#. Translators:
+#. Page path: /1-3T/customer-guide/
+#. Translators:
+#. Page path: /1-4/customer-guide/
+#. Translators:
+#. Page path: /2-0/customer-guide/
+#: db-strings.txt:825 db-strings.txt.py:4074 db-strings.txt.py:7485
+#: db-strings.txt:10734
+msgid "\"I have never had a smartphone.\""
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/customer-guide/
 #: db-strings.txt:834
 msgid ""
-"<h3><em>\"I have never had a smartphone.\"</em></h3> <strong>What can you "
-"say?</strong> Firefox OS is the best choice for first time smartphone users. "
-"It is super easy to use, and it adapts to your needs better than any other "
-"phone, so you get more of what you need with less time searching. Plus, it "
-"is packed with all the features you’d expect, from camera, to email, apps, "
-"music, maps and more."
+"<strong>What can you say?</strong> Firefox OS is the best choice for first "
+"time smartphone users. It is super easy to use, and it adapts to your needs "
+"better than any other phone, so you get more of what you need with less time "
+"searching. Plus, it is packed with all the features you’d expect, from "
+"camera, to email, apps, music, maps and more."
 msgstr ""
 
 #. Translators:
@@ -775,12 +781,24 @@ msgstr ""
 
 #. Translators:
 #. Page path: /1-1/customer-guide/
+#. Translators:
+#. Page path: /1-3T/customer-guide/
+#. Translators:
+#. Page path: /1-4/customer-guide/
+#. Translators:
+#. Page path: /2-0/customer-guide/
+#: db-strings.txt:870 db-strings.txt.py:4119 db-strings.txt.py:7530
+#: db-strings.txt:10779
+msgid "\"I want a good deal.\""
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/customer-guide/
 #: db-strings.txt:879
 msgid ""
-"<h3><em>\"I want a good deal.\"</em></h3> <strong>What can you say?</strong> "
-"Firefox OS gives you the most value for your money. It has everything you "
-"expect in a smartphone — camera, email, apps, music, maps and more — at the "
-"most competitive prices."
+"<strong>What can you say?</strong> Firefox OS gives you the most value for "
+"your money. It has everything you expect in a smartphone — camera, email, "
+"apps, music, maps and more — at the most competitive prices."
 msgstr ""
 
 #. Translators:
@@ -798,13 +816,25 @@ msgstr ""
 
 #. Translators:
 #. Page path: /1-1/customer-guide/
+#. Translators:
+#. Page path: /1-3T/customer-guide/
+#. Translators:
+#. Page path: /1-4/customer-guide/
+#. Translators:
+#. Page path: /2-0/customer-guide/
+#: db-strings.txt:915 db-strings.txt.py:4164 db-strings.txt.py:7575
+#: db-strings.txt:10824
+msgid "\"It needs to be easy to use.\""
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/customer-guide/
 #: db-strings.txt:924
 msgid ""
-"<h3><em>\"It needs to be easy to use.\"</em></h3> <strong>What can you say?</"
-"strong> Firefox OS is the easiest smartphone to get you started. Adaptive "
-"App Search helps you find the things you need simply — and instantly. The "
-"user interface is so intuitive, you will be able to quickly discover and "
-"download your favorite apps so you’re ready to go."
+"<strong>What can you say?</strong> Firefox OS is the easiest smartphone to "
+"get you started. Adaptive App Search helps you find the things you need "
+"simply — and instantly. The user interface is so intuitive, you will be able "
+"to quickly discover and download your favorite apps so you’re ready to go."
 msgstr ""
 
 #. Translators:
@@ -822,14 +852,26 @@ msgstr ""
 
 #. Translators:
 #. Page path: /1-1/customer-guide/
+#. Translators:
+#. Page path: /1-3T/customer-guide/
+#. Translators:
+#. Page path: /1-4/customer-guide/
+#. Translators:
+#. Page path: /2-0/customer-guide/
+#: db-strings.txt:960 db-strings.txt.py:4209 db-strings.txt.py:7620
+#: db-strings.txt:10869
+msgid "\"I love firefox!\""
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/customer-guide/
 #: db-strings.txt:969
 msgid ""
-"<h3><em>\"I love firefox!\"</em></h3> <strong>What can you say?</strong> If "
-"you know and love Firefox, you’ll love Firefox OS. Firefox OS smartphones "
-"are entirely HTML5-based, bringing the best of the Web to your phone. Plus, "
-"Firefox OS is designed by a community dedicated to keeping the Web "
-"accessible to all. When you choose Firefox OS, you have the full power of "
-"the Web in your hands."
+"<strong>What can you say?</strong> If you know and love Firefox, you’ll love "
+"Firefox OS. Firefox OS smartphones are entirely HTML5-based, bringing the "
+"best of the Web to your phone. Plus, Firefox OS is designed by a community "
+"dedicated to keeping the Web accessible to all. When you choose Firefox OS, "
+"you have the full power of the Web in your hands."
 msgstr ""
 
 #. Translators:
@@ -853,8 +895,8 @@ msgstr ""
 #. Page path: /1-4/key-features/
 #. Translators:
 #. Page path: /2-0/key-features/
-#: db-strings.txt:996 db-strings.txt.py:4245 db-strings.txt.py:7656
-#: db-strings.txt:10905
+#: db-strings.txt:996 db-strings.txt.py:4245 db-strings.txt.py:7692
+#: db-strings.txt:10941
 msgid "Features that count"
 msgstr ""
 
@@ -873,7 +915,7 @@ msgstr ""
 #. Page path: /1-3T/key-features/
 #. Translators:
 #. Page path: /1-4/key-features/
-#: db-strings.txt:1041 db-strings.txt.py:4290 db-strings.txt.py:7701
+#: db-strings.txt:1041 db-strings.txt.py:4290 db-strings.txt.py:7665
 msgid "Have it all"
 msgstr ""
 
@@ -885,8 +927,8 @@ msgstr ""
 #. Page path: /1-4/key-features/
 #. Translators:
 #. Page path: /2-0/key-features/
-#: db-strings.txt:1050 db-strings.txt.py:4299 db-strings.txt.py:7710
-#: db-strings.txt:10959
+#: db-strings.txt:1050 db-strings.txt.py:4299 db-strings.txt.py:7674
+#: db-strings.txt:10923
 msgid ""
 "Discover what makes Firefox OS the most unique and exciting mobile operating "
 "system."
@@ -1136,7 +1178,22 @@ msgstr ""
 #. Page path: /1-4/frequently-asked-questions/
 #. Translators:
 #. Page path: /2-0/frequently-asked-questions/
-#: db-strings.txt:1527 db-strings.txt.py:4731 db-strings.txt.py:8223
+#: db-strings.txt:1545 db-strings.txt.py:4785 db-strings.txt.py:8241
+#: db-strings.txt:11490
+msgid ""
+"Still have questions? Not for long! Find all the answers you're looking for "
+"here."
+msgstr ""
+
+#. Translators:
+#. Page path: /1-1/frequently-asked-questions/
+#. Translators:
+#. Page path: /1-3T/frequently-asked-questions/
+#. Translators:
+#. Page path: /1-4/frequently-asked-questions/
+#. Translators:
+#. Page path: /2-0/frequently-asked-questions/
+#: db-strings.txt:1563 db-strings.txt.py:4731 db-strings.txt.py:8187
 #: db-strings.txt:11436
 msgid "You have questions? We have answers!"
 msgstr ""
@@ -1149,26 +1206,11 @@ msgstr ""
 #. Page path: /1-4/frequently-asked-questions/
 #. Translators:
 #. Page path: /2-0/frequently-asked-questions/
-#: db-strings.txt:1545 db-strings.txt.py:4749 db-strings.txt.py:8241
+#: db-strings.txt:1581 db-strings.txt.py:4749 db-strings.txt.py:8205
 #: db-strings.txt:11454
 msgid ""
 "By now, you probably have questions and so will your customers! Select each "
 "question for more on Firefox OS."
-msgstr ""
-
-#. Translators:
-#. Page path: /1-1/frequently-asked-questions/
-#. Translators:
-#. Page path: /1-3T/frequently-asked-questions/
-#. Translators:
-#. Page path: /1-4/frequently-asked-questions/
-#. Translators:
-#. Page path: /2-0/frequently-asked-questions/
-#: db-strings.txt:1581 db-strings.txt.py:4785 db-strings.txt.py:8205
-#: db-strings.txt:11490
-msgid ""
-"Still have questions? Not for long! Find all the answers you're looking for "
-"here."
 msgstr ""
 
 #. Translators:
@@ -2847,33 +2889,32 @@ msgstr ""
 #. Page path: /1-3T/customer-guide/
 #: db-strings.txt:4083
 msgid ""
-"<h3><em>\"I have never had a smartphone.\"</em></h3> <strong>Here’s what you "
-"can say:</strong> Firefox OS is the best choice for first time smartphone "
-"users. It’s super easy to use and it adapts to your needs better than any "
-"other phone, so you get more of what you need with less time searching. "
-"Plus, it’s packed with all the features you’d expect, from Camera, to Email, "
-"apps from the Firefox Marketplace, Music and more."
+"<strong>Here’s what you can say:</strong> Firefox OS is the best choice for "
+"first time smartphone users. It’s super easy to use and it adapts to your "
+"needs better than any other phone, so you get more of what you need with "
+"less time searching. Plus, it’s packed with all the features you’d expect, "
+"from Camera, to Email, apps from the Firefox Marketplace, Music and more."
 msgstr ""
 
 #. Translators:
 #. Page path: /1-3T/customer-guide/
 #: db-strings.txt:4128
 msgid ""
-"<h3><em>\"I want a good deal.\"</em></h3> <strong>Here’s what you can say:</"
-"strong> Firefox OS gives you the most value for your money. It has "
-"everything you expect in a smartphone — camera, email, apps from the Firefox "
-"Marketplace, music and more — at the most competitive prices."
+"<strong>Here’s what you can say:</strong> Firefox OS gives you the most "
+"value for your money. It has everything you expect in a smartphone — camera, "
+"email, apps from the Firefox Marketplace, music and more — at the most "
+"competitive prices."
 msgstr ""
 
 #. Translators:
 #. Page path: /1-3T/customer-guide/
 #: db-strings.txt:4173
 msgid ""
-"<h3><em>\"It needs to be easy to use.\"</em></h3> <strong><strong>Here’s "
-"what you can say:</strong></strong> Firefox OS is the easiest smartphone "
-"you’ll ever use. Adaptive App Search helps you find the things you need "
-"simply — and instantly. The user interface is so intuitive, you will be able "
-"to quickly discover and easily download your favorite apps in no time."
+"<strong>Here’s what you can say:</strong> Firefox OS is the easiest "
+"smartphone you’ll ever use. Adaptive App Search helps you find the things "
+"you need simply — and instantly. The user interface is so intuitive, you "
+"will be able to quickly discover and easily download your favorite apps in "
+"no time."
 msgstr ""
 
 #. Translators:
@@ -2882,12 +2923,11 @@ msgstr ""
 #. Page path: /1-4/customer-guide/
 #: db-strings.txt:4218 db-strings.txt.py:7629
 msgid ""
-"<h3><em>\"I love firefox!\"</em></h3> <strong><strong>Here’s what you can "
-"say:</strong></strong> If you know and love Firefox, you’ll love Firefox OS. "
-"Firefox OS smartphones are entirely HTML5-based, bringing the best of the "
-"Web to your phone. Plus, Firefox OS is designed by a community dedicated to "
-"keeping the Web accessible to all. When you choose Firefox OS, you have the "
-"full power of the Web in your hands."
+"<strong>Here’s what you can say:</strong> If you know and love Firefox, "
+"you’ll love Firefox OS. Firefox OS smartphones are entirely HTML5-based, "
+"bringing the best of the Web to your phone. Plus, Firefox OS is designed by "
+"a community dedicated to keeping the Web accessible to all. When you choose "
+"Firefox OS, you have the full power of the Web in your hands."
 msgstr ""
 
 #. Translators:
@@ -2896,7 +2936,7 @@ msgstr ""
 #. Page path: /1-4/key-features/
 #. Translators:
 #. Page path: /2-0/key-features/
-#: db-strings.txt:4263 db-strings.txt.py:7674 db-strings.txt.py:10923
+#: db-strings.txt:4263 db-strings.txt.py:7710 db-strings.txt.py:10959
 msgid ""
 "Firefox OS is packed with the features that your customers expect in a "
 "smartphone. It’s designed to fit their lives perfectly so they can keep pace "
@@ -3763,12 +3803,11 @@ msgstr ""
 #. Page path: /1-4/customer-guide/
 #: db-strings.txt:7494
 msgid ""
-"<h3><em>\"I have never had a smartphone.\"</em></h3> <strong>Here’s what you "
-"can say:</strong> Firefox OS is the best choice for first time smartphone "
-"users. It’s super easy to use and it adapts to your needs better than any "
-"other phone, so you get more of what you need with less time searching. "
-"Plus, it is packed with all the features you’d expect, from camera, to "
-"email, apps, music, maps and more."
+"<strong>Here’s what you can say:</strong> Firefox OS is the best choice for "
+"first time smartphone users. It’s super easy to use and it adapts to your "
+"needs better than any other phone, so you get more of what you need with "
+"less time searching. Plus, it is packed with all the features you’d expect, "
+"from camera, to email, apps, music, maps and more."
 msgstr ""
 
 #. Translators:
@@ -3777,21 +3816,20 @@ msgstr ""
 #. Page path: /2-0/customer-guide/
 #: db-strings.txt:7539 db-strings.txt.py:10788
 msgid ""
-"<h3><em>\"I want a good deal.\"</em></h3> <strong>Here’s what you can say:</"
-"strong> Firefox OS gives you the most value for your money. It has "
-"everything you expect in a smartphone — camera, email, apps, music, maps and "
-"more — at the most competitive prices."
+"<strong>Here’s what you can say:</strong> Firefox OS gives you the most "
+"value for your money. It has everything you expect in a smartphone — camera, "
+"email, apps, music, maps and more — at the most competitive prices."
 msgstr ""
 
 #. Translators:
 #. Page path: /1-4/customer-guide/
 #: db-strings.txt:7584
 msgid ""
-"<h3><em>\"It needs to be easy to use.\"</em></h3> <strong><strong>Here’s "
-"what you can say:</strong></strong> Firefox OS is the easiest smartphone to "
-"get you started.  Adaptive App Search helps you find the things you need "
-"simply — and instantly. The user interface is so intuitive, you will be able "
-"to quickly discover and download your favorite apps so you’re ready to go."
+"<strong>Here’s what you can say:</strong> Firefox OS is the easiest "
+"smartphone to get you started.  Adaptive App Search helps you find the "
+"things you need simply — and instantly. The user interface is so intuitive, "
+"you will be able to quickly discover and download your favorite apps so "
+"you’re ready to go."
 msgstr ""
 
 #. Translators:
@@ -4116,40 +4154,37 @@ msgstr ""
 #. Page path: /2-0/customer-guide/
 #: db-strings.txt:10743
 msgid ""
-"<h3><em>\"I have never had a smartphone.\"</em></h3> <strong>Here’s what you "
-"can say:</strong> Firefox OS is the best choice for first time smartphone "
-"users. It’s super easy to use and adapts to your needs better than any other "
-"phone. That means you get more of what you need with less time spent "
-"searching. Plus, it’s packed with all the features you’d expect — camera, "
-"email, apps, music, maps and more!"
+"<strong>Here’s what you can say:</strong> Firefox OS is the best choice for "
+"first time smartphone users. It’s super easy to use and adapts to your needs "
+"better than any other phone. That means you get more of what you need with "
+"less time spent searching. Plus, it’s packed with all the features you’d "
+"expect — camera, email, apps, music, maps and more!"
 msgstr ""
 
 #. Translators:
 #. Page path: /2-0/customer-guide/
 #: db-strings.txt:10833
 msgid ""
-"<h3><em>\"It needs to be easy to use.\"</em></h3> <strong><strong>Here’s "
-"what you can say:</strong></strong> Firefox OS is the easiest smartphone to "
-"get you started.  The user interface is so intuitive, you’ll be able to "
-"quickly discover and download your favorite apps and be ready to go in no "
-"time."
+"<strong>Here’s what you can say:</strong> Firefox OS is the easiest "
+"smartphone to get you started.  The user interface is so intuitive, you’ll "
+"be able to quickly discover and download your favorite apps and be ready to "
+"go in no time."
 msgstr ""
 
 #. Translators:
 #. Page path: /2-0/customer-guide/
 #: db-strings.txt:10878
 msgid ""
-"<h3><em>\"I love firefox!\"</em></h3> <strong><strong>Here’s what you can "
-"say:</strong></strong> If you know and love Firefox, you’ll love Firefox "
-"OS.  Firefox OS smartphones are entirely HTML5-based, bringing the best of "
-"the Web to your phone.  Plus, Firefox OS is designed by a community "
-"dedicated to keeping the Web accessible to all. When you choose Firefox OS, "
-"you have the full power of the Web in your hands."
+"<strong>Here’s what you can say:</strong> If you know and love Firefox, "
+"you’ll love Firefox OS.  Firefox OS smartphones are entirely HTML5-based, "
+"bringing the best of the Web to your phone.  Plus, Firefox OS is designed by "
+"a community dedicated to keeping the Web accessible to all. When you choose "
+"Firefox OS, you have the full power of the Web in your hands."
 msgstr ""
 
 #. Translators:
 #. Page path: /2-0/key-features/
-#: db-strings.txt:10950
+#: db-strings.txt:10914
 msgid "Just what you need"
 msgstr ""
 

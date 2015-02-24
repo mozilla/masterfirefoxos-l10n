@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-24 16:57+0000\n"
+"POT-Creation-Date: 2015-02-24 19:18+0000\n"
 "PO-Revision-Date: 2015-02-20 11:48:07\n"
 "Last-Translator: Ayan Choudhury <ping2ayan@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -434,10 +434,36 @@ msgstr "নতুন স্মার্টফোন ব্যবহারকা�
 #. Page path: /1-4/customer-guide/
 #. Translators:
 #. Page path: /2-0/customer-guide/
+#: db-strings.txt:825 db-strings.txt.py:4074 db-strings.txt.py:7485
+#: db-strings.txt:10734
+msgid "\"I have never had a smartphone.\""
+msgstr "\"আমার পূর্বে কোন স্মার্টফোন ছিল না।\""
+
+#. Translators:
+#. Page path: /1-1/customer-guide/
+#. Translators:
+#. Page path: /1-3T/customer-guide/
+#. Translators:
+#. Page path: /1-4/customer-guide/
+#. Translators:
+#. Page path: /2-0/customer-guide/
 #: db-strings.txt:852 db-strings.txt.py:4101 db-strings.txt.py:7512
 #: db-strings.txt:10761
 msgid "The Value Seeker"
 msgstr "মূল্যের প্রতিদান অনুসন্ধানকারী"
+
+#. Translators:
+#. Page path: /1-1/customer-guide/
+#. Translators:
+#. Page path: /1-3T/customer-guide/
+#. Translators:
+#. Page path: /1-4/customer-guide/
+#. Translators:
+#. Page path: /2-0/customer-guide/
+#: db-strings.txt:870 db-strings.txt.py:4119 db-strings.txt.py:7530
+#: db-strings.txt:10779
+msgid "\"I want a good deal.\""
+msgstr "\"আমি টাকার বিনিময়ে ভাল কিছু চাই।\""
 
 #. Translators:
 #. Page path: /1-1/customer-guide/
@@ -460,10 +486,36 @@ msgstr "অনিশ্চিত অাপগ্রেডার"
 #. Page path: /1-4/customer-guide/
 #. Translators:
 #. Page path: /2-0/customer-guide/
+#: db-strings.txt:915 db-strings.txt.py:4164 db-strings.txt.py:7575
+#: db-strings.txt:10824
+msgid "\"It needs to be easy to use.\""
+msgstr "\"এটি ব্যবহারে সহজ হওয়া প্রয়োজন।\""
+
+#. Translators:
+#. Page path: /1-1/customer-guide/
+#. Translators:
+#. Page path: /1-3T/customer-guide/
+#. Translators:
+#. Page path: /1-4/customer-guide/
+#. Translators:
+#. Page path: /2-0/customer-guide/
 #: db-strings.txt:942 db-strings.txt.py:4191 db-strings.txt.py:7602
 #: db-strings.txt:10851
 msgid "The Firefox Fan"
 msgstr "Firefox এর  ভক্ত"
+
+#. Translators:
+#. Page path: /1-1/customer-guide/
+#. Translators:
+#. Page path: /1-3T/customer-guide/
+#. Translators:
+#. Page path: /1-4/customer-guide/
+#. Translators:
+#. Page path: /2-0/customer-guide/
+#: db-strings.txt:960 db-strings.txt.py:4209 db-strings.txt.py:7620
+#: db-strings.txt:10869
+msgid "\"I love firefox!\""
+msgstr "\"আমি Firefox ভালবাসি!\""
 
 #. Translators:
 #. Page path: /1-1/key-features/
@@ -486,8 +538,8 @@ msgstr "মূখ্য বৈশিষ্ট্যসমূহ"
 #. Page path: /1-4/key-features/
 #. Translators:
 #. Page path: /2-0/key-features/
-#: db-strings.txt:996 db-strings.txt.py:4245 db-strings.txt.py:7656
-#: db-strings.txt:10905
+#: db-strings.txt:996 db-strings.txt.py:4245 db-strings.txt.py:7692
+#: db-strings.txt:10941
 msgid "Features that count"
 msgstr "পছন্দের সব সুবিধা"
 
@@ -497,7 +549,7 @@ msgstr "পছন্দের সব সুবিধা"
 #. Page path: /1-3T/key-features/
 #. Translators:
 #. Page path: /1-4/key-features/
-#: db-strings.txt:1041 db-strings.txt.py:4290 db-strings.txt.py:7701
+#: db-strings.txt:1041 db-strings.txt.py:4290 db-strings.txt.py:7665
 msgid "Have it all"
 msgstr "সবকিছু আছে"
 
@@ -509,8 +561,8 @@ msgstr "সবকিছু আছে"
 #. Page path: /1-4/key-features/
 #. Translators:
 #. Page path: /2-0/key-features/
-#: db-strings.txt:1050 db-strings.txt.py:4299 db-strings.txt.py:7710
-#: db-strings.txt:10959
+#: db-strings.txt:1050 db-strings.txt.py:4299 db-strings.txt.py:7674
+#: db-strings.txt:10923
 msgid ""
 "Discover what makes Firefox OS the most unique and exciting mobile operating"
 " system."
@@ -711,7 +763,22 @@ msgstr "সচরাচর জিজ্ঞাসিত প্রশ্ন"
 #. Page path: /1-4/frequently-asked-questions/
 #. Translators:
 #. Page path: /2-0/frequently-asked-questions/
-#: db-strings.txt:1527 db-strings.txt.py:4731 db-strings.txt.py:8223
+#: db-strings.txt:1545 db-strings.txt.py:4785 db-strings.txt.py:8241
+#: db-strings.txt:11490
+msgid ""
+"Still have questions? Not for long! Find all the answers you're looking for "
+"here."
+msgstr "এখনও প্রশ্ন আছে? দীর্ঘ জন্য! আপনি এখানে খুঁজছেন সব উত্তর খুঁজুন."
+
+#. Translators:
+#. Page path: /1-1/frequently-asked-questions/
+#. Translators:
+#. Page path: /1-3T/frequently-asked-questions/
+#. Translators:
+#. Page path: /1-4/frequently-asked-questions/
+#. Translators:
+#. Page path: /2-0/frequently-asked-questions/
+#: db-strings.txt:1563 db-strings.txt.py:4731 db-strings.txt.py:8187
 #: db-strings.txt:11436
 msgid "You have questions? We have answers!"
 msgstr "আপনার কোন প্রশ্ন আছে? আমাদের উত্তরও তৈরি!"
@@ -724,7 +791,7 @@ msgstr "আপনার কোন প্রশ্ন আছে? আমাদে�
 #. Page path: /1-4/frequently-asked-questions/
 #. Translators:
 #. Page path: /2-0/frequently-asked-questions/
-#: db-strings.txt:1545 db-strings.txt.py:4749 db-strings.txt.py:8241
+#: db-strings.txt:1581 db-strings.txt.py:4749 db-strings.txt.py:8205
 #: db-strings.txt:11454
 msgid ""
 "By now, you probably have questions and so will your customers! Select each "
@@ -732,21 +799,6 @@ msgid ""
 msgstr ""
 "এরই মধ্যে আপনার মনে নিশ্চয়ই প্রশ্ন জেগেছে এবং আপনার ক্রেতার মনেও জাগবে! "
 "Firefox OS সম্পর্কে আরো জানতে যেকোনো একটি প্রশ্ন বেছে নিন।"
-
-#. Translators:
-#. Page path: /1-1/frequently-asked-questions/
-#. Translators:
-#. Page path: /1-3T/frequently-asked-questions/
-#. Translators:
-#. Page path: /1-4/frequently-asked-questions/
-#. Translators:
-#. Page path: /2-0/frequently-asked-questions/
-#: db-strings.txt:1581 db-strings.txt.py:4785 db-strings.txt.py:8205
-#: db-strings.txt:11490
-msgid ""
-"Still have questions? Not for long! Find all the answers you're looking for "
-"here."
-msgstr "এখনও প্রশ্ন আছে? দীর্ঘ জন্য! আপনি এখানে খুঁজছেন সব উত্তর খুঁজুন."
 
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
@@ -2063,13 +2115,7 @@ msgstr ""
 #. Page path: /1-3T/customer-guide/
 #. Translators:
 #. Page path: /1-4/customer-guide/
-msgid "\"I love firefox!\""
-msgstr "\"আমি Firefox ভালবাসি!\""
-
-#. Translators:
-#. Page path: /1-3T/customer-guide/
-#. Translators:
-#. Page path: /1-4/customer-guide/
+#: db-strings.txt:4218 db-strings.txt.py:7629
 msgid ""
 "<strong>Here’s what you can say:</strong> If you know and love Firefox, "
 "you’ll love Firefox OS. Firefox OS smartphones are entirely HTML5-based, "
@@ -2090,7 +2136,7 @@ msgstr ""
 #. Page path: /1-4/key-features/
 #. Translators:
 #. Page path: /2-0/key-features/
-#: db-strings.txt:4263 db-strings.txt.py:7674 db-strings.txt.py:10923
+#: db-strings.txt:4263 db-strings.txt.py:7710 db-strings.txt.py:10959
 msgid ""
 "Firefox OS is packed with the features that your customers expect in a "
 "smartphone. It’s designed to fit their lives perfectly so they can keep pace"
@@ -2606,11 +2652,7 @@ msgstr "সঙ্গীত ও এফএম রেডিও"
 
 #. Translators:
 #. Page path: /1-4/customer-guide/
-msgid "\"I have never had a smartphone.\""
-msgstr "\"আমার পূর্বে কোন স্মার্টফোন ছিল না।\""
-
-#. Translators:
-#. Page path: /1-4/customer-guide/
+#: db-strings.txt:7494
 msgid ""
 "<strong>Here’s what you can say:</strong> Firefox OS is the best choice for "
 "first time smartphone users. It’s super easy to use and it adapts to your "
@@ -2629,13 +2671,7 @@ msgstr ""
 #. Page path: /1-4/customer-guide/
 #. Translators:
 #. Page path: /2-0/customer-guide/
-msgid "\"I want a good deal.\""
-msgstr "\"আমি টাকার বিনিময়ে ভাল কিছু চাই।\""
-
-#. Translators:
-#. Page path: /1-4/customer-guide/
-#. Translators:
-#. Page path: /2-0/customer-guide/
+#: db-strings.txt:7539 db-strings.txt.py:10788
 msgid ""
 "<strong>Here’s what you can say:</strong> Firefox OS gives you the most "
 "value for your money. It has everything you expect in a smartphone — camera,"
@@ -2648,11 +2684,7 @@ msgstr ""
 
 #. Translators:
 #. Page path: /1-4/customer-guide/
-msgid "\"It needs to be easy to use.\""
-msgstr "\"এটি ব্যবহারে সহজ হওয়া প্রয়োজন।\""
-
-#. Translators:
-#. Page path: /1-4/customer-guide/
+#: db-strings.txt:7584
 msgid ""
 "<strong>Here’s what you can say:</strong> Firefox OS is the easiest "
 "smartphone to get you started.  Adaptive App Search helps you find the "

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-24 16:57+0000\n"
+"POT-Creation-Date: 2015-02-24 19:18+0000\n"
 "PO-Revision-Date: 2015-02-20 06:09:46\n"
 "Last-Translator: Francesco Lodolo <francesco.lodolo@mozillaitalia.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -591,11 +591,20 @@ msgstr "Alle prime armi"
 
 #. Translators:
 #. Page path: /1-1/customer-guide/
+#. Translators:
+#. Page path: /1-3T/customer-guide/
+#. Translators:
+#. Page path: /1-4/customer-guide/
+#. Translators:
+#. Page path: /2-0/customer-guide/
+#: db-strings.txt:825 db-strings.txt.py:4074 db-strings.txt.py:7485
+#: db-strings.txt:10734
 msgid "\"I have never had a smartphone.\""
 msgstr "“Non ho mai posseduto uno smartphone.”"
 
 #. Translators:
 #. Page path: /1-1/customer-guide/
+#: db-strings.txt:834
 msgid ""
 "<strong>What can you say?</strong> Firefox OS is the best choice for first "
 "time smartphone users. It is super easy to use, and it adapts to your needs "
@@ -625,11 +634,20 @@ msgstr "Alla ricerca di un buon affare"
 
 #. Translators:
 #. Page path: /1-1/customer-guide/
+#. Translators:
+#. Page path: /1-3T/customer-guide/
+#. Translators:
+#. Page path: /1-4/customer-guide/
+#. Translators:
+#. Page path: /2-0/customer-guide/
+#: db-strings.txt:870 db-strings.txt.py:4119 db-strings.txt.py:7530
+#: db-strings.txt:10779
 msgid "\"I want a good deal.\""
 msgstr "“Alla ricerca di un buon affare”"
 
 #. Translators:
 #. Page path: /1-1/customer-guide/
+#: db-strings.txt:879
 msgid ""
 "<strong>What can you say?</strong> Firefox OS gives you the most value for "
 "your money. It has everything you expect in a smartphone — camera, email, "
@@ -655,11 +673,20 @@ msgstr "Indeciso sull’aggiornamento"
 
 #. Translators:
 #. Page path: /1-1/customer-guide/
+#. Translators:
+#. Page path: /1-3T/customer-guide/
+#. Translators:
+#. Page path: /1-4/customer-guide/
+#. Translators:
+#. Page path: /2-0/customer-guide/
+#: db-strings.txt:915 db-strings.txt.py:4164 db-strings.txt.py:7575
+#: db-strings.txt:10824
 msgid "\"It needs to be easy to use.\""
 msgstr "“Deve essere semplice da utilizzare.”"
 
 #. Translators:
 #. Page path: /1-1/customer-guide/
+#: db-strings.txt:924
 msgid ""
 "<strong>What can you say?</strong> Firefox OS is the easiest smartphone to "
 "get you started. Adaptive App Search helps you find the things you need "
@@ -687,11 +714,20 @@ msgstr "Il fan di Firefox"
 
 #. Translators:
 #. Page path: /1-1/customer-guide/
+#. Translators:
+#. Page path: /1-3T/customer-guide/
+#. Translators:
+#. Page path: /1-4/customer-guide/
+#. Translators:
+#. Page path: /2-0/customer-guide/
+#: db-strings.txt:960 db-strings.txt.py:4209 db-strings.txt.py:7620
+#: db-strings.txt:10869
 msgid "\"I love firefox!\""
 msgstr "“Adoro Firefox!”"
 
 #. Translators:
 #. Page path: /1-1/customer-guide/
+#: db-strings.txt:969
 msgid ""
 "<strong>What can you say?</strong> If you know and love Firefox, you’ll love"
 " Firefox OS. Firefox OS smartphones are entirely HTML5-based, bringing the "
@@ -727,8 +763,8 @@ msgstr "Caratteristiche principali"
 #. Page path: /1-4/key-features/
 #. Translators:
 #. Page path: /2-0/key-features/
-#: db-strings.txt:996 db-strings.txt.py:4245 db-strings.txt.py:7656
-#: db-strings.txt:10905
+#: db-strings.txt:996 db-strings.txt.py:4245 db-strings.txt.py:7692
+#: db-strings.txt:10941
 msgid "Features that count"
 msgstr "Caratteristiche che contano"
 
@@ -750,7 +786,7 @@ msgstr ""
 #. Page path: /1-3T/key-features/
 #. Translators:
 #. Page path: /1-4/key-features/
-#: db-strings.txt:1041 db-strings.txt.py:4290 db-strings.txt.py:7701
+#: db-strings.txt:1041 db-strings.txt.py:4290 db-strings.txt.py:7665
 #, fuzzy
 #| msgid "Have It All"
 msgid "Have it all"
@@ -764,8 +800,8 @@ msgstr "Tutto ciò che ti serve"
 #. Page path: /1-4/key-features/
 #. Translators:
 #. Page path: /2-0/key-features/
-#: db-strings.txt:1050 db-strings.txt.py:4299 db-strings.txt.py:7710
-#: db-strings.txt:10959
+#: db-strings.txt:1050 db-strings.txt.py:4299 db-strings.txt.py:7674
+#: db-strings.txt:10923
 msgid ""
 "Discover what makes Firefox OS the most unique and exciting mobile operating"
 " system."
@@ -1049,7 +1085,23 @@ msgstr "Domande più frequenti"
 #. Page path: /1-4/frequently-asked-questions/
 #. Translators:
 #. Page path: /2-0/frequently-asked-questions/
-#: db-strings.txt:1527 db-strings.txt.py:4731 db-strings.txt.py:8223
+#: db-strings.txt:1545 db-strings.txt.py:4785 db-strings.txt.py:8241
+#: db-strings.txt:11490
+msgid ""
+"Still have questions? Not for long! Find all the answers you're looking for "
+"here."
+msgstr ""
+"Hai altri dubbi? Qui puoi trovare tutte le risposte che stai cercando."
+
+#. Translators:
+#. Page path: /1-1/frequently-asked-questions/
+#. Translators:
+#. Page path: /1-3T/frequently-asked-questions/
+#. Translators:
+#. Page path: /1-4/frequently-asked-questions/
+#. Translators:
+#. Page path: /2-0/frequently-asked-questions/
+#: db-strings.txt:1563 db-strings.txt.py:4731 db-strings.txt.py:8187
 #: db-strings.txt:11436
 msgid "You have questions? We have answers!"
 msgstr "Hai delle domande? Noi abbiamo le risposte"
@@ -1062,7 +1114,7 @@ msgstr "Hai delle domande? Noi abbiamo le risposte"
 #. Page path: /1-4/frequently-asked-questions/
 #. Translators:
 #. Page path: /2-0/frequently-asked-questions/
-#: db-strings.txt:1545 db-strings.txt.py:4749 db-strings.txt.py:8241
+#: db-strings.txt:1581 db-strings.txt.py:4749 db-strings.txt.py:8205
 #: db-strings.txt:11454
 msgid ""
 "By now, you probably have questions and so will your customers! Select each "
@@ -1070,22 +1122,6 @@ msgid ""
 msgstr ""
 "A questo punto avrai sicuramente delle domande, così come i tuoi clienti. "
 "Seleziona una domanda qualsiasi per ulteriori informazioni su Firefox OS."
-
-#. Translators:
-#. Page path: /1-1/frequently-asked-questions/
-#. Translators:
-#. Page path: /1-3T/frequently-asked-questions/
-#. Translators:
-#. Page path: /1-4/frequently-asked-questions/
-#. Translators:
-#. Page path: /2-0/frequently-asked-questions/
-#: db-strings.txt:1581 db-strings.txt.py:4785 db-strings.txt.py:8205
-#: db-strings.txt:11490
-msgid ""
-"Still have questions? Not for long! Find all the answers you're looking for "
-"here."
-msgstr ""
-"Hai altri dubbi? Qui puoi trovare tutte le risposte che stai cercando."
 
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
