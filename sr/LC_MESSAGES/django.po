@@ -169,7 +169,7 @@ msgstr ""
 #, fuzzy
 #| msgid "<p>Keep the Web in Your Hands</p>"
 msgid "Keep the Web in Your Hands"
-msgstr "Neka internet ostane u Vašim rukama"
+msgstr "Zadržite veb u svojim rukama"
 
 #. Translators:
 #. Page path: /1-1/introduction/
@@ -221,10 +221,10 @@ msgid ""
 "choice for anyone committed to ensuring that the Web remains a public "
 "resource available to all."
 msgstr ""
-"Potrebe Vaših klijenata se stalno menjaju. Pametni Firefox OS telefoni se "
+"Potrebe Vaših potrošača se stalno menjaju. Firefox OS pametni telefoni se "
 "prilagođavaju potrebama Vaših kupaca da bi oni u potpunosti proživeli svaki "
 "trenutak. Lak za korištenje, savršen je za nove korisnike pametnih telefona"
-"  i pun je funkcija koje potrošač očekuje. Pokrenut od strane Mozille, "
+" i pun je funkcija koje on očekuje. Pokrenut od strane Mozille, "
 "Firefox OS uređaji su pravi izvor za svakoga ko je posvećen održavanju veba "
 "kao javni resurs koji je dostupan svima."
 
@@ -309,9 +309,7 @@ msgstr "Uvod u Firefox OS"
 #, fuzzy
 #| msgid "ou only have a minute, make it count with this simple pitch."
 msgid "When you only have a minute, make it count with this simple pitch."
-msgstr ""
-"Kada imate samo jedan minut, iskoristite ga pomoću ove jednostavne "
-"prezentacije."
+msgstr "Kada imate samo jedan minut, iskoristite ga pomoću ove jednostavne prezentacije."
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
@@ -349,8 +347,7 @@ msgstr "Prilagodljiva pretraga aplikacija"
 msgid ""
 "Show customers how Firefox OS adapts to them, giving them more of what they "
 "need, when they need it."
-msgstr ""
-"Pokažite potrošačima kako se Firefox OS prilagođava njima, pružajući im više"
+msgstr "Pokažite potrošačima kako se Firefox OS prilagođava njima, pružajući im više"
 " onoga što žele, kada im je potrebno."
 
 #. Translators:
@@ -416,7 +413,7 @@ msgid ""
 "Firefox OS lets customers take control of their online lives and get the "
 "best of the Web no matter where they go."
 msgstr ""
-"Firefox OS omogućuje korisnicima da preuzmu kontrolu nad svojim životom i "
+"Firefox OS omogućuje korisnicima da preuzmu kontrolu nad svojim životom na internetu i "
 "izvuku najbolje iz veba bez obzira gde se uputili."
 
 #. Translators:
@@ -449,8 +446,7 @@ msgstr "Marketplace"
 #, fuzzy
 #| msgid "arketplace has the cool games and apps your customers want."
 msgid "Firefox Marketplace has the cool games and apps your customers want."
-msgstr ""
-"Firefox Marketplace ima zabavne igrice i aplikacije koje Vaši kupci žele."
+msgstr"Firefox Marketplace ima zabavne igrice i aplikacije koje Vaši kupci žele."
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
@@ -470,7 +466,7 @@ msgid ""
 "apps, including built-in style filters, video and more."
 msgstr ""
 "Fotografišite, uređujte i delite. Pohvalite se našom kamerom i galerijom, sa"
-" ugrađenim filterima za stil, video snimcima itd."
+" ugrađenim filterima za stil, video snimcima i još mnogo toga."
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
@@ -507,7 +503,7 @@ msgstr ""
 msgid "Customer Guide"
 msgstr "Vodič za kupce"
 
-#. Translators:
+#. Translators: Aleksandra Uzelac
 #. Page path: /1-1/customer-guide/
 #. Translators:
 #. Page path: /1-3T/customer-guide/
@@ -520,7 +516,7 @@ msgstr "Vodič za kupce"
 msgid ""
 "See how Firefox OS fits into your customers' lives, no matter who they are "
 "or where they're from."
-msgstr ""
+msgstr "Pogledajte kako se Firefox OS prilagođava životima Vaših kupaca, bez obzira ko su i odakle su."
 
 #. Translators:
 #. Page path: /1-1/customer-guide/
@@ -533,7 +529,7 @@ msgstr ""
 #: db-strings.txt:690 db-strings.txt.py:3840 db-strings.txt.py:7161
 #: db-strings.txt:10356
 msgid "Who is your ideal Firefox customer?"
-msgstr "Ko je VVaš idealan Firefox kupac?"
+msgstr "Ko je Vaš idealan Firefox kupac?"
 
 #. Translators:
 #. Page path: /1-1/customer-guide/
@@ -549,7 +545,7 @@ msgid ""
 " below, and tap the bar to learn how to best respond to each of their unique"
 " needs."
 msgstr ""
-"Razumevanje potreba VVaših kupaca i poznavanje načina na koji treba da "
+"Razumevanje potreba Vaših kupaca i poznavanje načina na koji treba da "
 "odgovorite na licu mesta ključno je za svaku priliku za prodaju. Pogledajte "
 "segmente o uobičajenim kupcima ispod i prevucite traku da biste saznali kako"
 " da na najbolji način odgovorite na svaku od njihovih jedinstvenih potreba."
@@ -569,7 +565,7 @@ msgstr ""
 msgid "The Smartphone Rookie"
 msgstr "Novi korisnik pametnih telefona"
 
-#. Translators:
+#. Translators: Aleksandra Uzelac
 #. Page path: /1-1/customer-guide/
 #. Translators:
 #. Page path: /1-3T/customer-guide/
@@ -580,9 +576,9 @@ msgstr "Novi korisnik pametnih telefona"
 #: db-strings.txt:744 db-strings.txt.py:3930 db-strings.txt.py:7251
 #: db-strings.txt:10446
 msgid "\"I have never had a smartphone.\""
-msgstr ""
+msgstr "\"Nikad nisam imao/imala pametan telefon.\""
 
-#. Translators:
+#. Translators: Aleksandra Uzelac
 #. Page path: /1-1/customer-guide/
 #: db-strings.txt:753
 #, fuzzy
@@ -598,10 +594,11 @@ msgid ""
 " searching. Plus, it is packed with all the features you’d expect, from "
 "camera, to email, apps, music, maps and more."
 msgstr ""
-"Evo šta možete da kažete. Veoma je lak za korišćenje i prilagođava se VVašim"
-" potrebama bolje od bilo kog drugog telefona, pa tako dobijate više uz manje"
-" vremena utrošenog na pretragu. Pored toga, sadrži sve funkcije koje "
-"očekujete, od kamere do e-pošte, aplikacija, muzike, mapa itd."
+"<strong>Kako da odgovorite?</strong> Firefox OS je najbolji izbor za nove korisnike "
+"pametnih telefona. Jako je lak za korišćenje, i prilagođava se Vašim potrebama bolje "
+"od bilo kod drugog telefona, tako da dobijete više od onoga što Vam treba za manje vremena"
+" utrošenog na traženje. Plus, sadrži sve funkcije koje se očekuju, od kamere, e-pošte, aplikacija,"
+" muzike, mapa i još mnogo toga."
 
 #. Translators:
 #. Page path: /1-1/customer-guide/
@@ -629,9 +626,9 @@ msgstr "Kupac koji traži vrednost"
 #: db-strings.txt:789 db-strings.txt.py:3975 db-strings.txt.py:7296
 #: db-strings.txt:10491
 msgid "\"I want a good deal.\""
-msgstr ""
+msgstr "\"Želim dobaru ponudu.\""
 
-#. Translators:
+#. Translators: Aleksandra Uzelac
 #. Page path: /1-1/customer-guide/
 #: db-strings.txt:798
 #, fuzzy
@@ -643,9 +640,9 @@ msgid ""
 "your money. It has everything you expect in a smartphone — camera, email, "
 "apps, music, maps and more — at the most competitive prices."
 msgstr ""
-"Firefox OS Vam daje najveću vrednost za VVaš novac. Ima sve što očekujete od"
-" pametnog telefona - kameru, el. poštu, aplikacije, muziku, mape itd. - i "
-"najkonkurentnije cene."
+"<strong>Kako da odgovorite?</strong> Firefox OS pruža najbolji odnos vrednosti i novca. "
+"Poseduje sve što se očekuje od pametnog telefona - kameru, e-poštu, aplikacije, muziku, "
+"mape, i još mnogo toga - sve to po najkonkurentnijim cenama."
 
 #. Translators:
 #. Page path: /1-1/customer-guide/
@@ -673,9 +670,9 @@ msgstr "Nesiguran u želji za promenom"
 #: db-strings.txt:834 db-strings.txt.py:4020 db-strings.txt.py:7341
 #: db-strings.txt:10536
 msgid "\"It needs to be easy to use.\""
-msgstr ""
+msgstr "\"Mora biti lak za korištenje.\""
 
-#. Translators:
+#. Translators: Aleksandra Uzelac
 #. Page path: /1-1/customer-guide/
 #: db-strings.txt:843
 #, fuzzy
@@ -689,10 +686,10 @@ msgid ""
 "simply — and instantly. The user interface is so intuitive, you will be able"
 " to quickly discover and download your favorite apps so you’re ready to go."
 msgstr ""
-"Firefox OS je najjednostavniji telefon za početnike. Prilagodljiva pretraga "
-"aplikacija pomaže Vam da pronađete ono što Vam je potrebno, jednostavno - i "
-"odmah. Korisnički interfejs je vrlo intuitivan tako da ćete moći brzo da "
-"otkrijete i preuzmete svoje omiljene aplikacije, i spremni ste."
+"<strong>Kako da odgovorite?</strong> Firefox OS je najlakši način za ulazak u svet "
+"pametnih telefona. Prilagodljiva pretraga aplikacija Vam pomaže da pronađete stvari "
+"koje su Vam potrebne - lako i u trenu. Korisnički interfejs je jako intuitivan, bićete u "
+"mogućnosti da brzo pronalazite i preuzimate omiljene aplikacije."
 
 #. Translators:
 #. Page path: /1-1/customer-guide/
@@ -709,7 +706,7 @@ msgstr ""
 msgid "The Firefox Fan"
 msgstr "Ljubitelj Firefox-a"
 
-#. Translators:
+#. Translators: Aleksandra Uzelac
 #. Page path: /1-1/customer-guide/
 #. Translators:
 #. Page path: /1-3T/customer-guide/
@@ -720,9 +717,9 @@ msgstr "Ljubitelj Firefox-a"
 #: db-strings.txt:879 db-strings.txt.py:4065 db-strings.txt.py:7386
 #: db-strings.txt:10581
 msgid "\"I love firefox!\""
-msgstr ""
+msgstr "\"Volim Firefox!\""
 
-#. Translators:
+#. Translators: Aleksandra Uzelac
 #. Page path: /1-1/customer-guide/
 #: db-strings.txt:888
 #, fuzzy
@@ -738,11 +735,11 @@ msgid ""
 "dedicated to keeping the Web accessible to all. When you choose Firefox OS, "
 "you have the full power of the Web in your hands."
 msgstr ""
-"Ako poznajete i volite Firefox volećete i Firefox OS. Pametni telefoni "
-"Firefox OS su u potpunosti zasnovani na HTML5, prenoseći najbolje sa "
-"Interneta u svojVaš telefon. Osim toga, Firefox OS je osmislila zajednica "
-"čiji je cilj da IInternet ostane dostupan svima. Kada odaberete Firefox OS, "
-"imaćete svu moć Interneta u svojim rukama."
+"<strong>Kako da odgovorite?</strong> Ako znate i volite Firefox, volećete i"
+" Firefox OS. Firefox OS pametni telefoni su u potpunosti bazirani na HTML5 standardu"
+" donoseći najbolje iz veba na Vaš telefon. Plus, Firefox OS je kreiran od strane "
+"zajednice posvećene odražavanju dostupnosti interneta svima. Kada izaberete "
+"Firefox OS, imate punu moć interneta u svojim rukama."
 
 #. Translators:
 #. Page path: /1-1/key-features/
@@ -782,7 +779,7 @@ msgid ""
 "smartphone. It fits their lives perfectly so they can keep pace with the "
 "world around them."
 msgstr ""
-"Firefox OS sadrži funkcije koje VVaši kupci očekuju od pametnog telefona. On"
+"Firefox OS sadrži funkcije koje Vaši kupci očekuju od pametnog telefona. On"
 " se savršeno uklapa u njihove živote pa mogu da drže korak se svojim "
 "okruženjem."
 
@@ -798,7 +795,7 @@ msgstr ""
 msgid "Have it all"
 msgstr "Iskoristite sve mogućnosti"
 
-#. Translators:
+#. Translators: Aleksandra Uzelac
 #. Page path: /1-1/key-features/
 #. Translators:
 #. Page path: /1-3T/key-features/
@@ -811,7 +808,7 @@ msgstr "Iskoristite sve mogućnosti"
 msgid ""
 "Discover what makes Firefox OS the most unique and exciting mobile operating"
 " system."
-msgstr ""
+msgstr "Saznajte šta čini Firefox OS jedinstvenim i uzbudljivim operativnim sistemom."
 
 #. Translators:
 #. Page path: /1-1/key-features/
@@ -823,9 +820,9 @@ msgid ""
 " - making it much easier for you to find what you were really looking for."
 msgstr ""
 "Novi način da dobijete sve što Vam je potrebno, u pravom trenutku, bez "
-"glavobolje zbog preuzimanja aplikacija Pretražujte bilo šta i Firefox OS će "
-"se prilagoditi VVašem zahtevu prikazujući fotografije, video snimke, muziku,"
-" vesti, mape itd. - što će vam olakšati pronalaženje stvari koje tražite."
+"mučenja u preuzimanju aplikacija. Pretražujte bilo šta i Firefox OS će "
+"se prilagoditi Vašem zahtevu prikazujući fotografije, video snimke, muziku,"
+" vesti, mape itd. - što će Vam olakšati pronalaženje stvari koje tražite."
 
 #. Translators:
 #. Page path: /1-1/key-features/
@@ -853,7 +850,7 @@ msgstr ""
 #: db-strings.txt:2823 db-strings.txt.py:2859 db-strings.txt.py:3138
 #: db-strings.txt:4263 db-strings.txt.py:7584 db-strings.txt.py:10734
 msgid "Firefox browser"
-msgstr "Firefox pregledač"
+msgstr "Firefox veb pregledač"
 
 #. Translators:
 #. Page path: /1-1/key-features/
@@ -863,8 +860,8 @@ msgid ""
 "enter websites, perform searches and access your browsing history. Plus, "
 "tabs let you multitask by browsing multiple pages simultaneously."
 msgstr ""
-"Brz, pametan i bezbedan način da dobijete najbolje od IInterneta. Koristite "
-"URL traku kako bi uneli adrese veb sajtova, napravili pretrage i pristupili "
+"Brz, pametan i bezbedan način da dobijete najbolje od interneta. Koristite "
+"adresnu traku kako bi uneli adrese veb sajtova, pretraživali i pristupili "
 "Vašem istorijatu pregledanja. Pored toga, jezičci omogućuju da radite više "
 "stvari odjednom istovremenim pregledanjem više stranica."
 
@@ -893,7 +890,7 @@ msgid ""
 "place."
 msgstr ""
 "Duboko integrisan sa Vašim omiljenim društvenim mrežama. Lako možete da "
-"uvezete Facebook kontakte u svoj telefon da bi cela VVaša zajednica bila na "
+"uvezete Facebook kontakte u svoj telefon da bi cela Vaša zajednica bila na "
 "jednom mestu."
 
 #. Translators:
@@ -933,8 +930,8 @@ msgid ""
 "Stay connected, with easy access to your friends and colleagues from "
 "wherever you are."
 msgstr ""
-"Ostanite povezani kroz jednostavan pristup svojom prijateljima i kolegama ma"
-" gde se nalazili."
+"Ostanite povezani kroz jednostavan pristup svojom prijateljima i kolegama gde"
+" god se nalazili."
 
 #. Translators:
 #. Page path: /1-1/key-features/
@@ -969,8 +966,7 @@ msgid ""
 " all your subjects smiling."
 msgstr ""
 "Sa ugrađenim filterima stila radi zabave, kreativnim snimcima i mnogo načina"
-" za deljenje slika, potpuno funkcionalna kamera i galerija fotografija "
-"nasmejaće sve VVaše prijatelje."
+" za deljenje slika, kamera i galerija fotografija nasmejaće sve Vaše prijatelje."
 
 #. Translators:
 #. Page path: /1-1/key-features/
@@ -1003,7 +999,7 @@ msgstr ""
 "Sav zvuk koji želite dok ste u pokretu i sve to u jednom uređaju. Samo "
 "priključite slušalice i počnite da slušate."
 
-#. Translators:
+#. Translators: Aleksandra Uzelac
 #. Page path: /1-1/key-features/
 #. Translators:
 #. Page path: /1-4/key-features/
@@ -1011,7 +1007,7 @@ msgstr ""
 #, fuzzy
 #| msgid "HERE Maps"
 msgid "Maps"
-msgstr "HERE mape"
+msgstr "Mape"
 
 #. Translators:
 #. Page path: /1-1/key-features/
@@ -1022,9 +1018,9 @@ msgid ""
 "Maps can pinpoint your location and even give you directions (car, walking "
 "or public transportation) to get you to your destination."
 msgstr ""
-"Preuzmite satelitske preglede javnog prevoza i saobraćaja uživo, tražite ono"
+"Preuzmite satelitske snimke, snimke javnog saobraćaja i saobraćaja uživo, tražite ono"
 " što Vas zanima, pa čak i sačuvajte svoju mapu na uređaju za brži daljinski "
-"pristup. Mape mogu da pokažu VVašu lokaciju pa čak i da Vam daju uputstva "
+"pristup. Mape mogu da pokažu Vašu lokaciju pa čak i da Vam daju uputstva "
 "(dok ste u kolima, ako pešačite ili se vozite javnim prevozom) do željenog "
 "odredišta."
 
@@ -1053,7 +1049,7 @@ msgid ""
 "music collection by album or artist, rate songs and create playlists for "
 "your favorites."
 msgstr ""
-"Puštajte sve sa telefona ili preko IInterneta koristeći YouTube. Pretražujte"
+"Puštajte sve sa telefona ili preko interneta koristeći Youtube. Pretražujte"
 " i puštajte svoju muzičku kolekciju po albumima ili izvođačima, ocenjujte "
 "pesme i kreirajte liste omiljenih."
 
@@ -1073,9 +1069,8 @@ msgid ""
 " set up multiple email accounts, with support for the most common Exchange, "
 "SMTP or IMAP email providers."
 msgstr ""
-"Ostanite povezani sa prijateljima i kolegama ma gde da ste. Lako je otvoriti"
-" više naloga el. pošte uz podršku najčešćih Exchange, SMTP ili IMAP "
-"provajdera."
+"Ostanite povezani sa prijateljima i kolegama gde god se nalazili. Lako je otvoriti"
+" više naloga e-pošte uz podršku najčešćih Exchange, SMTP ili IMAP provajdera."
 
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
@@ -1088,9 +1083,9 @@ msgstr ""
 #: db-strings.txt:1428 db-strings.txt.py:4569 db-strings.txt.py:7935
 #: db-strings.txt:11130
 msgid "Frequently Asked Questions"
-msgstr "Česta pitanja"
+msgstr "Često postavljana pitanja"
 
-#. Translators:
+#. Translators: Aleksandra Uzelac
 #. Page path: /1-1/frequently-asked-questions/
 #. Translators:
 #. Page path: /1-3T/frequently-asked-questions/
@@ -1103,7 +1098,7 @@ msgstr "Česta pitanja"
 msgid ""
 "Still have questions? Not for long! Find all the answers you're looking for "
 "here."
-msgstr ""
+msgstr "Još uvek imate pitanja? Još ne dugo! Ovde ćete pronaći sve odgovore koje tražite."
 
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
@@ -1162,10 +1157,10 @@ msgid ""
 " easy access later."
 msgstr ""
 "Prilagodljiva pretraga aplikacija je novi način za pronalaženje sadržaja na "
-"IInternetu i uključivanje u iskustvo slično aplikacijama, bez glavobolje "
-"zbog njihovog preuzimanja da biste našli ono što Vam je potrebno. Kad god "
-"pretražujete, VVaš telefon se prilagođava rezultatu pretrage i olakšava "
-"dodavanje tih rezultata na Vaš početniVaš radi lakšeg kasnijeg pristupa."
+"internetu i uključivanje u iskustvo slično aplikacijama, bez njihovog mrkotrpnog "
+"preuzimanja da biste našli ono što Vam je potrebno. Kad god "
+"pretražujete, Vaš telefon se prilagođava rezultatu pretrage i olakšava "
+"dodavanje tih rezultata na Vaš početni ekran radi lakšeg kasnijeg pristupa."
 
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
@@ -1193,7 +1188,7 @@ msgid ""
 "SoundCloud, SporTV, Time Out and Twitter."
 msgstr ""
 "Programeri aplikacija širom sveta rade na Firefox OS-u i na desetine hiljada"
-" besplatnih i plaćenih aplikacija biće dostupno na promociji. Ova rastuća "
+" besplatnih i plaćenih aplikacija biće dostupno tokom lansiranja. Ova rastuća "
 "lista obuhvata vodeće programere aplikacija kao što su Accuweather, Airbnb, "
 "Box, Cut the Rope, EA Games, Facebook, Nokia HERE, MTV Brasil, Pulse News, "
 "SoundCloud, SporTV, Time Out i Twitter."
@@ -1222,10 +1217,10 @@ msgid ""
 " and system from malicious applications and content."
 msgstr ""
 "Firefox OS ima robustan bezbednosni model koji je osnažen tokom više od "
-"jedne decenije pružanja podrške Open Web-u. Projektovan je da zaštiti "
+"jedne decenije pružanja podrške otvorenom vebu. Projektovan je da zaštiti "
 "korisnika i sistem od zlonamernih aplikacija i sadržaja."
 
-#. Translators:
+#. Translators: Aleksandra Uzelac
 #. Page path: /1-1/frequently-asked-questions/
 #. Translators:
 #. Page path: /1-3T/frequently-asked-questions/
@@ -1238,9 +1233,7 @@ msgstr ""
 #, fuzzy
 #| msgid "<p>Do Android apps work on this phone?</p>"
 msgid "Do Android apps work on this phone?"
-msgstr ""
-"Projektovan je da zaštiti korisnika i sistem od zlonamernih aplikacija i "
-"sadržaja."
+msgstr "Da li Android aplikacije rade na ovom telefonu?"
 
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
@@ -1290,10 +1283,10 @@ msgid ""
 "internet connection to function unless the app must send or receive data to "
 "another system through the internet to continue working."
 msgstr ""
-"Firefox OS je izgrađen na Internet tehnologijama ali ima i mogućnosti van "
+"Firefox OS je izgrađen na internet tehnologijama ali ima i mogućnosti van "
 "mreže za sve osnovne funkcije telefona. To znači da aplikacije ne zahtevaju "
-"aktivnu vezus sa Internetom da bi radile, osim u slučaju da moraju da šalju "
-"ili primaju podatke sa drugog sistema preko IInterneta da bi nastavile sa "
+"aktivnu vezu sa internetom da bi radile, osim u slučaju da moraju da šalju "
+"ili primaju podatke sa drugog sistema preko interneta da bi nastavile sa "
 "radom."
 
 #. Translators:
@@ -1362,13 +1355,13 @@ msgid ""
 "delivered by a superior mobile experience and tuned to bring you what you "
 "want.</li> </ul>"
 msgstr ""
-"Firefox OS daje dve mogućnosti za preuzimanje aplikacija:<ul><li>Firefox "
-"Marketplace - Naš pouzdani izvor sjajnih aplikacija kao što je Twitter i "
-"odličnog lokalnog sadržaja od najboljih vebInternet programera u "
-"regionu.</li><li>Prilagodljiva pretraga aplikacija — Otkucajte samo jednu "
-"reč kao što je “suši” da biste otkrili povezane mobilne aplikacije u svomVaš"
+"Firefox OS daje dve mogućnosti za preuzimanje aplikacija: <ul><li>Firefox "
+"Marketplace - Naš pouzdan izvor sjajnih aplikacija kao što je Twitter i "
+"odličnog lokalnog sadržaja od najboljih veb programera u "
+"regionu.</li> <li>Prilagodljiva pretraga aplikacija — Otkucajte samo jednu "
+"reč kao što je “suši” da biste otkrili povezane mobilne aplikacije u svom"
 " regionu, koje obezbeđuje vrhunsko mobilno iskustvo i koje su podešene da "
-"vam daju ono što želite.</li><ul>"
+"Vam daju ono što želite.</li></ul>"
 
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
@@ -1378,17 +1371,15 @@ msgstr ""
 msgid "Which email providers are supported?"
 msgstr "Koji provajderi e-pošte su podržani?"
 
-#. Translators:
+#. Translators: Aleksandra Uzelac
 #. Page path: /1-1/frequently-asked-questions/
 #: db-strings.txt:1644
 msgid ""
 "Hotmail and Yahoo mail are currently supported with more on the way in "
 "future releases."
-msgstr ""
-"Hotmail and Yahoo mail are currently supported with more on the way in "
-"future releases."
+msgstr "Hotmail i Yahoo e-pošta je trenutno podržana. Očekuju se i drugi u budućim izdanjima."
 
-#. Translators:
+#. Translators: Aleksandra Uzelac
 #. Page path: /1-1/frequently-asked-questions/
 #. Translators:
 #. Page path: /1-3T/frequently-asked-questions/
@@ -1401,7 +1392,7 @@ msgstr ""
 #, fuzzy
 #| msgid "<p>Where should I go if I have more questions?</p>"
 msgid "Where should I go if I have more questions?"
-msgstr "Where should I go if I have more questions?"
+msgstr "Gde da odem ako imam još pitanja?"
 
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
@@ -1447,7 +1438,7 @@ msgid ""
 "Our mission is to promote openness, innovation and opportunity on the Web."
 msgstr ""
 "Naša misija je da promovišemo otvorenost, inovacije i mogućnosti na "
-"Internetu."
+"internetu."
 
 #. Translators:
 #. Page path: /1-1/about/
@@ -1469,11 +1460,11 @@ msgid ""
 "controlled by just a few large entities. Yeah, we’re a little different than"
 " the other guys. Together, we can build a brighter future for the Web."
 msgstr ""
-"Iza svakog Firefox OS pametnog telefona stoji Mozilla: Globalna zajednica "
-"koju čini na hiljade ljudi čiji je cilj da IInternet ostane dostupan svima. "
-"To je zato što verujemo da svako od nas ima pravo na Internet koji ne "
+"Iza svakog Firefox OS pametnog telefona stoji Mozilla: globalna zajednica "
+"koju čini na hiljade ljudi čiji je cilj da internet ostane dostupan svima. "
+"To je zato što verujemo da svako od nas ima pravo na internet koji ne "
 "kontroliše samo nekolicina velikih firmi. Da, mi smo malo drugačiji od "
-"ostalih. Zajedno, možemo da izgradimo svetliju budućnost Interneta."
+"ostalih. Zajedno možemo da izgradimo svetliju budućnost interneta."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1510,11 +1501,11 @@ msgid ""
 "knowledge to work and answer these questions to prove you have what it "
 "takes."
 msgstr ""
-"Mislite da ste skoro spremni da počnete sa prodajom Firefox OS-a svojim "
+"Mislite da ste spremni da počnete sa prodajom Firefox OS-a svojim "
 "kupcima? Primenite svoje znanje u praksi i odgovorite na ova pitanja da "
 "biste dokazali da imate ono što je potrebno."
 
-#. Translators:
+#. Translators: Aleksandra Uzelac
 #. Page path: /1-1/take-the-challenge/
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -1527,7 +1518,7 @@ msgstr ""
 msgid ""
 "Put your new knowledge to the test with this series of fun, interactive "
 "quizzes."
-msgstr ""
+msgstr "Testirajte svoje znanje sa nizom zabavnih, interaktivnih kvizova."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1555,11 +1546,10 @@ msgid ""
 " that the power of the Web remains in the hands of users everywhere!"
 msgstr ""
 "Ako ste prošli ova pitanja i sav sadržaj, imate osnovu da povežete potrebe "
-"Firefox OS telefona sa svojim kupcima. Lak za korišćenje, pametan telefon "
-"Firefox OS savršen je za nove korisnike pametnih telefona i sadrži sve "
+"Firefox OS telefona sa svojim kupcima. Lak za korišćenje, "
+"Firefox OS pametan telefon je savršen za nove korisnike pametnih telefona i sadrži sve "
 "funkcije koje kupci žele i koje su im potrebne. A razvila ga je Mozilla, što"
-" Firefox OS čini pravim izborom za sve koji žele da obezbede da Internet "
-"ostane u Vašim rukama!"
+" Firefox OS čini pravim izborom za sve koji žele da obezbede da internet ostane u rukama korisnika širom sveta!"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1575,7 +1565,7 @@ msgstr ""
 "Kako pristupate funkciji Prilagodljive pretrage aplikacija na Firefox OS "
 "uređaju?"
 
-#. Translators:
+#. Translators: Aleksandra Uzelac
 #. Page path: /1-1/take-the-challenge/
 #: db-strings.txt:1878
 #, fuzzy
@@ -1583,9 +1573,9 @@ msgstr ""
 msgid ""
 "That’s right! You simply swipe to the left to access the Adaptive App Search"
 " feature."
-msgstr "Šta je prilagodljiva pretraga aplikacija?"
+msgstr "Tako je! Samo povučete prstom u levo i pristupite Prilagodljivoj pretrazi aplikacija."
 
-#. Translators:
+#. Translators: Aleksandra Uzelac
 #. Page path: /1-1/take-the-challenge/
 #: db-strings.txt:1887 db-strings.txt.py:1896
 #, fuzzy
@@ -1593,7 +1583,7 @@ msgstr "Šta je prilagodljiva pretraga aplikacija?"
 msgid ""
 "That’s not it. You simply swipe to the left to access the Adaptive App "
 "Search feature."
-msgstr "Šta je prilagodljiva pretraga aplikacija?"
+msgstr "To nije to. Samo povučete prstom u levo i pristupite Prilagodljivoj pretrazi aplikacija."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1626,8 +1616,7 @@ msgstr ""
 msgid ""
 "That’s right! All of these apps come pre-loaded on every Firefox OS phone."
 msgstr ""
-"Koja od sledećih aplikacija je već instalirana u svaki Firefox OS telefon? "
-"Odaberite sve na koje se ovo odnosi."
+"Tako je! Sve ove aplikacije dolaze već instalirane na svakom Firefox OS telefonu."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1643,9 +1632,7 @@ msgstr ""
 #| msgid ""
 #| "llowing apps is pre-loaded on every Firefox OS phone? ect all t ly."
 msgid "Actually, all of these apps come pre-loaded on every Firefox OS phone."
-msgstr ""
-"Koja od sledećih aplikacija je već instalirana u svaki Firefox OS telefon? "
-"Odaberite sve na koje se ovo odnosi."
+msgstr "Zapravo, sve ove aplikacije dolaze već instalirane na svakom Firefox OS telefonu."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1657,8 +1644,7 @@ msgid ""
 "Actually, they're are more. All of these apps come pre-loaded on every "
 "Firefox OS phone."
 msgstr ""
-"Koja od sledećih aplikacija je već instalirana u svaki Firefox OS telefon? "
-"Odaberite sve na koje se ovo odnosi."
+"Zapravo, ima ih više. Sve ove aplikacije dolaze već instalirane na svakom Firefox OS telefonu."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
