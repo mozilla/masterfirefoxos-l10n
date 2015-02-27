@@ -8,15 +8,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-27 16:57+0000\n"
-"PO-Revision-Date: 2015-02-20 08:06:09\n"
-"Last-Translator: Michael Köhler <michael.koehler1@gmx.de>\n"
+"PO-Revision-Date: 2015-02-27 19:28+0000\n"
+"Last-Translator: Michael <michael.koehler1@gmx.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pontoon\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1425065321.0\n"
 
 #. Translators:
 #. Page path: /1-1/
@@ -56,7 +57,6 @@ msgstr "Willkommen!"
 #. Page path: /2-0/
 #: db-strings.txt:24 db-strings.txt.py:2364 db-strings.txt.py:4704
 #: db-strings.txt:7053
-#, fuzzy
 #| msgid ""
 #| "Welcome to the Firefox OS global partner and community training hub. Select "
 #| "any topic to get started."
@@ -65,9 +65,10 @@ msgid ""
 "effectively communicate the basics of Firefox OS. Select any topic top get "
 "started."
 msgstr ""
-"Willkommen zum Ausbildungszentrum bezüglich Firefox OS für unsere Partner "
-"und unsere Gemeinschaft auf der ganzen Welt. Wählen Sie zum Start ein "
-"beliebiges Thema aus."
+"In diesem Ausbildungszentrum bezüglich Firefox OS für unsere Partner und "
+"unsere Gemeinschaft auf der ganzen Welt finden Sie alles, um effektiv die "
+"Grundlagen von Firefox OS zu vermitteln. Wählen Sie zum Start ein beliebiges "
+"Thema aus."
 
 #. Translators:
 #. Page path: /1-1/introduction/
@@ -1277,7 +1278,6 @@ msgstr "Wo finde ich Antworten auf weitere Fragen?"
 #. Translators:
 #. Page path: /2-0/frequently-asked-questions/
 #: db-strings.txt:852 db-strings.txt.py:3138 db-strings.txt.py:7827
-#, fuzzy
 #| msgid ""
 #| "Visit <a href=\"https://support.mozilla.org/en-US/kb/firefox-os-user-"
 #| "guide\">https://support.mozilla.org/en-US/kb/firefox-os-user-guide</a> for "
@@ -1288,8 +1288,8 @@ msgid ""
 "information."
 msgstr ""
 "Weitere Informationen finden Sie unter <a "
-"href=\"https://support.mozilla.org/de/kb/firefox-os-user-"
-"guide\">https://support.mozilla.org/de/kb/firefox-os-user-guide</a>."
+"href=\"https://support.mozilla.org/de/products/firefox-"
+"os\">https://support.mozilla.org/de/products/firefox-os</a>."
 
 #. Translators:
 #. Page path: /1-1/about/
