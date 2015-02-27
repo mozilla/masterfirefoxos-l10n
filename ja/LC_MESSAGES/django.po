@@ -2,7 +2,7 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
@@ -618,8 +618,8 @@ msgid ""
 "os\">https://support.mozilla.org/en-US/products/firefox-os</a> for more "
 "information."
 msgstr ""
-"<a href=\"https://support.mozilla.org/kb/firefox-os-user-"
-"guide\">https://support.mozilla.org/kb/firefox-os-user-guide</a>へアクセスしてください。"
+"<a href=\"https://support.mozilla.org/ja/products/firefox-os"
+"\">https://support.mozilla.org/ja/products/firefox-os</a>へアクセスしてください。"
 
 #. Translators:
 #. Page path: /1-1/about/
@@ -2332,6 +2332,7 @@ msgstr "Firefox OS は 10 年以上にわたってオープン Web を支えて�
 #. Translators:
 #. Page path: /2-0/which-version/
 #: db-strings.txt:9240
+#, fuzzy
 msgid ""
 "<ol> <li>Open the Settings app on your device.</li> <li>Scroll down and "
 "select <strong>Device information</strong>.</li> <li>On the Device "
