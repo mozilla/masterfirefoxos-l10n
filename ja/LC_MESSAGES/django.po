@@ -2,12 +2,12 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-26 23:39+0000\n"
+"POT-Creation-Date: 2015-02-27 16:57+0000\n"
 "PO-Revision-Date: 2015-02-20 11:48:21\n"
 "Last-Translator: <nshimizu@mozilla-japan.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -56,9 +56,6 @@ msgstr "ようこそ"
 #. Page path: /2-0/
 #: db-strings.txt:24 db-strings.txt.py:2364 db-strings.txt.py:4704
 #: db-strings.txt:7053
-#| msgid ""
-#| "Welcome to the Firefox OS global partner and community training hub. Select "
-#| "any topic to get started."
 msgid ""
 "This global partner and community training hub has everything you need to "
 "effectively communicate the basics of Firefox OS. Select any topic top get "
@@ -256,7 +253,6 @@ msgstr "スマートフォン初心者"
 #. Page path: /2-0/customer-guide/
 #: db-strings.txt:348 db-strings.txt.py:2634 db-strings.txt.py:5028
 #: db-strings.txt:7305
-#| msgid "I’ve never used a smartphone before."
 msgid "\"I have never had a smartphone.\""
 msgstr "「スマートフォンなんて使ったことないわ」"
 
@@ -609,17 +605,13 @@ msgstr "Firefox OS に関する質問をするには？"
 #. Translators:
 #. Page path: /2-0/frequently-asked-questions/
 #: db-strings.txt:852 db-strings.txt.py:3138 db-strings.txt.py:7827
-#| msgid ""
-#| "Visit <a href=\"https://support.mozilla.org/en-US/kb/firefox-os-user-"
-#| "guide\">https://support.mozilla.org/en-US/kb/firefox-os-user-guide</a> for "
-#| "more information."
 msgid ""
 "Visit <a href=\"https://support.mozilla.org/en-US/products/firefox-"
 "os\">https://support.mozilla.org/en-US/products/firefox-os</a> for more "
 "information."
 msgstr ""
-"<a href=\"https://support.mozilla.org/ja/products/firefox-os"
-"\">https://support.mozilla.org/ja/products/firefox-os</a>へアクセスしてください。"
+"<a href=\"https://support.mozilla.org/ja/products/firefox-"
+"os\">https://support.mozilla.org/ja/products/firefox-os</a>へアクセスしてください。"
 
 #. Translators:
 #. Page path: /1-1/about/
@@ -648,7 +640,11 @@ msgid ""
 "believe each and every one of us has the right to a Web that isn’t "
 "controlled by just a few large entities. Yeah, we’re a little different than"
 " the other guys. Together, we can build a brighter future for the Web."
-msgstr "Firefox OS のスマートフォンを支えているのは、グローバルコミュニティである Mozilla です。何千人もの人々が、Web の力をすべての人々へ届けるために活動しています。Mozilla がこのような活動を行っている理由は、Webは少数の大企業によってコントロールされるべきではないと考えているからです。そう Mozilla は他の組織とは異なります。Web のために輝かしい未来を一緒に作っていきましょう。"
+msgstr ""
+"Firefox OS のスマートフォンを支えているのは、グローバルコミュニティである Mozilla です。何千人もの人々が、Web "
+"の力をすべての人々へ届けるために活動しています。Mozilla "
+"がこのような活動を行っている理由は、Webは少数の大企業によってコントロールされるべきではないと考えているからです。そう Mozilla "
+"は他の組織とは異なります。Web のために輝かしい未来を一緒に作っていきましょう。"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -869,7 +865,8 @@ msgid ""
 "A customer says to you, “I’m looking for an easy way to stay in touch with "
 "my friends, but I don’t want to spend a lot of money.” Which of the "
 "following statements would be a good response? Select all that apply."
-msgstr "「友達と簡単にやりとりできるスマホが欲しいのだが、そんなにお金をかけたくない」と言っている人に対する説名として、適切なものを以下から選んでください。"
+msgstr ""
+"「友達と簡単にやりとりできるスマホが欲しいのだが、そんなにお金をかけたくない」と言っている人に対する説名として、適切なものを以下から選んでください。"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -883,7 +880,9 @@ msgid ""
 "didn’t know they had a smartphone OS. Why?” Which of the following "
 "statements would be the most appropriate response to this particular "
 "customer?"
-msgstr "「Firefox を家でも使ってます。大好きです。でもどうして Mozilla がスマホ向けの OS を作っているのかがわかりません。」という人に対する回答として、適切なものを以下から選んでください。"
+msgstr ""
+"「Firefox を家でも使ってます。大好きです。でもどうして Mozilla がスマホ向けの OS "
+"を作っているのかがわかりません。」という人に対する回答として、適切なものを以下から選んでください。"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1051,7 +1050,9 @@ msgid ""
 "Firefox OS gives you the most value for your money, with everything you "
 "expect — camera, email, apps, music, maps and more — at the most competitive"
 " prices."
-msgstr "Firefox OS の搭載されたスマホは、コストパフォーマンスが良いです。カメラ、メール、音楽再生、地図といった機能を全部持っている上に、価格もお安くなっています。"
+msgstr ""
+"Firefox OS "
+"の搭載されたスマホは、コストパフォーマンスが良いです。カメラ、メール、音楽再生、地図といった機能を全部持っている上に、価格もお安くなっています。"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1065,7 +1066,9 @@ msgid ""
 "Firefox OS is the easiest smartphone to get started with. Your favorite apps"
 " are already preloaded and you can easily import your friends from Facebook,"
 " too."
-msgstr "Firefox OS はスマホを始めるのに最適です。簡単に使えますし、よく使うアプリはあらかじめインストールされています。また友達の連絡先を Facebook から読み込むこともできます。"
+msgstr ""
+"Firefox OS はスマホを始めるのに最適です。簡単に使えますし、よく使うアプリはあらかじめインストールされています。また友達の連絡先を "
+"Facebook から読み込むこともできます。"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1081,7 +1084,9 @@ msgid ""
 "Firefox OS is the easiest smartphone to get started with. Your favorite apps"
 " are already preloaded and you can easily import your friends from Facebook "
 "too."
-msgstr "Firefox OS はスマホを始めるのに最適です。簡単に使えますし、よく使うアプリはあらかじめインストールされています。また友達の連絡先を Facebook から読み込むこともできます。"
+msgstr ""
+"Firefox OS はスマホを始めるのに最適です。簡単に使えますし、よく使うアプリはあらかじめインストールされています。また友達の連絡先を "
+"Facebook から読み込むこともできます。"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1093,7 +1098,9 @@ msgstr "Firefox OS はスマホを始めるのに最適です。簡単に使え�
 msgid ""
 "Facebook is preloaded on every Firefox OS device and you can import your "
 "Facebook contacts easily!"
-msgstr "Facebook アプリは、すべての Firefox OS 搭載スマートフォンにプリインストールされています。Facebook から、連絡先を読み込むことも簡単です。"
+msgstr ""
+"Facebook アプリは、すべての Firefox OS 搭載スマートフォンにプリインストールされています。Facebook "
+"から、連絡先を読み込むことも簡単です。"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1108,7 +1115,8 @@ msgstr "Facebook アプリは、すべての Firefox OS 搭載スマートフォ
 msgid ""
 "Every Firefox phone includes the Firefox browser, the fast, smart and safe "
 "way to get online."
-msgstr "すべての Firefox OS 搭載端末には、Firefox ブラウザがインストールされています。高速で安全、スマートに Web を利用できます。"
+msgstr ""
+"すべての Firefox OS 搭載端末には、Firefox ブラウザがインストールされています。高速で安全、スマートに Web を利用できます。"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1167,7 +1175,9 @@ msgid ""
 "Firefox OS isn’t cluttered with more than you need. It gives you what you’d "
 "expect in a smartphone, with an easy-to-use interface that makes it easy to "
 "get started."
-msgstr "Firefox OS には、必要以上に雑多な機能が詰め込まれるようなことはありません。使いたい機能が、使いやすいインタフェースで提供されるため、簡単に使い始められます。"
+msgstr ""
+"Firefox OS "
+"には、必要以上に雑多な機能が詰め込まれるようなことはありません。使いたい機能が、使いやすいインタフェースで提供されるため、簡単に使い始められます。"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1228,7 +1238,10 @@ msgid ""
 "apps, like Facebook, so your customers will be able to stay connected with "
 "friends and family. They can also sync their contacts to the phone, quickly "
 "and easily."
-msgstr "Firefox OS には、Facebook のような SNS やインスタントメッセージアプリがプリインストールされているため、いつでも家族や友達つとつながっていられます。また SNS 上の連絡先も、素早くスマホと同期できます。"
+msgstr ""
+"Firefox OS には、Facebook のような SNS "
+"やインスタントメッセージアプリがプリインストールされているため、いつでも家族や友達つとつながっていられます。また SNS "
+"上の連絡先も、素早くスマホと同期できます。"
 
 #. Translators:
 #. Page path: /1-3T/customer-guide/
@@ -1242,7 +1255,8 @@ msgid ""
 "is critical to any sales opportunity. Check out the common customer segments"
 " below, then drag the bar to learn how to best respond to each of their "
 "unique needs."
-msgstr "ニーズを把握し、即座に対応することは大切です。以下に分類されたユーザをチェックして、バーをドラッグすると、それぞれのニーズに適した対応方法を学べます。"
+msgstr ""
+"ニーズを把握し、即座に対応することは大切です。以下に分類されたユーザをチェックして、バーをドラッグすると、それぞれのニーズに適した対応方法を学べます。"
 
 #. Translators:
 #. Page path: /1-3T/key-features/
@@ -1291,7 +1305,9 @@ msgid ""
 "Firefox OS has a robust security model that is battle-hardened from more "
 "than a decade of supporting the open Web. It is designed to protect the user"
 " and system from malicious applications and content."
-msgstr "Firefox OS は 10 年以上にわたってオープン Web を支えてきた経験に裏打ちされた、堅牢なセキュリティモデルを採用しています。これによりユーザを悪意あるアプリやコンテンツから保護します。"
+msgstr ""
+"Firefox OS は 10 年以上にわたってオープン Web "
+"を支えてきた経験に裏打ちされた、堅牢なセキュリティモデルを採用しています。これによりユーザを悪意あるアプリやコンテンツから保護します。"
 
 #. Translators:
 #. Page path: /1-3T/frequently-asked-questions/
@@ -1315,7 +1331,9 @@ msgid ""
 "downloadable app. Creating and consuming these apps on demand puts users in "
 "complete control of their smartphone experience and will make it possible "
 "for people to get the exact content they want, when they want it."
-msgstr "ユーザは Web サイトへのブックマークをホーム画面に配置できます。それをタップすることで、サイトへ直接アクセスできるようになります。また検索することで、ワンタイムユースアプリやダウンロード可能なアプリを作成できます。このようなアプリを必要に応じて作成し利用することで、自分にとって本当に必要なものを必要な時に入手できるようになります。"
+msgstr ""
+"ユーザは Web "
+"サイトへのブックマークをホーム画面に配置できます。それをタップすることで、サイトへ直接アクセスできるようになります。また検索することで、ワンタイムユースアプリやダウンロード可能なアプリを作成できます。このようなアプリを必要に応じて作成し利用することで、自分にとって本当に必要なものを必要な時に入手できるようになります。"
 
 #. Translators:
 #. Page path: /1-3T/frequently-asked-questions/
@@ -1328,7 +1346,10 @@ msgid ""
 "proprietary platforms. Therefore, many of the same apps will be available "
 "through Adaptive App Search. Tools such as Emscripten and PhoneGap are also "
 "able to convert other apps (*.apk and/or C/C++) to Web apps."
-msgstr "直接使用することはできません。しかし多くの Android や iOS のアプリは、商用プラットフォームで動作するようにラップされた Web アプリです。そのためアプリ検索でそれらを探し、利用できます。また Emscripten や PhoneGap のようなツールを利用することで、*.apk や C/C++ で実装されたアプリを Web アプリに変換できます。"
+msgstr ""
+"直接使用することはできません。しかし多くの Android や iOS のアプリは、商用プラットフォームで動作するようにラップされた Web "
+"アプリです。そのためアプリ検索でそれらを探し、利用できます。また Emscripten や PhoneGap のようなツールを利用することで、*.apk"
+" や C/C++ で実装されたアプリを Web アプリに変換できます。"
 
 #. Translators:
 #. Page path: /1-3T/frequently-asked-questions/
@@ -1339,7 +1360,9 @@ msgid ""
 "Firefox OS is built on Web technologies but has offline capabilities for all"
 " the phone’s core functions. That means apps do not require an active "
 "Internet connection to work unless they need to send or receive data."
-msgstr "Firefox OS は Web 技術を用いて作成されていますが、重要な機能はすべてオフラインでも動作します。つまりデータを送受信する必要がなければ、インターネット接続がなくてもアプリを実行できます。"
+msgstr ""
+"Firefox OS は Web "
+"技術を用いて作成されていますが、重要な機能はすべてオフラインでも動作します。つまりデータを送受信する必要がなければ、インターネット接続がなくてもアプリを実行できます。"
 
 #. Translators:
 #. Page path: /1-3T/frequently-asked-questions/
@@ -1352,7 +1375,9 @@ msgid ""
 "Firefox OS is negatively impacted by the support incident resulting from the"
 " app, Mozilla may recommend workarounds including uninstalling the app until"
 " the developer provides appropriate assistance."
-msgstr "Firefox OS 向けに開発されたアプリのサポートはアプリ開発者が行います。サポートの対応によって、Firefox OS の体験が著しく損なわれる場合、開発者が適切なサポートを始めるまでの間、Mozilla はアプリのアンインストールむ含めた回避策を薦める場合があります。"
+msgstr ""
+"Firefox OS 向けに開発されたアプリのサポートはアプリ開発者が行います。サポートの対応によって、Firefox OS "
+"の体験が著しく損なわれる場合、開発者が適切なサポートを始めるまでの間、Mozilla はアプリのアンインストールむ含めた回避策を薦める場合があります。"
 
 #. Translators:
 #. Page path: /1-3T/frequently-asked-questions/
@@ -1579,7 +1604,9 @@ msgid ""
 "Firefox OS gives you the most value for your money, with everything you "
 "expect — Camera, Email, apps, Music and more — at the most competitive "
 "prices."
-msgstr "Firefox OS はコストパフォーマンスに優れています。低価格でありながら、カメラ、メール、アプリ、音楽、といったスマホに期待される機能をすべて備えています。"
+msgstr ""
+"Firefox OS "
+"はコストパフォーマンスに優れています。低価格でありながら、カメラ、メール、アプリ、音楽、といったスマホに期待される機能をすべて備えています。"
 
 #. Translators:
 #. Page path: /1-4/customer-guide/
@@ -1590,7 +1617,9 @@ msgid ""
 "<strong>Here’s what you can say:</strong> Firefox OS gives you the most "
 "value for your money. It has everything you expect in a smartphone — camera,"
 " email, apps, music, maps and more — at the most competitive prices."
-msgstr "<strong>回答はこちら：</strong> Firefox OS はコストパフォーマンスに優れています。低価格でありながら、カメラ、メール、アプリ、音楽、といったスマホに期待される機能をすべて備えています。"
+msgstr ""
+"<strong>回答はこちら：</strong> Firefox OS "
+"はコストパフォーマンスに優れています。低価格でありながら、カメラ、メール、アプリ、音楽、といったスマホに期待される機能をすべて備えています。"
 
 #. Translators:
 #. Page path: /2-0/introduction/
@@ -1605,7 +1634,9 @@ msgid ""
 "Life is complicated, your smartphone shouldn’t be. Firefox OS is designed "
 "for better performance, easier customization and simpler navigation. "
 "Everything your customer needs or wants is either one scroll or swipe away."
-msgstr "人生は複雑なものですが、スマホはそうあってはいけません。Firefox OS は良い性能と、カスタマイズの簡単さ、シンプルな操作性を持つようデザインされています。スクロールとスワイプだけで操作できます。"
+msgstr ""
+"人生は複雑なものですが、スマホはそうあってはいけません。Firefox OS "
+"は良い性能と、カスタマイズの簡単さ、シンプルな操作性を持つようデザインされています。スクロールとスワイプだけで操作できます。"
 
 #. Translators:
 #. Page path: /2-0/introduction/
@@ -1621,7 +1652,9 @@ msgid ""
 "by creating your own ringtones. You can also download locally-relevant apps "
 "that enrich and simplify your daily life. Firefox OS is truly a phone made "
 "with you in mind."
-msgstr "自国の言語で使用でき、通信量を自分でコントロールできます。着信音の作成や、カスタマイズもできます。日々の生活を豊かに、シンプルにしてくれるアプリをダウンロードして使うこともできます。Firefox OS は、ほんとうの意味で使う人のことを第一に開発された端末です。"
+msgstr ""
+"自国の言語で使用でき、通信量を自分でコントロールできます。着信音の作成や、カスタマイズもできます。日々の生活を豊かに、シンプルにしてくれるアプリをダウンロードして使うこともできます。Firefox"
+" OS は、ほんとうの意味で使う人のことを第一に開発された端末です。"
 
 #. Translators:
 #. Page path: /2-0/introduction/
@@ -1637,7 +1670,10 @@ msgid ""
 "smartphones are backed by a global community of developers working to "
 "innovate and further Web technologies.    When you choose Firefox OS, you’re"
 " helping build a brighter future for the Web for all."
-msgstr "Mozilla は利益のためでなく、変化をもたらすために活動しています。我々の製品である、Firefox OS は技術の革新と、進歩に貢献する開発者のグローバルなコミュニティによって支えられています。Firefox OS を選んでいただくことによって、すべての人にとって、より輝かしい Web の未来を築く活動を支援していただくことになります。"
+msgstr ""
+"Mozilla は利益のためでなく、変化をもたらすために活動しています。我々の製品である、Firefox OS "
+"は技術の革新と、進歩に貢献する開発者のグローバルなコミュニティによって支えられています。Firefox OS "
+"を選んでいただくことによって、すべての人にとって、より輝かしい Web の未来を築く活動を支援していただくことになります。"
 
 #. Translators:
 #. Page path: /2-0/introduction/
@@ -1654,7 +1690,10 @@ msgid ""
 "smartphone users — easy to use and full of all the features that they "
 "expect. And because Firefox OS devices are powered by Mozilla, they’re the "
 "perfect choice for anyone committed to keeping the Web open for all."
-msgstr "生活を最大限に充実させたいと考えているのに、持っているモバイルデバイスをそれほど活用できないのはなぜでしょうか？Firefox OS デバイスは、スマートフォンを初めて使用するユーザに最適です。使いやすく、ユーザが期待する機能をすべて備えているからです。また、Firefox OS デバイスは Mozilla が支援しているため、すべての人々にとってオープンな Web を維持したいと考える誰にとっても、最適な選択肢です。"
+msgstr ""
+"生活を最大限に充実させたいと考えているのに、持っているモバイルデバイスをそれほど活用できないのはなぜでしょうか？Firefox OS "
+"デバイスは、スマートフォンを初めて使用するユーザに最適です。使いやすく、ユーザが期待する機能をすべて備えているからです。また、Firefox OS "
+"デバイスは Mozilla が支援しているため、すべての人々にとってオープンな Web を維持したいと考える誰にとっても、最適な選択肢です。"
 
 #. Translators:
 #. Page path: /2-0/demo-tips/
@@ -1664,7 +1703,9 @@ msgid ""
 "Tell them that the Marketplace has the cool games and apps that they’re "
 "looking for. Demonstrate an example of a local app that will help make their"
 " lives easier."
-msgstr "Firefox Marketplace からのアプリをインストールすることが簡単であることを示しましょう。Marketplace には探しているアプリがあることも伝えましょう。アプリを例に挙げ、そのアプリが生活をより便利にするかを示してください。"
+msgstr ""
+"Firefox Marketplace からのアプリをインストールすることが簡単であることを示しましょう。Marketplace "
+"には探しているアプリがあることも伝えましょう。アプリを例に挙げ、そのアプリが生活をより便利にするかを示してください。"
 
 #. Translators:
 #. Page path: /2-0/demo-tips/
@@ -1682,7 +1723,9 @@ msgid ""
 "camera and gallery apps, including built-in style filters, video and more  "
 "Music: With music at their fingertips, your customers will see how Firefox "
 "OS keeps them entertained and dancing in the streets."
-msgstr "カメラ、ギャラリー、音楽アプリといったアプリを使えば、出先でも楽しく、そして友人たちとつながることを説明しましょう。例えばカメラ。撮影し、編集し、シェアできます。フィルタや、動画撮影といった機能を見せつつ、カメラとギャラリーアプリの機能を説明してください。また音楽アプリに関しては、再生してみせることで Firefox OS でも出先で音楽を楽しめることを示しましょう。"
+msgstr ""
+"カメラ、ギャラリー、音楽アプリといったアプリを使えば、出先でも楽しく、そして友人たちとつながることを説明しましょう。例えばカメラ。撮影し、編集し、シェアできます。フィルタや、動画撮影といった機能を見せつつ、カメラとギャラリーアプリの機能を説明してください。また音楽アプリに関しては、再生してみせることで"
+" Firefox OS でも出先で音楽を楽しめることを示しましょう。"
 
 #. Translators:
 #. Page path: /2-0/demo-tips/
@@ -1699,7 +1742,9 @@ msgid ""
 " better than any other phone. That means you get more of what you need with "
 "less time spent searching. Plus, it’s packed with all the features you’d "
 "expect — camera, email, apps, music, maps and more!"
-msgstr "<strong>回答はこちら：</strong>Firefox OS は初めてスマートフォンを使う人にとって最適です。極めて簡単に使え、他の端末によりも、よりニーズに適応します。つまり必要な時に必要なものを、少ない時間で見つけられるということです。その上、スマホに期待される機能、カメラ、メール、アプリ、音楽、地図、といった機能をすべて備えています。"
+msgstr ""
+"<strong>回答はこちら：</strong>Firefox OS "
+"は初めてスマートフォンを使う人にとって最適です。極めて簡単に使え、他の端末によりも、よりニーズに適応します。つまり必要な時に必要なものを、少ない時間で見つけられるということです。その上、スマホに期待される機能、カメラ、メール、アプリ、音楽、地図、といった機能をすべて備えています。"
 
 #. Translators:
 #. Page path: /2-0/customer-guide/
@@ -1709,7 +1754,9 @@ msgid ""
 "smartphone to get you started.  The user interface is so intuitive, you’ll "
 "be able to quickly discover and download your favorite apps and be ready to "
 "go in no time."
-msgstr "<strong>回答はこちら：</strong>Firefox OS はスマホ初心者にとって、もっとも簡単です。直感的に使え、欲しいアプリをすぐに探して、待たずにインストールできます。"
+msgstr ""
+"<strong>回答はこちら：</strong>Firefox OS "
+"はスマホ初心者にとって、もっとも簡単です。直感的に使え、欲しいアプリをすぐに探して、待たずにインストールできます。"
 
 #. Translators:
 #. Page path: /2-0/customer-guide/
@@ -1720,7 +1767,11 @@ msgid ""
 "bringing the best of the Web to your phone.  Plus, Firefox OS is designed by"
 " a community dedicated to keeping the Web accessible to all. When you choose"
 " Firefox OS, you have the full power of the Web in your hands."
-msgstr "<strong>回答はこちら：</strong>Firefox が好きなら、きっと Firefox OS のことも気にいるはずです。Firefox OS は完全に HTML5 を用いて作成されています。Firefox OS は、Web が誰にとっても利用可能なものであるために活動するコミュニティによって設計されています。つまり Firefox OS は Web の力を最大限利用できる端末となっています。それが理由です。"
+msgstr ""
+"<strong>回答はこちら：</strong>Firefox が好きなら、きっと Firefox OS のことも気にいるはずです。Firefox OS"
+" は完全に HTML5 を用いて作成されています。Firefox OS は、Web "
+"が誰にとっても利用可能なものであるために活動するコミュニティによって設計されています。つまり Firefox OS は Web "
+"の力を最大限利用できる端末となっています。それが理由です。"
 
 #. Translators:
 #. Page path: /2-0/key-features/
@@ -1728,7 +1779,8 @@ msgstr "<strong>回答はこちら：</strong>Firefox が好きなら、きっ�
 msgid ""
 "Your go-to source for the best apps on Firefox OS. Browse multiple "
 "categories, including games, utilities, music, travel, sports and more."
-msgstr "Firefox OS で動作するアプリが集まっています。ゲーム、ユーティリティ、音楽、旅行、スポーツ。これらに代表されるカテゴリからアプリを探せます。"
+msgstr ""
+"Firefox OS で動作するアプリが集まっています。ゲーム、ユーティリティ、音楽、旅行、スポーツ。これらに代表されるカテゴリからアプリを探せます。"
 
 #. Translators:
 #. Page path: /2-0/key-features/
@@ -1778,7 +1830,9 @@ msgid ""
 "Play it all from your phone, or online via YouTube. Browse and play your "
 "music collection by album or artist, rate songs and create playlists for "
 "your favorites."
-msgstr "スマホ内の音楽を再生することもできますし、Youtube のビデオを流すこともできます。アルバム名やアーティスト名で音楽を探し、レーティングし、好きな曲だけを集めたプレイリストを作ることもできます。"
+msgstr ""
+"スマホ内の音楽を再生することもできますし、Youtube "
+"のビデオを流すこともできます。アルバム名やアーティスト名で音楽を探し、レーティングし、好きな曲だけを集めたプレイリストを作ることもできます。"
 
 #. Translators:
 #. Page path: /2-0/key-features/
@@ -1800,7 +1854,9 @@ msgstr "Find My Device"
 msgid ""
 "Location tracking helps you find your device if you lose it. Remote wipe and"
 " lock capabilities help you keep your personal information safe."
-msgstr "端末を紛失した時、端末の現在位置を調べられます。それでなく、Web 上から端末をロックしたり、初期化することもできます。この機能により、個人情報を守れます。"
+msgstr ""
+"端末を紛失した時、端末の現在位置を調べられます。それでなく、Web "
+"上から端末をロックしたり、初期化することもできます。この機能により、個人情報を守れます。"
 
 #. Translators:
 #. Page path: /2-0/key-features/
@@ -1824,7 +1880,11 @@ msgid ""
 "hundreds of free applications will be available at launch. The growing list "
 "includes leading app developers like Facebook, YouTube, Twitter, YouTube, "
 "Pinterest and ConnectA2 as well as a Flashlight app and Calculator."
-msgstr "世界中のアプリ開発者が Firefox OS に向けてアプリを作成しています。ローンチ時には何千という無料のアプリが公開されていました。アプリの数は順調に増加しており、Facebook や Twitter、Youtube、Pinterest、ConnectA2 といった世界的に有名なアプリからフラッシュライトアプリ、電卓アプリまで様々なアプリが公開されています。"
+msgstr ""
+"世界中のアプリ開発者が Firefox OS "
+"に向けてアプリを作成しています。ローンチ時には何千という無料のアプリが公開されていました。アプリの数は順調に増加しており、Facebook や "
+"Twitter、Youtube、Pinterest、ConnectA2 "
+"といった世界的に有名なアプリからフラッシュライトアプリ、電卓アプリまで様々なアプリが公開されています。"
 
 #. Translators:
 #. Page path: /2-0/frequently-asked-questions/
@@ -1841,7 +1901,9 @@ msgid ""
 "messages, emoticons, pictures, videos and audio files for free. You can also"
 " create and use group chats and receive notifications of new messages, even "
 "when the app is closed."
-msgstr "直接は利用できませんが、ConnectA2 アプリを使えば ConnectA2 アプリと WhatsApp の連絡先にインスタントメッセージを送れます。メッセージの送受信、感情、写真、動画、音声ファイルを無料で送れます。またグループチャットを作ることも可能です。アプリが閉じられていても、メッセージ受信時には通知されます。"
+msgstr ""
+"直接は利用できませんが、ConnectA2 アプリを使えば ConnectA2 アプリと WhatsApp "
+"の連絡先にインスタントメッセージを送れます。メッセージの送受信、感情、写真、動画、音声ファイルを無料で送れます。またグループチャットを作ることも可能です。アプリが閉じられていても、メッセージ受信時には通知されます。"
 
 #. Translators:
 #. Page path: /2-0/frequently-asked-questions/
@@ -1856,7 +1918,9 @@ msgid ""
 "Firefox Marketplace is our go-to source for free apps, including favorites "
 "like Twitter and Facebook, and for awesome local content from the best Web "
 "developers in your region."
-msgstr "Firefox Marketplace には、Twitter や FaceBook のような著名なものから、ローカルコンテンツにいたるまで、様々な無料アプリが公開されています。"
+msgstr ""
+"Firefox Marketplace には、Twitter や FaceBook "
+"のような著名なものから、ローカルコンテンツにいたるまで、様々な無料アプリが公開されています。"
 
 #. Translators:
 #. Page path: /2-0/frequently-asked-questions/
@@ -1886,7 +1950,10 @@ msgid ""
 "that customers want and need.  And it’s powered by Mozilla, making Firefox "
 "OS the right choice for anyone committed to ensuring that the power of the "
 "Web remains in their hands!"
-msgstr "すべてのコンテンツとクイズを終えた今、Firefox OS について十分詳しくなっています。Firefox OS は簡単に使え、スマホ初心者にとって最適であるだけでなく、必要とされる機能をすべて持っていること。そしてMozilla によって支えられ、Web の力を最大限に利用できるスマートフォンであることを広めてください。"
+msgstr ""
+"すべてのコンテンツとクイズを終えた今、Firefox OS について十分詳しくなっています。Firefox OS "
+"は簡単に使え、スマホ初心者にとって最適であるだけでなく、必要とされる機能をすべて持っていること。そしてMozilla によって支えられ、Web "
+"の力を最大限に利用できるスマートフォンであることを広めてください。"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -1968,7 +2035,9 @@ msgid ""
 "That’s right. With a first time smart phone user, you should talk about its "
 "simplicity and features including ways to control their experience and "
 "personalize their phones."
-msgstr "正解です。スマホ初心者には、シンプルで簡単に使えるインタフェースと、ユーザのニーズに適応する部分も含め、Firefox OS の持つ機能について説明したほうがいいでしょう。"
+msgstr ""
+"正解です。スマホ初心者には、シンプルで簡単に使えるインタフェースと、ユーザのニーズに適応する部分も含め、Firefox OS "
+"の持つ機能について説明したほうがいいでしょう。"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -1977,7 +2046,9 @@ msgid ""
 "Actually, with a first time smart phone user, you should talk about its "
 "simplicity and features including ways to control their experience and "
 "personalize their phones."
-msgstr "スマホ初心者には、シンプルで簡単に使えるインタフェースと、ユーザのニーズに適応する部分も含め、Firefox OS の持つ機能について説明したほうがいいでしょう。"
+msgstr ""
+"スマホ初心者には、シンプルで簡単に使えるインタフェースと、ユーザのニーズに適応する部分も含め、Firefox OS "
+"の持つ機能について説明したほうがいいでしょう。"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -1985,7 +2056,9 @@ msgstr "スマホ初心者には、シンプルで簡単に使えるインタフ
 msgid ""
 "That’s right. When you meet a Firefox fan, talk about how choosing Firefox "
 "OS shows a commitment to keeping the power of the Web in their hands."
-msgstr "正解です。Firefox ファンには、Firefox OS を選ぶことは、Web を自分たちの手で作り上げていく姿勢を示すことであることを説明してください。"
+msgstr ""
+"正解です。Firefox ファンには、Firefox OS を選ぶことは、Web "
+"を自分たちの手で作り上げていく姿勢を示すことであることを説明してください。"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -1993,7 +2066,8 @@ msgstr "正解です。Firefox ファンには、Firefox OS を選ぶことは�
 msgid ""
 "Actually, when you meet a Firefox fan, talk about how choosing Firefox OS "
 "shows a commitment to keeping power of the the Web in their hands."
-msgstr "Firefox ファンには、Firefox OS を選ぶことは、Web を自分たちの手で作り上げていく姿勢を示すことであることを説明すると良いでしょう。"
+msgstr ""
+"Firefox ファンには、Firefox OS を選ぶことは、Web を自分たちの手で作り上げていく姿勢を示すことであることを説明すると良いでしょう。"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2002,7 +2076,8 @@ msgid ""
 "That’s right. With this customer, highlight the great value and full feature"
 " set of Firefox OS, including social apps that are preloaded on the phone, "
 "all at great value."
-msgstr "正解です。プリインストールされている SNS アプリも含め、Firefox OS はスマホに求められる機能をすべて備えていることを説明してください。"
+msgstr ""
+"正解です。プリインストールされている SNS アプリも含め、Firefox OS はスマホに求められる機能をすべて備えていることを説明してください。"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2011,7 +2086,8 @@ msgid ""
 "That’s not it. With this customer, highlight the great value and full "
 "feature set of Firefox OS, including social apps that are preloaded on the "
 "phone, all at great value."
-msgstr "プリインストールされている SNS アプリも含め、Firefox OS はスマホに求められる機能をすべて備えていることを説明したほうが良いでしょう。"
+msgstr ""
+"プリインストールされている SNS アプリも含め、Firefox OS はスマホに求められる機能をすべて備えていることを説明したほうが良いでしょう。"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2021,7 +2097,9 @@ msgid ""
 "Firefox OS phones, made by Mozilla, show a commitment to keeping the power "
 "of the Web in the hands of the people. And while all of these statements are"
 " true, only this one is the best response for this particular customer."
-msgstr "正解です。どの文章を選んでも不正解ではありませんが、Firefox ファンには、Web の未来が大企業ではなく我々の手にあることを、Mozilla によって作られた Firefox OS 端末がどのように示すか、ということを説明することが最善でしょう。"
+msgstr ""
+"正解です。どの文章を選んでも不正解ではありませんが、Firefox ファンには、Web の未来が大企業ではなく我々の手にあることを、Mozilla "
+"によって作られた Firefox OS 端末がどのように示すか、ということを説明することが最善でしょう。"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2031,7 +2109,9 @@ msgid ""
 " particular customer, who seems to be a Firefox fan. Talk about how Firefox "
 "OS phones, made by Mozilla, help keep the power of the Web in the hands of "
 "the people."
-msgstr "どの文章を選んでも不正解ではありませんが、Firefox ファンには、Web の未来が大企業ではなく我々の手にあることを、Mozilla によって作られた Firefox OS 端末がどのように示すか、ということを説明することが最善でしょう。"
+msgstr ""
+"どの文章を選んでも不正解ではありませんが、Firefox ファンには、Web の未来が大企業ではなく我々の手にあることを、Mozilla "
+"によって作られた Firefox OS 端末がどのように示すか、ということを説明することが最善でしょう。"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2099,7 +2179,9 @@ msgstr "Firefox OS では WhatsApp の代替として ConnectA2 が利用でき�
 msgid ""
 "Actually, this is true. ConnectA2 allows you to send instant messages to "
 "your contacts using ConnectA2 and/or WhatsApp."
-msgstr "これは正しい文章です。ConnectA2 を使うことで、ConnectA2 だけでなく、WathsApp での友達にもインスタントメッセージを送信できます。"
+msgstr ""
+"これは正しい文章です。ConnectA2 を使うことで、ConnectA2 だけでなく、WathsApp "
+"での友達にもインスタントメッセージを送信できます。"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2191,7 +2273,9 @@ msgid ""
 "Firefox OS is the easiest smartphone to get started with. Your favorite apps"
 " are already preloaded and you can easily import your friends from Facebook,"
 " too.."
-msgstr "Firefox OS はスマホ初心者が最も簡単に使えるスマートフォンです。必要なアプリはプリインストールされていますし、Facebook から連絡先を読み込むことも簡単です。"
+msgstr ""
+"Firefox OS はスマホ初心者が最も簡単に使えるスマートフォンです。必要なアプリはプリインストールされていますし、Facebook "
+"から連絡先を読み込むことも簡単です。"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2199,7 +2283,9 @@ msgstr "Firefox OS はスマホ初心者が最も簡単に使えるスマート�
 msgid ""
 "If you love Firefox, you’ll love Firefox OS. Choosing Firefox OS keeps the "
 "power of the Web in your hands."
-msgstr "Firefox が好きなら、きっと Firefox OS のことも気にいるでしょう。Firefox OS を使うことによって、Web の力をモバイルでも利用できます。"
+msgstr ""
+"Firefox が好きなら、きっと Firefox OS のことも気にいるでしょう。Firefox OS を使うことによって、Web "
+"の力をモバイルでも利用できます。"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2208,7 +2294,8 @@ msgid ""
 "The Firefox OS smartphone is preloaded with all the features that you’d "
 "expect, including Messages, Facebook, email, maps and more, all at a better "
 "value."
-msgstr "Firefox OS が搭載されたスマートフォンは、Facebook、メール、地図といった必要とされる機能をすべて、よりよい形で備えています。"
+msgstr ""
+"Firefox OS が搭載されたスマートフォンは、Facebook、メール、地図といった必要とされる機能をすべて、よりよい形で備えています。"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2223,7 +2310,9 @@ msgid ""
 "Mozilla, the maker of Firefox, built a smartphone OS to keep the Web "
 "accessible to all. And since Firefox OS is entirely built in HTML5, you get "
 "instant access to thousands of apps already built for the Web."
-msgstr "Firefox をつくった Mozilla は Web が誰もが使えるものでありつづけるために、スマートフォンのための OS を作成しました。Firefox OS はすべてが HTML5 で作られているため、何千という Web 向けに作られているアプリをすぐに利用できます。"
+msgstr ""
+"Firefox をつくった Mozilla は Web が誰もが使えるものでありつづけるために、スマートフォンのための OS "
+"を作成しました。Firefox OS はすべてが HTML5 で作られているため、何千という Web 向けに作られているアプリをすぐに利用できます。"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2301,7 +2390,8 @@ msgstr "Firefox OS にはスマートフォンが欲しくなる機能が備わ�
 msgid ""
 "They’re new and backed by a global community working to help keep the Web "
 "accessible to all."
-msgstr "Firefox OS スマートフォンは新しい製品で、Web の力をすべての人々に届けるために活動する、グローバルなコミュニティが支援しています。"
+msgstr ""
+"Firefox OS スマートフォンは新しい製品で、Web の力をすべての人々に届けるために活動する、グローバルなコミュニティが支援しています。"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2317,7 +2407,8 @@ msgstr "このスマートフォンには、なによりスマートフォンが
 msgid ""
 "It’s new and backed by a global community working to help keep the Web "
 "accessible to all."
-msgstr "Firefox OS スマートフォンは新しい製品で、Web の力をすべての人々に届けるために活動する、グローバルなコミュニティが支援しています。"
+msgstr ""
+"Firefox OS スマートフォンは新しい製品で、Web の力をすべての人々に届けるために活動する、グローバルなコミュニティが支援しています。"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2327,7 +2418,9 @@ msgid ""
 " decade supporting the Open Web. Designed to protect the user and system "
 "from malicious applications and content, it also protects applications from "
 "each other."
-msgstr "Firefox OS は 10 年以上にわたってオープン Web を支えてきた経験に裏打ちされた、堅牢なセキュリティモデルを採用しています。これによりユーザを悪意あるアプリやコンテンツから保護します。"
+msgstr ""
+"Firefox OS は 10 年以上にわたってオープン Web "
+"を支えてきた経験に裏打ちされた、堅牢なセキュリティモデルを採用しています。これによりユーザを悪意あるアプリやコンテンツから保護します。"
 
 #. Translators:
 #. Page path: /2-0/which-version/
@@ -2367,7 +2460,10 @@ msgid ""
 "Portions of this content are ©1998–{0} by individual contributors. Content "
 "available under a <a href=\"https://www.mozilla.org/foundation/licensing"
 "/website-content/\">Creative Commons license</a>."
-msgstr "コンテンツの一部は mozilla.org への個人的な貢献によるものです。(©1998–{0})。コンテンツは <a href=\"https://www.mozilla.org/foundation/licensing/website-content/\">Creative Commons license</a> に基づいた利用が可能です。"
+msgstr ""
+"コンテンツの一部は mozilla.org への個人的な貢献によるものです。(©1998–{0})。コンテンツは <a "
+"href=\"https://www.mozilla.org/foundation/licensing/website-"
+"content/\">Creative Commons license</a> に基づいた利用が可能です。"
 
 #: masterfirefoxos/base/templates/base.html:91
 msgid "Source code"
