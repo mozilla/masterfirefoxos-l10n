@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-02-27 20:15+0000\n"
+"POT-Creation-Date: 2015-02-28 16:57+0000\n"
 "PO-Revision-Date: 2015-02-20 11:48:21\n"
 "Last-Translator: <nshimizu@mozilla-japan.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2548,68 +2548,96 @@ msgid "The latest version available in {language} is {version}."
 msgstr "{language} の最新バージョンは {version} です。"
 
 #: masterfirefoxos/settings/base.py:187
+msgid "Afrikaans"
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:188
+msgid "Arabic"
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:189
 msgid "Bengali"
 msgstr "ベンガル"
 
-#: masterfirefoxos/settings/base.py:188
+#: masterfirefoxos/settings/base.py:190
 msgid "Croatian"
 msgstr "クロアチア"
 
-#: masterfirefoxos/settings/base.py:189
+#: masterfirefoxos/settings/base.py:191
 msgid "Czech"
 msgstr "チェコ"
 
-#: masterfirefoxos/settings/base.py:190
+#: masterfirefoxos/settings/base.py:192
 msgid "English"
 msgstr "英"
 
-#: masterfirefoxos/settings/base.py:191
+#: masterfirefoxos/settings/base.py:193
 msgid "German"
 msgstr "ドイツ"
 
-#: masterfirefoxos/settings/base.py:192
+#: masterfirefoxos/settings/base.py:194
 msgid "Greek"
 msgstr "ギリシア"
 
-#: masterfirefoxos/settings/base.py:193
+#: masterfirefoxos/settings/base.py:195
+msgid "French"
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:196
 msgid "Hindi"
 msgstr "ヒンディー"
 
-#: masterfirefoxos/settings/base.py:194
+#: masterfirefoxos/settings/base.py:197
 msgid "Hungarian"
 msgstr "ハンガリー"
 
-#: masterfirefoxos/settings/base.py:195
+#: masterfirefoxos/settings/base.py:198
 msgid "Italian"
 msgstr "イタリア"
 
-#: masterfirefoxos/settings/base.py:196
+#: masterfirefoxos/settings/base.py:199
 msgid "Japanese"
 msgstr "日本"
 
-#: masterfirefoxos/settings/base.py:197
+#: masterfirefoxos/settings/base.py:200
 msgid "Polish"
 msgstr "ポーランド"
 
-#: masterfirefoxos/settings/base.py:198
+#: masterfirefoxos/settings/base.py:201
 msgid "Portuguese"
 msgstr "ポルトガル"
 
-#: masterfirefoxos/settings/base.py:199
+#: masterfirefoxos/settings/base.py:202
 msgid "Serbian"
 msgstr "セルビア"
 
-#: masterfirefoxos/settings/base.py:200
+#: masterfirefoxos/settings/base.py:203
+msgid "Kiswahili"
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:204
 msgid "Spanish"
 msgstr "スペイン"
 
-#: masterfirefoxos/settings/base.py:201
+#: masterfirefoxos/settings/base.py:205
 msgid "Tamil"
 msgstr "タミル"
 
-#: masterfirefoxos/settings/base.py:202
+#: masterfirefoxos/settings/base.py:206
+msgid "Wolof"
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:207
+msgid "Xhosa"
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:208
 msgid "Pirate"
 msgstr "著作権侵害"
+
+#: masterfirefoxos/settings/base.py:209
+msgid "Zulu"
+msgstr ""
 
 #~ msgid "z8IAfoqxOPI"
 #~ msgstr "z8IAfoqxOPI"
