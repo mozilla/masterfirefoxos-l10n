@@ -3,21 +3,21 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-02-27 20:15+0000\n"
-"PO-Revision-Date: 2015-02-20 06:09:46\n"
-"Last-Translator: Francesco Lodolo <francesco.lodolo@mozillaitalia.org>\n"
+"PO-Revision-Date: 2015-02-28 07:07+0000\n"
+"Last-Translator: Francesco <francesco.lodolo@mozillaitalia.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pontoon\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1425107220.0\n"
 
 #. Translators:
 #. Page path: /1-1/
@@ -45,7 +45,7 @@ msgstr "Domina Firefox OS"
 #: db-strings.txt:15 db-strings.txt.py:2355 db-strings.txt.py:4695
 #: db-strings.txt:7044
 msgid "Welcome!"
-msgstr ""
+msgstr "Benvenuto"
 
 #. Translators:
 #. Page path: /1-1/
@@ -57,7 +57,6 @@ msgstr ""
 #. Page path: /2-0/
 #: db-strings.txt:24 db-strings.txt.py:2364 db-strings.txt.py:4704
 #: db-strings.txt:7053
-#, fuzzy
 #| msgid ""
 #| "Welcome to the Firefox OS global partner and community training hub. Select "
 #| "any topic to get started."
@@ -66,8 +65,9 @@ msgid ""
 "effectively communicate the basics of Firefox OS. Select any topic top get "
 "started."
 msgstr ""
-"Benvenuto nel centro di formazione dedicato ai partner globali e alla "
-"comunità di Firefox OS. Seleziona un argomento per iniziare."
+"Questo centro di formazione dedicato ai partner globali e alla comunità "
+"include tutte le informazioni utili per una corretta comunicazione a "
+"proposito di Firefox OS. Seleziona un argomento per iniziare."
 
 #. Translators:
 #. Page path: /1-1/introduction/
@@ -1270,7 +1270,6 @@ msgstr "Cosa posso fare se ho altre domande?"
 #. Translators:
 #. Page path: /2-0/frequently-asked-questions/
 #: db-strings.txt:852 db-strings.txt.py:3138 db-strings.txt.py:7827
-#, fuzzy
 #| msgid ""
 #| "Visit <a href=\"https://support.mozilla.org/en-US/kb/firefox-os-user-"
 #| "guide\">https://support.mozilla.org/en-US/kb/firefox-os-user-guide</a> for "
@@ -1280,9 +1279,9 @@ msgid ""
 "os\">https://support.mozilla.org/en-US/products/firefox-os</a> for more "
 "information."
 msgstr ""
-"Visita <a href=\"https://support.mozilla.org/kb/firefox-os-user-"
-"guide\">https://support.mozilla.org/kb/firefox-os-user-guide</a> per "
-"ulteriori informazioni."
+"Visita <a href=\"https://support.mozilla.org/products/firefox-"
+"os\">https://support.mozilla.org/products/firefox-os</a> per ulteriori "
+"informazioni."
 
 #. Translators:
 #. Page path: /1-1/about/
