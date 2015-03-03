@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-03-01 16:54+0000\n"
+"POT-Creation-Date: 2015-02-27 20:15+0000\n"
 "PO-Revision-Date: 2015-02-28 07:07+0000\n"
 "Last-Translator: Francesco <francesco.lodolo@mozillaitalia.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -57,6 +57,9 @@ msgstr "Benvenuto"
 #. Page path: /2-0/
 #: db-strings.txt:24 db-strings.txt.py:2364 db-strings.txt.py:4704
 #: db-strings.txt:7053
+#| msgid ""
+#| "Welcome to the Firefox OS global partner and community training hub. Select "
+#| "any topic to get started."
 msgid ""
 "This global partner and community training hub has everything you need to "
 "effectively communicate the basics of Firefox OS. Select any topic top get "
@@ -1267,6 +1270,10 @@ msgstr "Cosa posso fare se ho altre domande?"
 #. Translators:
 #. Page path: /2-0/frequently-asked-questions/
 #: db-strings.txt:852 db-strings.txt.py:3138 db-strings.txt.py:7827
+#| msgid ""
+#| "Visit <a href=\"https://support.mozilla.org/en-US/kb/firefox-os-user-"
+#| "guide\">https://support.mozilla.org/en-US/kb/firefox-os-user-guide</a> for "
+#| "more information."
 msgid ""
 "Visit <a href=\"https://support.mozilla.org/en-US/products/firefox-"
 "os\">https://support.mozilla.org/en-US/products/firefox-os</a> for more "
@@ -2879,96 +2886,68 @@ msgid "The latest version available in {language} is {version}."
 msgstr "La versione più recente disponibile in {language} è {version}."
 
 #: masterfirefoxos/settings/base.py:187
-msgid "Afrikaans"
-msgstr ""
-
-#: masterfirefoxos/settings/base.py:188
-msgid "Arabic"
-msgstr ""
-
-#: masterfirefoxos/settings/base.py:189
 msgid "Bengali"
 msgstr "Bengalese"
 
-#: masterfirefoxos/settings/base.py:190
+#: masterfirefoxos/settings/base.py:188
 msgid "Croatian"
 msgstr "Croato"
 
-#: masterfirefoxos/settings/base.py:191
+#: masterfirefoxos/settings/base.py:189
 msgid "Czech"
 msgstr "Ceco"
 
-#: masterfirefoxos/settings/base.py:192
+#: masterfirefoxos/settings/base.py:190
 msgid "English"
 msgstr "Inglese"
 
-#: masterfirefoxos/settings/base.py:193
+#: masterfirefoxos/settings/base.py:191
 msgid "German"
 msgstr "Tedesco"
 
-#: masterfirefoxos/settings/base.py:194
+#: masterfirefoxos/settings/base.py:192
 msgid "Greek"
 msgstr "Greco"
 
-#: masterfirefoxos/settings/base.py:195
-msgid "French"
-msgstr ""
-
-#: masterfirefoxos/settings/base.py:196
+#: masterfirefoxos/settings/base.py:193
 msgid "Hindi"
 msgstr "Hindi"
 
-#: masterfirefoxos/settings/base.py:197
+#: masterfirefoxos/settings/base.py:194
 msgid "Hungarian"
 msgstr "Ungherese"
 
-#: masterfirefoxos/settings/base.py:198
+#: masterfirefoxos/settings/base.py:195
 msgid "Italian"
 msgstr "Italiano"
 
-#: masterfirefoxos/settings/base.py:199
+#: masterfirefoxos/settings/base.py:196
 msgid "Japanese"
 msgstr "Giapponese"
 
-#: masterfirefoxos/settings/base.py:200
+#: masterfirefoxos/settings/base.py:197
 msgid "Polish"
 msgstr "Polacco"
 
-#: masterfirefoxos/settings/base.py:201
+#: masterfirefoxos/settings/base.py:198
 msgid "Portuguese"
 msgstr "Portoghese"
 
-#: masterfirefoxos/settings/base.py:202
+#: masterfirefoxos/settings/base.py:199
 msgid "Serbian"
 msgstr "Serbo"
 
-#: masterfirefoxos/settings/base.py:203
-msgid "Kiswahili"
-msgstr ""
-
-#: masterfirefoxos/settings/base.py:204
+#: masterfirefoxos/settings/base.py:200
 msgid "Spanish"
 msgstr "Spagnolo"
 
-#: masterfirefoxos/settings/base.py:205
+#: masterfirefoxos/settings/base.py:201
 msgid "Tamil"
 msgstr "Tamil"
 
-#: masterfirefoxos/settings/base.py:206
-msgid "Wolof"
-msgstr ""
-
-#: masterfirefoxos/settings/base.py:207
-msgid "Xhosa"
-msgstr ""
-
-#: masterfirefoxos/settings/base.py:208
+#: masterfirefoxos/settings/base.py:202
 msgid "Pirate"
 msgstr "Pirata"
-
-#: masterfirefoxos/settings/base.py:209
-msgid "Zulu"
-msgstr ""
 
 #~ msgid "z8IAfoqxOPI"
 #~ msgstr "9U6qXAqx9qw"
