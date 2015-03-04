@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-03-02 16:57+0000\n"
+"POT-Creation-Date: 2015-03-04 23:21+0000\n"
 "PO-Revision-Date: 2015-02-20 11:48:21\n"
 "Last-Translator: <nshimizu@mozilla-japan.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1244,21 +1244,6 @@ msgstr ""
 "上の連絡先も、素早くスマホと同期できます。"
 
 #. Translators:
-#. Page path: /1-3T/customer-guide/
-#. Translators:
-#. Page path: /1-4/customer-guide/
-#. Translators:
-#. Page path: /2-0/customer-guide/
-#: db-strings.txt:2607 db-strings.txt.py:5001 db-strings.txt.py:7278
-msgid ""
-"Understanding your customer’s needs and knowing how to respond on the spot "
-"is critical to any sales opportunity. Check out the common customer segments"
-" below, then drag the bar to learn how to best respond to each of their "
-"unique needs."
-msgstr ""
-"ニーズを把握し、即座に対応することは大切です。以下に分類されたユーザをチェックして、バーをドラッグすると、それぞれのニーズに適した対応方法を学べます。"
-
-#. Translators:
 #. Page path: /1-3T/key-features/
 #. Translators:
 #. Page path: /1-4/key-features/
@@ -1318,22 +1303,6 @@ msgstr ""
 #: db-strings.txt:3021 db-strings.txt.py:5433 db-strings.txt.py:7692
 msgid "What do you mean I can convert mobile sites into apps?"
 msgstr "モバイルサイトをアプリにできる、とはどういうことですか？"
-
-#. Translators:
-#. Page path: /1-3T/frequently-asked-questions/
-#. Translators:
-#. Page path: /2-0/frequently-asked-questions/
-#: db-strings.txt:3030 db-strings.txt.py:7701
-msgid ""
-"Users can place website bookmarks on the home page to provide direct access "
-"to those sites. Also, by swiping right from the home screen, users can "
-"simply enter any search term and instantly create a one-time use or "
-"downloadable app. Creating and consuming these apps on demand puts users in "
-"complete control of their smartphone experience and will make it possible "
-"for people to get the exact content they want, when they want it."
-msgstr ""
-"ユーザは Web "
-"サイトへのブックマークをホーム画面に配置できます。それをタップすることで、サイトへ直接アクセスできるようになります。また検索することで、ワンタイムユースアプリやダウンロード可能なアプリを作成できます。このようなアプリを必要に応じて作成し利用することで、自分にとって本当に必要なものを必要な時に入手できるようになります。"
 
 #. Translators:
 #. Page path: /1-3T/frequently-asked-questions/
@@ -1716,13 +1685,21 @@ msgstr "豊かなメディア体験"
 #. Translators:
 #. Page path: /2-0/demo-tips/
 #: db-strings.txt:7233
+#, fuzzy
+#| msgid ""
+#| "With Camera, Gallery, Music apps and more, Firefox OS will keep your "
+#| "customers entertained on the go and connected to the things that matter most"
+#| " to them.  Camera: Photograph, edit and share. Show off our full-featured "
+#| "camera and gallery apps, including built-in style filters, video and more  "
+#| "Music: With music at their fingertips, your customers will see how Firefox "
+#| "OS keeps them entertained and dancing in the streets."
 msgid ""
 "With Camera, Gallery, Music apps and more, Firefox OS will keep your "
 "customers entertained on the go and connected to the things that matter most"
-" to them.  Camera: Photograph, edit and share. Show off our full-featured "
-"camera and gallery apps, including built-in style filters, video and more  "
-"Music: With music at their fingertips, your customers will see how Firefox "
-"OS keeps them entertained and dancing in the streets."
+" to them.  <br><br>Camera: Photograph, edit and share. Show off our full-"
+"featured camera and gallery apps, including built-in style filters, video "
+"and more.  <br><br>Music: With music at their fingertips, your customers "
+"will see how Firefox OS keeps them entertained and dancing in the streets."
 msgstr ""
 "カメラ、ギャラリー、音楽アプリといったアプリを使えば、出先でも楽しく、そして友人たちとつながることを説明しましょう。例えばカメラ。撮影し、編集し、シェアできます。フィルタや、動画撮影といった機能を見せつつ、カメラとギャラリーアプリの機能を説明してください。また音楽アプリに関しては、再生してみせることで"
 " Firefox OS でも出先で音楽を楽しめることを示しましょう。"
@@ -1732,6 +1709,22 @@ msgstr ""
 #: db-strings.txt:7242
 msgid "Social and contact sync"
 msgstr "SNSと連絡先との同期"
+
+#. Translators:
+#. Page path: /2-0/customer-guide/
+#: db-strings.txt:7278
+#, fuzzy
+#| msgid ""
+#| "Understanding your customer’s needs and knowing how to respond on the spot "
+#| "is critical to any sales opportunity. Check out the common customer segments"
+#| " below, then drag the bar to learn how to best respond to each of their "
+#| "unique needs."
+msgid ""
+"Understanding your customer’s needs and knowing how to respond on the spot "
+"is critical to any sales opportunity. Check out the common customer segments"
+" below to learn how to best respond to each of their unique needs."
+msgstr ""
+"ニーズを把握し、即座に対応することは大切です。以下に分類されたユーザをチェックして、バーをドラッグすると、それぞれのニーズに適した対応方法を学べます。"
 
 #. Translators:
 #. Page path: /2-0/customer-guide/
@@ -1888,6 +1881,28 @@ msgstr ""
 
 #. Translators:
 #. Page path: /2-0/frequently-asked-questions/
+#: db-strings.txt:7701
+#, fuzzy
+#| msgid ""
+#| "Users can place website bookmarks on the home page to provide direct access "
+#| "to those sites. Also, by swiping right from the home screen, users can "
+#| "simply enter any search term and instantly create a one-time use or "
+#| "downloadable app. Creating and consuming these apps on demand puts users in "
+#| "complete control of their smartphone experience and will make it possible "
+#| "for people to get the exact content they want, when they want it."
+msgid ""
+"Users can place bookmarks to any website on their home screen to provide the"
+" functionality of that site directly from there. Also, users can simply "
+"enter any search term on the home screen and instantly create a one-time use"
+" or downloadable app. Creating and consuming these apps on demand puts users"
+" in complete control of their smartphone experience and makes it possible "
+"for people to get the exact content they want, when they want it."
+msgstr ""
+"ユーザは Web "
+"サイトへのブックマークをホーム画面に配置できます。それをタップすることで、サイトへ直接アクセスできるようになります。また検索することで、ワンタイムユースアプリやダウンロード可能なアプリを作成できます。このようなアプリを必要に応じて作成し利用することで、自分にとって本当に必要なものを必要な時に入手できるようになります。"
+
+#. Translators:
+#. Page path: /2-0/frequently-asked-questions/
 #: db-strings.txt:7728
 msgid "Can I use WhatsApp on this phone?"
 msgstr "WhatsApp を利用できますか？"
@@ -1978,7 +1993,7 @@ msgstr "Firefox OS 端末では、上記の全てのことを行えます。"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
-#: db-strings.txt:7944 db-strings.txt.py:8124 db-strings.txt.py:8376
+#: db-strings.txt:7944 db-strings.txt.py:8124 db-strings.txt.py:8367
 msgid "There are more. Try again."
 msgstr "まだ他にもあります。探してみてください。"
 
@@ -2131,7 +2146,7 @@ msgstr "正解です。Firefox Acount と端末とをひもづけることで、
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
-#: db-strings.txt:8367
+#: db-strings.txt:8376
 msgid ""
 "Actually, the Find My Device helps you do all these things through your "
 "Firefox Account."
@@ -2547,95 +2562,95 @@ msgstr "Firefox OS {version} の {language} 語版文書はまだ用意されて
 msgid "The latest version available in {language} is {version}."
 msgstr "{language} の最新バージョンは {version} です。"
 
-#: masterfirefoxos/settings/base.py:188
+#: masterfirefoxos/settings/base.py:189
 msgid "Afrikaans"
 msgstr ""
 
-#: masterfirefoxos/settings/base.py:189
+#: masterfirefoxos/settings/base.py:190
 msgid "Arabic"
 msgstr ""
 
-#: masterfirefoxos/settings/base.py:190
+#: masterfirefoxos/settings/base.py:191
 msgid "Bengali"
 msgstr "ベンガル"
 
-#: masterfirefoxos/settings/base.py:191
+#: masterfirefoxos/settings/base.py:192
 msgid "Croatian"
 msgstr "クロアチア"
 
-#: masterfirefoxos/settings/base.py:192
+#: masterfirefoxos/settings/base.py:193
 msgid "Czech"
 msgstr "チェコ"
 
-#: masterfirefoxos/settings/base.py:193
+#: masterfirefoxos/settings/base.py:194
 msgid "English"
 msgstr "英"
 
-#: masterfirefoxos/settings/base.py:194
+#: masterfirefoxos/settings/base.py:195
 msgid "German"
 msgstr "ドイツ"
 
-#: masterfirefoxos/settings/base.py:195
+#: masterfirefoxos/settings/base.py:196
 msgid "Greek"
 msgstr "ギリシア"
 
-#: masterfirefoxos/settings/base.py:196
+#: masterfirefoxos/settings/base.py:197
 msgid "French"
 msgstr ""
 
-#: masterfirefoxos/settings/base.py:197
+#: masterfirefoxos/settings/base.py:198
 msgid "Hindi"
 msgstr "ヒンディー"
 
-#: masterfirefoxos/settings/base.py:198
+#: masterfirefoxos/settings/base.py:199
 msgid "Hungarian"
 msgstr "ハンガリー"
 
-#: masterfirefoxos/settings/base.py:199
+#: masterfirefoxos/settings/base.py:200
 msgid "Italian"
 msgstr "イタリア"
 
-#: masterfirefoxos/settings/base.py:200
+#: masterfirefoxos/settings/base.py:201
 msgid "Japanese"
 msgstr "日本"
 
-#: masterfirefoxos/settings/base.py:201
+#: masterfirefoxos/settings/base.py:202
 msgid "Polish"
 msgstr "ポーランド"
 
-#: masterfirefoxos/settings/base.py:202
+#: masterfirefoxos/settings/base.py:203
 msgid "Portuguese"
 msgstr "ポルトガル"
 
-#: masterfirefoxos/settings/base.py:203
+#: masterfirefoxos/settings/base.py:204
 msgid "Serbian"
 msgstr "セルビア"
 
-#: masterfirefoxos/settings/base.py:204
+#: masterfirefoxos/settings/base.py:205
 msgid "Kiswahili"
 msgstr ""
 
-#: masterfirefoxos/settings/base.py:205
+#: masterfirefoxos/settings/base.py:206
 msgid "Spanish"
 msgstr "スペイン"
 
-#: masterfirefoxos/settings/base.py:206
+#: masterfirefoxos/settings/base.py:207
 msgid "Tamil"
 msgstr "タミル"
 
-#: masterfirefoxos/settings/base.py:207
+#: masterfirefoxos/settings/base.py:208
 msgid "Wolof"
 msgstr ""
 
-#: masterfirefoxos/settings/base.py:208
+#: masterfirefoxos/settings/base.py:209
 msgid "Xhosa"
 msgstr ""
 
-#: masterfirefoxos/settings/base.py:209
+#: masterfirefoxos/settings/base.py:210
 msgid "Pirate"
 msgstr "著作権侵害"
 
-#: masterfirefoxos/settings/base.py:210
+#: masterfirefoxos/settings/base.py:211
 msgid "Zulu"
 msgstr ""
 

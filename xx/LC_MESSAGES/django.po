@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-03-02 16:57+0000\n"
+"POT-Creation-Date: 2015-03-04 23:21+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2556,9 +2556,7 @@ msgstr ""
 #. Page path: /1-3T/customer-guide/
 #. Translators:
 #. Page path: /1-4/customer-guide/
-#. Translators:
-#. Page path: /2-0/customer-guide/
-#: db-strings.txt:2607 db-strings.txt.py:5001 db-strings.txt.py:7278
+#: db-strings.txt:2607 db-strings.txt.py:5001
 msgid ""
 "Understanding your customer’s needs and knowing how to respond on the spot "
 "is critical to any sales opportunity. Check out the common customer segments "
@@ -2737,9 +2735,7 @@ msgstr ""
 
 #. Translators:
 #. Page path: /1-3T/frequently-asked-questions/
-#. Translators:
-#. Page path: /2-0/frequently-asked-questions/
-#: db-strings.txt:3030 db-strings.txt.py:7701
+#: db-strings.txt:3030
 msgid ""
 "Users can place website bookmarks on the home page to provide direct access "
 "to those sites. Also, by swiping right from the home screen, users can "
@@ -3804,16 +3800,25 @@ msgstr ""
 msgid ""
 "With Camera, Gallery, Music apps and more, Firefox OS will keep your "
 "customers entertained on the go and connected to the things that matter most "
-"to them.  Camera: Photograph, edit and share. Show off our full-featured "
-"camera and gallery apps, including built-in style filters, video and more  "
-"Music: With music at their fingertips, your customers will see how Firefox "
-"OS keeps them entertained and dancing in the streets."
+"to them.  <br><br>Camera: Photograph, edit and share. Show off our full-"
+"featured camera and gallery apps, including built-in style filters, video "
+"and more.  <br><br>Music: With music at their fingertips, your customers "
+"will see how Firefox OS keeps them entertained and dancing in the streets."
 msgstr ""
 
 #. Translators:
 #. Page path: /2-0/demo-tips/
 #: db-strings.txt:7242
 msgid "Social and contact sync"
+msgstr ""
+
+#. Translators:
+#. Page path: /2-0/customer-guide/
+#: db-strings.txt:7278
+msgid ""
+"Understanding your customer’s needs and knowing how to respond on the spot "
+"is critical to any sales opportunity. Check out the common customer segments "
+"below to learn how to best respond to each of their unique needs."
 msgstr ""
 
 #. Translators:
@@ -3953,6 +3958,18 @@ msgstr ""
 
 #. Translators:
 #. Page path: /2-0/frequently-asked-questions/
+#: db-strings.txt:7701
+msgid ""
+"Users can place bookmarks to any website on their home screen to provide the "
+"functionality of that site directly from there. Also, users can simply enter "
+"any search term on the home screen and instantly create a one-time use or "
+"downloadable app. Creating and consuming these apps on demand puts users in "
+"complete control of their smartphone experience and makes it possible for "
+"people to get the exact content they want, when they want it."
+msgstr ""
+
+#. Translators:
+#. Page path: /2-0/frequently-asked-questions/
 #: db-strings.txt:7728
 msgid "Can I use WhatsApp on this phone?"
 msgstr ""
@@ -4035,7 +4052,7 @@ msgstr ""
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
-#: db-strings.txt:7944 db-strings.txt.py:8124 db-strings.txt.py:8376
+#: db-strings.txt:7944 db-strings.txt.py:8124 db-strings.txt.py:8367
 msgid "There are more. Try again."
 msgstr ""
 
@@ -4175,7 +4192,7 @@ msgstr ""
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
-#: db-strings.txt:8367
+#: db-strings.txt:8376
 msgid ""
 "Actually, the Find My Device helps you do all these things through your "
 "Firefox Account."
@@ -4569,95 +4586,95 @@ msgstr ""
 msgid "The latest version available in {language} is {version}."
 msgstr "The latest varrsion available in {language} is {version} ahoy❗."
 
-#: masterfirefoxos/settings/base.py:188
+#: masterfirefoxos/settings/base.py:189
 msgid "Afrikaans"
 msgstr ""
 
-#: masterfirefoxos/settings/base.py:189
+#: masterfirefoxos/settings/base.py:190
 msgid "Arabic"
 msgstr ""
 
-#: masterfirefoxos/settings/base.py:190
+#: masterfirefoxos/settings/base.py:191
 msgid "Bengali"
 msgstr "Bengali ye scalleywag❗"
 
-#: masterfirefoxos/settings/base.py:191
+#: masterfirefoxos/settings/base.py:192
 msgid "Croatian"
 msgstr "Croatian cap'n❗"
 
-#: masterfirefoxos/settings/base.py:192
+#: masterfirefoxos/settings/base.py:193
 msgid "Czech"
 msgstr "Czech ahoy❗"
 
-#: masterfirefoxos/settings/base.py:193
+#: masterfirefoxos/settings/base.py:194
 msgid "English"
 msgstr "English ye scalleywag❗"
 
-#: masterfirefoxos/settings/base.py:194
+#: masterfirefoxos/settings/base.py:195
 msgid "German"
 msgstr "Garrman ye scalleywag❗"
 
-#: masterfirefoxos/settings/base.py:195
+#: masterfirefoxos/settings/base.py:196
 msgid "Greek"
 msgstr "Greek ahoy❗"
 
-#: masterfirefoxos/settings/base.py:196
+#: masterfirefoxos/settings/base.py:197
 msgid "French"
 msgstr ""
 
-#: masterfirefoxos/settings/base.py:197
+#: masterfirefoxos/settings/base.py:198
 msgid "Hindi"
 msgstr "Hindi ahoy❗"
 
-#: masterfirefoxos/settings/base.py:198
+#: masterfirefoxos/settings/base.py:199
 msgid "Hungarian"
 msgstr "Hungarian yo-ho-ho❗"
 
-#: masterfirefoxos/settings/base.py:199
+#: masterfirefoxos/settings/base.py:200
 msgid "Italian"
 msgstr "Italian ye scalleywag❗"
 
-#: masterfirefoxos/settings/base.py:200
+#: masterfirefoxos/settings/base.py:201
 msgid "Japanese"
 msgstr "Japanese cap'n❗"
 
-#: masterfirefoxos/settings/base.py:201
+#: masterfirefoxos/settings/base.py:202
 msgid "Polish"
 msgstr "Polish aye❗"
 
-#: masterfirefoxos/settings/base.py:202
+#: masterfirefoxos/settings/base.py:203
 msgid "Portuguese"
 msgstr "Portuguese shiver me timbers❗"
 
-#: masterfirefoxos/settings/base.py:203
+#: masterfirefoxos/settings/base.py:204
 msgid "Serbian"
 msgstr "Sarrbian cap'n❗"
 
-#: masterfirefoxos/settings/base.py:204
+#: masterfirefoxos/settings/base.py:205
 msgid "Kiswahili"
 msgstr ""
 
-#: masterfirefoxos/settings/base.py:205
+#: masterfirefoxos/settings/base.py:206
 msgid "Spanish"
 msgstr "Spanish ye scalleywag❗"
 
-#: masterfirefoxos/settings/base.py:206
+#: masterfirefoxos/settings/base.py:207
 msgid "Tamil"
 msgstr "Tamil ahoy❗"
 
-#: masterfirefoxos/settings/base.py:207
+#: masterfirefoxos/settings/base.py:208
 msgid "Wolof"
 msgstr ""
 
-#: masterfirefoxos/settings/base.py:208
+#: masterfirefoxos/settings/base.py:209
 msgid "Xhosa"
 msgstr ""
 
-#: masterfirefoxos/settings/base.py:209
+#: masterfirefoxos/settings/base.py:210
 msgid "Pirate"
 msgstr "Pirate aye❗"
 
-#: masterfirefoxos/settings/base.py:210
+#: masterfirefoxos/settings/base.py:211
 msgid "Zulu"
 msgstr ""
 

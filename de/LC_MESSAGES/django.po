@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-03-02 16:57+0000\n"
+"POT-Creation-Date: 2015-03-04 23:21+0000\n"
 "PO-Revision-Date: 2015-03-04 20:52+0000\n"
 "Last-Translator: Michael <michael.koehler1@gmx.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1402,10 +1402,10 @@ msgid ""
 msgstr ""
 "Wenn Sie sich durch die Fragen und den Inhalt gearbeitet haben, dann haben "
 "Sie jetzt das Grundwissen, um Firefox OS und die Bedürfnisse Ihrer Kunden "
-"abzugleichen. Ein Firefox-OS-Smartphone ist einfach zu benutzen, perfekt für "
-"Smartphone-Einsteiger und voll mit den Funktionen, die Kunden wollen und "
-"benötigen. Und hinter allem steht Mozilla, was Firefox OS zur richtigen Wahl "
-"für jeden macht, der sich dafür engagiert, dass die Kraft des Internets in "
+"abzugleichen. Ein Firefox-OS-Smartphone ist einfach zu benutzen, perfekt für"
+" Smartphone-Einsteiger und voll mit den Funktionen, die Kunden wollen und "
+"benötigen. Und hinter allem steht Mozilla, was Firefox OS zur richtigen Wahl"
+" für jeden macht, der sich dafür engagiert, dass die Kraft des Internets in "
 "den Händen der Nutzer auf der ganzen Welt bleibt!"
 
 #. Translators:
@@ -2811,25 +2811,6 @@ msgstr ""
 "und einfach mit dem Handy synchronisieren."
 
 #. Translators:
-#. Page path: /1-3T/customer-guide/
-#. Translators:
-#. Page path: /1-4/customer-guide/
-#. Translators:
-#. Page path: /2-0/customer-guide/
-#: db-strings.txt:2607 db-strings.txt.py:5001 db-strings.txt.py:7278
-msgid ""
-"Understanding your customer’s needs and knowing how to respond on the spot "
-"is critical to any sales opportunity. Check out the common customer segments"
-" below, then drag the bar to learn how to best respond to each of their "
-"unique needs."
-msgstr ""
-"Das Verständnis für die Bedürfnisse Ihres Kunden und eine schnelle Reaktion "
-"darauf sind Grundvoraussetzungen für jede Verkaufsgelegenheit. Sehen Sie "
-"sich die folgenden häufigen Kundensegmente an und ziehen Sie die Leiste, um "
-"zu erfahren, wie Sie auf die jeweiligen besonderen Bedürfnisse am besten "
-"reagieren."
-
-#. Translators:
 #. Page path: /1-3T/key-features/
 #. Translators:
 #. Page path: /1-4/key-features/
@@ -2898,27 +2879,6 @@ msgstr ""
 msgid "What do you mean I can convert mobile sites into apps?"
 msgstr ""
 "Was meinen Sie damit, dass ich mobile Websites in Apps umwandeln kann?"
-
-#. Translators:
-#. Page path: /1-3T/frequently-asked-questions/
-#. Translators:
-#. Page path: /2-0/frequently-asked-questions/
-#: db-strings.txt:3030 db-strings.txt.py:7701
-msgid ""
-"Users can place website bookmarks on the home page to provide direct access "
-"to those sites. Also, by swiping right from the home screen, users can "
-"simply enter any search term and instantly create a one-time use or "
-"downloadable app. Creating and consuming these apps on demand puts users in "
-"complete control of their smartphone experience and will make it possible "
-"for people to get the exact content they want, when they want it."
-msgstr ""
-"Anwender können Lesezeichen für beliebige Websites auf der Startseite "
-"ablegen, um direkt auf diese Websites zugreifen zu können. Wenn sie vom "
-"Startbildschirm nach rechts wischen, können Anwender auch einfach einen "
-"Suchbegriff eingeben und sofort eine App zur einmaligen Nutzung oder zum "
-"Herunterladen erstellen. Erstellen und Nutzen dieser Apps auf Abruf gibt "
-"Anwendern die Kontrolle über ihr App- und Smartphone-Erlebnis und ermöglicht"
-" es Menschen, genau zur richtigen Zeit die gewünschten Inhalte zu erhalten."
 
 #. Translators:
 #. Page path: /1-3T/frequently-asked-questions/
@@ -3340,13 +3300,21 @@ msgstr "Reichhaltiges Medienerlebnis"
 #. Translators:
 #. Page path: /2-0/demo-tips/
 #: db-strings.txt:7233
+#, fuzzy
+#| msgid ""
+#| "With Camera, Gallery, Music apps and more, Firefox OS will keep your "
+#| "customers entertained on the go and connected to the things that matter most"
+#| " to them.  Camera: Photograph, edit and share. Show off our full-featured "
+#| "camera and gallery apps, including built-in style filters, video and more  "
+#| "Music: With music at their fingertips, your customers will see how Firefox "
+#| "OS keeps them entertained and dancing in the streets."
 msgid ""
 "With Camera, Gallery, Music apps and more, Firefox OS will keep your "
 "customers entertained on the go and connected to the things that matter most"
-" to them.  Camera: Photograph, edit and share. Show off our full-featured "
-"camera and gallery apps, including built-in style filters, video and more  "
-"Music: With music at their fingertips, your customers will see how Firefox "
-"OS keeps them entertained and dancing in the streets."
+" to them.  <br><br>Camera: Photograph, edit and share. Show off our full-"
+"featured camera and gallery apps, including built-in style filters, video "
+"and more.  <br><br>Music: With music at their fingertips, your customers "
+"will see how Firefox OS keeps them entertained and dancing in the streets."
 msgstr ""
 "Dank Kamera-, Galerie, Musik-Apps und mehr unterhält Firefox OS Ihre Kunden "
 "unterwegs. Außerdem können sie mit den Dingen in Verbindung bleiben, die "
@@ -3361,6 +3329,26 @@ msgstr ""
 #: db-strings.txt:7242
 msgid "Social and contact sync"
 msgstr "Soziales und Synchronisation von Kontakten"
+
+#. Translators:
+#. Page path: /2-0/customer-guide/
+#: db-strings.txt:7278
+#, fuzzy
+#| msgid ""
+#| "Understanding your customer’s needs and knowing how to respond on the spot "
+#| "is critical to any sales opportunity. Check out the common customer segments"
+#| " below, and tap the bar to learn how to best respond to each of their unique"
+#| " needs."
+msgid ""
+"Understanding your customer’s needs and knowing how to respond on the spot "
+"is critical to any sales opportunity. Check out the common customer segments"
+" below to learn how to best respond to each of their unique needs."
+msgstr ""
+"Das Verständnis für die Bedürfnisse Ihres Kunden und eine schnelle Reaktion "
+"darauf sind Grundvoraussetzungen für jede Verkaufsgelegenheit. Sehen Sie "
+"sich die folgenden häufigen Kundensegmente an und tippen Sie auf die Leiste,"
+" um zu erfahren, wie Sie auf die jeweiligen besonderen Bedürfnisse am besten"
+" reagieren."
 
 #. Translators:
 #. Page path: /2-0/customer-guide/
@@ -3405,8 +3393,8 @@ msgid ""
 " Firefox OS, you have the full power of the Web in your hands."
 msgstr ""
 "<strong>Das können Sie sagen:</strong> Wenn Sie Firefox kennen und lieben, "
-"werden Sie auch Firefox OS lieben.  Firefox-OS-Smartphones basieren komplett "
-"auf HTML5 und bringen so das Beste des Internets auf Ihr Handy.  Außerdem "
+"werden Sie auch Firefox OS lieben.  Firefox-OS-Smartphones basieren komplett"
+" auf HTML5 und bringen so das Beste des Internets auf Ihr Handy.  Außerdem "
 "wird Firefox OS von einer Gemeinschaft entwickelt, die sich dafür einsetzt, "
 "dass das Internet für alle zugänglich bleibt. Wenn Sie sich für Firefox OS "
 "entscheiden, haben Sie die geballte Macht des Internets in Ihren Händen."
@@ -3547,6 +3535,33 @@ msgstr ""
 
 #. Translators:
 #. Page path: /2-0/frequently-asked-questions/
+#: db-strings.txt:7701
+#, fuzzy
+#| msgid ""
+#| "Users can place website bookmarks on the home page to provide direct access "
+#| "to those sites. Also, by swiping right from the home screen, users can "
+#| "simply enter any search term and instantly create a one-time use or "
+#| "downloadable app. Creating and consuming these apps on demand puts users in "
+#| "complete control of their smartphone experience and will make it possible "
+#| "for people to get the exact content they want, when they want it."
+msgid ""
+"Users can place bookmarks to any website on their home screen to provide the"
+" functionality of that site directly from there. Also, users can simply "
+"enter any search term on the home screen and instantly create a one-time use"
+" or downloadable app. Creating and consuming these apps on demand puts users"
+" in complete control of their smartphone experience and makes it possible "
+"for people to get the exact content they want, when they want it."
+msgstr ""
+"Anwender können Lesezeichen für beliebige Websites auf der Startseite "
+"ablegen, um direkt auf diese Websites zugreifen zu können. Wenn sie vom "
+"Startbildschirm nach rechts wischen, können Anwender auch einfach einen "
+"Suchbegriff eingeben und sofort eine App zur einmaligen Nutzung oder zum "
+"Herunterladen erstellen. Erstellen und Nutzen dieser Apps auf Abruf gibt "
+"Anwendern die Kontrolle über ihr App- und Smartphone-Erlebnis und ermöglicht"
+" es Menschen, genau zur richtigen Zeit die gewünschten Inhalte zu erhalten."
+
+#. Translators:
+#. Page path: /2-0/frequently-asked-questions/
 #: db-strings.txt:7728
 msgid "Can I use WhatsApp on this phone?"
 msgstr "Kann ich auf diesem Handy WhatsApp verwenden?"
@@ -3617,10 +3632,10 @@ msgid ""
 msgstr ""
 "Wenn Sie sich durch die Fragen und den Inhalt gearbeitet haben, dann haben "
 "Sie jetzt das Grundwissen, um Firefox OS und die Bedürfnisse Ihrer Kunden "
-"abzugleichen. Ein Firefox-OS-Smartphone ist einfach zu benutzen, perfekt für "
-"Smartphone-Einsteiger und voll mit den Funktionen, die Kunden wollen und "
-"benötigen. Und hinter allem steht Mozilla, was Firefox OS zur richtigen Wahl "
-"für jeden macht, der sich dafür engagiert, dass das Internet in ihren "
+"abzugleichen. Ein Firefox-OS-Smartphone ist einfach zu benutzen, perfekt für"
+" Smartphone-Einsteiger und voll mit den Funktionen, die Kunden wollen und "
+"benötigen. Und hinter allem steht Mozilla, was Firefox OS zur richtigen Wahl"
+" für jeden macht, der sich dafür engagiert, dass das Internet in ihren "
 "Händen bleibt!"
 
 #. Translators:
@@ -3648,7 +3663,7 @@ msgstr "Nein, all diese Dinge sind mit einem Firefox-OS-Handy möglich."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
-#: db-strings.txt:7944 db-strings.txt.py:8124 db-strings.txt.py:8376
+#: db-strings.txt:7944 db-strings.txt.py:8124 db-strings.txt.py:8367
 msgid "There are more. Try again."
 msgstr "Es gibt noch mehr. Versuchen Sie’s nochmal."
 
@@ -3826,7 +3841,7 @@ msgstr ""
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
-#: db-strings.txt:8367
+#: db-strings.txt:8376
 msgid ""
 "Actually, the Find My Device helps you do all these things through your "
 "Firefox Account."
@@ -4287,95 +4302,95 @@ msgstr ""
 msgid "The latest version available in {language} is {version}."
 msgstr "Die neueste auf {language} verfügbare Version ist {version}."
 
-#: masterfirefoxos/settings/base.py:188
+#: masterfirefoxos/settings/base.py:189
 msgid "Afrikaans"
 msgstr "Afrikaans"
 
-#: masterfirefoxos/settings/base.py:189
+#: masterfirefoxos/settings/base.py:190
 msgid "Arabic"
 msgstr "Arabisch"
 
-#: masterfirefoxos/settings/base.py:190
+#: masterfirefoxos/settings/base.py:191
 msgid "Bengali"
 msgstr "Bengalisch"
 
-#: masterfirefoxos/settings/base.py:191
+#: masterfirefoxos/settings/base.py:192
 msgid "Croatian"
 msgstr "Kroatisch"
 
-#: masterfirefoxos/settings/base.py:192
+#: masterfirefoxos/settings/base.py:193
 msgid "Czech"
 msgstr "Tschechisch"
 
-#: masterfirefoxos/settings/base.py:193
+#: masterfirefoxos/settings/base.py:194
 msgid "English"
 msgstr "Englisch"
 
-#: masterfirefoxos/settings/base.py:194
+#: masterfirefoxos/settings/base.py:195
 msgid "German"
 msgstr "Deutsch"
 
-#: masterfirefoxos/settings/base.py:195
+#: masterfirefoxos/settings/base.py:196
 msgid "Greek"
 msgstr "Griechisch"
 
-#: masterfirefoxos/settings/base.py:196
+#: masterfirefoxos/settings/base.py:197
 msgid "French"
 msgstr "Französisch"
 
-#: masterfirefoxos/settings/base.py:197
+#: masterfirefoxos/settings/base.py:198
 msgid "Hindi"
 msgstr "Hindi"
 
-#: masterfirefoxos/settings/base.py:198
+#: masterfirefoxos/settings/base.py:199
 msgid "Hungarian"
 msgstr "Ungarisch"
 
-#: masterfirefoxos/settings/base.py:199
+#: masterfirefoxos/settings/base.py:200
 msgid "Italian"
 msgstr "Italienisch"
 
-#: masterfirefoxos/settings/base.py:200
+#: masterfirefoxos/settings/base.py:201
 msgid "Japanese"
 msgstr "Japanisch"
 
-#: masterfirefoxos/settings/base.py:201
+#: masterfirefoxos/settings/base.py:202
 msgid "Polish"
 msgstr "Polnisch"
 
-#: masterfirefoxos/settings/base.py:202
+#: masterfirefoxos/settings/base.py:203
 msgid "Portuguese"
 msgstr "Portugiesisch"
 
-#: masterfirefoxos/settings/base.py:203
+#: masterfirefoxos/settings/base.py:204
 msgid "Serbian"
 msgstr "Serbisch"
 
-#: masterfirefoxos/settings/base.py:204
+#: masterfirefoxos/settings/base.py:205
 msgid "Kiswahili"
 msgstr "Kiswahili"
 
-#: masterfirefoxos/settings/base.py:205
+#: masterfirefoxos/settings/base.py:206
 msgid "Spanish"
 msgstr "Spanisch"
 
-#: masterfirefoxos/settings/base.py:206
+#: masterfirefoxos/settings/base.py:207
 msgid "Tamil"
 msgstr "Tamil"
 
-#: masterfirefoxos/settings/base.py:207
+#: masterfirefoxos/settings/base.py:208
 msgid "Wolof"
 msgstr "Wolof"
 
-#: masterfirefoxos/settings/base.py:208
+#: masterfirefoxos/settings/base.py:209
 msgid "Xhosa"
 msgstr "Xhosa"
 
-#: masterfirefoxos/settings/base.py:209
+#: masterfirefoxos/settings/base.py:210
 msgid "Pirate"
 msgstr "Piratisch"
 
-#: masterfirefoxos/settings/base.py:210
+#: masterfirefoxos/settings/base.py:211
 msgid "Zulu"
 msgstr "Zulu"
 

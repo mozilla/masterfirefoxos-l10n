@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-03-02 16:57+0000\n"
+"POT-Creation-Date: 2015-03-04 23:21+0000\n"
 "PO-Revision-Date: 2015-02-20 11:48:26\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1942,9 +1942,7 @@ msgstr ""
 #. Page path: /1-3T/customer-guide/
 #. Translators:
 #. Page path: /1-4/customer-guide/
-#. Translators:
-#. Page path: /2-0/customer-guide/
-#: db-strings.txt:2607 db-strings.txt.py:5001 db-strings.txt.py:7278
+#: db-strings.txt:2607 db-strings.txt.py:5001
 #, fuzzy
 #| msgid ""
 #| "g your customer’s needs and knowing how to respond on the t is al to  es "
@@ -2230,9 +2228,7 @@ msgstr "செல்பேசி தளங்களை பயன்பாடு�
 
 #. Translators:
 #. Page path: /1-3T/frequently-asked-questions/
-#. Translators:
-#. Page path: /2-0/frequently-asked-questions/
-#: db-strings.txt:3030 db-strings.txt.py:7701
+#: db-strings.txt:3030
 msgid ""
 "Users can place website bookmarks on the home page to provide direct access "
 "to those sites. Also, by swiping right from the home screen, users can "
@@ -3204,95 +3200,95 @@ msgstr ""
 msgid "The latest version available in {language} is {version}."
 msgstr ""
 
-#: masterfirefoxos/settings/base.py:188
+#: masterfirefoxos/settings/base.py:189
 msgid "Afrikaans"
 msgstr ""
 
-#: masterfirefoxos/settings/base.py:189
+#: masterfirefoxos/settings/base.py:190
 msgid "Arabic"
 msgstr ""
 
-#: masterfirefoxos/settings/base.py:190
+#: masterfirefoxos/settings/base.py:191
 msgid "Bengali"
 msgstr ""
 
-#: masterfirefoxos/settings/base.py:191
+#: masterfirefoxos/settings/base.py:192
 msgid "Croatian"
 msgstr ""
 
-#: masterfirefoxos/settings/base.py:192
+#: masterfirefoxos/settings/base.py:193
 msgid "Czech"
 msgstr ""
 
-#: masterfirefoxos/settings/base.py:193
+#: masterfirefoxos/settings/base.py:194
 msgid "English"
 msgstr ""
 
-#: masterfirefoxos/settings/base.py:194
+#: masterfirefoxos/settings/base.py:195
 msgid "German"
 msgstr ""
 
-#: masterfirefoxos/settings/base.py:195
+#: masterfirefoxos/settings/base.py:196
 msgid "Greek"
 msgstr ""
 
-#: masterfirefoxos/settings/base.py:196
+#: masterfirefoxos/settings/base.py:197
 msgid "French"
 msgstr ""
 
-#: masterfirefoxos/settings/base.py:197
+#: masterfirefoxos/settings/base.py:198
 msgid "Hindi"
 msgstr ""
 
-#: masterfirefoxos/settings/base.py:198
+#: masterfirefoxos/settings/base.py:199
 msgid "Hungarian"
 msgstr ""
 
-#: masterfirefoxos/settings/base.py:199
+#: masterfirefoxos/settings/base.py:200
 msgid "Italian"
 msgstr ""
 
-#: masterfirefoxos/settings/base.py:200
+#: masterfirefoxos/settings/base.py:201
 msgid "Japanese"
 msgstr ""
 
-#: masterfirefoxos/settings/base.py:201
+#: masterfirefoxos/settings/base.py:202
 msgid "Polish"
 msgstr ""
 
-#: masterfirefoxos/settings/base.py:202
+#: masterfirefoxos/settings/base.py:203
 msgid "Portuguese"
 msgstr ""
 
-#: masterfirefoxos/settings/base.py:203
+#: masterfirefoxos/settings/base.py:204
 msgid "Serbian"
 msgstr ""
 
-#: masterfirefoxos/settings/base.py:204
+#: masterfirefoxos/settings/base.py:205
 msgid "Kiswahili"
 msgstr ""
 
-#: masterfirefoxos/settings/base.py:205
+#: masterfirefoxos/settings/base.py:206
 msgid "Spanish"
 msgstr ""
 
-#: masterfirefoxos/settings/base.py:206
+#: masterfirefoxos/settings/base.py:207
 msgid "Tamil"
 msgstr ""
 
-#: masterfirefoxos/settings/base.py:207
+#: masterfirefoxos/settings/base.py:208
 msgid "Wolof"
 msgstr ""
 
-#: masterfirefoxos/settings/base.py:208
+#: masterfirefoxos/settings/base.py:209
 msgid "Xhosa"
 msgstr ""
 
-#: masterfirefoxos/settings/base.py:209
+#: masterfirefoxos/settings/base.py:210
 msgid "Pirate"
 msgstr ""
 
-#: masterfirefoxos/settings/base.py:210
+#: masterfirefoxos/settings/base.py:211
 msgid "Zulu"
 msgstr ""
 
