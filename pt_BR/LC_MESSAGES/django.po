@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-03-04 23:21+0000\n"
-"PO-Revision-Date: 2015-03-04 15:43+0000\n"
+"PO-Revision-Date: 2015-03-05 11:56+0000\n"
 "Last-Translator: Marco Aurélio <ouesten@me.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pt_BR\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1425483804.0\n"
+"X-POOTLE-MTIME: 1425556570.0\n"
 
 #. Translators:
 #. Page path: /1-1/
@@ -1595,20 +1595,18 @@ msgstr "Qual funcionalidade do Firefox OS este ícone representa?"
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
 #: db-strings.txt:1095 db-strings.txt.py:5757
-#, fuzzy
 #| msgid "Open the Firefox browser."
 msgid "That’s right. This icon represents Contacts."
-msgstr "Abra o navegador Firefox."
+msgstr "Exatamente. Este ícone representa os contatos."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
 #: db-strings.txt:1104 db-strings.txt.py:1113 db-strings.txt.py:5766
-#, fuzzy
 #| msgid "Open the Firefox browser."
 msgid "Actually, this icon represents Contacts."
-msgstr "Abra o navegador Firefox."
+msgstr "Errado. Este ícone representa os contatos."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1619,18 +1617,16 @@ msgstr "Qual funcionalidade do Firefox OS este ícone representa?"
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
 #: db-strings.txt:1131
-#, fuzzy
 #| msgid "Open the Firefox browser."
 msgid "That’s right. This icon represents the Firefox browser."
-msgstr "Abra o navegador Firefox."
+msgstr "Exatamente. Este ícone representa o navegador Firefox."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
 #: db-strings.txt:1140 db-strings.txt.py:1149
-#, fuzzy
 #| msgid "Open the Firefox browser."
 msgid "Actually, this icon represents the Firefox browser."
-msgstr "Abra o navegador Firefox."
+msgstr "Errado. Este ícone representa o navegador Firefox."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1639,18 +1635,16 @@ msgstr "Abra o navegador Firefox."
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
 #: db-strings.txt:1167 db-strings.txt.py:3417 db-strings.txt.py:5829
-#, fuzzy
 #| msgid "<p>What is Adaptive App Search?</p>"
 msgid "That’s right. This icon represents Adaptive App Search."
-msgstr "O que é uma Pesquisa de Aplicativos Adaptável?"
+msgstr "Exatamente. Este ícone representa a pesquisa de aplicativos adaptável?"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
 #: db-strings.txt:1176 db-strings.txt.py:1185
-#, fuzzy
 #| msgid "Open the Firefox browser."
 msgid "Actually, this icon represents the Adaptive App Search."
-msgstr "Abra o navegador Firefox."
+msgstr "Errado. Este ícone representa a pesquisa de aplicativos adaptável."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1662,7 +1656,6 @@ msgstr "Abra o navegador Firefox."
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:1194 db-strings.txt.py:3444 db-strings.txt.py:5856
 #: db-strings.txt:8133
-#, fuzzy
 #| msgid ""
 #| "ants to understand the biggest benefits of Firefox OS sus its itors. ect  of"
 #| " the statements that apply."
@@ -1671,7 +1664,7 @@ msgid ""
 "its competitors. Select all of the statements that apply."
 msgstr ""
 "Seu cliente quer entender os maiores benefícios do Firefox OS em relação à "
-"concorrência. Selecione todas as afirmações válidas."
+"concorrência. Selecione todas as afirmações que se aplicam."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1683,10 +1676,9 @@ msgstr ""
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:1203 db-strings.txt.py:3453 db-strings.txt.py:5865
 #: db-strings.txt:8142
-#, fuzzy
 #| msgid "It’s easier than ever to stay connected with Firefox OS."
 msgid "That’s right. These statements are all true about Firefox OS."
-msgstr "Nunca foi tão fácil ficar conectado usando o Firefox OS."
+msgstr "Exatamente. Todas essas afirmações são verdadeiras sobre o Firefox OS."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1895,6 +1887,10 @@ msgid ""
 "Firefox OS phones, made by Mozilla, are part of keeping the Web free and "
 "open."
 msgstr ""
+"Todas essas afirmações são verdadeiras, mas apenas uma é a melhor resposta "
+"para este cliente especial, que parece ser um fã do Firefox. Fale sobre como "
+"os telefones Firefox OS, feitos pela Mozilla, constituem uma parte "
+"importante para manter a web livre e aberta."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1969,6 +1965,8 @@ msgid ""
 "While all of the these statements are true, which two responses would be "
 "most useful to a first-time smartphone customer?"
 msgstr ""
+"Apesar de todas as declarações serem verdadeiras, quais são as duas "
+"respostas mais adequadas a um cliente que compra o seu primeiro smartphone?"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -2101,6 +2099,8 @@ msgid ""
 "Not quite, the best response to this objection is to talk about all the apps"
 " that are available."
 msgstr ""
+"Não é bem assim, a melhor resposta a essa objeção é falar sobre todos os "
+"aplicativos que estão disponíveis."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -2126,6 +2126,8 @@ msgid ""
 "Actually, the best response to this objection is to talk about the "
 "experience of the Mozilla community that is behind Firefox OS."
 msgstr ""
+"Na verdade, a melhor resposta a essa objeção é para falar sobre a "
+"experiência da comunidade Mozilla que está por trás do Firefox OS."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -2154,6 +2156,8 @@ msgid ""
 "Actually, the best response to this objection is to talk about the robust "
 "security model."
 msgstr ""
+"Na verdade, a melhor resposta a essa objeção é falar sobre o modelo de "
+"segurança robusto."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -2949,7 +2953,7 @@ msgstr ""
 #. Page path: /2-0/frequently-asked-questions/
 #: db-strings.txt:3021 db-strings.txt.py:5433 db-strings.txt.py:7692
 msgid "What do you mean I can convert mobile sites into apps?"
-msgstr ""
+msgstr "O que quer dizer que eu posso converter sites móveis em aplicativos?"
 
 #. Translators:
 #. Page path: /1-3T/frequently-asked-questions/
@@ -3150,6 +3154,9 @@ msgid ""
 "While all of these statements are true, which two responses would be most "
 "useful to a first-time smartphone customer?"
 msgstr ""
+"Apesar de todas estas afirmações serem verdadeiras, quais as duas respostas "
+"que seriam mais úteis para um cliente que está usando um smartphone pela "
+"primeira vez?"
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -3163,6 +3170,8 @@ msgid ""
 "The best response to this objection is to talk about all the apps that are "
 "available."
 msgstr ""
+"A melhor resposta a essa objeção é falar sobre todos os aplicativos que "
+"estão disponíveis."
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -3574,7 +3583,7 @@ msgstr ""
 #. Page path: /2-0/key-features/
 #: db-strings.txt:7530
 msgid "Bluetooth"
-msgstr ""
+msgstr "Bluetooth"
 
 #. Translators:
 #. Page path: /2-0/key-features/
@@ -3683,7 +3692,7 @@ msgstr ""
 #. Page path: /2-0/frequently-asked-questions/
 #: db-strings.txt:7728
 msgid "Can I use WhatsApp on this phone?"
-msgstr ""
+msgstr "Posso usar o WhatsApp com esse telefone?"
 
 #. Translators:
 #. Page path: /2-0/frequently-asked-questions/
@@ -4050,19 +4059,19 @@ msgstr ""
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:8637
 msgid "Set your phone to your language"
-msgstr ""
+msgstr "Configure o seu telefone para o seu idioma"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:8646
 msgid "Control your data usage"
-msgstr ""
+msgstr "Controle o seu uso de dados"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:8655
 msgid "Create your own ringtones"
-msgstr ""
+msgstr "Crie seus próprios toques de chamada"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -4076,13 +4085,13 @@ msgstr "Contatos"
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:8826
 msgid "Share images"
-msgstr ""
+msgstr "Compartilhe imagens"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:8835
 msgid "Share videos"
-msgstr ""
+msgstr "Compartilhe vídeos"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
