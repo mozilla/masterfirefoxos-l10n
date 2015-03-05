@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-03-04 23:21+0000\n"
-"PO-Revision-Date: 2015-03-05 08:34+0000\n"
+"PO-Revision-Date: 2015-03-05 21:40+0000\n"
 "Last-Translator: Michael <michael.koehler1@gmx.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: de\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1425544488.0\n"
+"X-POOTLE-MTIME: 1425591653.0\n"
 
 #. Translators:
 #. Page path: /1-1/
@@ -1995,13 +1995,13 @@ msgstr ""
 #. Page path: /1-1/take-the-challenge/
 #: db-strings.txt:1491
 msgid "That’s right! This icon represents SMS—or text messaging."
-msgstr "Ganz genau! Dieses Symbol steht für SMS – oder Textnachrichten."
+msgstr "Ganz genau! Dieses Symbol steht für die SMS-App."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
 #: db-strings.txt:1500 db-strings.txt.py:1509
 msgid "Actually, this icon represents SMS—or text messaging."
-msgstr "Nein, dieses Symbol steht für SMS – oder Textnachrichten."
+msgstr "Nein, dieses Symbol steht für die SMS-App."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -2520,7 +2520,7 @@ msgid ""
 "smartphones and gives you more value for the money."
 msgstr ""
 "Firefox OS verfügt über die gleichen Funktionen, die Sie auch bei "
-"Smartphones von der Konkurrenz finden und liefert Ihnen mehr Wert für "
+"Smartphones von der Konkurrenz finden, und liefert Ihnen mehr Wert für "
 "gleiches Geld."
 
 #. Translators:
@@ -2997,8 +2997,7 @@ msgstr "Es gibt noch mehr. Versuchen Sie’s nochmal"
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:3309 db-strings.txt.py:5721 db-strings.txt.py:7998
 msgid "That’s right! This icon represents Messages —or text messaging."
-msgstr ""
-"Ganz genau! Dieses Symbol steht für Nachrichten – oder Textnachrichten."
+msgstr "Ganz genau! Dieses Symbol steht für die SMS-App."
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -3009,7 +3008,7 @@ msgstr ""
 #: db-strings.txt:3318 db-strings.txt.py:3327 db-strings.txt.py:5730
 #: db-strings.txt:5739 db-strings.txt.py:8007 db-strings.txt.py:8016
 msgid "Actually, this icon represents Messages — or text messaging."
-msgstr "Nein, dieses Symbol steht für Nachrichten – oder Textnachrichten."
+msgstr "Nein, dieses Symbol steht für die SMS-App."
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -4051,13 +4050,13 @@ msgstr "Verfolgen des Standorts Ihres verlorenen/gestohlenen Geräts"
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:9033
 msgid "Remotely wipe the device."
-msgstr "Löschung des Geräts per Fernzugriff"
+msgstr "Löschen des Geräts per Fernzugriff"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:9042
 msgid "Remotely lock the device."
-msgstr "Sperrung des Geräts per Fernzugriff"
+msgstr "Sperren des Geräts per Fernzugriff"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -4085,7 +4084,7 @@ msgstr "Sie zeigt die Nutzung nach App aufgeschlüsselt."
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:9105
 msgid "It shows usage by time."
-msgstr "Sie zeigt die Nutzung nach Zeit."
+msgstr "Sie zeigt die Nutzung über einen Zeitraum."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
