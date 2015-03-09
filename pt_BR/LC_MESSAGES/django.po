@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-03-04 23:21+0000\n"
-"PO-Revision-Date: 2015-03-05 11:56+0000\n"
+"PO-Revision-Date: 2015-03-09 22:56+0000\n"
 "Last-Translator: Marco Aurélio <ouesten@me.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pt_BR\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1425556570.0\n"
+"X-POOTLE-MTIME: 1425941812.0\n"
 
 #. Translators:
 #. Page path: /1-1/
@@ -64,7 +64,7 @@ msgid ""
 msgstr ""
 "Essa central mundial de treinamento - para parceiros e para a comunidade - "
 "tem tudo que você precisa para comunicar com eficácia os conceitos básicos "
-"do Firefox OS. Selecione um assunto para começarmos."
+"do Firefox OS. Selecione um assunto para começar."
 
 #. Translators:
 #. Page path: /1-1/introduction/
@@ -93,8 +93,8 @@ msgid ""
 "Find out what makes Firefox OS perfect for new smartphone users by giving "
 "them just what they need."
 msgstr ""
-"Descubra o que faz o Firefox OS perfeito para novos usuários de smartphones,"
-" dando exatamente o que eles precisam."
+"Descubra o que faz o Firefox OS perfeito para novos usuários de smartphones, "
+"oferecendo exatamente o que eles precisam."
 
 #. Translators:
 #. Page path: /1-1/introduction/
@@ -1816,6 +1816,8 @@ msgid ""
 "That’s right. When you meet a Firefox fan, talk about how choosing Firefox "
 "OS helps to keep the Web free and open."
 msgstr ""
+"Está certo. Quando encontrar um fã do Firefox, fale sobre como escolher o "
+"Firefox OS ajuda a manter a Web livre e aberta."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1824,6 +1826,8 @@ msgid ""
 "Actually, when you meet a Firefox fan, talk about how choosing Firefox OS "
 "helps to keep the Web free and open."
 msgstr ""
+"Na verdade, quando encontrar um fã do Firefox, fale sobre como escolher o "
+"Firefox OS ajuda a manter a Web livre e aberta."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1835,6 +1839,9 @@ msgid ""
 "my friends, but I don’t want to spend a lot of money.” Which of the "
 "following statements would be a good response? Select all that apply."
 msgstr ""
+"Um cliente lhe diz: \"Eu estou procurando uma maneira fácil de ficar em "
+"contato com meus amigos, mas eu não quero gastar muito.\" Qual das seguintes "
+"alternativas pode ser uma boa resposta? Selecione todas as opções válidas."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1844,6 +1851,9 @@ msgid ""
 "and the full feature set, including social apps that are preloaded on the "
 "phone."
 msgstr ""
+"Está certo. Com este cliente, destaque o grande valor do Firefox OS e o "
+"conjunto completo de funcionalidades, incluindo aplicativos sociais que são "
+"pré-instalados no telefone."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -2001,18 +2011,16 @@ msgstr "O que é uma Pesquisa de Aplicativos Adaptável?"
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
 #: db-strings.txt:1491
-#, fuzzy
 #| msgid "Open the Firefox browser."
 msgid "That’s right! This icon represents SMS—or text messaging."
-msgstr "Abra o navegador Firefox."
+msgstr "Está certo! Este ícone representa o SMS—ou mensagens de texto."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
 #: db-strings.txt:1500 db-strings.txt.py:1509
-#, fuzzy
 #| msgid "Open the Firefox browser."
 msgid "Actually, this icon represents SMS—or text messaging."
-msgstr "Abra o navegador Firefox."
+msgstr "Na verdade, este ícone representa o SMS—ou mensagens de texto."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -2174,7 +2182,6 @@ msgstr "Arraste para a esquerda."
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
 #: db-strings.txt:1671 db-strings.txt.py:3957
-#, fuzzy
 #| msgid "Click on the home button."
 msgid "Click on the home button."
 msgstr "Clique no botão início."
@@ -2184,7 +2191,6 @@ msgstr "Clique no botão início."
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
 #: db-strings.txt:1680 db-strings.txt.py:6369
-#, fuzzy
 #| msgid "Open Firefox Marketplace."
 msgid "Open Firefox Marketplace."
 msgstr "Abra o Firefox Marketplace."
@@ -2194,7 +2200,6 @@ msgstr "Abra o Firefox Marketplace."
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
 #: db-strings.txt:1689 db-strings.txt.py:6378
-#, fuzzy
 #| msgid "Open the Firefox browser."
 msgid "Open the Firefox browser."
 msgstr "Abra o navegador Firefox."
@@ -2206,7 +2211,6 @@ msgstr "Abra o navegador Firefox."
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:1698 db-strings.txt.py:6387 db-strings.txt.py:8664
-#, fuzzy
 #| msgid "Firefox Marketplace"
 msgid "Firefox Marketplace"
 msgstr "Firefox Marketplace"
@@ -2223,15 +2227,13 @@ msgstr "Firefox Marketplace"
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:1725 db-strings.txt.py:2823 db-strings.txt.py:4011
 #: db-strings.txt:6414 db-strings.txt.py:8691
-#, fuzzy
 #| msgid "<p>Facebook and Twitter</p>"
 msgid "Facebook"
-msgstr "Facebook e Twitter"
+msgstr "Facebook"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
 #: db-strings.txt:1734
-#, fuzzy
 #| msgid "Email and SMS"
 msgid "Email and SMS"
 msgstr "E-mail e SMS"
@@ -2239,7 +2241,6 @@ msgstr "E-mail e SMS"
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
 #: db-strings.txt:1752
-#, fuzzy
 #| msgid "Music Player"
 msgid "Music Player"
 msgstr "Tocador de música"
@@ -2277,6 +2278,7 @@ msgid ""
 "Results include relevant maps, pictures, music, news, videos, Twitter feeds "
 "and more."
 msgstr ""
+"Resultados incluem mapas, imagens, músicas, notícias, vídeos, tweets e mais."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -2338,10 +2340,9 @@ msgstr "Eu quero um smartphone que seja realmente fácil de usar."
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:1833 db-strings.txt.py:4659 db-strings.txt.py:7008
 #: db-strings.txt:9222
-#, fuzzy
 #| msgid "<p>The Firefox Fan</p>"
 msgid "I’m a Firefox fan."
-msgstr "O fã do Firefox"
+msgstr "Eu sou um fã do Firefox."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -2689,6 +2690,9 @@ msgid ""
 "expect in a smartphone, with an easy-to-use interface that makes it easy to "
 "get started."
 msgstr ""
+"O Firefox OS não está cheio de coisas que você não precisa. Ele oferece o "
+"que você espera em um smartphone com uma interface amigável que o torna "
+"fácil de começar a usar."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -2724,10 +2728,9 @@ msgstr "Verdadeiro"
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:2238 db-strings.txt.py:4542 db-strings.txt.py:6891
 #: db-strings.txt:9123
-#, fuzzy
 #| msgid "<p>Maps</p>"
 msgid "False"
-msgstr "Mapas"
+msgstr "Falso"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -2845,6 +2848,13 @@ msgid ""
 "<li><em>Firefox OS 1.1.0.0</em> means you have version 1.1</li> </ul> </li> "
 "</ol>"
 msgstr ""
+"<ol> <li>Abra o aplicativo Configurações em seu dispositivo.</li> "
+"<li>Deslize para baixo e selecione <strong>Informações do "
+"Dispositivo</strong>.</li> <li>Na tela de informações do Dispositivo, "
+"procure pelo número da versão na categoria <em>Software</em>. <ul> "
+"<li><em>Firefox OS 1.0.1.0</em> significa que você está usando a versão "
+"1.0.1</li> <li><em>Firefox OS 1.1.0.0</em> significa que você está usando a "
+"versão 1.1</li> </ul> </li> </ol>"
 
 #. Translators:
 #. Page path: /1-3T/demo-tips/
@@ -2919,10 +2929,9 @@ msgstr ""
 #. Translators:
 #. Page path: /2-0/key-features/
 #: db-strings.txt:2913 db-strings.txt.py:5325 db-strings.txt.py:7566
-#, fuzzy
 #| msgid "SMS and Email"
 msgid "Messages and Email"
-msgstr "SMS e E-mail"
+msgstr "Mensagens e e-mail"
 
 #. Translators:
 #. Page path: /1-3T/frequently-asked-questions/
@@ -3033,10 +3042,9 @@ msgstr ""
 #. Translators:
 #. Page path: /2-0/frequently-asked-questions/
 #: db-strings.txt:3111 db-strings.txt.py:5523 db-strings.txt.py:7800
-#, fuzzy
 #| msgid "<p>Which email providers are supported?</p>"
 msgid "What email providers are supported?"
-msgstr "Quais provedores de e-mail são aceitos?"
+msgstr "Quais provedores de e-mail são suportados?"
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -3065,10 +3073,9 @@ msgstr ""
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:3210 db-strings.txt.py:5622 db-strings.txt.py:7899
-#, fuzzy
 #| msgid "Get ready to sell!"
 msgid "Get Ready to Sell!"
-msgstr "Esteja pronto para vender!"
+msgstr "Prepare-se para vender!"
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -3421,7 +3428,7 @@ msgstr ""
 #. Page path: /2-0/demo-tips/
 #: db-strings.txt:7224
 msgid "Rich media experience"
-msgstr ""
+msgstr "Rica experiência de mídia"
 
 #. Translators:
 #. Page path: /2-0/demo-tips/
@@ -3708,10 +3715,9 @@ msgstr ""
 #. Translators:
 #. Page path: /2-0/frequently-asked-questions/
 #: db-strings.txt:7746
-#, fuzzy
 #| msgid "<p>Do my apps work offline?</p>"
 msgid "Will my apps work offline?"
-msgstr "Meus aplicativos funcionam off-line?"
+msgstr "Será que os meus aplicativos funcionam offline?"
 
 #. Translators:
 #. Page path: /2-0/frequently-asked-questions/
@@ -3726,20 +3732,18 @@ msgstr ""
 #. Page path: /2-0/frequently-asked-questions/
 #: db-strings.txt:7809
 msgid "Exchange, POP3 and IMAP are currently supported."
-msgstr ""
+msgstr "Exchange, POP3 e IMAP são suportadas atualmente."
 
 #. Translators:
 #. Page path: /2-0/about/
 #: db-strings.txt:7836
-#, fuzzy
 #| msgid "The Firefox Mission"
 msgid "The Mozilla Mission"
-msgstr "A Missão do Firefox"
+msgstr "A Missão da Mozilla"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:7863
-#, fuzzy
 #| msgid "Take the challenge"
 msgid "Take the Challenge"
 msgstr "Aceite o Desafio"
@@ -3811,7 +3815,7 @@ msgstr ""
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:7944 db-strings.txt.py:8124 db-strings.txt.py:8367
 msgid "There are more. Try again."
-msgstr ""
+msgstr "Há mais. Tente novamente."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -4317,11 +4321,11 @@ msgstr ""
 #: masterfirefoxos/base/templates/base.html:83
 #: masterfirefoxos/base/templates/home.html:12
 msgid "Mozilla"
-msgstr ""
+msgstr "Mozilla"
 
 #: masterfirefoxos/base/templates/base.html:65
 msgid "Menu"
-msgstr ""
+msgstr "Menu"
 
 #: masterfirefoxos/base/templates/base.html:88
 msgid ""
@@ -4332,23 +4336,23 @@ msgstr ""
 
 #: masterfirefoxos/base/templates/base.html:91
 msgid "Source code"
-msgstr ""
+msgstr "Código-fonte"
 
 #: masterfirefoxos/base/templates/base.html:96
 msgid "Contact Us"
-msgstr ""
+msgstr "Contato"
 
 #: masterfirefoxos/base/templates/base.html:97
 msgid "Partner with Us"
-msgstr ""
+msgstr "Seja nosso parceiro"
 
 #: masterfirefoxos/base/templates/base.html:98
 msgid "Donate"
-msgstr ""
+msgstr "Doe"
 
 #: masterfirefoxos/base/templates/base.html:99
 msgid "Privacy Policy"
-msgstr ""
+msgstr "Política de privacidade"
 
 #: masterfirefoxos/base/templates/base.html:100
 msgid "Legal Notices"
@@ -4360,47 +4364,47 @@ msgstr ""
 
 #: masterfirefoxos/base/templates/base.html:105
 msgid "Mozilla on Twitter"
-msgstr ""
+msgstr "Mozilla no Twitter"
 
 #: masterfirefoxos/base/templates/base.html:106
 msgid "Firefox on Twitter"
-msgstr ""
+msgstr "Firefox no Twitter"
 
 #: masterfirefoxos/base/templates/base.html:107
 msgid "Mozilla on Facebook"
-msgstr ""
+msgstr "Mozilla no Facebook"
 
 #: masterfirefoxos/base/templates/base.html:108
 msgid "Firefox on Facebook"
-msgstr ""
+msgstr "Firefox no Facebook"
 
 #: masterfirefoxos/base/templates/home.html:49
 msgid "Learn more"
-msgstr ""
+msgstr "Saiba mais"
 
 #: masterfirefoxos/base/templates/includes/nav-information.html:3
 msgid "Home"
-msgstr ""
+msgstr "Início"
 
 #: masterfirefoxos/base/templates/includes/nav-information.html:4
 msgid "About"
-msgstr ""
+msgstr "Sobre"
 
 #: masterfirefoxos/base/templates/includes/version-language-switcher.html:3
 msgid "Language"
-msgstr ""
+msgstr "Idioma"
 
 #: masterfirefoxos/base/templates/includes/version-language-switcher.html:15
 msgid "Firefox OS version"
-msgstr ""
+msgstr "Versão do Firefox OS"
 
 #: masterfirefoxos/base/templates/includes/version-language-switcher.html:21
 msgid "Which version do I have?"
-msgstr ""
+msgstr "Qual a versão que eu tenho?"
 
 #: masterfirefoxos/base/templates/includes/version-language-switcher.html:23
 msgid "Change"
-msgstr ""
+msgstr "Alterar"
 
 #: masterfirefoxos/base/templates/includes/version-language-switcher.html:37
 msgid ""
@@ -4414,39 +4418,39 @@ msgstr ""
 
 #: masterfirefoxos/settings/base.py:189
 msgid "Afrikaans"
-msgstr ""
+msgstr "Afrikaans"
 
 #: masterfirefoxos/settings/base.py:190
 msgid "Arabic"
-msgstr ""
+msgstr "Árabe"
 
 #: masterfirefoxos/settings/base.py:191
 msgid "Bengali"
-msgstr ""
+msgstr "Bengali"
 
 #: masterfirefoxos/settings/base.py:192
 msgid "Croatian"
-msgstr ""
+msgstr "Croata"
 
 #: masterfirefoxos/settings/base.py:193
 msgid "Czech"
-msgstr ""
+msgstr "Tcheco"
 
 #: masterfirefoxos/settings/base.py:194
 msgid "English"
-msgstr ""
+msgstr "Inglês"
 
 #: masterfirefoxos/settings/base.py:195
 msgid "German"
-msgstr ""
+msgstr "Alemão"
 
 #: masterfirefoxos/settings/base.py:196
 msgid "Greek"
-msgstr ""
+msgstr "Grego"
 
 #: masterfirefoxos/settings/base.py:197
 msgid "French"
-msgstr ""
+msgstr "Francês"
 
 #: masterfirefoxos/settings/base.py:198
 msgid "Hindi"
@@ -4470,39 +4474,39 @@ msgstr ""
 
 #: masterfirefoxos/settings/base.py:203
 msgid "Portuguese"
-msgstr ""
+msgstr "Português"
 
 #: masterfirefoxos/settings/base.py:204
 msgid "Serbian"
-msgstr ""
+msgstr "Sérvio"
 
 #: masterfirefoxos/settings/base.py:205
 msgid "Kiswahili"
-msgstr ""
+msgstr "Kiswahili"
 
 #: masterfirefoxos/settings/base.py:206
 msgid "Spanish"
-msgstr ""
+msgstr "Espanhol"
 
 #: masterfirefoxos/settings/base.py:207
 msgid "Tamil"
-msgstr ""
+msgstr "Tâmil"
 
 #: masterfirefoxos/settings/base.py:208
 msgid "Wolof"
-msgstr ""
+msgstr "Wolof"
 
 #: masterfirefoxos/settings/base.py:209
 msgid "Xhosa"
-msgstr ""
+msgstr "Xhosa"
 
 #: masterfirefoxos/settings/base.py:210
 msgid "Pirate"
-msgstr ""
+msgstr "Pirata"
 
 #: masterfirefoxos/settings/base.py:211
 msgid "Zulu"
-msgstr ""
+msgstr "Zulu"
 
 #~ msgid "z8IAfoqxOPI"
 #~ msgstr "6mUYqNted2U"
