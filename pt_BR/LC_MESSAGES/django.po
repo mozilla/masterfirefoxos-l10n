@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-03-12 23:15+0000\n"
-"PO-Revision-Date: 2015-03-11 13:31+0000\n"
-"Last-Translator: Wolfgang <wolfgang@cryptolab.net>\n"
+"PO-Revision-Date: 2015-03-13 19:25+0000\n"
+"Last-Translator: Marco Aurélio <ouesten@me.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1426080705.0\n"
+"X-POOTLE-MTIME: 1426274753.0\n"
 
 #. Translators:
 #. Page path: /1-1/
@@ -1629,10 +1629,10 @@ msgstr ""
 #. Page path: /1-4/take-the-challenge/
 #: db-strings.txt:1032 db-strings.txt.py:1041 db-strings.txt.py:3750
 #: db-strings.txt:3759 db-strings.txt.py:6162 db-strings.txt.py:6171
-#, fuzzy
 #| msgid "<p>What is Adaptive App Search?</p>"
 msgid "Actually, all of these are true of Adaptive App Search!"
-msgstr "O que é uma Pesquisa de Aplicativos Adaptável?"
+msgstr ""
+"Na verdade, todos estão corretas sobre a pesquisa de aplicativos adaptável?"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1641,7 +1641,6 @@ msgstr "O que é uma Pesquisa de Aplicativos Adaptável?"
 #. Translators:
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:1050 db-strings.txt.py:8601 db-strings.txt.py:10743
-#, fuzzy
 #| msgid ""
 #| "customer responses indicate an ideal candidate for Firefox  ect allat ly."
 msgid ""
@@ -1663,14 +1662,11 @@ msgstr ""
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:1059 db-strings.txt.py:3921 db-strings.txt.py:6333
 #: db-strings.txt:8610 db-strings.txt.py:10752
-#, fuzzy
 #| msgid ""
 #| "customer responses indicate an ideal candidate for Firefox  ect allat ly."
 msgid ""
 "That’s right. All of these customers are ideal candidates for Firefox OS!"
-msgstr ""
-"Qual destas respostas do cliente indica um candidato ideal para o Firefox "
-"OS? Selecione todas as que se aplicam."
+msgstr "Está certo. Todos estes clientes são candidatos ideais para Firefox OS!"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1686,13 +1682,10 @@ msgstr ""
 #: db-strings.txt:3939 db-strings.txt.py:6342 db-strings.txt.py:6351
 #: db-strings.txt:8619 db-strings.txt.py:8628 db-strings.txt.py:10761
 #: db-strings.txt:10770
-#, fuzzy
 #| msgid ""
 #| "customer responses indicate an ideal candidate for Firefox  ect allat ly."
 msgid "In fact, ALL of these customers are ideal candidates for Firefox OS!"
-msgstr ""
-"Qual destas respostas do cliente indica um candidato ideal para o Firefox "
-"OS? Selecione todas as que se aplicam."
+msgstr "Na verdade, todos esses clientes são candidatos ideais para Firefox OS!"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1828,7 +1821,6 @@ msgstr ""
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:1230 db-strings.txt.py:3480 db-strings.txt.py:5892
 #: db-strings.txt:8169 db-strings.txt.py:10347
-#, fuzzy
 #| msgid ""
 #| "s you that smartphones seem complicated.  What selling ture uld youad h?"
 msgid ""
@@ -1836,7 +1828,7 @@ msgid ""
 " should you lead with?"
 msgstr ""
 "Um cliente fala que os smartphones parecem complicados. Que argumento de "
-"venda você deveria destacar?"
+"venda deve ser destacado?"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1887,7 +1879,6 @@ msgstr ""
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:1266 db-strings.txt.py:3516 db-strings.txt.py:5928
 #: db-strings.txt:8205 db-strings.txt.py:10383
-#, fuzzy
 #| msgid ""
 #| "s you that she’s ready to move up from her old feature ne. What g ture uld "
 #| "you lead with?"
@@ -1895,8 +1886,8 @@ msgid ""
 "A customer tells you that she’s ready to move up from her old feature phone."
 " What selling feature should you lead with?"
 msgstr ""
-"Uma cliente fala para você que está pronta para trocar o antigo aparelho. "
-"Que argumento de venda você deveria destacar?"
+"Uma cliente fala que está pronta para trocar o antigo aparelho. Que "
+"argumento de venda deveria ser destacado?"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1928,7 +1919,6 @@ msgstr "O que é uma Pesquisa de Aplicativos Adaptável?"
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:1302 db-strings.txt.py:3552 db-strings.txt.py:5964
 #: db-strings.txt:8241 db-strings.txt.py:10419
-#, fuzzy
 #| msgid ""
 #| "s you that he uses Firefox as his desktop browser. With t ling ture uld  "
 #| "lead?"
@@ -1936,8 +1926,8 @@ msgid ""
 "A customer tells you that he uses Firefox as his desktop browser. With what "
 "selling feature should you lead?"
 msgstr ""
-"Um cliente fala para você que usa o Firefox como navegador do computador. "
-"Que argumento de venda você deveria destacar?"
+"Um cliente fala que usa o Firefox como navegador do computador. Que "
+"argumento de venda deveria ser destacado?"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1995,6 +1985,9 @@ msgid ""
 "Firefox OS, and its full feature set, including social apps that are "
 "preloaded on the phone, all at great value."
 msgstr ""
+"Não é isso. Com este cliente, certifique-se de destacar o grande valor do "
+"Firefox OS e seu conjunto de funcionalidades, incluindo aplicativos sociais "
+"que são pré-instalados no telefone, todos de grande valor."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -3882,7 +3875,6 @@ msgstr ""
 #. Translators:
 #. Page path: /1-3/key-features/
 #: db-strings.txt:7557 db-strings.txt.py:9771
-#, fuzzy
 #| msgid ""
 #| "Play it all from your phone, or online via Youtube. Browse and play your "
 #| "music collection by album or artist, rate songs and create playlists for "
@@ -3894,14 +3886,13 @@ msgid ""
 msgstr ""
 "Reproduza tudo usando seu telefone, ou on-line via Youtube. Pesquise e "
 "reproduza sua coleção de música por álbum ou artista, avalie as músicas ou "
-"crie listas de reprodução com as suas preferidas."
+"crie listas de reprodução com as suas favoritas."
 
 #. Translators:
 #. Page path: /2-0/key-features/
 #. Translators:
 #. Page path: /1-3/key-features/
 #: db-strings.txt:7575 db-strings.txt.py:9789
-#, fuzzy
 #| msgid ""
 #| "Stay connected to your friends and colleagues wherever you are. It's easy to"
 #| " set up multiple email accounts, with support for the most common Exchange, "
@@ -3910,9 +3901,9 @@ msgid ""
 "Stay connected easily and conveniently. Set up multiple email accounts, with"
 " support for the most common Exchange, POP3 or IMAP email providers."
 msgstr ""
-"Fique conectado aos seus amigos e colegas de onde você estiver. É fácil de "
-"configurar diferentes contas de e-mail, com suporte para os fornecedores de "
-"e-mail Exchange, SMTP ou IMAP mais conhecidos."
+"Fique conectado com facilidade e conveniência. ConfigurE várias contas de "
+"e-mail, com suporte para os fornecedores de e-mail Exchange, SMTP ou IMAP "
+"mais conhecidos."
 
 #. Translators:
 #. Page path: /2-0/key-features/
@@ -4093,27 +4084,23 @@ msgstr ""
 #. Translators:
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:7926 db-strings.txt.py:10104
-#, fuzzy
 #| msgid ""
 #| "llowing apps is pre-loaded on every Firefox OS phone? ect all t ly."
 msgid ""
 "That’s right! All of these things are possible with a Firefox OS phone."
 msgstr ""
-"Quais dos seguintes aplicativos são pré-instalados em todos os telefones do "
-"Firefox OS? Selecione todas as que se aplicam.."
+"Está certo! Todas estas coisas são possíveis com um telefone Firefox OS."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #. Translators:
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:7935 db-strings.txt.py:10113
-#, fuzzy
 #| msgid ""
 #| "llowing apps is pre-loaded on every Firefox OS phone? ect all t ly."
 msgid "Actually, all of these things are possible with a Firefox OS phone."
 msgstr ""
-"Quais dos seguintes aplicativos são pré-instalados em todos os telefones do "
-"Firefox OS? Selecione todas as que se aplicam.."
+"Na verdade, todas essas coisas são possíveis com um telefone Firefox OS."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -4129,10 +4116,9 @@ msgstr "Há mais. Tente novamente."
 #. Translators:
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:8070 db-strings.txt.py:10248
-#, fuzzy
 #| msgid "Open the Firefox browser."
 msgid "That’s right. This icon represents the Firefox Browser."
-msgstr "Abra o navegador Firefox."
+msgstr "Está certo. Este ícone representa o navegador Firefox."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -4140,10 +4126,9 @@ msgstr "Abra o navegador Firefox."
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:8079 db-strings.txt.py:8088 db-strings.txt.py:10257
 #: db-strings.txt:10266
-#, fuzzy
 #| msgid "Open the Firefox browser."
 msgid "Actually, this icon represents the Firefox Browser."
-msgstr "Abra o navegador Firefox."
+msgstr "Na verdade, este ícone representa o navegador Firefox."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -4152,56 +4137,53 @@ msgstr "Abra o navegador Firefox."
 #: db-strings.txt:8097 db-strings.txt.py:10275
 msgid "What does Bluetooth allow users to do? Select all that apply"
 msgstr ""
+"O que o Bluetooth permite aos usuários fazer? Selecione todas que se aplicam"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #. Translators:
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:8106 db-strings.txt.py:10284
-#, fuzzy
 #| msgid ""
 #| "llowing apps is pre-loaded on every Firefox OS phone? ect all t ly."
 msgid ""
 "That’s right! All of these things can be shared via Bluetooth with your "
 "Firefox OS phone."
 msgstr ""
-"Quais dos seguintes aplicativos são pré-instalados em todos os telefones do "
-"Firefox OS? Selecione todas as que se aplicam.."
+"Está certo! Todas estas coisas podem ser compartilhadas via Bluetooth com o "
+"seu telefone Firefox OS."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #. Translators:
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:8115 db-strings.txt.py:10293
-#, fuzzy
 #| msgid ""
 #| "llowing apps is pre-loaded on every Firefox OS phone? ect all t ly."
 msgid ""
 "Actually, all of these things can be shared via Bluetooth with your Firefox "
 "OS phone.."
 msgstr ""
-"Quais dos seguintes aplicativos são pré-instalados em todos os telefones do "
-"Firefox OS? Selecione todas as que se aplicam.."
+"Na verdade, todas essas coisas podem ser compartilhadas via Bluetooth com o "
+"seu telefone Firefox OS ."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #. Translators:
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:8151 db-strings.txt.py:10329
-#, fuzzy
 #| msgid "<p>What is Adaptive App Search?</p>"
 msgid "Actually, all of these are true about Firefox OS."
-msgstr "O que é uma Pesquisa de Aplicativos Adaptável?"
+msgstr "Na verdade, todas são verdadeiras sobre o Firefox OS."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #. Translators:
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:8160 db-strings.txt.py:10338
-#, fuzzy
 #| msgid "<p>What is Adaptive App Search?</p>"
 msgid "Actually, all of these are true about Firefox OS"
-msgstr "O que é uma Pesquisa de Aplicativos Adaptável?"
+msgstr "Na verdade, todas são verdadeiras sobre o Firefox OS"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -4582,13 +4564,13 @@ msgstr ""
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:9033
 msgid "Remotely wipe the device."
-msgstr ""
+msgstr "Apagar o dispositivo remotamente."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:9042
 msgid "Remotely lock the device."
-msgstr ""
+msgstr "Bloquear o dispositivo remotamente."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -4597,6 +4579,7 @@ msgstr ""
 #: db-strings.txt:9078 db-strings.txt.py:11202
 msgid "Firefox OS is built entirely using HTML5 and Open Web standards."
 msgstr ""
+"Firefox OS é construído inteiramente usando HTML5 e padrões web abertos."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -4605,6 +4588,7 @@ msgstr ""
 #: db-strings.txt:9087 db-strings.txt.py:11211
 msgid "You can use it to create and set a daily budget for data usage."
 msgstr ""
+"Você pode usá-lo para criar e definir um orçamento diário de uso de dados."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -4612,7 +4596,7 @@ msgstr ""
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:9096 db-strings.txt.py:11220
 msgid "It shows usage per app."
-msgstr ""
+msgstr "Ele mostra o uso por aplicativo."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -4620,7 +4604,7 @@ msgstr ""
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:9105 db-strings.txt.py:11229
 msgid "It shows usage by time."
-msgstr ""
+msgstr "Ele mostra o uso por tempo."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
