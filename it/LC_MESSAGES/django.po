@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-03-12 23:15+0000\n"
-"PO-Revision-Date: 2015-03-13 12:23+0000\n"
+"PO-Revision-Date: 2015-03-13 12:26+0000\n"
 "Last-Translator: Francesco <francesco.lodolo@mozillaitalia.org>\n"
 "Language-Team: \n"
 "Language: it\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1426249423.0\n"
+"X-POOTLE-MTIME: 1426249562.0\n"
 
 #. Translators:
 #. Page path: /1-1/
@@ -2046,7 +2046,6 @@ msgstr ""
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
 #: db-strings.txt:1419 db-strings.txt.py:3669 db-strings.txt.py:6081
-#, fuzzy
 msgid ""
 "That’s right. Adaptive App Search anticipates your needs better than any "
 "other phone."
@@ -2059,7 +2058,6 @@ msgstr ""
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
 #: db-strings.txt:1428 db-strings.txt.py:3678
-#, fuzzy
 msgid ""
 "That’s not it. Three of these are correct. While Adaptive App Search "
 "anticipates your needs better than any other phone, it does NOT work just "
@@ -2075,7 +2073,6 @@ msgstr ""
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
 #: db-strings.txt:1437 db-strings.txt.py:3687
-#, fuzzy
 msgid ""
 "That’s quite not it. Three of these are correct. While Adaptive App Search "
 "anticipates your needs better than any other phone, it does NOT work just "
@@ -2089,7 +2086,6 @@ msgstr ""
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
 #: db-strings.txt:1446
-#, fuzzy
 msgid ""
 "While all of the these statements are true, which two responses would be "
 "most useful to a first-time smartphone customer?"
@@ -2152,7 +2148,6 @@ msgstr "Sbagliato. Questa icona rappresenta gli SMS (o messaggi di testo)."
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
 #: db-strings.txt:1518 db-strings.txt.py:3768 db-strings.txt.py:6180
-#, fuzzy
 msgid ""
 "With Adaptive App Search, you can use an app once, quickly and easily, "
 "without installing it. If you want to use it again later, it’s easy to add "
@@ -2198,7 +2193,6 @@ msgstr "In realtà è vero."
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
 #: db-strings.txt:1554 db-strings.txt.py:3804 db-strings.txt.py:6216
-#, fuzzy
 msgid ""
 "What’s the best response to this customer’s objection? “I’ve heard there are"
 " not many apps.”"
@@ -2224,7 +2218,6 @@ msgstr "Esatto."
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
 #: db-strings.txt:1572 db-strings.txt.py:1581
-#, fuzzy
 msgid ""
 "Not quite, the best response to this objection is to talk about all the apps"
 " that are available."
@@ -2239,7 +2232,6 @@ msgstr ""
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
 #: db-strings.txt:1590 db-strings.txt.py:3840 db-strings.txt.py:6252
-#, fuzzy
 msgid ""
 "What’s the best response to this customer’s objection? “I’ve never heard of "
 "Firefox OS phones.”"
@@ -2250,7 +2242,6 @@ msgstr ""
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
 #: db-strings.txt:1608 db-strings.txt.py:1617
-#, fuzzy
 msgid ""
 "Actually, the best response to this objection is to talk about the "
 "experience of the Mozilla community that is behind Firefox OS."
@@ -2274,8 +2265,8 @@ msgid ""
 "What’s the best response to this customer’s objection? “How do I know this "
 "new phone is safe?”"
 msgstr ""
-"Qual è la risposta migliore a questa obiezione del cliente: “Come faccio a "
-"sapere se questo telefono è sicuro?”"
+"Qual è la risposta migliore all’obiezione del cliente: “Come faccio a sapere "
+"se questo telefono è sicuro”?"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -2284,8 +2275,8 @@ msgid ""
 "Actually, the best response to this objection is to talk about the robust "
 "security model."
 msgstr ""
-"La risposta migliore a questa obiezione è descrivere il modello di "
-"sicurezza."
+"In realtà la risposta più appropriata a questa obiezione è descrivere il "
+"modello di sicurezza adottato da Firefox OS."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
