@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-03-12 23:15+0000\n"
-"PO-Revision-Date: 2015-03-13 19:25+0000\n"
+"PO-Revision-Date: 2015-03-16 12:20+0000\n"
 "Last-Translator: Marco Aurélio <ouesten@me.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pt_BR\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1426274753.0\n"
+"X-POOTLE-MTIME: 1426508454.0\n"
 
 #. Translators:
 #. Page path: /1-1/
@@ -1892,12 +1892,13 @@ msgstr ""
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
 #: db-strings.txt:1275
-#, fuzzy
 #| msgid "<p>What is Adaptive App Search?</p>"
 msgid ""
 "That’s right. With a first time smart phone user, you should talk about its "
 "simplicity and features like Adaptive App Search."
-msgstr "O que é uma Pesquisa de Aplicativos Adaptável?"
+msgstr ""
+"Correto. Com um usuário iniciante em smartphones, você deve falar sobre sua "
+"simplicidade e recursos como a Pesquisa de Aplicativos Adaptável."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -2005,6 +2006,9 @@ msgid ""
 "statements would be the most appropriate response to this particular "
 "customer?"
 msgstr ""
+"Um cliente diz \"Eu uso o Firefox no meu computador de casa e amo, mas eu não "
+"sabia que eles tinham um smartphone. Por quê?\". Qual das afirmações abaixo "
+"é a resposta mais apropriada para este cliente em particular?"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -2015,6 +2019,10 @@ msgid ""
 "open. And while all of these statements are true, only this one is the best "
 "response for this particular customer."
 msgstr ""
+"Correto! Este cliente parece um fã do Firefox. Fale sobre como os aparelhos "
+"com Firefox OS, feitos pela Mozilla, são parte do movimento para manter a "
+"Web aberta e livre. E mesmo que todas as afirmações estejam corretas, "
+"somente esta é a melhor para este tipo de cliente."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -3851,6 +3859,9 @@ msgid ""
 "all in one place thanks to deep integration with your favorite social "
 "networks."
 msgstr ""
+"Importe facilmente seus amigos do Facebook para o seu telefone e mantenha a "
+"sua comunidade em um só lugar, graças à integração profunda com suas redes "
+"sociais favoritas."
 
 #. Translators:
 #. Page path: /2-0/key-features/
@@ -3869,6 +3880,9 @@ msgid ""
 "Easily pair your device with a wide range of Bluetooth accessories. Share "
 "contacts, images, videos or your favorite URLs with friends."
 msgstr ""
+"Emparelhe facilmente o seu dispositivo com uma vasta gama de acessórios "
+"Bluetooth. Compartilhe contatos, imagens, vídeos ou suas URLs favoritos com "
+"os amigos."
 
 #. Translators:
 #. Page path: /2-0/key-features/
@@ -3932,6 +3946,8 @@ msgid ""
 "Customize your Firefox OS phone by creating new ringtones from your music "
 "collection or from songs you download from the Web."
 msgstr ""
+"Personalize o seu telefone Firefox OS através da criação de novos toques de "
+"sua coleção de música ou de músicas que você baixar da web."
 
 #. Translators:
 #. Page path: /2-0/frequently-asked-questions/
@@ -4245,6 +4261,9 @@ msgid ""
 " set of Firefox OS, including social apps that are preloaded on the phone, "
 "all at great value."
 msgstr ""
+"Está certo. Com este cliente, destaque o grande valor e conjunto completo de "
+"recursos do Firefox OS, incluindo aplicativos sociais que são "
+"pré-instalados no telefone, todos de grande valor."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -4257,6 +4276,9 @@ msgid ""
 "feature set of Firefox OS, including social apps that are preloaded on the "
 "phone, all at great value."
 msgstr ""
+"Não é isso. Com este cliente, destaque o grande valor e conjunto completo de "
+"recursos do Firefox OS, incluindo aplicativos sociais que são "
+"pré-instalados no telefone, todos de grande valor."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -4269,6 +4291,10 @@ msgid ""
 "of the Web in the hands of the people. And while all of these statements are"
 " true, only this one is the best response for this particular customer."
 msgstr ""
+"Está certo. Este cliente parece ser um fã do Firefox. Fale sobre como os "
+"telefones Firefox OS, feitos pela Mozilla, mostram um compromisso de manter "
+"o poder da web nas mãos do povo. Todas estas declarações são verdadeiras, só "
+"que essa é a melhor resposta para este cliente em particular."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -4282,6 +4308,10 @@ msgid ""
 "OS phones, made by Mozilla, help keep the power of the Web in the hands of "
 "the people."
 msgstr ""
+"Todas essas afirmações são verdadeiras, mas apenas uma é a melhor resposta "
+"para este cliente especial, que parece ser um fã do Firefox. Fale sobre como "
+"telefones Firefox OS, feitas pela Mozilla, ajudam a manter o poder da web "
+"nas mãos do povo."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -4530,6 +4560,9 @@ msgid ""
 "expect, including Messages, Facebook, email, maps and more, all at a better "
 "value."
 msgstr ""
+"O smartphone Firefox OS é pré-instalado com todas as funcionalidades que "
+"esperaria, incluindo mensagens, Facebook, e-mail, mapas e muito mais, tudo "
+"com um valor melhor."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -4627,6 +4660,8 @@ msgid ""
 "Apps developers are slowly realizing the benefit of HTML5 in support of the "
 "Open Web."
 msgstr ""
+"Desenvolvedores de aplicativos estão lentamente percebendo o benefício do "
+"HTML5 em apoio a web aberta."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
