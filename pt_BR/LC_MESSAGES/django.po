@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-03-12 23:15+0000\n"
-"PO-Revision-Date: 2015-03-16 12:20+0000\n"
+"PO-Revision-Date: 2015-03-19 13:11+0000\n"
 "Last-Translator: Marco Aurélio <ouesten@me.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pt_BR\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1426508454.0\n"
+"X-POOTLE-MTIME: 1426770690.0\n"
 
 #. Translators:
 #. Page path: /1-1/
@@ -4458,10 +4458,9 @@ msgstr "Crie seus próprios toques de chamada"
 #. Translators:
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:8817 db-strings.txt.py:10968
-#, fuzzy
 #| msgid "Contacts"
 msgid "Share contacts"
-msgstr "Contatos"
+msgstr "Compartilhar contatos"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -4482,7 +4481,6 @@ msgstr "Compartilhe vídeos"
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:8853
-#, fuzzy
 #| msgid ""
 #| "x Marketplace and dozens of preloaded apps, like email, s, ebook, ra, ic, "
 #| "and more, Firefox OS is packed with the tures ’d expect in tphone."
@@ -4491,9 +4489,9 @@ msgid ""
 "experience, Firefox OS is packed with the features that users are looking "
 "for in a smartphone."
 msgstr ""
-"Com o Firefox Marketplace e dezenas de aplicativos pré-instalados, como "
-"e-mail, aplicativos, Facebook, uma câmera, música e mais, o Firefox OS tem "
-"os recursos que você espera de um smartphone."
+"Com o Firefox Marketplace, os melhores aplicativos pré-instalados e uma "
+"fantástica experiência do usuário, o Firefox OS tem os recursos que os "
+"usuários estão procurando em um smartphone."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -4526,7 +4524,6 @@ msgstr ""
 #. Translators:
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:8898 db-strings.txt.py:11049
-#, fuzzy
 #| msgid ""
 #| "he easiest smartphone to get started with. Your favorite s are yeloaded  you"
 #| " can easily import your friends from ebook, too."
@@ -4535,9 +4532,9 @@ msgid ""
 " are already preloaded and you can easily import your friends from Facebook,"
 " too.."
 msgstr ""
-"O Firefox OS é o smartphone mais fácil para começar. Seus aplicativos "
-"favoritos já estão pré-instalados e você pode facilmente importar amigos do "
-"Facebook também."
+"O Firefox OS é o smartphone mais fácil de começar a usar. Seus aplicativos "
+"favoritos já são pré-instalados e você pode facilmente importar os seus "
+"amigos do Facebook, também."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -4549,6 +4546,8 @@ msgid ""
 "If you love Firefox, you’ll love Firefox OS. Choosing Firefox OS keeps the "
 "power of the Web in your hands."
 msgstr ""
+"Se você ama o Firefox, vai adorar o Firefox OS. Escolhendo o Firefox OS, "
+"manterá o poder da Web em suas mãos."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -4569,12 +4568,9 @@ msgstr ""
 #. Translators:
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:8988 db-strings.txt.py:11139
-#, fuzzy
 #| msgid "arketplace has the cool games and apps your customers want."
 msgid "The Firefox Marketplace features free apps!"
-msgstr ""
-"O Firefox Marketplace tem os jogos e aplicativos mais legais que o seu "
-"cliente quer."
+msgstr "O Firefox Marketplace oferece aplicativos gratuitos!"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -4586,12 +4582,16 @@ msgid ""
 "accessible to all. And since Firefox OS is entirely built in HTML5, you get "
 "instant access to thousands of apps already built for the Web."
 msgstr ""
+"Mozilla, criadora do Firefox, construiu um Sistema operacional para "
+"smartphone para manter a web acessível a todos. Uma vez que o Firefox OS é "
+"inteiramente construído em HTML5, você tem acesso instantâneo a milhares de "
+"aplicativos já construído para a web."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:9024
 msgid "Track the location of your lost/stolen device"
-msgstr ""
+msgstr "Acompanhe a localização do seu dispositivo perdido/roubado"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -4759,6 +4759,10 @@ msgid ""
 "available under a <a href=\"https://www.mozilla.org/foundation/licensing"
 "/website-content/\">Creative Commons license</a>."
 msgstr ""
+"Parte deste conteúdo são ©1998–{0} de contribuidores individuais. O conteúdo "
+"está disponível sob a licença <a "
+"href=\"https://www.mozilla.org/foundation/licensing/website-"
+"content/\">Creative Commons</a>."
 
 #: masterfirefoxos/base/templates/base.html:91
 msgid "Source code"
