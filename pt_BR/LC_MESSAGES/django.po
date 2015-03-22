@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-03-12 23:15+0000\n"
-"PO-Revision-Date: 2015-03-19 13:11+0000\n"
+"PO-Revision-Date: 2015-03-22 11:41+0000\n"
 "Last-Translator: Marco Aurélio <ouesten@me.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pt_BR\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1426770690.0\n"
+"X-POOTLE-MTIME: 1427024469.0\n"
 
 #. Translators:
 #. Page path: /1-1/
@@ -2215,15 +2215,14 @@ msgstr "Abra o navegador Firefox."
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
 #: db-strings.txt:1554 db-strings.txt.py:3804 db-strings.txt.py:6216
-#, fuzzy
 #| msgid ""
 #| " response to this customer’s objection? “I’ve heard there  not y s.”"
 msgid ""
 "What’s the best response to this customer’s objection? “I’ve heard there are"
 " not many apps.”"
 msgstr ""
-"Qual é a melhor resposta para a objeção deste cliente? “Ouvi dizer que vocês"
-" não têm muitos aplicativos.”"
+"Qual é a melhor resposta para a objeção deste cliente? “Ouvi dizer que não "
+"têm muitos aplicativos.”"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -2681,14 +2680,13 @@ msgstr ""
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
 #: db-strings.txt:2085 db-strings.txt.py:6738
-#, fuzzy
 #| msgid "arketplace has the cool games and apps your customers want."
 msgid ""
 "The Firefox Marketplace features thousands of apps for free or at very low "
 "prices."
 msgstr ""
-"O Firefox Marketplace tem os jogos e aplicativos mais legais que o seu "
-"cliente quer."
+"O Firefox Marketplace oferece milhares de aplicativos de graça ou a preços "
+"muito baixos."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -3271,15 +3269,14 @@ msgstr "Prepare-se para vender!"
 #. Translators:
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:3264 db-strings.txt.py:7953 db-strings.txt.py:10131
-#, fuzzy
 #| msgid ""
 #| "llowing apps is pre-loaded on every Firefox OS phone? ect all t ly."
 msgid ""
 "Which of the following apps is preloaded on every Firefox OS phone? Select "
 "all that apply."
 msgstr ""
-"Quais dos seguintes aplicativos são pré-instalados em todos os telefones do "
-"Firefox OS? Selecione todas as que se aplicam.."
+"Quais dos seguintes aplicativos são pré-instalados em todos os telefones com "
+"o Firefox OS? Selecione todas as opções válidas."
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -3304,10 +3301,9 @@ msgstr "Há mais. Tente novamente"
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:3309 db-strings.txt.py:5721 db-strings.txt.py:7998
 #: db-strings.txt:10176
-#, fuzzy
 #| msgid "Open the Firefox browser."
 msgid "That’s right! This icon represents Messages —or text messaging."
-msgstr "Abra o navegador Firefox."
+msgstr "Está certo! Este ícone representa mensagens ou mensagens de texto."
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -3604,10 +3600,9 @@ msgstr ""
 #. Translators:
 #. Page path: /1-3/introduction/
 #: db-strings.txt:7116 db-strings.txt.py:9330
-#, fuzzy
 #| msgid "<p>Keep the Web in Your Hands</p>"
 msgid "Keep the Web in your hands"
-msgstr "Tenha a Web em suas mãos"
+msgstr "Mantenha a web em suas mãos"
 
 #. Translators:
 #. Page path: /2-0/introduction/
@@ -3677,6 +3672,10 @@ msgid ""
 "looking for. Demonstrate an example of a local app that will help make their"
 " lives easier."
 msgstr ""
+"Mostre aos seus clientes como é fácil de obter aplicativos no Firefox "
+"Marketplace. Diga que o Marketplace tem jogos divertidos e aplicativos que "
+"eles estão procurando. Demonstre um exemplo de um aplicativo local, que vai "
+"ajuda-lo a tornar vida mais fácil."
 
 #. Translators:
 #. Page path: /2-0/demo-tips/
@@ -3704,7 +3703,7 @@ msgstr ""
 #. Page path: /1-3/demo-tips/
 #: db-strings.txt:7242 db-strings.txt.py:9456
 msgid "Social and contact sync"
-msgstr ""
+msgstr "Social e sincronização de contatos"
 
 #. Translators:
 #. Page path: /2-0/customer-guide/
@@ -3838,7 +3837,6 @@ msgstr ""
 #. Translators:
 #. Page path: /1-3/key-features/
 #: db-strings.txt:7485 db-strings.txt.py:9699
-#, fuzzy
 #| msgid ""
 #| "Stay connected, with easy access to your friends and colleagues from "
 #| "wherever you are."
@@ -3846,8 +3844,8 @@ msgid ""
 "Stay connected with friends and colleagues on your favorite social networks "
 "from wherever your are.."
 msgstr ""
-"Fique conectado com acesso fácil aos seus amigos e colegas de onde você "
-"estiver."
+"Fique conectado com amigos e colegas em suas redes sociais favoritas de onde "
+"quer que esteja."
 
 #. Translators:
 #. Page path: /2-0/key-features/
