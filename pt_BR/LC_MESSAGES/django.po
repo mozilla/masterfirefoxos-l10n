@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-03-12 23:15+0000\n"
-"PO-Revision-Date: 2015-03-26 19:44+0000\n"
+"PO-Revision-Date: 2015-03-27 13:18+0000\n"
 "Last-Translator: Marcelo <mlcaraldi@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pt_BR\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1427399063.0\n"
+"X-POOTLE-MTIME: 1427462314.0\n"
 
 #. Translators:
 #. Page path: /1-1/
@@ -3100,7 +3100,6 @@ msgstr "Mensagens e e-mail"
 #. Page path: /1-3/frequently-asked-questions/
 #: db-strings.txt:3012 db-strings.txt.py:5424 db-strings.txt.py:7683
 #: db-strings.txt:9861
-#, fuzzy
 #| msgid ""
 #| "Firefox OS has a robust security model that is battle-hardened from more "
 #| "than a decade of supporting the Open Web. It is designed to protect the user"
@@ -3111,8 +3110,8 @@ msgid ""
 " and system from malicious applications and content."
 msgstr ""
 "O Firefox OS tem um modelo de segurança robusto, testado há mais de uma "
-"déciada por pessoas do mundo inteiro. É desenvolvido para proteger o usuário"
-" e o sistema de aplicativos mal intencionados."
+"década por pessoas do mundo inteiro. É desenvolvido para proteger o usuário "
+"e o sistema de aplicativos mal intencionados."
 
 #. Translators:
 #. Page path: /1-3T/frequently-asked-questions/
@@ -3134,7 +3133,6 @@ msgstr "O que quer dizer que eu posso converter sites móveis em aplicativos?"
 #. Translators:
 #. Page path: /1-3/frequently-asked-questions/
 #: db-strings.txt:3048 db-strings.txt.py:7719 db-strings.txt.py:9897
-#, fuzzy
 #| msgid ""
 #| ". However, many of the most popular Android and iOS apps  ually Webps t e a "
 #| "native “wrapper” to allow them to run prietary platforms. ore, many the same"
@@ -3146,11 +3144,11 @@ msgid ""
 "through Adaptive App Search. Tools such as Emscripten and PhoneGap are also "
 "able to convert other apps (*.apk and/or C/C++) to Web apps."
 msgstr ""
-"Provavelmente não, mas muitos dos aplicativos mais famosos do iOs e do "
-"Android são feitos de modo que possam ser executados em qualquer plataforma."
-" De qualquer forma, a maioria dos fabricantes de aplicativos mais famosos já"
-" está fazendo uma versão para Firefox OS, e nossa Pesquisa de Aplicativos "
-"Adaptável vai encontrar o que seu cliente precisa."
+"Não diretamente. Entretanto, muitos dos apps mais populares para Android e "
+"iOS são na verdade aplicativos Web \"empacotados\" com ferramentas que os "
+"fazem parecer nativos. Portanto, muitos dos mesmos apps estarão disponíveis "
+"na Pesquisa de Aplicativos Adaptável. Ferramentas como Emscripten e PhoneGap "
+"também podem converter outros apps (APK e/ou C++) para apps Web."
 
 #. Translators:
 #. Page path: /1-3T/frequently-asked-questions/
@@ -4348,12 +4346,13 @@ msgstr ""
 #. Translators:
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:8394 db-strings.txt.py:10536
-#, fuzzy
 #| msgid "<p>What is Adaptive App Search?</p>"
 msgid ""
 "That’s right. A first-time smartphone user will be most interested in ease "
 "of use."
-msgstr "O que é uma Pesquisa de Aplicativos Adaptável?"
+msgstr ""
+"Está certo. Um usuário novato em smartphone está mais interessado em "
+"facilidade de uso."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -4506,7 +4505,6 @@ msgstr ""
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:8871
-#, fuzzy
 #| msgid ""
 #| "lt by Firefox, you can feel confident that Firefox OS is ked by al "
 #| "munityrking on your behalf and with your erests in mind."
@@ -4514,9 +4512,9 @@ msgid ""
 "Since it’s made by Firefox, Firefox OS is backed by a global community "
 "working on your behalf and with your interests in mind."
 msgstr ""
-"Como é desenvolvido pelo Firefox, você pode confiar que o Firefox OS é "
-"apoiado por uma comunidade global trabalhando em seu nome e voltada para os "
-"seus interesses."
+"Como é desenvolvido pelo Firefox, pode confiar que o Firefox OS é apoiado "
+"por uma comunidade global trabalhando em seu nome e voltada para os seus "
+"interesses."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -4715,6 +4713,8 @@ msgid ""
 "It’s new and backed by a global community working to help keep the Web "
 "accessible to all."
 msgstr ""
+"É inovador e apoiado por uma comunidade global que trabalha para que a web "
+"continue acessível a todos."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
