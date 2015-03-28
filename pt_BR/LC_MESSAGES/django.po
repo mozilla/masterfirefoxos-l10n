@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-03-12 23:15+0000\n"
-"PO-Revision-Date: 2015-03-27 13:18+0000\n"
-"Last-Translator: Marcelo <mlcaraldi@gmail.com>\n"
+"PO-Revision-Date: 2015-03-28 12:53+0000\n"
+"Last-Translator: Marco Aurélio <ouesten@me.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1427462314.0\n"
+"X-POOTLE-MTIME: 1427547184.0\n"
 
 #. Translators:
 #. Page path: /1-1/
@@ -3157,7 +3157,6 @@ msgstr ""
 #. Translators:
 #. Page path: /1-3/frequently-asked-questions/
 #: db-strings.txt:3066 db-strings.txt.py:7755 db-strings.txt.py:9933
-#, fuzzy
 #| msgid ""
 #| "s built on Web technologies but has offline capabilities  all  ne’s e "
 #| "ctionalities. That means apps do not require active ernet nection ction "
@@ -3168,11 +3167,10 @@ msgid ""
 " the phone’s core functions. That means apps do not require an active "
 "Internet connection to work unless they need to send or receive data."
 msgstr ""
-"O Firefox OS é desenvolvido com tecnologias da Web, mas contém recursos off-"
-"line para todos os principais recursos do aparelho. Isso significa que os "
-"aplicativos não precisam de uma conexão ativa com a Internet para funcionar,"
-" exceto se precisarem enviar ou receber dados para outro sistema pela "
-"Internet para continuarem funcionando."
+"O Firefox OS é desenvolvido com tecnologias web, mas oferece todas as "
+"características essenciais do telefone offline. Isso significa que os "
+"aplicativos não necessitam de uma conexão de Internet ativa para serem "
+"executados, a menos que o aplicativo tenha que enviar ou receber dados."
 
 #. Translators:
 #. Page path: /1-3T/frequently-asked-questions/
@@ -3181,7 +3179,6 @@ msgstr ""
 #. Translators:
 #. Page path: /1-3/frequently-asked-questions/
 #: db-strings.txt:3084 db-strings.txt.py:7773 db-strings.txt.py:9951
-#, fuzzy
 #| msgid ""
 #| "Consumers who need support with an app built for Firefox OS will be directed"
 #| " to the app developer for assistance. If the consumer experience with "
@@ -3225,7 +3222,6 @@ msgstr "Quais provedores de e-mail são suportados?"
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:3201 db-strings.txt.py:5613 db-strings.txt.py:7890
 #: db-strings.txt:10068
-#, fuzzy
 #| msgid ""
 #| " ready to start selling Firefox OS to your customers? Put r wledge k and wer"
 #| " these questions to prove you have what es.</p>"
@@ -3236,7 +3232,7 @@ msgid ""
 msgstr ""
 "Você acha que está quase pronto para começar a vender o Firefox OS para os "
 "seus clientes? Coloque o seu conhecimento em prática e responda a estas "
-"perguntas para mostrar que você tem o que é necessário."
+"perguntas para mostrar que tem o que é necessário."
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -4082,15 +4078,14 @@ msgstr ""
 #. Translators:
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:7917 db-strings.txt.py:10095
-#, fuzzy
 #| msgid ""
 #| "customer responses indicate an ideal candidate for Firefox  ect allat ly."
 msgid ""
 "What are some examples of the kind of personalization and control that "
 "Firefox OS allows?  Select all that apply."
 msgstr ""
-"Qual destas respostas do cliente indica um candidato ideal para o Firefox "
-"OS? Selecione todas as que se aplicam."
+"Quais são exemplos do tipo de personalização e controle que o Firefox OS "
+"permite? Selecione todas as opções válidas."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
