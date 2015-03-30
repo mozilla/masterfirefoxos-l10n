@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-03-12 23:15+0000\n"
-"PO-Revision-Date: 2015-03-22 11:29+0000\n"
+"PO-Revision-Date: 2015-03-25 09:54+0000\n"
 "Last-Translator: xh-ZA41_Zameka <zamekas@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: xh\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1427023784.0\n"
+"X-POOTLE-MTIME: 1427277244.0\n"
 
 #. Translators:
 #. Page path: /1-1/
@@ -50,7 +50,7 @@ msgstr "Gqwesa i-Firefox OS"
 #: db-strings.txt:15 db-strings.txt.py:2355 db-strings.txt.py:4695
 #: db-strings.txt:7044 db-strings.txt.py:9258
 msgid "Welcome!"
-msgstr "Wamkelekile"
+msgstr "Wamkelekile!"
 
 #. Translators:
 #. Page path: /1-1/
@@ -154,7 +154,7 @@ msgstr ""
 #: db-strings.txt:141 db-strings.txt.py:2472 db-strings.txt.py:4821
 #: db-strings.txt:7161 db-strings.txt.py:9375
 msgid "Demonstrations That Matter"
-msgstr "Umboniso obalulekileyo"
+msgstr "Umboniso okubalulekileyo"
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
@@ -186,7 +186,7 @@ msgstr ""
 #: db-strings.txt:168 db-strings.txt.py:4848 db-strings.txt.py:7197
 #: db-strings.txt:9411
 msgid "When you only have a minute, make it count with this simple pitch."
-msgstr "Xa unomzuzu omnye kuphela, wasebenzise kakuhle ngale ndlela ilula."
+msgstr "Xa unomzuzu omnye kuphela, wusebenzise kakuhle ngale ndlela ilula."
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
@@ -229,7 +229,7 @@ msgstr "Ibhrawuza ye-Firefox"
 #: db-strings.txt:7206 db-strings.txt.py:7440 db-strings.txt.py:9420
 #: db-strings.txt:9654
 msgid "Marketplace"
-msgstr "I-Marketplace"
+msgstr "Imarike"
 
 #. Translators:
 #. Page path: /1-1/customer-guide/
@@ -308,7 +308,7 @@ msgstr "I-Smartphone Rookie"
 #: db-strings.txt:348 db-strings.txt.py:2634 db-strings.txt.py:5028
 #: db-strings.txt:7305 db-strings.txt.py:9519
 msgid "\"I have never had a smartphone.\""
-msgstr "\"Andizange ndabanayi i-smartphone.\""
+msgstr "\"Andizange ndabanayo i-smartphone.\""
 
 #. Translators:
 #. Page path: /1-1/customer-guide/
@@ -338,7 +338,7 @@ msgstr "Umkhangeli oxabisekileyo"
 #: db-strings.txt:375 db-strings.txt.py:2661 db-strings.txt.py:5055
 #: db-strings.txt:7332 db-strings.txt.py:9546
 msgid "\"I want a good deal.\""
-msgstr "\"Ndifuna idili entsha.\""
+msgstr "\"Ndifuna idili entle.\""
 
 #. Translators:
 #. Page path: /1-1/customer-guide/
@@ -569,7 +569,7 @@ msgstr "Umculo neVidiyo"
 #: db-strings.txt:663 db-strings.txt.py:2931 db-strings.txt.py:5343
 #: db-strings.txt:7620 db-strings.txt.py:9798
 msgid "Frequently Asked Questions"
-msgstr "Imibuzo ebuzwa rhoqo"
+msgstr "Imibuzo Ebuzwa Rhoqo"
 
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
@@ -732,7 +732,7 @@ msgid ""
 msgstr ""
 "Tyelela <a href=\"https://support.mozilla.org/en-US/product/firefox-"
 "os\">https://support.mozilla.org/en-US/product/firefox-os</a> malunga nezinye "
-"iinkcukacha "
+"iinkcukacha."
 
 #. Translators:
 #. Page path: /1-1/about/
@@ -749,7 +749,7 @@ msgstr ""
 msgid ""
 "Our mission is to promote openness, innovation and opportunity on the Web."
 msgstr ""
-"Ubizo lwethu kukhuthaza ukutyhileleka, ukungenisa izinto ezintsha kunye "
+"Ubizo lwethu kukhuthaza ukutyhileka, ukungenisa izinto ezintsha kunye "
 "namathuba amatsha kwi-Web."
 
 #. Translators:
@@ -769,7 +769,7 @@ msgid ""
 "controlled by just a few large entities. Yeah, we’re a little different than"
 " the other guys. Together, we can build a brighter future for the Web."
 msgstr ""
-"Exhasa i-Firefox smartphone yi-Mozilla, uluntu lwehlabathi olungamawaka "
+"Exhasa i-Firefox OS smartphone yi-Mozilla, uluntu lwehlabathi olungamawaka "
 "oluzinikele ekugcineni iwebhu ifumaneka kuwonke-wonke. Kungokuba sikholelwa "
 "ukuba sonke sinelungelo kwiwebhu engalawulwa zii-entethi ezinkulu. Ewe, "
 "sihlukile kancinci kunabanye. Kunye, singakha ikamva elihle lewebhu."
@@ -805,7 +805,7 @@ msgid ""
 "Put your new knowledge to the test with this series of fun, interactive "
 "quizzes."
 msgstr ""
-"Beka ulwazi olutsha kuvavanyo ngalesirisi yolonwabo, iikhwizi zonxulumana."
+"Beka ulwazi olutsha kuvavanyo ngalesirisi yolonwabo, iikhwizi zokunxulumana."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -821,8 +821,7 @@ msgstr ""
 #: db-strings.txt:7962 db-strings.txt.py:10140
 msgid ""
 "That’s right! All of these apps come pre-loaded on every Firefox OS phone."
-msgstr ""
-"Kulungile! Zonke ezi-app ziza sezifakelwe kwifowuni ye-Firefox OS nganye."
+msgstr "Kunjalo! Zonke ezi-app ziza sezifakelwe kwifowuni ye-Firefox OS nganye."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -870,7 +869,7 @@ msgstr ""
 msgid ""
 "That’s right. All of these customers are ideal candidates for Firefox OS!"
 msgstr ""
-"Kulungile. Bonke aba bathengi bangabafanekileyo ukuba ngabathengi be-Firefox "
+"Kunjalo. Bonke aba bathengi bangabafanekileyo ukuba ngabathengi be-Firefox "
 "OS!"
 
 #. Translators:
@@ -909,7 +908,7 @@ msgstr ""
 #: db-strings.txt:8025 db-strings.txt.py:8061 db-strings.txt.py:10167
 #: db-strings.txt:10203 db-strings.txt.py:10239
 msgid "Which Firefox OS feature does this icon represent?"
-msgstr "Yeyiphi ifitsha ye-Firefox OS emelwe yile iyikhoni?"
+msgstr "Yeyiphi ifitsha ye-Firefox OS emelwe yile ayikhoni?"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1051,8 +1050,8 @@ msgid ""
 "my friends, but I don’t want to spend a lot of money.” Which of the "
 "following statements would be a good response? Select all that apply."
 msgstr ""
-"Umthengi uthi kuwe, Ndikhangela indlela elula yokuhlala ndinxibelelana "
-"nabahlobo bam, kodwa andifuni kuchitha mali ininzi. Yeyiphi kwezintetho "
+"Umthengi uthi kuwe, \"Ndikhangela indlela elula yokuhlala ndinxibelelana "
+"nabahlobo bam, kodwa andifuni kuchitha mali ininzi.\" Yeyiphi kwezintetho "
 "onokuphendula ngayo? Khetha zonke ezo zingalunga."
 
 #. Translators:
@@ -1072,7 +1071,7 @@ msgid ""
 "customer?"
 msgstr ""
 "Umthengi uthi, \"Ndisebenzisa i-Firefox kwikhompyutha yam yasekhaya kwaye "
-"ndiyayithanda, kodwa bendingayazi ukuba bane-smartphone OS. Ngoba? Yeyiphi "
+"ndiyayithanda, kodwa bendingayazi ukuba bane-smartphone OS. Ngoba?\" Yeyiphi "
 "intetho enokuba yeyona mpendulo ifanelekileyo kulo mthengi?"
 
 #. Translators:
@@ -1112,7 +1111,7 @@ msgstr ""
 #: db-strings.txt:8466 db-strings.txt.py:8538 db-strings.txt.py:8574
 #: db-strings.txt:10608 db-strings.txt.py:10680 db-strings.txt.py:10716
 msgid "That’s right!"
-msgstr "Kulungile!"
+msgstr "Kunjalo!"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1127,7 +1126,7 @@ msgstr "Kulungile!"
 #: db-strings.txt:1563 db-strings.txt.py:3813 db-strings.txt.py:6225
 #: db-strings.txt:8502 db-strings.txt.py:10644
 msgid "That’s right."
-msgstr "Kulungile."
+msgstr "Kunjalo."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1159,7 +1158,7 @@ msgstr ""
 #: db-strings.txt:1698 db-strings.txt.py:6387 db-strings.txt.py:8664
 #: db-strings.txt:10815
 msgid "Firefox Marketplace"
-msgstr "IMarike yeFirefox"
+msgstr "IMarike ye-Firefox"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1328,8 +1327,8 @@ msgid ""
 "Facebook is preloaded on every Firefox OS device and you can import your "
 "Facebook contacts easily!"
 msgstr ""
-"IKhasilobuso selifakiwe kuzo zonke iidivayis zika-Firefox OS kwaye "
-"ungafumana abanxibelelani bakho beKhasilobuso lula! "
+"IKhasilobuso selifakiwe kuzo zonke iidivayisi ze-Firefox OS kwaye ungafumana "
+"abanxibelelani bakho beKhasilobuso lula! "
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1422,7 +1421,7 @@ msgid ""
 "expect in a smartphone, with an easy-to-use interface that makes it easy to "
 "get started."
 msgstr ""
-"I-Firefox OS uyikho xhakaxhaka ngezinto ongazifuniyo. Ikunika oko "
+"I-Firefox OS ayinabu xhakaxhaka bezinto ongazifuniyo. Ikunika oko "
 "ukulindeleyo kwi-smartphone, ngendlela elula ukusebenzeka eyenza kube lula "
 "ukuyiqhela."
 
@@ -1518,7 +1517,7 @@ msgid ""
 " with the world around them."
 msgstr ""
 "I-Firefox OS izaliswe ngeefitsha ezilindelwe ngabathengi bakho kwi-"
-"smartphone. Iyilelwe ukufanelena nobomi babo ukuze bazigcine bekunye "
+"smartphone. Iyilelwe ukufanelana nobomi babo ukuze bazigcine bekunye "
 "nokuqhubeka kwilizwe lonke."
 
 #. Translators:
@@ -1536,7 +1535,7 @@ msgid ""
 "share your photographs, the full-featured camera and photo gallery will have"
 " all your subjects smiling."
 msgstr ""
-"Ngeefiltha ezakhelweyo zolonwabo, ezinobuchule neendlela ezininzi "
+"Ngeefilitha ezakhelweyo zolonwabo, ezinobuchule neendlela ezininzi "
 "zokwabelana nemifanekiso yakho, ikhamela igcwela iifitsha negalari yeefoto "
 "ziyakwenza bonke abathengi bakho bahlale bencumile."
 
@@ -1568,9 +1567,9 @@ msgid ""
 "than a decade of supporting the open Web. It is designed to protect the user"
 " and system from malicious applications and content."
 msgstr ""
-"I-Firefox OS inokhuseleko oluluqilima oluqiniselwe idaba malunga neshumi "
+"I-Firefox OS inokhuseleko oluluqilima oluqiniselwe idabi malunga neshumi "
 "leminyaka lixhase iwebhu evulelekileyo. Yenzelwe ukukhusela umsebenzisi "
-"nenkqubo kusetyenzisoi neziqulatho eziyingozi."
+"nenkqubo kusetyenziso neziqulatho eziyingozi."
 
 #. Translators:
 #. Page path: /1-3T/frequently-asked-questions/
@@ -1601,11 +1600,10 @@ msgid ""
 "able to convert other apps (*.apk and/or C/C++) to Web apps."
 msgstr ""
 "Hayi ngqo. Kodwa ke, uninzi lwee-app ezidumileyo ze-Android ne-iOS zii-app "
-"zeWebhu ezinesikhuselo zesiseko ezivumela ukuba ziqhube kwiiplathifomu "
-"ezifanelekileyo. Ngokoke, uninzi lwee-app ezifanayo ziyakufumaneka nge- "
-"Adaptive App Search. Izixhobo ezinje nge-Emscripten ne-PhoneGap nazo "
-"zingaguqulwa kwezinye ii-app (*.apk and/or C/C + +) zibe kwezinye ii-app "
-"zeWebhu. "
+"zeWebhu ezinesikhuselo \"zesiseko\" ezivumela ukuba ziqhube kwiiplathifomu "
+"zomnini. Ngokoke, uninzi lwee-app ezifanayo ziyakufumaneka nge- Adaptive App "
+"Search. Izixhobo ezinje nge-Emscripten ne-PhoneGap nazo ziyakwazi ukuguqula "
+"ezinye ii-app (*.apk and/or C/C + +) zibe kwezinye ii-app zeWebhu. "
 
 #. Translators:
 #. Page path: /1-3T/frequently-asked-questions/
@@ -1699,8 +1697,8 @@ msgid ""
 "Which of the following apps is preloaded on every Firefox OS phone? Select "
 "all that apply."
 msgstr ""
-"Zeziphi ezi-app zilandelayo esele zifakiwe kuzo zonke iifowuni ze-Firefox? "
-"Khetha zonke ezo zifakiweyo."
+"Zeziphi ezi-app zilandelayo esele zifakiwe kuzo zonke iifowuni ze-Firefox "
+"OS? Khetha zonke ezo zifakiweyo."
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -1726,7 +1724,7 @@ msgstr "Zikhona ezinye. Zama kwakhona"
 #: db-strings.txt:3309 db-strings.txt.py:5721 db-strings.txt.py:7998
 #: db-strings.txt:10176
 msgid "That’s right! This icon represents Messages —or text messaging."
-msgstr "Kulungile! Le ayikhoni imele imiyalezo - okanye imiyalezo ebhaliweyo."
+msgstr "Kunjalo! Le ayikhoni imele imiyalezo - okanye imiyalezo ebhaliweyo."
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -1752,7 +1750,7 @@ msgstr ""
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:3345 db-strings.txt.py:8034 db-strings.txt.py:10212
 msgid "That’s right. This icon represents the Contacts."
-msgstr "Kulungile. Le ayikhoni imele abaqhagamshelani. "
+msgstr "Kunjalo. Le ayikhoni imele abaqhagamshelani. "
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -1799,7 +1797,7 @@ msgstr ""
 msgid ""
 "The best response to this objection is to talk about all the apps that are "
 "available."
-msgstr "Eyona mpendulo yalenjongo kukuthetha ngee-app eziikhoyo."
+msgstr "Eyona mpendulo yalenjongo kukuthetha ngee-app ezikhoyo."
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -1953,9 +1951,9 @@ msgid ""
 "value for your money. It has everything you expect in a smartphone — camera,"
 " email, apps, music, maps and more — at the most competitive prices."
 msgstr ""
-"<strong>Naku onokutsho:</strong>I-Firefox OS ikunika elona xabiso liphezulu "
-"ngemali yakho. Inento yonke obuyilindele kwi-smartphone - ikhamera, imeyile, "
-"ii-app, umculo, imaphu, nokunye - ngamaxabiso afikelelekayo."
+"<strong>Naku onokutsho:</strong> I-Firefox OS ikunika elona xabiso liphezulu "
+"ngemali yakho. Inento yonke obuyilindele kwi-smartphone - ikhamera, "
+"imeyile, ii-app, umculo, imaphu, nokunye - ngamaxabiso afikelelekayo."
 
 #. Translators:
 #. Page path: /2-0/introduction/
@@ -1963,7 +1961,7 @@ msgstr ""
 #. Page path: /1-3/introduction/
 #: db-strings.txt:7080 db-strings.txt.py:9294
 msgid "An excellent user experience"
-msgstr "Imava omsebenzisi agqwesileyo"
+msgstr "Amava omsebenzisi agqwesileyo"
 
 #. Translators:
 #. Page path: /2-0/introduction/
@@ -2021,10 +2019,10 @@ msgid ""
 "innovate and further Web technologies.    When you choose Firefox OS, you’re"
 " helping build a brighter future for the Web for all."
 msgstr ""
-"Kwa-Mozilla, sikhona ukuba senze umahluko, hayi inzuzo. ....... Ii-"
-"smartphone ze-Firefox OS zixhaswe luluntu lwehlabathi oluphuhlisa izinto "
-"ezintsha luqhubekeke netheknoloji yewebhu ........ Xa ukhetha i-Firefox OS, "
-"unceda ukwakha ikamva elitsha lewebhu yomntu wonke."
+"Kwa-Mozilla, sikhona ukuba senze umahluko, hayi inzuzo.    Ii-smartphone ze-"
+"Firefox OS zixhaswe luluntu lwehlabathi oluphuhlisa izinto ezintsha "
+"luqhubekeke netheknoloji yewebhu.    Xa ukhetha i-Firefox OS, unceda ukwakha "
+"ikamva elitsha lewebhu yomntu wonke."
 
 #. Translators:
 #. Page path: /2-0/introduction/
@@ -2047,9 +2045,9 @@ msgid ""
 "perfect choice for anyone committed to keeping the Web open for all."
 msgstr ""
 "Abathengi bakho bafuna ukufumana okona kubomi, ngokoke kutheni bezakufumana "
-"ngaphantsi kwidivayisi yaba yemobhayile? ...... Iidivayisi ze-Firefox OS "
-"zezona zilungele abasebenzisi abatsha be-smartphone - kulula ukuzisebenzisa "
-"kwaye zigcwele iifitsha abazilindeleyo. Kwaye ngoba iidivayisi ze-Firefox OS "
+"ngaphantsi kwidivayisi yabo yemobhayile?  Iidivayisi ze-Firefox OS zezona "
+"zilungele abasebenzisi abatsha be-smartphone - kulula ukuzisebenzisa kwaye "
+"zigcwele iifitsha abazilindeleyo. Kwaye ngoba iidivayisi ze-Firefox OS "
 "zixhaswe ngu-Mozilla, zizezona zilukhetho olululo lomntu wonke ozinikele "
 "ekugcineni iwebhu ivulelekile kumntu wonke. "
 
@@ -2090,11 +2088,10 @@ msgid ""
 msgstr ""
 "Ngekhamera, igalari, ii-app zomculo nokunye, i-Firefox igcina abathengi "
 "bakho bonwatyisiwe besendleleni kwaye benxibelelana nezinto ezingundoqo "
-"kubo. ..... <br><br>Ikhamera: Imifanekiso, hlela wabelane. Dlisela "
-"ngeefitsha zethu ezininzi zee-app zekhamera negalari, iquke iifiltha "
-"ezakhelweyo, ividiyo nokunye. .... <br><br> Umculu: Umculo ufumaneka lula, "
-"abathengi bakho bakubono ukuba i-Firefox OS ibagcina bonwabile kwaye "
-"bedanisa ezitalatweni."
+"kubo.  <br><br>Ikhamera: Imifanekiso, hlela wabelane. Dlisela ngeefitsha "
+"zethu ezininzi zee-app zekhamera negalari, iquke iifiltha ezakhelweyo, "
+"ividiyo nokunye.  <br><br>Umculu: Umculo ufumaneka lula, abathengi bakho "
+"bakubono ukuba i-Firefox OS ibagcina bonwabile kwaye bedanisa ezitalatweni."
 
 #. Translators:
 #. Page path: /2-0/demo-tips/
@@ -2115,7 +2112,9 @@ msgid ""
 " below to learn how to best respond to each of their unique needs."
 msgstr ""
 "Ukuqonda iimfuno zabathengi bakho nokwazi indlela yokuphendula ngokuthe ngqo "
-"kubaluleke kakhulu nakuluphina ithuba lokuthengisa."
+"kubaluleke kakhulu nakuluphina ithuba lokuthengisa. Qwalasela isahluko "
+"esingezantsi somthengi ukufunda ngendlela eyiyo onokuthi uphendule ngayo "
+"imfuno zabo ezahlukileyo."
 
 #. Translators:
 #. Page path: /2-0/customer-guide/
@@ -2129,12 +2128,12 @@ msgid ""
 "less time spent searching. Plus, it’s packed with all the features you’d "
 "expect — camera, email, apps, music, maps and more!"
 msgstr ""
-"<strong>Naku onokutsho:</strong>I-Firefox OS lolona khetho lululo kubathengi "
-"bokuqala be-smartphone. Kulula kakhulu ukuyisebenzisa kwaye ilungelana "
-"nemfuno zakho ngcono kunezinye iifowuni. Lo nto ithetha ukuba ufumana "
-"ngaphezulu okufunayo ngethuba elifutshane olichitha ekukhangeleni. Kwakhona, "
-"izele iifitsha ozilindeleyo - ikhamera, imeyile, ii-app, umculo, iimaphu, "
-"nokunye!"
+"<strong>Naku onokutsho:</strong> I-Firefox OS lolona khetho lululo "
+"kubathengi bokuqala be-smartphone. Kulula kakhulu ukuyisebenzisa kwaye "
+"ilungelana nemfuno zakho ngcono kunezinye iifowuni. Lo nto ithetha ukuba "
+"ufumana ngaphezulu okufunayo ngethuba elifutshane olichitha ekukhangeleni. "
+"Kwakhona, izele iifitsha ozilindeleyo - ikhamera, imeyile, ii-app, umculo, "
+"iimaphu, nokunye!"
 
 #. Translators:
 #. Page path: /2-0/customer-guide/
@@ -2147,9 +2146,9 @@ msgid ""
 "be able to quickly discover and download your favorite apps and be ready to "
 "go in no time."
 msgstr ""
-"<strong>Naku onokutsho:</strong>I-Firefox OS yeyona smartphone ilula "
-"onokuqala ngayo. .... ... Indlela esetyenziswa ngayo ilula, uyakuyifunda "
-"msinya kwaye ukhuphele ii-app ozithandayo ulungele nokungena ngexesha."
+"<strong>Naku onokutsho:</strong> I-Firefox OS yeyona smartphone ilula "
+"onokuqala ngayo.  Indlela esetyenziswa ngayo ilula, uyakuyifunda msinya "
+"kwaye ukhuphele ii-app ozithandayo ulungele nokungena ngexesha."
 
 #. Translators:
 #. Page path: /2-0/customer-guide/
@@ -2163,12 +2162,12 @@ msgid ""
 " a community dedicated to keeping the Web accessible to all. When you choose"
 " Firefox OS, you have the full power of the Web in your hands."
 msgstr ""
-"<strpmg>Naku onokutsho:</strong>Ukuba uyazi kwaye uyayithanda i-Firefox, "
-"uyakuyithanda i-Firefox OS. .... .... I-smartphone ye-Firefox OS zisekwe "
-"nge-HTML5 kuphela, yenza ukuba ufumana okuphambili kwewebhu kwifowuni yakho. "
-"..... ..... Kwakhona, i-Firefox OS yenziwe luluntu oluzinikele ekugcineni "
-"iwebhu ifumaneka. Xa ukhetha i-Firefox OS, uyakufumana konke okwenzelwa "
-"iwebhu ezandleni zakho. "
+"<strong>Naku onokutsho:</strong> Ukuba uyazi kwaye uyayithanda i-Firefox, "
+"uyakuyithanda i-Firefox OS.  I-smartphone ye-Firefox OS zisekwe nge-HTML5 "
+"kuphela, yenza ukuba ufumana okuphambili kwewebhu kwifowuni yakho.  "
+"Kwakhona, i-Firefox OS yenziwe luluntu oluzinikele ekugcineni iwebhu "
+"ifumaneka. Xa ukhetha i-Firefox OS, uyakufumana konke okwenzelwa iwebhu "
+"ezandleni zakho. "
 
 #. Translators:
 #. Page path: /2-0/key-features/
@@ -2208,7 +2207,7 @@ msgid ""
 "from wherever your are.."
 msgstr ""
 "Hlala unxibelelene nabahlobo nabalingane kwiiinethiwokhi ozithandayo "
-"zembutho yoluntu naphina apho ukhoyo."
+"zembutho yoluntu naphina apho ukhoyo.."
 
 #. Translators:
 #. Page path: /2-0/key-features/
@@ -2257,7 +2256,7 @@ msgid ""
 msgstr ""
 "Kudlale konke kwifowuni yakho, okanye kwi-intanethi yakho nge-YouTube. "
 "Bhrawuza uze udlale umculo wakho nge-albhamu okanye imvumi, yenza "
-"umlinganiselo weengoma zakho wenze noluhlu lweengoma ozithandayo."
+"umlinganiselo weengoma zakho wenze noluhlu lweengoma ozithandayo. "
 
 #. Translators:
 #. Page path: /2-0/key-features/
@@ -2320,7 +2319,7 @@ msgstr ""
 "amakhulu osetyenziso mahala ayakubakho xakusaziswa ngemveliso. Uluhlu "
 "olukhulayo luquke abaphuhlisi abadumileyo njengeKhasilobuso, i-YouTube, "
 "u-Twitter, i-Pinterest ne-ConnectA2 ngokunjalo ne-app ye-Flashlight ne-"
-"Calculator.  "
+"Calculator. "
 
 #. Translators:
 #. Page path: /2-0/frequently-asked-questions/
@@ -2364,10 +2363,10 @@ msgid ""
 "when the app is closed."
 msgstr ""
 "Nothi ngqo, kodwa u-ConnectA2 app ukuvumela ukuba uthumele imiyalezo "
-"yesiquphe kubaqhagamshelani bakho ku-ConnectA2 kwaye/okanye ku-WhatsApp. "
-"..... ..... Ungathumela okanye ufumane imiyalezo, ii-emoticon, imifanekiso, "
-"iividiyo nefayile zezandi mahala. Ungenza usebenzise namaqela okuncokola "
-"ufumane nezaziso zemiyalezo emitsha, nkqu naxa i-app ivaliwe."
+"yesiquphe kubaqhagamshelani bakho ku-ConnectA2 kwaye/okanye ku-WhatsApp.  "
+"Ungathumela okanye ufumane imiyalezo, ii-emoticon, imifanekiso, iividiyo "
+"nefayile zezandi mahala. Ungenza usebenzise namaqela okuncokola ufumane "
+"nezaziso zemiyalezo emitsha, nkqu naxa i-app ivaliwe."
 
 #. Translators:
 #. Page path: /2-0/frequently-asked-questions/
@@ -2375,7 +2374,7 @@ msgstr ""
 #. Page path: /1-3/frequently-asked-questions/
 #: db-strings.txt:7746 db-strings.txt.py:9924
 msgid "Will my apps work offline?"
-msgstr "Ingaba ii-app zingasebenza xa kungekho nethiwokhi."
+msgstr "Ingaba ii-app zingasebenza xa kungekho nethiwokhi?"
 
 #. Translators:
 #. Page path: /2-0/frequently-asked-questions/
@@ -2388,8 +2387,8 @@ msgid ""
 "developers in your region."
 msgstr ""
 "IMarike ye-Firefox ngumthombo wee-app ezisimahla, eziquka izinto ozithandayo "
-"njengo Twitter neKhasilobuso, nezinye iziqulatho zasekuhlaleni ezisiku "
-"kubaqulunqi beewebhu eziigqwesileyo kwingingqi yakho."
+"njengo Twitter neKhasilobuso, nezinye iziqulatho zasekuhlaleni ezisuka "
+"kubaqulunqi beewebhu ezigqwesileyo kwingingqi yakho."
 
 #. Translators:
 #. Page path: /2-0/frequently-asked-questions/
@@ -2405,7 +2404,7 @@ msgstr "Utshintsho, i-POP3 ne-IMAP azixhaswa okwangoku."
 #. Page path: /1-3/about/
 #: db-strings.txt:7836 db-strings.txt.py:10014
 msgid "The Mozilla Mission"
-msgstr "Injongo yeMozilla"
+msgstr "Injongo ye-Mozilla"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2429,11 +2428,11 @@ msgid ""
 "Web remains in their hands!"
 msgstr ""
 "Ukuba uyenze yonke imibuzo neziqulatho, ukulungele ukudibanisa i-Firefox OS "
-"neemfuno zabathengi bakho. ... ... Kulula ukuyisebenzisa, i-smartphone se-"
-"Firefox OS sisesona silungele abasenzisi abaqalayo be-smartphone esitsha "
-"kwaye sizele iifitsha ezifunwa ngabathengi. .... .... Kwaye yomelezwe yi-"
-"Mozilla, yenze i-Firefox OS ibe lelona khetho lawo nawuphina umntu "
-"ozinikezeleyo ekuqinisekiseni ukuba amandla ewebhu ahlala esezandleni zabo!"
+"neemfuno zabathengi bakho.   Kulula ukuyisebenzisa, i-smartphone se-Firefox "
+"OS sisesona silungele abasenzisi abaqalayo be-smartphone esitsha kwaye "
+"sizele iifitsha ezifunwa ngabathengi.  Kwaye yomelezwe yi-Mozilla, yenze "
+"i-Firefox OS ibe lelona khetho lawo nawuphina umntu ozinikezeleyo "
+"ekuqinisekiseni ukuba amandla ewebhu ahlala esezandleni zabo!"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2445,7 +2444,7 @@ msgid ""
 "Firefox OS allows?  Select all that apply."
 msgstr ""
 "Yeyiphi eminye imizekelo yohlobo lokulungelenanisa neminqweno yakho "
-"nokulawula evunyelweyo yi-Firefox OS? ... ... Khetha konke okufanelekileyo. "
+"nokulawula evunyelweyo yi-Firefox OS?  Khetha konke okufanelekileyo. "
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2454,7 +2453,7 @@ msgstr ""
 #: db-strings.txt:7926 db-strings.txt.py:10104
 msgid ""
 "That’s right! All of these things are possible with a Firefox OS phone."
-msgstr "Kulungile! Zonke ezi zinto zinakho ukwenzeka ngefowuni ye-Firefox OS."
+msgstr "Kunjalo! Zonke ezi zinto zinakho ukwenzeka ngefowuni ye-Firefox OS."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2481,7 +2480,7 @@ msgstr "Zikhona nezinye. Zama kwakhona."
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:8070 db-strings.txt.py:10248
 msgid "That’s right. This icon represents the Firefox Browser."
-msgstr "Kulungile. Le ayikhoni imele ibhrawuza ye-Firefox."
+msgstr "Kunjalo. Le ayikhoni imele ibhrawuza ye-Firefox."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2510,8 +2509,7 @@ msgid ""
 "That’s right! All of these things can be shared via Bluetooth with your "
 "Firefox OS phone."
 msgstr ""
-"Kulungile! Zonke ezi zinto zingabelwana nge-Bluetooth ngefowuni ye-Firefox "
-"OS."
+"Kunjalo! Zonke ezi zinto zingabelwana nge-Bluetooth ngefowuni ye-Firefox OS."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2579,7 +2577,7 @@ msgid ""
 "That’s right. When you meet a Firefox fan, talk about how choosing Firefox "
 "OS shows a commitment to keeping the power of the Web in their hands."
 msgstr ""
-"Kulungile. Xa udibana umxhasi we-Firefox, thetha ngokuba ukukhetha i-Firefox "
+"Kunjalo. Xa udibana umxhasi we-Firefox, thetha ngokuba ukukhetha i-Firefox "
 "OS kubonakalisa ukuzinikezela ekugcineni amandla ewebhu esezandleni zabo."
 
 #. Translators:
@@ -2606,9 +2604,9 @@ msgid ""
 " set of Firefox OS, including social apps that are preloaded on the phone, "
 "all at great value."
 msgstr ""
-"Kulungile. Kulo mthengi, phawula ixabiso eliphezulu neefitsha ezininzi "
-"zesethi ye-Firefox OS, eziquka ii-app zembutho esele zifakiwe kwifowuni, "
-"konke ngexabiso eliphezulu."
+"Kunjalo. Kulo mthengi, phawula ixabiso eliphezulu neefitsha ezininzi zesethi "
+"ye-Firefox OS, eziquka ii-app zembutho esele zifakiwe kwifowuni, konke "
+"ngexabiso eliphezulu."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2636,8 +2634,8 @@ msgid ""
 "of the Web in the hands of the people. And while all of these statements are"
 " true, only this one is the best response for this particular customer."
 msgstr ""
-"Kulungile. Lo mthengi ubonakala njengomxhasi we-Firefox. Thetha ngendlela "
-"ngendlela i-Firefox OS ifowuna ngayo, yenziwe yi-Mozilla, bonisa ukuzinikela "
+"Kunjalo. Lo mthengi ubonakala njengomxhasi we-Firefox. Thetha ngendlela "
+"i-Firefox OS efowuna ngayo, yenziwe yi-Mozilla, bonisa ukuzinikela "
 "ekugcineni amandla ewebhu esezandleni zabantu. Nasekubeni zonke ezintetho "
 "zinjalo, kuphela kwempendulo onokubanika yona le."
 
@@ -2666,7 +2664,7 @@ msgid ""
 " the case that your phone is lost or stolen?"
 msgstr ""
 "Ifitsha yedivayisi yokukhangela kwifowuni ye-Firefox OS ikunceda wenze ntoni "
-"xa ifowuni yakho ilahlekile okanye ibiwe."
+"xa ifowuni yakho ilahlekile okanye ibiwe?"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2675,7 +2673,7 @@ msgid ""
 "That’s right! The Find My Device helps you do all these things through your "
 "Firefox Account."
 msgstr ""
-"Kulungile! Idivayisi yokukhangela ikunceda wenza zonke ezi zinto nge-"
+"Kulungile! Idivayisi yam yokukhangela ikunceda wenza zonke ezi zinto nge-"
 "akhawunti ye-Firefox."
 
 #. Translators:
@@ -2806,7 +2804,7 @@ msgstr "Zenzele izandi zakho zefowuni"
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:8817 db-strings.txt.py:10968
 msgid "Share contacts"
-msgstr "Yabelana ngobaqhagamshelani"
+msgstr "Yabelana ngabaqhagamshelani"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2832,7 +2830,7 @@ msgid ""
 "experience, Firefox OS is packed with the features that users are looking "
 "for in a smartphone."
 msgstr ""
-"NgeMarike ye-Fireox, ezona app zifakelweyo ngaphambili nezithandwayo "
+"NgeMarike ye-Firefox, ezona app zifakelweyo ngaphambili nezithandwayo "
 "ngabasebenzisi, i-Firefox OS izele ziifitsha ezifunwa ngabasebenzisi be-"
 "smartphone."
 
@@ -2873,7 +2871,7 @@ msgid ""
 msgstr ""
 "I-Firefox OS yeyona smartphone onokuqal angayo ukuyisebenzisa. Ii-app zakho "
 "ozithandayo sele zifakiwe kwaye kulula ukufaka nabahlobo bakho "
-"abakwiKhasilobuso."
+"abakwiKhasilobuso..."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2898,7 +2896,7 @@ msgid ""
 "expect, including Messages, Facebook, email, maps and more, all at a better "
 "value."
 msgstr ""
-"I-smartphone se-Firefox Os sele sifakelwe zonke iifitsha ozilindeleyo, "
+"I-smartphone se-Firefox OS sele sifakelwe zonke iifitsha ozilindeleyo, "
 "kuquka imiyalezo, iKhasilobuso, imeyile, imaphu nokunye, konke ngexabiso "
 "elingcono."
 
@@ -2935,13 +2933,13 @@ msgstr "Phanda indawo apho idivayisi yakho ilahleke/ibiwe khona"
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:9033
 msgid "Remotely wipe the device."
-msgstr "Sula idivayisi yakho nge-remote"
+msgstr "Sula idivayisi yakho nge-remote."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:9042
 msgid "Remotely lock the device."
-msgstr "Tshixa idivayisi yakho nge-remote"
+msgstr "Tshixa idivayisi yakho nge-remote."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2967,7 +2965,7 @@ msgstr "Ungayisebenzisa ukwenza nokusetha ibhajethi yosetyenziso lwedeyitha."
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:9096 db-strings.txt.py:11220
 msgid "It shows usage per app."
-msgstr "Ibonisa isetyenziso lwe-app nganye."
+msgstr "Ibonisa usetyenziso lwe-app nganye."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2990,7 +2988,7 @@ msgid ""
 msgstr ""
 "I-Firefox ixhaswe luluntu lwehlabathi olungabaphuhlisi nabenzi besiqulatho "
 "abazinikele ukwenzeni iziqulatho ezitsha nezinika umdla kunye nee-app "
-"zasekuhlaleni ezifanelekileyo kwiplathifomu ye-Firefox Os. Ii-app ezintsha "
+"zasekuhlaleni ezifanelekileyo kwiplathifomu ye-Firefox OS. Ii-app ezintsha "
 "neziqulatho zongezwa rhoqo."
 
 #. Translators:
@@ -3003,7 +3001,7 @@ msgid ""
 "Open Web."
 msgstr ""
 "Abaphuhlisi bee-app baya beziqonda iinzuzo ze-HTML5 ekuxhaseni iwebhu "
-"evulekileyo. "
+"evulekileyo.  "
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -3079,15 +3077,14 @@ msgid ""
 "<li><em>1.3.0.0</em> means you have version 1.3</li> <li><em>2.0.0.0</em> "
 "means you have version 2.0</li> </ul> </li> </ol>"
 msgstr ""
-"<ol> <li> Vula iisethingi ze-app kwidivayisi yakho. </li> <li> Skrola uhle "
-"ukhethe <strong> iinkcukacha zedivayis </strong>, </li> <li> Kwiskrini "
-"seenkcukacha zedivayisi khetha <strong> Ezinye iinkcukacha </strong> uze "
-"ujonge iinguqulelo zamanani phantsi <em> inguqulelo ye-OS </em> emantla "
-"kweskrini. <ul> <li> <em> i-Firefox OS 1.0.1.0 </em> ithetha ukuba "
-"unenguqulelo 1.0.1 </li> <li> <em> i-Firefox OS 1.1.0.0 </em> ithetha ukuba "
-"unenguqulelo 1.1 </li> <li> <em> 1.3.0.0 <em> ithetha ukuba unenguqulelo 1.3 "
-"</li> <li> <em> 2.0.0.0 </em> ithetha unenguqulelo 2.0 </li> </ul> <li> "
-"</ol>"
+"<ol> <li>Vula iisethingi ze-app kwidivayisi yakho.</li> <li> Skrola uhle "
+"ukhethe <strong>iinkcukacha zedivayis</strong>.</li> <li>Kwiskrini "
+"seenkcukacha zedivayisi, khetha <strong>Ezinye iinkcukacha</strong> uze "
+"ujonge iinguqulelo zamanani phantsi <em> inguqulelo ye-OS</em>emantla "
+"kweskrini. <ul> <li><em>i-Firefox OS 1.0.1.0</em> ithetha ukuba unenguqulelo "
+"1.0.1</li> <li><em>i-Firefox OS 1.1.0.0</em> ithetha ukuba unenguqulelo "
+"1.1</li> <li><em>1.3.0.0<em> ithetha ukuba unenguqulelo 1.3</li> "
+"<li><em>2.0.0.0</em> ithetha unenguqulelo 2.0</li> </ul> </li> </ol>"
 
 #: masterfirefoxos/base/templates/base.html:35
 msgid "Submit"
@@ -3097,7 +3094,7 @@ msgstr "Ngenisa"
 #: masterfirefoxos/base/templates/base.html:83
 #: masterfirefoxos/base/templates/home.html:12
 msgid "Mozilla"
-msgstr "i-Mozilla"
+msgstr "I-Mozilla"
 
 #: masterfirefoxos/base/templates/base.html:65
 msgid "Menu"
@@ -3109,9 +3106,9 @@ msgid ""
 "available under a <a href=\"https://www.mozilla.org/foundation/licensing"
 "/website-content/\">Creative Commons license</a>."
 msgstr ""
-"Iziqendu zesisiqulatho yi 1998 - {0} abaxhasi abazimeleyo. Isiqulatho "
+"Iziqendu zesisiqulatho yi ©1998–{0} abaxhasi abazimeleyo. Isiqulatho "
 "siyafumaneka kwi <ahref=\"https://www.mozilla.org/foundation/licensing"
-"/website-content/\">ilayisenisi yekhumoni ezinobuchule</a>."
+"/website-content/\">ilayisenisi yeekhumoni ezinobuchule</a>."
 
 #: masterfirefoxos/base/templates/base.html:91
 msgid "Source code"
@@ -3131,7 +3128,7 @@ msgstr "Nikela"
 
 #: masterfirefoxos/base/templates/base.html:99
 msgid "Privacy Policy"
-msgstr "Umgaqo-nkqubo Wabucala"
+msgstr "Umgaqo-nkqubo wabucala"
 
 #: masterfirefoxos/base/templates/base.html:100
 msgid "Legal Notices"
@@ -3139,7 +3136,7 @@ msgstr "Izaziso zasemthethweni"
 
 #: masterfirefoxos/base/templates/base.html:101
 msgid "Report Trademark Abuse"
-msgstr "Xela Ukuxhatshazwa Kophawu Lorhwebo"
+msgstr "Xela ukuxhatshazwa kophawu lorhwebo"
 
 #: masterfirefoxos/base/templates/base.html:105
 msgid "Mozilla on Twitter"
@@ -3190,12 +3187,12 @@ msgid ""
 "Documentation for Firefox OS {version} is not yet available in {language}, "
 "so we redirected you to the English version."
 msgstr ""
-"Ugconi {version} lwamaxwebhu e-Firefox OS alufumaneki ku {language}, ngoko "
+"Ugcino {lwenguqulelo} lwamaxwebhu e-Firefox OS alufumaneki ku {lwimi}, ngoko "
 "ke sikubuyisele kwinguqulelo yesiNgesi."
 
 #: masterfirefoxos/base/templates/includes/version-language-switcher.html:39
 msgid "The latest version available in {language} is {version}."
-msgstr "Inguqulelo yokugqibela iyafumaneka ku {language} ikwi {version}."
+msgstr "Inguqulelo yokugqibela iyafumaneka ku {lwimi} ikwi {nguqulelo}."
 
 #: masterfirefoxos/settings/base.py:189
 msgid "Afrikaans"
@@ -3223,7 +3220,7 @@ msgstr "isiNgesi"
 
 #: masterfirefoxos/settings/base.py:195
 msgid "German"
-msgstr "IsiJamani"
+msgstr "isiJamani"
 
 #: masterfirefoxos/settings/base.py:196
 msgid "Greek"
@@ -3235,11 +3232,11 @@ msgstr "isiFrentshi"
 
 #: masterfirefoxos/settings/base.py:198
 msgid "Hindi"
-msgstr "isiHindi"
+msgstr "isiHindu"
 
 #: masterfirefoxos/settings/base.py:199
 msgid "Hungarian"
-msgstr "IsiHungaria"
+msgstr "isiHangariya"
 
 #: masterfirefoxos/settings/base.py:200
 msgid "Italian"
@@ -3247,7 +3244,7 @@ msgstr "isiTaliyane"
 
 #: masterfirefoxos/settings/base.py:201
 msgid "Japanese"
-msgstr "IsiJapani"
+msgstr "isiJapani"
 
 #: masterfirefoxos/settings/base.py:202
 msgid "Polish"
@@ -3259,7 +3256,7 @@ msgstr "isiPhuthukesi"
 
 #: masterfirefoxos/settings/base.py:204
 msgid "Serbian"
-msgstr "isiSerbia"
+msgstr "isiSebhiya"
 
 #: masterfirefoxos/settings/base.py:205
 msgid "Kiswahili"
@@ -3271,11 +3268,11 @@ msgstr "isiPanishi"
 
 #: masterfirefoxos/settings/base.py:207
 msgid "Tamil"
-msgstr "isiTamil"
+msgstr "isiTamili"
 
 #: masterfirefoxos/settings/base.py:208
 msgid "Wolof"
-msgstr "isiWolof"
+msgstr "isiWolofu"
 
 #: masterfirefoxos/settings/base.py:209
 msgid "Xhosa"
