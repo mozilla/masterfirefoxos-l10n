@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-03-12 23:15+0000\n"
-"PO-Revision-Date: 2015-03-30 21:52+0000\n"
+"PO-Revision-Date: 2015-03-30 21:56+0000\n"
 "Last-Translator: Marcelo <mlcaraldi@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pt_BR\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1427752327.0\n"
+"X-POOTLE-MTIME: 1427752580.0\n"
 
 #. Translators:
 #. Page path: /1-1/
@@ -4664,6 +4664,10 @@ msgid ""
 "relevant apps for the Firefox OS platform. New apps and content are added "
 "every day."
 msgstr ""
+"O Firefox OS é feito por uma comunidade mundial de desenvolvedores e "
+"provedores de conteúdo dedicados a criar conteúdos novos e interessantes, e "
+"até aplicativos locais, usando a plataforma Firefox OS. Novos apps e "
+"conteúdos são adicionados todos os dias."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -4686,6 +4690,8 @@ msgid ""
 "They’re packed with the features that made you want a smartphone in the "
 "first place."
 msgstr ""
+"Antes de tudo, eles são recheados com recursos que te fizeram procurar um "
+"smartphone."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -4696,6 +4702,8 @@ msgid ""
 "They’re new and backed by a global community working to help keep the Web "
 "accessible to all."
 msgstr ""
+"Eles são novos e mantidos por uma comunidade mundial que trabalha para "
+"manter a Web acessível para todos."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -4706,6 +4714,8 @@ msgid ""
 "It’s packed with the features that made you want a smartphone in the first "
 "place."
 msgstr ""
+"Antes de tudo, eles são recheados com recursos que te fizeram procurar um "
+"smartphone."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -4724,7 +4734,6 @@ msgstr ""
 #. Translators:
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:9186 db-strings.txt.py:11310
-#, fuzzy
 #| msgid ""
 #| "as a robust security model that is battle-hardened from e than de of ting "
 #| "the Open Web. It is designed to protect  user and tem m iciousplications and"
@@ -4754,6 +4763,15 @@ msgid ""
 "<li><em>1.3.0.0</em> means you have version 1.3</li> <li><em>2.0.0.0</em> "
 "means you have version 2.0</li> </ul> </li> </ol>"
 msgstr ""
+"<ol><li>Abra o app de Configurações no seu aparelho.</li><li>Role para baixo "
+"e selecione <strong>Informações do aparelho</strong>.</li><li>Na tela de "
+"informações do aparelho, selecione <strong>Mais informações</strong> e "
+"procure pelos números da versão em <em>Versão do SO</em> no topo da "
+"tela.<ul><li><em>Firefox OS 1.0.1.0</em> significa que você tem a versão "
+"1.0.1</li><li><em>Firefox OS 1.1.0.0</em> significa que você tem a versão "
+"1.1</li> <li><em>1.3.0.0</em> significa que você tem a versão 1.3</li> "
+"<li><em>2.0.0.0</em> significa que você tem a versão 2.0</li> </ul> </li> "
+"</ol>"
 
 #: masterfirefoxos/base/templates/base.html:35
 msgid "Submit"
@@ -4802,7 +4820,7 @@ msgstr "Política de privacidade"
 
 #: masterfirefoxos/base/templates/base.html:100
 msgid "Legal Notices"
-msgstr ""
+msgstr "Notas legais"
 
 #: masterfirefoxos/base/templates/base.html:101
 msgid "Report Trademark Abuse"
