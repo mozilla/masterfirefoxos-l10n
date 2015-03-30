@@ -3187,12 +3187,12 @@ msgid ""
 "Documentation for Firefox OS {version} is not yet available in {language}, "
 "so we redirected you to the English version."
 msgstr ""
-"Ugcino {lwenguqulelo} lwamaxwebhu e-Firefox OS alufumaneki ku {lwimi}, ngoko "
+"Ugconi {version} lwamaxwebhu e-Firefox OS alufumaneki ku {language}, ngoko "
 "ke sikubuyisele kwinguqulelo yesiNgesi."
 
 #: masterfirefoxos/base/templates/includes/version-language-switcher.html:39
 msgid "The latest version available in {language} is {version}."
-msgstr "Inguqulelo yokugqibela iyafumaneka ku {lwimi} ikwi {nguqulelo}."
+msgstr "Inguqulelo yokugqibela iyafumaneka ku {language} ikwi {version}."
 
 #: masterfirefoxos/settings/base.py:189
 msgid "Afrikaans"
