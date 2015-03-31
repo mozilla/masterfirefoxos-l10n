@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-03-12 23:15+0000\n"
-"PO-Revision-Date: 2015-03-31 10:44+0000\n"
-"Last-Translator: Francesco <francesco.lodolo@mozillaitalia.org>\n"
+"PO-Revision-Date: 2015-03-31 11:26+0000\n"
+"Last-Translator: Devon <devon.bezuidenhout@rubric.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: zu\n"
 "MIME-Version: 1.0\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1427798661.0\n"
+"X-POOTLE-MTIME: 1427801199.0\n"
 
 #. Translators:
 #. Page path: /1-1/
@@ -3207,7 +3207,7 @@ msgid ""
 "Documentation for Firefox OS {version} is not yet available in {language}, "
 "so we redirected you to the English version."
 msgstr ""
-"Amaphepha {version} ye-Firefox OS awakatholakali {language}, ngakho-ke "
+"Amaphepha {language} {version} awe-Firefox OS awakatholakali, ngakho-ke "
 "sikuthumele kuveshini yesiNgisi."
 
 #: masterfirefoxos/base/templates/includes/version-language-switcher.html:39
