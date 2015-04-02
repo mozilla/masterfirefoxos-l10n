@@ -3,19 +3,21 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-03-13 05:22+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2015-04-02 04:46+0000\n"
+"Last-Translator: ha-NG03_Bashir <bashirmudi2020@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"Language: ha\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1427949974.0\n"
 
 #. Translators:
 #. Page path: /1-1/
@@ -33,7 +35,7 @@ msgstr ""
 #: masterfirefoxos/base/templates/base.html:45
 #: masterfirefoxos/base/templates/home.html:17
 msgid "Master Firefox OS"
-msgstr ""
+msgstr "Master Firefox OS"
 
 #. Translators:
 #. Page path: /1-1/
@@ -48,7 +50,7 @@ msgstr ""
 #: db-strings.txt:15 db-strings.txt.py:2355 db-strings.txt.py:4695
 #: db-strings.txt:7044 db-strings.txt.py:9258
 msgid "Welcome!"
-msgstr ""
+msgstr "Marhaba!"
 
 #. Translators:
 #. Page path: /1-1/
@@ -67,6 +69,9 @@ msgid ""
 "effectively communicate the basics of Firefox OS. Select any topic to get "
 "started."
 msgstr ""
+"Wannan abokin hulɗa na duniya kuma cibiyar horarwar al'umma yana da duk abin "
+"da kake bukata domin sadar da muhimmin abubuwa na Firefox OS yadda ya "
+"kamata. Zaɓi wani batu don farawa."
 
 #. Translators:
 #. Page path: /1-1/introduction/
@@ -81,7 +86,7 @@ msgstr ""
 #: db-strings.txt:33 db-strings.txt.py:2373 db-strings.txt.py:4713
 #: db-strings.txt:7062 db-strings.txt.py:9276
 msgid "Introduction"
-msgstr ""
+msgstr "Gabatarwa"
 
 #. Translators:
 #. Page path: /1-1/introduction/
@@ -99,6 +104,8 @@ msgid ""
 "Find out what makes Firefox OS perfect for new smartphone users by giving "
 "them just what they need."
 msgstr ""
+"Gano abin da ke sa Firefox OS ke gamsar da masu amfanin sabuwar babbar wayar "
+"hannu ta hanyar ba su abin da su ke bukata."
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
@@ -113,7 +120,7 @@ msgstr ""
 #: db-strings.txt:123 db-strings.txt.py:2463 db-strings.txt.py:4803
 #: db-strings.txt:7152 db-strings.txt.py:9366
 msgid "Demo Tips"
-msgstr ""
+msgstr "Bayanan Nuni"
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
@@ -131,6 +138,8 @@ msgid ""
 "Learn how to show off and talk about the key features and benefits of "
 "Firefox OS to your customers."
 msgstr ""
+"Koyi yadda za ka bayyana kuma ka yi magana dangane da kamannin mabuɗai da "
+"amfanunnukan Firefox OS ga abokan cinikinka."
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
@@ -145,7 +154,7 @@ msgstr ""
 #: db-strings.txt:141 db-strings.txt.py:2472 db-strings.txt.py:4821
 #: db-strings.txt:7161 db-strings.txt.py:9375
 msgid "Demonstrations That Matter"
-msgstr ""
+msgstr "Mahimmin Nuni"
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
@@ -162,6 +171,8 @@ msgid ""
 "your best selling tool. Browse the demonstration videos below to get "
 "started."
 msgstr ""
+"Nuna siffofin Firefox OS da kuma yadda suke da sauƙin amfani shi ne babban "
+"makaminka na sayarwa. Gewaya bidiyon nuni da ke ƙasa domin farawa."
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
@@ -175,6 +186,8 @@ msgstr ""
 #: db-strings.txt:9411
 msgid "When you only have a minute, make it count with this simple pitch."
 msgstr ""
+"Idan minti ɗaya ne kawai ya rage maka, yi amfani da shi tare da wannan "
+"sassauƙan bayani."
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
@@ -190,7 +203,7 @@ msgstr ""
 #: db-strings.txt:8808 db-strings.txt.py:10824 db-strings.txt.py:10905
 #: db-strings.txt:10932 db-strings.txt.py:10959
 msgid "Firefox Browser"
-msgstr ""
+msgstr "Mai gewayawa ta Firefox"
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
@@ -217,7 +230,7 @@ msgstr ""
 #: db-strings.txt:7206 db-strings.txt.py:7440 db-strings.txt.py:9420
 #: db-strings.txt:9654
 msgid "Marketplace"
-msgstr ""
+msgstr "Wurin Kasuwanci"
 
 #. Translators:
 #. Page path: /1-1/customer-guide/
@@ -232,7 +245,7 @@ msgstr ""
 #: db-strings.txt:303 db-strings.txt.py:2589 db-strings.txt.py:4983
 #: db-strings.txt:7260 db-strings.txt.py:9474
 msgid "Customer Guide"
-msgstr ""
+msgstr "Jagorar Abokin ciniki"
 
 #. Translators:
 #. Page path: /1-1/customer-guide/
@@ -250,6 +263,8 @@ msgid ""
 "See how Firefox OS fits into your customers' lives, no matter who they are "
 "or where they're from."
 msgstr ""
+"Duba yadda Firefox OS ta yi daidai cikin rayuwar abokanka na ciniki, ba tare "
+"da la'akari da su wane ne ba ko kuma daga ina su ke."
 
 #. Translators:
 #. Page path: /1-1/customer-guide/
@@ -264,7 +279,7 @@ msgstr ""
 #: db-strings.txt:321 db-strings.txt.py:2598 db-strings.txt.py:4992
 #: db-strings.txt:7269 db-strings.txt.py:9483
 msgid "Who is your ideal Firefox customer?"
-msgstr ""
+msgstr "Wane ne abokinka na ciniki na Firefox da ya dace?"
 
 #. Translators:
 #. Page path: /1-1/customer-guide/
@@ -279,7 +294,7 @@ msgstr ""
 #: db-strings.txt:339 db-strings.txt.py:2625 db-strings.txt.py:5019
 #: db-strings.txt:7296 db-strings.txt.py:9510
 msgid "The Smartphone Rookie"
-msgstr ""
+msgstr "Rookie na Babbar Wayar Hannu"
 
 #. Translators:
 #. Page path: /1-1/customer-guide/
@@ -294,7 +309,7 @@ msgstr ""
 #: db-strings.txt:348 db-strings.txt.py:2634 db-strings.txt.py:5028
 #: db-strings.txt:7305 db-strings.txt.py:9519
 msgid "\"I have never had a smartphone.\""
-msgstr ""
+msgstr "\"Ban taɓa mallakar babbar wayar hannu ba.\""
 
 #. Translators:
 #. Page path: /1-1/customer-guide/
@@ -309,7 +324,7 @@ msgstr ""
 #: db-strings.txt:366 db-strings.txt.py:2652 db-strings.txt.py:5046
 #: db-strings.txt:7323 db-strings.txt.py:9537
 msgid "The Value Seeker"
-msgstr ""
+msgstr "Mai Neman Daraja"
 
 #. Translators:
 #. Page path: /1-1/customer-guide/
@@ -324,7 +339,7 @@ msgstr ""
 #: db-strings.txt:375 db-strings.txt.py:2661 db-strings.txt.py:5055
 #: db-strings.txt:7332 db-strings.txt.py:9546
 msgid "\"I want a good deal.\""
-msgstr ""
+msgstr "\"Ina son hulɗa mai kyau.\""
 
 #. Translators:
 #. Page path: /1-1/customer-guide/
@@ -339,7 +354,7 @@ msgstr ""
 #: db-strings.txt:393 db-strings.txt.py:2679 db-strings.txt.py:5073
 #: db-strings.txt:7350 db-strings.txt.py:9564
 msgid "The Uncertain Upgrader"
-msgstr ""
+msgstr "Mai ɗaga daraja wanda ba'a tabbatar ba"
 
 #. Translators:
 #. Page path: /1-1/customer-guide/
@@ -354,7 +369,7 @@ msgstr ""
 #: db-strings.txt:402 db-strings.txt.py:2688 db-strings.txt.py:5082
 #: db-strings.txt:7359 db-strings.txt.py:9573
 msgid "\"It needs to be easy to use.\""
-msgstr ""
+msgstr "\"Ya na bukatar sauƙi wajen yin amfani.\""
 
 #. Translators:
 #. Page path: /1-1/customer-guide/
@@ -369,7 +384,7 @@ msgstr ""
 #: db-strings.txt:420 db-strings.txt.py:2706 db-strings.txt.py:5100
 #: db-strings.txt:7377 db-strings.txt.py:9591
 msgid "The Firefox Fan"
-msgstr ""
+msgstr "Mai sha'awar Firefox"
 
 #. Translators:
 #. Page path: /1-1/customer-guide/
@@ -384,7 +399,7 @@ msgstr ""
 #: db-strings.txt:429 db-strings.txt.py:2715 db-strings.txt.py:5109
 #: db-strings.txt:7386 db-strings.txt.py:9600
 msgid "\"I love firefox!\""
-msgstr ""
+msgstr "\"Ina son Firefox!.\""
 
 #. Translators:
 #. Page path: /1-1/key-features/
@@ -399,7 +414,7 @@ msgstr ""
 #: db-strings.txt:447 db-strings.txt.py:2733 db-strings.txt.py:5127
 #: db-strings.txt:7404 db-strings.txt.py:9618
 msgid "Key Features"
-msgstr ""
+msgstr "Fasaloli Mahimmai"
 
 #. Translators:
 #. Page path: /1-1/key-features/
@@ -417,6 +432,8 @@ msgid ""
 "Discover what makes Firefox OS the most unique and exciting mobile operating"
 " system."
 msgstr ""
+"Gano abin da ya sa Firefox OS ta zama fitacciya kuma mai armashi wajen "
+"tsarin gudanar da ayyukan wayar hannu."
 
 #. Translators:
 #. Page path: /1-1/key-features/
@@ -431,7 +448,7 @@ msgstr ""
 #: db-strings.txt:465 db-strings.txt.py:2742 db-strings.txt.py:5145
 #: db-strings.txt:7413 db-strings.txt.py:9627
 msgid "Features that count"
-msgstr ""
+msgstr "Mahimman Fasaloli"
 
 #. Translators:
 #. Page path: /1-1/key-features/
@@ -450,7 +467,7 @@ msgstr ""
 #: db-strings.txt:2805 db-strings.txt.py:5199 db-strings.txt.py:7458
 #: db-strings.txt:9672
 msgid "Firefox browser"
-msgstr ""
+msgstr "Mai gewayawa na Firefox"
 
 #. Translators:
 #. Page path: /1-1/key-features/
@@ -463,7 +480,7 @@ msgstr ""
 #: db-strings.txt:537 db-strings.txt.py:5217 db-strings.txt.py:7476
 #: db-strings.txt:9690
 msgid "Facebook and Twitter"
-msgstr ""
+msgstr "Facebook da Twitter"
 
 #. Translators:
 #. Page path: /1-1/key-features/
@@ -494,7 +511,7 @@ msgstr ""
 #: db-strings.txt:8772 db-strings.txt.py:8799 db-strings.txt.py:9708
 #: db-strings.txt:10896 db-strings.txt.py:10923 db-strings.txt.py:10950
 msgid "Contacts"
-msgstr ""
+msgstr "Abokan hulɗa"
 
 #. Translators:
 #. Page path: /1-1/key-features/
@@ -523,7 +540,7 @@ msgstr ""
 #: db-strings.txt:6405 db-strings.txt.py:7512 db-strings.txt.py:8682
 #: db-strings.txt:9726 db-strings.txt.py:10833
 msgid "Camera and Gallery"
-msgstr ""
+msgstr "Kyamara da Ma'ajiyar Hotuna"
 
 #. Translators:
 #. Page path: /1-1/key-features/
@@ -538,7 +555,7 @@ msgstr ""
 #: db-strings.txt:627 db-strings.txt.py:2895 db-strings.txt.py:5307
 #: db-strings.txt:7548 db-strings.txt.py:9762
 msgid "Music and Video"
-msgstr ""
+msgstr "Waƙa da Bidiyo"
 
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
@@ -553,7 +570,7 @@ msgstr ""
 #: db-strings.txt:663 db-strings.txt.py:2931 db-strings.txt.py:5343
 #: db-strings.txt:7620 db-strings.txt.py:9798
 msgid "Frequently Asked Questions"
-msgstr ""
+msgstr "Tambayoyi na yau-da-kullum"
 
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
@@ -571,6 +588,8 @@ msgid ""
 "Still have questions? Not for long! Find all the answers you're looking for "
 "here."
 msgstr ""
+"Har yanzu akwai tambayoyi? Ba da daɗewa ba! Sami duk amsoshin da ka ke nema "
+"a nan."
 
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
@@ -585,7 +604,7 @@ msgstr ""
 #: db-strings.txt:681 db-strings.txt.py:2940 db-strings.txt.py:5352
 #: db-strings.txt:7629 db-strings.txt.py:9807
 msgid "You have questions? We have answers!"
-msgstr ""
+msgstr "Kana da tambayoyi? Muna da amsoshi."
 
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
@@ -603,6 +622,8 @@ msgid ""
 "By now, you probably have questions and so will your customers! Select each "
 "question for more on Firefox OS."
 msgstr ""
+"Zuwa yanzu, kila ka na da tambayoyi haka kuma abokan cinikinka! Zaɓi ko wace "
+"tambaya domin bayani a kan Firefox OS."
 
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
@@ -617,7 +638,7 @@ msgstr ""
 #: db-strings.txt:717 db-strings.txt.py:2985 db-strings.txt.py:5397
 #: db-strings.txt:7656 db-strings.txt.py:9834
 msgid "How many and what types of apps will be available?"
-msgstr ""
+msgstr "Aikace-aikace nawa ne kuma waɗanne iri su ke samuwa?"
 
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
@@ -632,7 +653,7 @@ msgstr ""
 #: db-strings.txt:735 db-strings.txt.py:3003 db-strings.txt.py:5415
 #: db-strings.txt:7674 db-strings.txt.py:9852
 msgid "What makes Firefox OS more secure than other phones?"
-msgstr ""
+msgstr "Me ya sa Firefox OS ta zama mafi amincewa fiye da sauran wayoyi?"
 
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
@@ -647,7 +668,7 @@ msgstr ""
 #: db-strings.txt:753 db-strings.txt.py:3039 db-strings.txt.py:5451
 #: db-strings.txt:7710 db-strings.txt.py:9888
 msgid "Do Android apps work on this phone?"
-msgstr ""
+msgstr "Shin aikace-aikacen Android su na aiki a wannan wayar?"
 
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
@@ -662,7 +683,7 @@ msgstr ""
 #: db-strings.txt:789 db-strings.txt.py:3075 db-strings.txt.py:5487
 #: db-strings.txt:7764 db-strings.txt.py:9942
 msgid "What about customer support for apps?"
-msgstr ""
+msgstr "Me ne dangane da aikacen aikacen tallafi na abokin ciniki?"
 
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
@@ -677,7 +698,7 @@ msgstr ""
 #: db-strings.txt:807 db-strings.txt.py:3093 db-strings.txt.py:5505
 #: db-strings.txt:7782 db-strings.txt.py:9960
 msgid "How do I download and install apps on Firefox OS?"
-msgstr ""
+msgstr "Ta yaya zan iya sauke da kuma saka aikace-aikacen a kan Firefox OS?"
 
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
@@ -692,7 +713,7 @@ msgstr ""
 #: db-strings.txt:843 db-strings.txt.py:3129 db-strings.txt.py:5541
 #: db-strings.txt:7818 db-strings.txt.py:9996
 msgid "Where should I go if I have more questions?"
-msgstr ""
+msgstr "Ina zan je idan ina da ƙarin tambayoyi?"
 
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
@@ -709,6 +730,9 @@ msgid ""
 "os\">https://support.mozilla.org/en-US/products/firefox-os</a> for more "
 "information."
 msgstr ""
+"Ziyarci <a href=\"https://support.mozilla.org/en-US/products/firefox-"
+"os\">https://support.mozilla.org/en-US/products/firefox-os</a> don ƙarin  "
+"bayani."
 
 #. Translators:
 #. Page path: /1-1/about/
@@ -725,6 +749,7 @@ msgstr ""
 msgid ""
 "Our mission is to promote openness, innovation and opportunity on the Web."
 msgstr ""
+"Manufarmu ita ce inganta gaskiya, bajinta da kuma dama a kan Yanar gizon."
 
 #. Translators:
 #. Page path: /1-1/about/
@@ -743,6 +768,12 @@ msgid ""
 "controlled by just a few large entities. Yeah, we’re a little different than"
 " the other guys. Together, we can build a brighter future for the Web."
 msgstr ""
+"A bayan ko wace babbar wayar hannu ta Firefox OS akwai Mozilla, dandalin "
+"dubban jama'a na duniya waɗanda suka dukufa wajen bayar da dama ga kowa ga "
+"Yanar gizo. Domin mun yi imani cewa kowa da kowa daga cikinmu yana da damar "
+"amfani da yanar gizo wadda ba wai kawai ƙalilan su dinga sarrafawa ba. Haka "
+"ne, mun sha banban da sauran. Tare, za mu iya gina yanar gizo ta nan gaba "
+"mai cikakken fata na gari. "
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -757,7 +788,7 @@ msgstr ""
 #: db-strings.txt:897 db-strings.txt.py:3192 db-strings.txt.py:5595
 #: db-strings.txt:7872 db-strings.txt.py:10050
 msgid "Ready to show what you know?"
-msgstr ""
+msgstr "Ka shirya nuna abin da ka sani?"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -775,6 +806,8 @@ msgid ""
 "Put your new knowledge to the test with this series of fun, interactive "
 "quizzes."
 msgstr ""
+"Saka sabon iliminka domin gwada wannan jerin tambayoyi masu ban sha'awa, da "
+"hada-hada. "
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -791,6 +824,8 @@ msgstr ""
 msgid ""
 "That’s right! All of these apps come pre-loaded on every Firefox OS phone."
 msgstr ""
+"Ya yi dai dai! Duk waɗannan aikace-aikace sun zo a shirye cikin ko wace "
+"wayar Firefox OS."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -806,6 +841,8 @@ msgstr ""
 #: db-strings.txt:7971 db-strings.txt.py:10149
 msgid "Actually, all of these apps come pre-loaded on every Firefox OS phone."
 msgstr ""
+"A haƙiƙa, duk waɗannan aikace-aikace sun zo a shirye cikin ko wace wayar "
+"Firefox OS."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -818,6 +855,8 @@ msgid ""
 "Which of these customer responses indicate an ideal candidate for Firefox "
 "OS? Select all that apply."
 msgstr ""
+"Wace amsar abokan ciniki ce ta tuna wanda ya fi dacewa ya zama mutumin "
+"Firefox OS? Zaɓi duk waɗanda su ka dace.  "
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -834,6 +873,8 @@ msgstr ""
 msgid ""
 "That’s right. All of these customers are ideal candidates for Firefox OS!"
 msgstr ""
+"Ya yi dai dai. Duk waɗannan abokan ciniki sun dace su zama mutanen Firefox "
+"OS!"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -851,6 +892,7 @@ msgstr ""
 #: db-strings.txt:10770
 msgid "In fact, ALL of these customers are ideal candidates for Firefox OS!"
 msgstr ""
+"Gaskiya, DUK waɗannan abokan ciniki sun dace su zama mutanen Firefox OS!"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -869,7 +911,7 @@ msgstr ""
 #: db-strings.txt:8025 db-strings.txt.py:8061 db-strings.txt.py:10167
 #: db-strings.txt:10203 db-strings.txt.py:10239
 msgid "Which Firefox OS feature does this icon represent?"
-msgstr ""
+msgstr "Wace siffa ce ta Firefox OS wannan alamar ke wakilta?"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -887,6 +929,8 @@ msgid ""
 "Your customer wants to understand the biggest benefits of Firefox OS versus "
 "its competitors. Select all of the statements that apply."
 msgstr ""
+"Abokan cinikinka na so su gane babban amfanin Firefox OS dangane da abokan "
+"takararta. Zaɓi duk bayanin da ya dace."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -902,6 +946,7 @@ msgstr ""
 #: db-strings.txt:8142 db-strings.txt.py:10320
 msgid "That’s right. These statements are all true about Firefox OS."
 msgstr ""
+"Ya yi dai dai. Waɗannan bayanan duka gaskiya ne dangane da Firerefox OS."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -919,6 +964,8 @@ msgid ""
 "A customer tells you that smartphones seem complicated. What selling feature"
 " should you lead with?"
 msgstr ""
+"Abokin cinikinka ya shaida maka cewa manyan wayoyin hannu na da rikitarwa. "
+"Da wace siffar sayarwa za ka yi jagora?"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -936,6 +983,8 @@ msgid ""
 "That’s right. For a customer looking for a smartphone that is easy to use, "
 "Firefox OS is a great choice."
 msgstr ""
+"Ya yi dai dai. Domin abokin ciniki mai neman babbar wayar hannu mai sauƙin "
+"sarrafawa, Firefox OS ita ce babban zaɓi."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -952,6 +1001,8 @@ msgid ""
 "Actually, for this customer, the best choice is to talk about how easy "
 "Firefox OS is to use."
 msgstr ""
+"A haƙiƙa, dangane da wannan abokin ciniki, babban zaɓi shine a tattuna a kan "
+"yadda Firefox ta ke da saƙin sarrafawa."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -969,6 +1020,8 @@ msgid ""
 "A customer tells you that she’s ready to move up from her old feature phone."
 " What selling feature should you lead with?"
 msgstr ""
+"Abokiyar cinika ta shaida maka cewa a shirya ta ke ta matsa daga tsohuwar "
+"siffa ta wayarta. Da wace siffa ta sayarwa za ka yi jagora? "
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -986,6 +1039,8 @@ msgid ""
 "A customer tells you that he uses Firefox as his desktop browser. With what "
 "selling feature should you lead?"
 msgstr ""
+"Abokin ciniki ya shaida maka cewa yana amfani da Firefox a matsayin mai "
+"gewayawa na kwamfutarsa. Da wace siffar ta sayarwa za ka yi jagora?"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -999,6 +1054,9 @@ msgid ""
 "my friends, but I don’t want to spend a lot of money.” Which of the "
 "following statements would be a good response? Select all that apply."
 msgstr ""
+"Abokin ciniki ya ce da kai, \"ina neman hanya mafi sauƙi ta saduwa da "
+"abokaina, amma ba na son kashe kuɗi masu yawa\". Wanne daga cikin waɗannan "
+"bayanai za su zama amsa mai kyau? Zaɓi duk wanda ya dace."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1016,6 +1074,10 @@ msgid ""
 "statements would be the most appropriate response to this particular "
 "customer?"
 msgstr ""
+"Abokin ciniki ya ce da kai, \"Ina amfani da Firefox a kwamfuta ta ta gida "
+"kuma ina sonta, to amma ba san su na da babbar waya ta smartphone OS ba. Me "
+"ya sa?\" Wanne daga cikin waɗannan bayanai za su zama amsa mafi dacewa ga "
+"wannan abokin cinikin?"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1035,6 +1097,8 @@ msgid ""
 "Not quite. A first time smartphone user will be most interested in ease of "
 "use."
 msgstr ""
+"Ba lallai ba. Da farko mai amfani da babbar waya zai fi sha'awar sauƙin "
+"sarrafawa."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1052,7 +1116,7 @@ msgstr ""
 #: db-strings.txt:8466 db-strings.txt.py:8538 db-strings.txt.py:8574
 #: db-strings.txt:10608 db-strings.txt.py:10680 db-strings.txt.py:10716
 msgid "That’s right!"
-msgstr ""
+msgstr "Wannan dai dai ne!"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1067,7 +1131,7 @@ msgstr ""
 #: db-strings.txt:1563 db-strings.txt.py:3813 db-strings.txt.py:6225
 #: db-strings.txt:8502 db-strings.txt.py:10644
 msgid "That’s right."
-msgstr ""
+msgstr "Wannan dai dai ne."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1085,6 +1149,8 @@ msgid ""
 "What’s the best response to this customer’s objection? “How do I know this "
 "new phone is safe?”"
 msgstr ""
+"Wacce ce kyakkyawar amsa ga kushewa na wannan abokin cinikin? \"Ta yaya zan "
+"san wannan sabuwar wayar ƙalau ta ke?\""
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1097,7 +1163,7 @@ msgstr ""
 #: db-strings.txt:1698 db-strings.txt.py:6387 db-strings.txt.py:8664
 #: db-strings.txt:10815
 msgid "Firefox Marketplace"
-msgstr ""
+msgstr "Wurin Kasuwanci na Firefox"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1114,7 +1180,7 @@ msgstr ""
 #: db-strings.txt:1725 db-strings.txt.py:2823 db-strings.txt.py:4011
 #: db-strings.txt:6414 db-strings.txt.py:8691 db-strings.txt.py:10842
 msgid "Facebook"
-msgstr ""
+msgstr "Facebook"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1129,7 +1195,7 @@ msgstr ""
 #: db-strings.txt:1806 db-strings.txt.py:4632 db-strings.txt.py:6981
 #: db-strings.txt:9195 db-strings.txt.py:11319
 msgid "I’ve never used a smartphone before."
-msgstr ""
+msgstr "Ban taɓa amfani da babbar wayar hannu ba a baya."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1144,7 +1210,7 @@ msgstr ""
 #: db-strings.txt:1815 db-strings.txt.py:4641 db-strings.txt.py:6990
 #: db-strings.txt:9204 db-strings.txt.py:11328
 msgid "I’m looking for the best value for my money."
-msgstr ""
+msgstr "Ina neman mafi kyan kima ga kuɗina."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1159,7 +1225,7 @@ msgstr ""
 #: db-strings.txt:1824 db-strings.txt.py:4650 db-strings.txt.py:6999
 #: db-strings.txt:9213 db-strings.txt.py:11337
 msgid "I want a smartphone that is truly easy to use."
-msgstr ""
+msgstr "Ina son babbar wayar hannu wadda a haƙiƙa take da sauƙin sarrafawa."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1174,7 +1240,7 @@ msgstr ""
 #: db-strings.txt:1833 db-strings.txt.py:4659 db-strings.txt.py:7008
 #: db-strings.txt:9222 db-strings.txt.py:11346
 msgid "I’m a Firefox fan."
-msgstr ""
+msgstr "Ni abokin Firefox ne."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1191,6 +1257,9 @@ msgid ""
 "backed by a global community working on your behalf and with your interests "
 "in mind."
 msgstr ""
+"Tunda Firefox ne su ka gina shi, za ka sami ƙarfin gwiwa cewa Firefox OS na "
+"da goyon bayan jama'a ta duniya mai aiki a madadinka da kuma saka muradunka "
+"a zuci."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1208,6 +1277,9 @@ msgid ""
 "expect — camera, email, apps, music, maps and more — at the most competitive"
 " prices."
 msgstr ""
+"Firefox OS na ba ka mafi ƙima fa kuɗinka, da duk abubuwan da ka ke tsammani "
+"— kyamara, imel, aikace-aikace, kaɗe-kaɗe, taswira da dai sauransu — a "
+"ingantattun farashi. "
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1224,6 +1296,9 @@ msgid ""
 " are already preloaded and you can easily import your friends from Facebook,"
 " too."
 msgstr ""
+"Firefox OS ita ce babbar wayar hannu mafi sauƙi da za ka fara da ita. "
+"Aikace-aikacen da kafi bukata tuni an saka su kuma cikin sauƙi harma kana "
+"iya shigo da abokanka daga Facebook."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1242,6 +1317,9 @@ msgid ""
 " are already preloaded and you can easily import your friends from Facebook "
 "too."
 msgstr ""
+"Firefox OS ita ce babbar wayar hannu mafi sauƙi da za ka fara da ita. "
+"Aikace-aikacen da kafi bukata tuni an saka su kuma cikin sauƙi harma kana "
+"iya shigo da abokanka daga Facebook."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1257,6 +1335,8 @@ msgid ""
 "Facebook is preloaded on every Firefox OS device and you can import your "
 "Facebook contacts easily!"
 msgstr ""
+"An riga an saka Facebook a kan duk na'urorin Firefox OS kuma za ka iya shigo "
+"da abokan hulɗarka cikin sauƙi daga Facebook!"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1274,6 +1354,8 @@ msgid ""
 "Every Firefox phone includes the Firefox browser, the fast, smart and safe "
 "way to get online."
 msgstr ""
+"Duk wayar Firefox ta haɗa da mai gewayawa ta Firefox, mafi sauri, kyawu da "
+"kuma tsaro wajen shiga yanar gizo."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1291,6 +1373,8 @@ msgid ""
 "Firefox OS includes all the same features you’ll find in competitive "
 "smartphones and gives you more value for the money."
 msgstr ""
+"Firefox ta haɗa da duk siffofi irin waɗanda duk manyan wayoyi na gasa su ka "
+"ƙunsa kuma zata ba ka abinda ya fi dacewa da kuɗinka."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1306,6 +1390,8 @@ msgstr ""
 #: db-strings.txt:9051 db-strings.txt.py:11175
 msgid "You can easily import contacts from Facebook to your Firefox OS phone."
 msgstr ""
+"Cikin sauƙi za ka shigo da abokan hulɗarka daga Facebook zuwa wayarka ta "
+"Firefox OS."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1323,6 +1409,8 @@ msgid ""
 "Firefox OS gives you access to popular, big name apps, as well as local "
 "content that means the most to you."
 msgstr ""
+"Firefox OS za ta ba ka dama ga sanannu, fitattun aikace-aikace, da kuma "
+"abubuwa na kusa da kai waɗan da su ka fi bukata."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1341,6 +1429,9 @@ msgid ""
 "expect in a smartphone, with an easy-to-use interface that makes it easy to "
 "get started."
 msgstr ""
+"Ba'a cunkushe Firefox OS da fiye da abubuwan da ka ke bukata ba. Za ta ba ka "
+"abubuwan da ka ke nema a babbar waya, tare da mashiga mai sauƙin sarrafawa "
+"wadda za ka fara cikin sauƙi."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1355,7 +1446,7 @@ msgstr ""
 #: db-strings.txt:2229 db-strings.txt.py:4533 db-strings.txt.py:6882
 #: db-strings.txt:9114 db-strings.txt.py:11238
 msgid "True"
-msgstr ""
+msgstr "Gaskiya"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1370,7 +1461,7 @@ msgstr ""
 #: db-strings.txt:2238 db-strings.txt.py:4542 db-strings.txt.py:6891
 #: db-strings.txt:9123 db-strings.txt.py:11247
 msgid "False"
-msgstr ""
+msgstr "Ƙarya"
 
 #. Translators:
 #. Page path: /1-1/which-version/
@@ -1385,7 +1476,7 @@ msgstr ""
 #: db-strings.txt:2328 db-strings.txt.py:4668 db-strings.txt.py:7017
 #: db-strings.txt:9231 db-strings.txt.py:11355
 msgid "Which Version Do I Have?"
-msgstr ""
+msgstr "Wane Yayi Na ke da Shi?"
 
 #. Translators:
 #. Page path: /1-3T/demo-tips/
@@ -1398,7 +1489,7 @@ msgstr ""
 #: db-strings.txt:2499 db-strings.txt.py:4839 db-strings.txt.py:7188
 #: db-strings.txt:9402
 msgid "Introducing Firefox OS"
-msgstr ""
+msgstr "Gabarta da Firefox OS"
 
 #. Translators:
 #. Page path: /1-3T/demo-tips/
@@ -1413,6 +1504,10 @@ msgid ""
 "friends and family. They can also sync their contacts to the phone, quickly "
 "and easily."
 msgstr ""
+"Firefox OS ta zo an loda mata fitattun aikace-aikace na aikawa da saƙo da "
+"dandalin sa-da-zumunta kamar Facebook, ta yadda abokan cinikinka za su sami "
+"haɗi da abokai da dangi. Kuma za su iya tsara abokan hulɗarsu zuwa wayar, "
+"cikin sauri da sauƙi. "
 
 #. Translators:
 #. Page path: /1-3T/key-features/
@@ -1429,6 +1524,9 @@ msgid ""
 "smartphone. It’s designed to fit their lives perfectly so they can keep pace"
 " with the world around them."
 msgstr ""
+"An sakawa Firefox OS siffofi waɗanda abokan cinikinka za su tsammata a "
+"babbar wayar hannu. An shiryata domin ta dace da rayuwarsu sosai ta yadda za "
+"su tafi tare da duniyar da ke kewaye da su."
 
 #. Translators:
 #. Page path: /1-3T/key-features/
@@ -1445,6 +1543,9 @@ msgid ""
 "share your photographs, the full-featured camera and photo gallery will have"
 " all your subjects smiling."
 msgstr ""
+"Tare da tsarin saka rariya domin nishaɗi, hotuna na hikima da wasu hanyoyi "
+"da dama domin rarraba hotuna, cikakkiyar kyamara da ma'ajiyar hotuna zasu sa "
+"duk batutuwanka su yi murmushi."
 
 #. Translators:
 #. Page path: /1-3T/key-features/
@@ -1457,7 +1558,7 @@ msgstr ""
 #: db-strings.txt:2913 db-strings.txt.py:5325 db-strings.txt.py:7566
 #: db-strings.txt:9780
 msgid "Messages and Email"
-msgstr ""
+msgstr "Saƙwanni da Imel"
 
 #. Translators:
 #. Page path: /1-3T/frequently-asked-questions/
@@ -1474,6 +1575,9 @@ msgid ""
 "than a decade of supporting the open Web. It is designed to protect the user"
 " and system from malicious applications and content."
 msgstr ""
+"Firefox OS na da yanayin ƙwaƙƙwaran tsaro da ke yaƙi kai-da-fata daga sama "
+"da shekaru goma na tallafawa Yanar gizo. An ƙerata domin kare mai amfani da "
+"kuma na'urar daga aikace-aikacen zamba da abubuwan ciki."
 
 #. Translators:
 #. Page path: /1-3T/frequently-asked-questions/
@@ -1487,6 +1591,8 @@ msgstr ""
 #: db-strings.txt:9870
 msgid "What do you mean I can convert mobile sites into apps?"
 msgstr ""
+"Me ka ke nufi da cewa zan iya sauya dandalin yanar gizo na waya zuwa aikace-"
+"aikace?"
 
 #. Translators:
 #. Page path: /1-3T/frequently-asked-questions/
@@ -1502,6 +1608,15 @@ msgid ""
 "through Adaptive App Search. Tools such as Emscripten and PhoneGap are also "
 "able to convert other apps (*.apk and/or C/C++) to Web apps."
 msgstr ""
+"Ba kai-tsaye ba. To amma, mafi yawaicin aikace-aikace fitattu na Android da "
+"iOS a haƙiƙa aikace-aikace ne na Yanar gizo da ke da \"wrapper\" ta gida domin "
+"ƙyalesu su gudana a dandali na mallaka. Sabo da haka, yawaicin aikace-"
+"aikacen da su ke iri ɗaya za'a iya samunsu ta hanyar bincike ta Adaptive App "
+"Search. Kayayyaki kamar Emscripten da PhoneGap su ma za su iya mayarwa zuwa "
+"wasu aikace-aikace (*.apk da/ko C/C++) zuwa aikace-aikacen Yanar gizo.      "
+"                                                                            "
+"                                                                            "
+"              "
 
 #. Translators:
 #. Page path: /1-3T/frequently-asked-questions/
@@ -1515,6 +1630,10 @@ msgid ""
 " the phone’s core functions. That means apps do not require an active "
 "Internet connection to work unless they need to send or receive data."
 msgstr ""
+"An gina Firefox OS a kan fasahar Yanar gizo amma ta na iya aiki ko ba a kan "
+"yanar gizo ba ga dukkan ayyukan wayoyi. Wannan na nufin cewa aikace-aikace "
+"ba sa bukatar haɗawa da intanet da aka kunna domin yin aiki ko aikawa ko "
+"kuma karɓar bayanai."
 
 #. Translators:
 #. Page path: /1-3T/frequently-asked-questions/
@@ -1530,6 +1649,12 @@ msgid ""
 " app, Mozilla may recommend workarounds including uninstalling the app until"
 " the developer provides appropriate assistance."
 msgstr ""
+"Abokan ciniki waɗanda ke bukatar tallafi na aikace-aikace da aka gina domin "
+"Firefox OS za'a nuna masu mai samar da aikace-aikacen domin taimako. Idan "
+"abokin ciniki bai gamsu da hulɗarsa ba ta yadda aka sami matsala wajen "
+"tallafawa da ta samo asali daga aikace-aikacen, Mozilla na iya bayar da "
+"shawara wajen kaucewa wanda ya haɗa da cire saka aikace-aikacen har sai mai "
+"samarwa ya bayar da tallafin da ya kamata. "
 
 #. Translators:
 #. Page path: /1-3T/frequently-asked-questions/
@@ -1542,7 +1667,7 @@ msgstr ""
 #: db-strings.txt:3111 db-strings.txt.py:5523 db-strings.txt.py:7800
 #: db-strings.txt:9978
 msgid "What email providers are supported?"
-msgstr ""
+msgstr "Waɗanne imel ne ke da tallafi?"
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -1559,6 +1684,9 @@ msgid ""
 "Put your knowledge to the test and answer these questions to prove you have "
 "what it takes."
 msgstr ""
+"Ina zato ko kusa shiryawa domin fara sayar da Firefox OS ga abokan "
+"cinikinka? Gwada iliminka ta hanyar amsa waɗannan tambayoyi domin ka "
+"tabbatar da abin da ya ke ɗauka."
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -1571,7 +1699,7 @@ msgstr ""
 #: db-strings.txt:3210 db-strings.txt.py:5622 db-strings.txt.py:7899
 #: db-strings.txt:10077
 msgid "Get Ready to Sell!"
-msgstr ""
+msgstr "Fara shirin Sayarwa!"
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -1584,6 +1712,8 @@ msgid ""
 "Which of the following apps is preloaded on every Firefox OS phone? Select "
 "all that apply."
 msgstr ""
+"Wanne daga cikin waɗannan aikace-aikace aka loda a ko wace wayar Firefox OS. "
+"Zaɓi duk wanda ya dace. "
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -1596,7 +1726,7 @@ msgstr ""
 #: db-strings.txt:3291 db-strings.txt.py:5703 db-strings.txt.py:7980
 #: db-strings.txt:10158
 msgid "There are more. Try again"
-msgstr ""
+msgstr "Suna da yawa. Sake gwadawa"
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -1610,6 +1740,7 @@ msgstr ""
 #: db-strings.txt:10176
 msgid "That’s right! This icon represents Messages —or text messaging."
 msgstr ""
+"Ya yi dai dai! Wannan alamar na wakiltar Saƙwanni  — ko rubutaccen saƙo."
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -1623,7 +1754,7 @@ msgstr ""
 #: db-strings.txt:5739 db-strings.txt.py:8007 db-strings.txt.py:8016
 #: db-strings.txt:10185 db-strings.txt.py:10194
 msgid "Actually, this icon represents Messages — or text messaging."
-msgstr ""
+msgstr "A haƙiƙa, wannan alamar na wakiltar Saƙwanni  — ko rubutaccen saƙo."
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -1633,7 +1764,7 @@ msgstr ""
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:3345 db-strings.txt.py:8034 db-strings.txt.py:10212
 msgid "That’s right. This icon represents the Contacts."
-msgstr ""
+msgstr "Ya yi dai dai. Wannan alamar na wakiltar Abokan Hulɗa."
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -1647,7 +1778,7 @@ msgstr ""
 #: db-strings.txt:8043 db-strings.txt.py:8052 db-strings.txt.py:10221
 #: db-strings.txt:10230
 msgid "Actually, this icon represents the Contacts."
-msgstr ""
+msgstr "A haƙiƙa wannan alamar na wakiltar Abokan Hulɗa."
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -1663,6 +1794,9 @@ msgid ""
 "While all of these statements are true, which two responses would be most "
 "useful to a first-time smartphone customer?"
 msgstr ""
+"Yayin da duk waɗannan maganganun su ke gaskiya, waɗanne amsoshi ne guda biyu "
+"su ka fi zama masu amfani ga abokin ciniki wanda ya fara amfani da babbar "
+"waya?"
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -1679,6 +1813,8 @@ msgid ""
 "The best response to this objection is to talk about all the apps that are "
 "available."
 msgstr ""
+"Amsar da tafi dacewa ga wannan al'amari shine a yi magana a kan duk aikace-"
+"aikace waɗanda aka samar."
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -1695,6 +1831,8 @@ msgid ""
 "The best response to this objection is to talk about the experience of the "
 "Mozilla community that is behind Firefox OS."
 msgstr ""
+"Amsar da tafi dacewa ga wannan al'amari ita ce a yi magana dangane da "
+"ƙwarewa ta al'ummar Mozilla waɗanda ke bayan Firefox OS."
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -1711,6 +1849,8 @@ msgid ""
 "The best response to this objection is to talk about the robust security "
 "model."
 msgstr ""
+"Amsar da tafi dacewa ga wannan al'amari shine a yi magana dangane da "
+"ingantaccen yanayin tsaro."
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -1720,7 +1860,7 @@ msgstr ""
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:4056 db-strings.txt.py:8718 db-strings.txt.py:10869
 msgid "Calendar"
-msgstr ""
+msgstr "Kalanda"
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -1730,7 +1870,7 @@ msgstr ""
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:4065 db-strings.txt.py:8727 db-strings.txt.py:10878
 msgid "Clock"
-msgstr ""
+msgstr "Agogo"
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -1743,7 +1883,7 @@ msgstr ""
 #: db-strings.txt:4092 db-strings.txt.py:6423 db-strings.txt.py:8700
 #: db-strings.txt:10851
 msgid "Email and Messages"
-msgstr ""
+msgstr "Imel da Saƙwanni"
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -1756,7 +1896,7 @@ msgstr ""
 #: db-strings.txt:4110 db-strings.txt.py:6441 db-strings.txt.py:8709
 #: db-strings.txt:10860
 msgid "Music"
-msgstr ""
+msgstr "Kiɗa"
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -1772,7 +1912,7 @@ msgstr ""
 #: db-strings.txt:8763 db-strings.txt.py:8790 db-strings.txt.py:10887
 #: db-strings.txt:10914 db-strings.txt.py:10941
 msgid "Messages"
-msgstr ""
+msgstr "Saƙwanni"
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -1785,6 +1925,8 @@ msgid ""
 "With Adaptive App Search, Firefox OS adapts to you needs better than any "
 "other phone."
 msgstr ""
+"Tare da Aikace-aikace na Nema Waɗanda za'a iya sarrafawa, Firefox OS zata "
+"sarrafu zuwa abin da ka ke so fiye da ko wace irin waya."
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -1798,6 +1940,8 @@ msgid ""
 "If you love Firefox, you’ll love Firefox OS. Choosing a Firefox OS device "
 "puts the power of the Web in your hands."
 msgstr ""
+"Idan ka na son Firefox, za ka so Firefox OS. Zaɓar na'urar Firefox OS ya "
+"saka ƙarfin Yanar gizo a hannunka."
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -1811,6 +1955,8 @@ msgid ""
 "expect — Camera, Email, apps, Music and more — at the most competitive "
 "prices."
 msgstr ""
+"Firefox OS za ta baka kima ga kuɗinka, da duk abubuwan da ka zata  — "
+"Kyamara, Imel, aikace-aikace, Kiɗa da sauransu  — a madaidaicin farashi."
 
 #. Translators:
 #. Page path: /1-4/customer-guide/
@@ -1824,6 +1970,9 @@ msgid ""
 "value for your money. It has everything you expect in a smartphone — camera,"
 " email, apps, music, maps and more — at the most competitive prices."
 msgstr ""
+"<strong> Ga abin da za ka ce:</strong> Firefox OS za ta baka kima ga "
+"kuɗinka. Tana da duk abin da ka ke zato a babbar waya  — kyamara, imel, "
+"aikace-aikace, kiɗa da sauransu  — a madaidaicin farashi."
 
 #. Translators:
 #. Page path: /2-0/introduction/
@@ -1831,7 +1980,7 @@ msgstr ""
 #. Page path: /1-3/introduction/
 #: db-strings.txt:7080 db-strings.txt.py:9294
 msgid "An excellent user experience"
-msgstr ""
+msgstr "Kyakkyawan koyo na mai amfani"
 
 #. Translators:
 #. Page path: /2-0/introduction/
@@ -1843,6 +1992,10 @@ msgid ""
 "for better performance, easier customization and simpler navigation. "
 "Everything your customer needs or wants is either one scroll or swipe away."
 msgstr ""
+"Rayuwa na da rikici, babbar wayarka bai kamata ta zama haka ba. An shirya "
+"Firefox OS domin ingantaccen aiki, tsarawa mai sauƙi da gewayawa mai sauƙi. "
+"Duk abin da mai ciniki ya ke so ko bukata ko dai gungurawa ɗaya ko kuma "
+"matsawa."
 
 #. Translators:
 #. Page path: /2-0/introduction/
@@ -1850,7 +2003,7 @@ msgstr ""
 #. Page path: /1-3/introduction/
 #: db-strings.txt:7098 db-strings.txt.py:9312
 msgid "Made with you in mind"
-msgstr ""
+msgstr "An yi ta da kai a zuciya"
 
 #. Translators:
 #. Page path: /2-0/introduction/
@@ -1861,6 +2014,11 @@ msgid ""
 "that enrich and simplify your daily life. Firefox OS is truly a phone made "
 "with you in mind."
 msgstr ""
+"Yi amfani da wayarka a yarenka, sarrafa yadda ka yi amfani da bayananka kuma "
+"ka mayar da su na ka ta hanyar ƙirƙirar kiɗan kira naka. Kuma za ka iya "
+"sauke aikace-aikace da suka dace waɗanda za su inganta kuma su sauƙaƙa "
+"rayuwarka ta yau da kullum. Firefox OS haƙiƙa waya ce da aka yi sabo da kai "
+"a zuci. "
 
 #. Translators:
 #. Page path: /2-0/introduction/
@@ -1868,7 +2026,7 @@ msgstr ""
 #. Page path: /1-3/introduction/
 #: db-strings.txt:7116 db-strings.txt.py:9330
 msgid "Keep the Web in your hands"
-msgstr ""
+msgstr "Riƙe Yanar gizo a hannunka"
 
 #. Translators:
 #. Page path: /2-0/introduction/
@@ -1881,6 +2039,10 @@ msgid ""
 "innovate and further Web technologies.    When you choose Firefox OS, you’re"
 " helping build a brighter future for the Web for all."
 msgstr ""
+"A mozilla, mun fito domin mu kawo bambanci, ba riba ba. Manyan wayoyin "
+"Firefox OS na da goyon bayan jama'ar duniya na masu samarwa da suke aiki "
+"domin ƙirƙiro da haɓaka fasahar Yanar gizo.   Idan ka zaɓi Firefox OS, kana "
+"taimakawa wajen gina gaba kyakkyawa domin Yanar gizo ga kowa. "
 
 #. Translators:
 #. Page path: /2-0/introduction/
@@ -1888,7 +2050,7 @@ msgstr ""
 #. Page path: /1-3/introduction/
 #: db-strings.txt:7134 db-strings.txt.py:9348
 msgid "A phone for everyone"
-msgstr ""
+msgstr "Waya domin kowa da kowa"
 
 #. Translators:
 #. Page path: /2-0/introduction/
@@ -1902,6 +2064,12 @@ msgid ""
 "expect. And because Firefox OS devices are powered by Mozilla, they’re the "
 "perfect choice for anyone committed to keeping the Web open for all."
 msgstr ""
+"Abokan cinikinka su na so su sami abubuwa daga rayuwarsu, sabo da haka mai "
+"yasa za su sami tawaya daga na'urarsu?  Na'urorin Firefox OS sun dace da "
+"sababbin masu amfani da babbar wayar hannu — sauƙin amfani da duk siffofin "
+"da su ke tsammani. Kuma sabo da na'urorin Firefox sun sami ƙarfafawar "
+"Mozilla, su ne zaɓin da ya fi dacewa ga kowa wanda ya mayar da hankali wajen "
+"mayar da Yanar gizo ga kowa. "
 
 #. Translators:
 #. Page path: /2-0/demo-tips/
@@ -1914,12 +2082,16 @@ msgid ""
 "looking for. Demonstrate an example of a local app that will help make their"
 " lives easier."
 msgstr ""
+"Nunawa abokan cinikinka yadda ya ke da sauƙi a sami aikace-aikacen Wuraren "
+"Kasuwanci na Firefox. Faɗa masu cewa Wuraren Kasuwanci na da aikace-aikacen "
+"ƙayatattun wasanni waɗan da su ke nema. Nuna masu misali na aikace-aikace "
+"waɗanda za su mayar da rayuwarsu mai sauƙi. "
 
 #. Translators:
 #. Page path: /2-0/demo-tips/
 #: db-strings.txt:7224
 msgid "Rich media experience"
-msgstr ""
+msgstr "Kyakkyawan koyo na kaɗe-kaɗe"
 
 #. Translators:
 #. Page path: /2-0/demo-tips/
@@ -1934,6 +2106,13 @@ msgid ""
 "and more.  <br><br>Music: With music at their fingertips, your customers "
 "will see how Firefox OS keeps them entertained and dancing in the streets."
 msgstr ""
+"Tare da Kyamara, Ma'ajiyar Hotuna, aikace-aikacen kaɗe-kaɗe da sauransu, "
+"Firefox OS za ta ɗebewa abokan cinikinka kewa nan take kuma su haɗa da "
+"abubuwan da su ke bukata.  <br><br>Kyamara: Hoto, gyara kuma ka raba. Nunin "
+"cikakkiyar siffa ta kyamara da aikace-aikacen hotuna, ya haɗa da rariya "
+"wadda aka gina, bidiyo da daɗi.  <br><br>Kiɗa: Tare da kiɗa a tafin "
+"hannunka, abokan cinikinka za su kalli yadda Firefox OS za ta ɗebe masu kewa "
+"da kuma rawa a kan tituna. "
 
 #. Translators:
 #. Page path: /2-0/demo-tips/
@@ -1941,7 +2120,7 @@ msgstr ""
 #. Page path: /1-3/demo-tips/
 #: db-strings.txt:7242 db-strings.txt.py:9456
 msgid "Social and contact sync"
-msgstr ""
+msgstr "Zamantakewa da saita abokan hulɗa"
 
 #. Translators:
 #. Page path: /2-0/customer-guide/
@@ -1953,6 +2132,10 @@ msgid ""
 "is critical to any sales opportunity. Check out the common customer segments"
 " below to learn how to best respond to each of their unique needs."
 msgstr ""
+"Fahimtar bukatar abokan cinikinka da kuma sanin yadda za ka bayar da amsa a "
+"nan take na da mahimmanci wajen ko wace dama ta sayarwa. Duba kashe-kashen "
+"abokan hulɗa a ƙasa domin koyon ta yadda za ka bayar da amsa ga mabambantan "
+"bukatunsu."
 
 #. Translators:
 #. Page path: /2-0/customer-guide/
@@ -1966,6 +2149,12 @@ msgid ""
 "less time spent searching. Plus, it’s packed with all the features you’d "
 "expect — camera, email, apps, music, maps and more!"
 msgstr ""
+"<strong> Ga abin da za ka ce:<strong> Firefox OS ita ce kyakkyawan zaɓi ga "
+"wanda ya fara amfani da babbar waya a karon farko. Ta na da matuƙar sauƙi "
+"kuma na iya dacewa da bukatunka fiye da ko wace irin waya. Wannan na nufin "
+"zaka sami duk abin da ka ke bukata cikin lokaci kaɗan na nema. Kuma, an "
+"cikata da siffofi da ka ke zato  — kyamara, imel, aikace-aikace, kiɗa, "
+"taswirori da sauransu!"
 
 #. Translators:
 #. Page path: /2-0/customer-guide/
@@ -1978,6 +2167,10 @@ msgid ""
 "be able to quickly discover and download your favorite apps and be ready to "
 "go in no time."
 msgstr ""
+"<strong> Ga abin da za ka ce:</strong> Firefox OS ita ce babbar wayar hannu "
+"mai sauƙi da za ta sa ka fara.  An yi fasaha wajen samar da yadda mai amfani "
+"zai sarrafata, cikin sauri za ka gano kuma ka sauke aikace-aikacenka kuma "
+"nan da nan ka fara amfani da su."
 
 #. Translators:
 #. Page path: /2-0/customer-guide/
@@ -1991,6 +2184,11 @@ msgid ""
 " a community dedicated to keeping the Web accessible to all. When you choose"
 " Firefox OS, you have the full power of the Web in your hands."
 msgstr ""
+"<strong> Ga abin da za ka ce:</strong> idan ka san kuma ka na son Firefox, "
+"za ka so Firefox OS. Manyan wayoyin Firefox OS dukkansu na da tsarin HTML5, "
+"mai kawo mafi kyau na Yanar gizo zuwa wayarka. Kuma, Firefox OS an tsarata "
+"daga jama'a masu mayar da hankali domin ganin Yanar gizo ta isa ga kowa. "
+"Idan ka zaɓi Firefox OS, kana da cikakkiyar damar Yanar gizo a hannunka. "
 
 #. Translators:
 #. Page path: /2-0/key-features/
@@ -2001,6 +2199,9 @@ msgid ""
 "Your go-to source for the best apps on Firefox OS. Browse multiple "
 "categories, including games, utilities, music, travel, sports and more."
 msgstr ""
+"Ka tafi zuwa tushe domin mafi kyau na aikace-aikace a kan Firefox OS. Gewaya "
+"ga kashe-kashe masu yawa, da suka haɗa da wasanni, kayayyaki, kiɗa, tafiye-"
+"tafiye, wasanni da sauransu."
 
 #. Translators:
 #. Page path: /2-0/key-features/
@@ -2012,6 +2213,10 @@ msgid ""
 "Search Bar to visit websites, perform searches and access apps from the "
 "Marketplace. Multitask with tabs and browse multiple pages at the same time"
 msgstr ""
+"Yi koyo ga hanya mafi sauri, kyau, kuɓuta, domin samun mafi kyau na Yanar "
+"gizo. Yi amfani da Saɗarar nema domin ziyarar tashar yanar gizo, gudanar "
+"bincike da kuma samun dama daga Wurin Kasuwanci. Ayyuka masu yawa daga "
+"madannai masu aiki da dama kuma ka gewaya shafuka da dama duk a lokaci guda."
 
 #. Translators:
 #. Page path: /2-0/key-features/
@@ -2022,6 +2227,8 @@ msgid ""
 "Stay connected with friends and colleagues on your favorite social networks "
 "from wherever your are.."
 msgstr ""
+"Zamo cikin haɗi da abokai da abokan aiki a dandalin sada zumanta da ka fi so "
+"daga ko ina ka ke.."
 
 #. Translators:
 #. Page path: /2-0/key-features/
@@ -2033,6 +2240,9 @@ msgid ""
 "all in one place thanks to deep integration with your favorite social "
 "networks."
 msgstr ""
+"Cikin sauƙi ka shigo da abokanka na Facebook zuwa wayarka kuma ka ajiye "
+"al'ummarka duk a waje ɗaya godiya da wannan gamayya tare da dandalin sada "
+"zumunta wanda ka fi so."
 
 #. Translators:
 #. Page path: /2-0/key-features/
@@ -2040,7 +2250,7 @@ msgstr ""
 #. Page path: /1-3/key-features/
 #: db-strings.txt:7530 db-strings.txt.py:9744
 msgid "Bluetooth"
-msgstr ""
+msgstr "Bluetooth"
 
 #. Translators:
 #. Page path: /2-0/key-features/
@@ -2051,6 +2261,8 @@ msgid ""
 "Easily pair your device with a wide range of Bluetooth accessories. Share "
 "contacts, images, videos or your favorite URLs with friends."
 msgstr ""
+"Cikin sauƙi tagwaita na'urarka da zaɓi mai yawa na kayayyakin Bluetooth. "
+"Raba abokan hulɗa, hotuna, bidiyoyi ko URL da ka fi so tare da abokai."
 
 #. Translators:
 #. Page path: /2-0/key-features/
@@ -2062,6 +2274,9 @@ msgid ""
 "music collection by album or artist, rate songs and create playlists for "
 "your favorites."
 msgstr ""
+"Yi wasa da shi duk daga wayraka, ko kuma a kan yanar gizo ta hanyar YouTube. "
+"Gewaya kuma ka saka waƙarka daga faifai ko mawaƙi, auna waƙoƙi kuma ka "
+"ƙirƙiri jerin mawaƙa domin abubuwan da ka fi bukata."
 
 #. Translators:
 #. Page path: /2-0/key-features/
@@ -2072,12 +2287,15 @@ msgid ""
 "Stay connected easily and conveniently. Set up multiple email accounts, with"
 " support for the most common Exchange, POP3 or IMAP email providers."
 msgstr ""
+"Zama cikin haɗi a sauƙaƙe da dacewa. Saita asusun imel masu yawa, tare da "
+"tallafi domin Musanya da abubuwa game-gari, POP3 ko IMAP masu bayar da imel. "
+""
 
 #. Translators:
 #. Page path: /2-0/key-features/
 #: db-strings.txt:7584
 msgid "Find My Device"
-msgstr ""
+msgstr "Nemo Na'urata"
 
 #. Translators:
 #. Page path: /2-0/key-features/
@@ -2086,12 +2304,15 @@ msgid ""
 "Location tracking helps you find your device if you lose it. Remote wipe and"
 " lock capabilities help you keep your personal information safe."
 msgstr ""
+"Mai binciko wurin zama na taimaka maka ka nemo na'urarka idan ka rasata. "
+"Masu sharewa daga nesa da abubuwa masu yiwuwa na rufewa na taimaka maka "
+"ajiye bayanai na ƙashin kanka lafiya. "
 
 #. Translators:
 #. Page path: /2-0/key-features/
 #: db-strings.txt:7602
 msgid "Ringtones"
-msgstr ""
+msgstr "Kaɗe-kaɗen kira"
 
 #. Translators:
 #. Page path: /2-0/key-features/
@@ -2100,6 +2321,8 @@ msgid ""
 "Customize your Firefox OS phone by creating new ringtones from your music "
 "collection or from songs you download from the Web."
 msgstr ""
+"Tsara wayarka ta Firefox OS ta ƙirƙirar sababbin kaɗe-kaɗen kira daga "
+"waƙoƙin da ka tara ko daga waƙe-waƙen da ka sauke daga Yanar gizo."
 
 #. Translators:
 #. Page path: /2-0/frequently-asked-questions/
@@ -2112,6 +2335,11 @@ msgid ""
 "includes leading app developers like Facebook, YouTube, Twitter, YouTube, "
 "Pinterest and ConnectA2 as well as a Flashlight app and Calculator."
 msgstr ""
+"Masu samar da aikace-aikace a duk faɗin duniya sun mayar da hankali ga "
+"Firefox OS kuma dubbai da ɗaruruwan aikace-aiakce na kyauta za'a samar bayan "
+"ƙaddamarwa. Jerin da ke ƙaruwa ya haɗa da aikace-aikace da suka yi fice "
+"kamar Facebook, YouTube, Twitter, Pinterest da ConnectA2 da kuma aikace-"
+"aikace na Flashlight da Raskwana."
 
 #. Translators:
 #. Page path: /2-0/frequently-asked-questions/
@@ -2126,6 +2354,14 @@ msgid ""
 " in complete control of their smartphone experience and makes it possible "
 "for people to get the exact content they want, when they want it."
 msgstr ""
+"Masu amfani na iya saka zaunannun alamomi a ko wace yanar gizo a shafinsu na "
+"gida domin samar da aiki na wannan tashar gizo daga nan. Kuma, masu amfani "
+"na iya shiga cikin sauƙi cikin ko wace irin ƙa'ida ta nema a kan fuskar "
+"kwamfuta ta shafin gida kuma nan take su ƙirƙiri amfani na lokaci guda ko "
+"aikace-aikace wanda za'a iya saukewa. Ƙirƙira da kuma yin amfani da aikace-"
+"aikace a lokacin da aka nema ya saka masu amfani a cikakkiyar sarrafawa na "
+"koyon da suke da shi na wayar hannu kuma ya sa yiwuwar mutane su sami bayani "
+"na haƙiƙa da su ke nema, lokacin da suke nemansa."
 
 #. Translators:
 #. Page path: /2-0/frequently-asked-questions/
@@ -2133,7 +2369,7 @@ msgstr ""
 #. Page path: /1-3/frequently-asked-questions/
 #: db-strings.txt:7728 db-strings.txt.py:9906
 msgid "Can I use WhatsApp on this phone?"
-msgstr ""
+msgstr "Zan iya amfani da WhatsApp a wayata?"
 
 #. Translators:
 #. Page path: /2-0/frequently-asked-questions/
@@ -2147,6 +2383,11 @@ msgid ""
 " create and use group chats and receive notifications of new messages, even "
 "when the app is closed."
 msgstr ""
+"Ba kai tsaye ba, amma aikace-aikace na ConnectA2 zai baka dama ka aika da "
+"saƙo nan take zuwa abokan hulɗarka na ConnectA2 da/ko WhatsApp. Za ka iya "
+"aikawa ko ka karɓi saƙwanni, htuna masu motsi, hotuna, bidiyo da fayiloli na "
+"saurare duka kyauta. Kuma za ka iya ƙirƙira ka yi amfani da hira da jama'a "
+"kuma ka karɓi sanarwa ta sabon saƙo, ko da aikace-aikace na rufe."
 
 #. Translators:
 #. Page path: /2-0/frequently-asked-questions/
@@ -2154,7 +2395,7 @@ msgstr ""
 #. Page path: /1-3/frequently-asked-questions/
 #: db-strings.txt:7746 db-strings.txt.py:9924
 msgid "Will my apps work offline?"
-msgstr ""
+msgstr "Aikace-aikacena za su yi aiki ko ba haɗin yanar gizo?"
 
 #. Translators:
 #. Page path: /2-0/frequently-asked-questions/
@@ -2166,6 +2407,9 @@ msgid ""
 "like Twitter and Facebook, and for awesome local content from the best Web "
 "developers in your region."
 msgstr ""
+"Wurin Kasuwanci na Firefox shi ne wurin zuwanmu domin samun aikace-aikace na "
+"kyauta, wanda ya haɗa da abubuwan so kamar Twitter da Facebook, da kuma "
+"haɗi na gida masu ƙayatarwa daga Yanar gizo mafi kyau a shiyyarka."
 
 #. Translators:
 #. Page path: /2-0/frequently-asked-questions/
@@ -2173,7 +2417,7 @@ msgstr ""
 #. Page path: /1-3/frequently-asked-questions/
 #: db-strings.txt:7809 db-strings.txt.py:9987
 msgid "Exchange, POP3 and IMAP are currently supported."
-msgstr ""
+msgstr "Sauya, POP3 da IMAP yanzu su na da tallafi."
 
 #. Translators:
 #. Page path: /2-0/about/
@@ -2181,7 +2425,7 @@ msgstr ""
 #. Page path: /1-3/about/
 #: db-strings.txt:7836 db-strings.txt.py:10014
 msgid "The Mozilla Mission"
-msgstr ""
+msgstr "Manufar Mozilla"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2189,7 +2433,7 @@ msgstr ""
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:7863 db-strings.txt.py:10041
 msgid "Take the Challenge"
-msgstr ""
+msgstr "Karɓi Ƙalubalen"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2204,6 +2448,12 @@ msgid ""
 "OS the right choice for anyone committed to ensuring that the power of the "
 "Web remains in their hands!"
 msgstr ""
+"Idan ka duba duk tambayoyi da abin da ke ciki, ka shirya haɗa Firefox OS da "
+"bukatun abokan cinikinka. Sauƙin amfani, babbar wayar Firefox OS ta dace da "
+"sababbin masu amfani da babbar waya kuma cike da siffofin da mai amafi ke "
+"nema da bukata.  Kuma ƙarfafawa daga Mozilla, ya mayar da Firefox OS zaɓin "
+"da ya fi dacewa ga duk wanda ya dukufa domin tabbatar da ƙarfin Yanar gizo "
+"ya tabbata a hannunsu!"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2214,6 +2464,8 @@ msgid ""
 "What are some examples of the kind of personalization and control that "
 "Firefox OS allows?  Select all that apply."
 msgstr ""
+"Waɗanne misalai ne na irin waɗannan abin kai da kuma sarrafawa da Firefox ta "
+"bari?  Zaɓi duk wanda ya dace."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2223,6 +2475,7 @@ msgstr ""
 msgid ""
 "That’s right! All of these things are possible with a Firefox OS phone."
 msgstr ""
+"Ya yi dai dai! Duk waɗannan abubuwa na iya yiwuwa tare da wayar Firefox OS. "
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2230,7 +2483,7 @@ msgstr ""
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:7935 db-strings.txt.py:10113
 msgid "Actually, all of these things are possible with a Firefox OS phone."
-msgstr ""
+msgstr "A haƙiƙa, duk waɗan nan abubuwa za su yiwu da wayar Firefox OS."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2239,7 +2492,7 @@ msgstr ""
 #: db-strings.txt:7944 db-strings.txt.py:8124 db-strings.txt.py:8367
 #: db-strings.txt:10122 db-strings.txt.py:10302
 msgid "There are more. Try again."
-msgstr ""
+msgstr "Akwai saura. Sake gwadawa."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2247,7 +2500,7 @@ msgstr ""
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:8070 db-strings.txt.py:10248
 msgid "That’s right. This icon represents the Firefox Browser."
-msgstr ""
+msgstr "Ya yi dai dai. Wannan alama ta na wakiltar Mai Gewayawa ta Firefox."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2256,7 +2509,7 @@ msgstr ""
 #: db-strings.txt:8079 db-strings.txt.py:8088 db-strings.txt.py:10257
 #: db-strings.txt:10266
 msgid "Actually, this icon represents the Firefox Browser."
-msgstr ""
+msgstr "Haƙiƙa, wannan alama ta na wakiltar Mai gewayawa ta Firefox."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2264,7 +2517,7 @@ msgstr ""
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:8097 db-strings.txt.py:10275
 msgid "What does Bluetooth allow users to do? Select all that apply"
-msgstr ""
+msgstr "Me Bluetooth ya ke barin masu amfani su yi? Zaɓi duk wanda ya dace"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2275,6 +2528,8 @@ msgid ""
 "That’s right! All of these things can be shared via Bluetooth with your "
 "Firefox OS phone."
 msgstr ""
+"Ya yi dai dai! Duk waɗan nan abubuwa za'a iya rabasu ta hanyar Bluetooth da "
+"wayarka ta Firefox OS."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2285,6 +2540,8 @@ msgid ""
 "Actually, all of these things can be shared via Bluetooth with your Firefox "
 "OS phone.."
 msgstr ""
+"Haƙiƙa, duk waɗan nan abubuwa za'a iya rabasu ta hanyar Bluetooth da wayarka "
+"ta Firefox OS."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2292,7 +2549,7 @@ msgstr ""
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:8151 db-strings.txt.py:10329
 msgid "Actually, all of these are true about Firefox OS."
-msgstr ""
+msgstr "Haƙiƙa, duk waɗan nan gaskiya ne dangane da Firefox OS."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2300,7 +2557,7 @@ msgstr ""
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:8160 db-strings.txt.py:10338
 msgid "Actually, all of these are true about Firefox OS"
-msgstr ""
+msgstr "Haƙiƙa, duk waɗan nan gaskiya ne dangane da Firefox OS"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2312,6 +2569,9 @@ msgid ""
 "simplicity and features including ways to control their experience and "
 "personalize their phones."
 msgstr ""
+"Ya yi dai dai. Ga mai amfani da babbar waya karon farko, ya kamata ka yi "
+"magana a kan sauƙin siffofi da ya haɗa da hanyoyi na sarrafa koyonsu kuma su "
+"mayar da wayoyinsu yadda su ke bukata."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2324,6 +2584,9 @@ msgid ""
 "simplicity and features including ways to control their experience and "
 "personalize their phones."
 msgstr ""
+"A haƙiƙa, ga mai amfani da babbar waya karon farko, ya kamata ka yi magana a "
+"kan sauƙi da siffofi da su ka haɗa da hanyoyi ta sarrafa koyonsu da mayar "
+"da wayoyiinsu yadda su ke bukata."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2334,6 +2597,8 @@ msgid ""
 "That’s right. When you meet a Firefox fan, talk about how choosing Firefox "
 "OS shows a commitment to keeping the power of the Web in their hands."
 msgstr ""
+"Ya yi dai dai. Idan ka haɗu da abokin Firefox, yi magana a kan yadda Firefox "
+"OS ta maida hankali na ajiye ƙarfin tafiyar da Yanar gizo a hannunsu."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2345,6 +2610,8 @@ msgid ""
 "Actually, when you meet a Firefox fan, talk about how choosing Firefox OS "
 "shows a commitment to keeping power of the the Web in their hands."
 msgstr ""
+"A haƙiƙa, idan ka haɗu da abokin Firefox,ya magana a kan yadda zaɓar Firefox "
+"ya nuna dukufa ta tabbatar da ƙarfin Yanar gizo a hannunsu."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2356,6 +2623,9 @@ msgid ""
 " set of Firefox OS, including social apps that are preloaded on the phone, "
 "all at great value."
 msgstr ""
+"Ya yi dai dai. Da wannan abokin ciniki, yi bayani kan babbar kima da "
+"cikakkun siffofi na Firefox OS, da suka haɗa da aikace-aikace waɗan da aka "
+"saka loda a wayarka, duka masu kima."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2368,6 +2638,9 @@ msgid ""
 "feature set of Firefox OS, including social apps that are preloaded on the "
 "phone, all at great value."
 msgstr ""
+"Wannan ba shi ba ne. Da wannan abokin ciniki, yi bayanin babbar kima da "
+"cikakkun siffofi na Firefox OS, da suka haɗa da dandalin sa da zumunta da "
+"tuni aka saka a wayar, duk a kima mai yawa."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2380,6 +2653,11 @@ msgid ""
 "of the Web in the hands of the people. And while all of these statements are"
 " true, only this one is the best response for this particular customer."
 msgstr ""
+"Ya yi dai dai. Wannan abokin cinikin kamar abokin Firefox OS ne. Tattauna a "
+"kan yadda wayoyin Firefox OS, da Mozilla suka yi, nuna dukufa ta ajiye "
+"ƙarfin Yanar gizo a hannun waɗan nan mutane. Yayin da duk waɗan nan "
+"maganganu suke dai dai, wannan ce kawai amsa mafi inganci ga wannan abokin "
+"cinikin."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2393,6 +2671,10 @@ msgid ""
 "OS phones, made by Mozilla, help keep the power of the Web in the hands of "
 "the people."
 msgstr ""
+"Duk waɗan nan maganganun gaskiya ne, amma ɗaya ce amsa mafi inganci ga "
+"wannan abokin ciniki, wanda ya zama kamar abokin firefox. Yi magana a kan "
+"yadda wayoyin Firefox OS, da Mozilla suka yi, taimaka wajen ajiye ƙarfin "
+"Yanar gizo a hannun mutanen."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2401,6 +2683,8 @@ msgid ""
 "What does the Find My Device feature on your Firefox OS phone help you do in"
 " the case that your phone is lost or stolen?"
 msgstr ""
+"Me siffar Nemo Na'rata na wayar Firefox OS ke taimaka maka ka yi wajen nemo "
+"wayarka ko da zata ɓata ko a sace?"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2409,6 +2693,8 @@ msgid ""
 "That’s right! The Find My Device helps you do all these things through your "
 "Firefox Account."
 msgstr ""
+"Ya yi dai dai! Nemo Na'urata na taimaka maka kayi duk waɗan nan abubuwa ta "
+"hanyar Asusunka na Firefox."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2417,6 +2703,8 @@ msgid ""
 "Actually, the Find My Device helps you do all these things through your "
 "Firefox Account."
 msgstr ""
+"Haƙiƙa, Nemo Na'urata na taimaka maka kayi duk waɗan nan abubuwa ta hanyar "
+"Asusunka na Firefox."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2427,6 +2715,8 @@ msgid ""
 "That’s right. A first-time smartphone user will be most interested in ease "
 "of use."
 msgstr ""
+"Ya yi dai dai. Mai amfani da babbar waya karon farko zai fi sha'awar sauƙi "
+"wajen yin amfani."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2437,6 +2727,8 @@ msgid ""
 "Which of the following statements are true of the Cost Control app that is "
 "preloaded on Firefox OS?"
 msgstr ""
+"Wanne daga cikin waɗan nan maganganu ne gaskiya dangane da aikace-aikace na "
+"Cost Control wanda aka loda a cikin Firefox OS?"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2445,6 +2737,8 @@ msgstr ""
 #: db-strings.txt:8430 db-strings.txt.py:10572
 msgid "That’s right. All of these are true of the Cost Control app!"
 msgstr ""
+"Ya yi dai dai. Duk waɗan nan gaskiya ne dangane da aikace-aikacen Cost "
+"Control!"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2454,6 +2748,7 @@ msgstr ""
 #: db-strings.txt:10590
 msgid "Actually, all of these are true of the Cost Control app!"
 msgstr ""
+"Haƙiƙa, duk waɗan nan gaskiya ne dangane da aikace-aikacen Cost Control!"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2464,6 +2759,8 @@ msgid ""
 "The ConnectA2 app is an instant messaging application compatible with "
 "WhatsApp for your Firefox OS device."
 msgstr ""
+"Aikace-aikace na ConnectA2 aikace-aikace ne na aika saƙo nan take wanda ya "
+"dace da WhatsApp domin na'urarka ta Firefox. "
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2475,6 +2772,8 @@ msgid ""
 "Actually, this is true. ConnectA2 allows you to send instant messages to "
 "your contacts using ConnectA2 and/or WhatsApp."
 msgstr ""
+"Haƙiƙa, wannan gaskiya ne. ConnectA2 zai ba ka dama ka aika saƙo nan take "
+"zuwa abokan hulɗarka ta amfani da ConnectA2 da/ko WhatsApp."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2485,6 +2784,8 @@ msgid ""
 "What’s the best response to this customer’s objection? “I’ve heard there "
 "aren’t many apps available.”"
 msgstr ""
+"Mece ce amsa mafi dacewa ga batun wannan mai ciniki? \"Na ji cewa babu "
+"aikace-aikace da yawa.\""
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2495,6 +2796,8 @@ msgid ""
 "What’s the best response to this customer’s objection? “I’ve never heard of "
 "Firefox OS phones.\""
 msgstr ""
+"Mece ce amsa mafi dacewa ga batun wannan mai ciniki? \"Ban taɓa ji ba game da "
+"wayoyin Firefox OS.\""
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2502,7 +2805,7 @@ msgstr ""
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:8637 db-strings.txt.py:10779
 msgid "Set your phone to your language"
-msgstr ""
+msgstr "Saita wayarka zuwa yarenka"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2510,13 +2813,13 @@ msgstr ""
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:8646 db-strings.txt.py:10788
 msgid "Control your data usage"
-msgstr ""
+msgstr "Sarrafa yin amfani da bayananka"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:8655
 msgid "Create your own ringtones"
-msgstr ""
+msgstr "Ƙirƙiri kiɗan kira na ka."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2524,7 +2827,7 @@ msgstr ""
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:8817 db-strings.txt.py:10968
 msgid "Share contacts"
-msgstr ""
+msgstr "Raba abokan hulɗa"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2532,7 +2835,7 @@ msgstr ""
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:8826 db-strings.txt.py:10977
 msgid "Share images"
-msgstr ""
+msgstr "Raba hotuna"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2540,7 +2843,7 @@ msgstr ""
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:8835 db-strings.txt.py:10986
 msgid "Share videos"
-msgstr ""
+msgstr "Raba bidiyo"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2550,6 +2853,9 @@ msgid ""
 "experience, Firefox OS is packed with the features that users are looking "
 "for in a smartphone."
 msgstr ""
+"Tare da Wurin Kasuwanci na Firefox, mafi kyan aikace-aikace da aka loda kuma "
+"mai ingancin koyo na mai amfani, Firefox OS an cikata da siffofi da mai "
+"amfani ke nema a babbar wayar hannu."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2558,6 +2864,8 @@ msgid ""
 "Since it’s made by Firefox, Firefox OS is backed by a global community "
 "working on your behalf and with your interests in mind."
 msgstr ""
+"Tunda Firefox ne suka yi, Firefox OS na da goyon bayan alúmmar duniya masu "
+"aiki a madadinka da kuma saka bukatarka a zuci."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2569,6 +2877,9 @@ msgid ""
 "to use and allows for greater control, personalization and customization "
 "than many other smartphones on the market."
 msgstr ""
+"An yi Firefox OS bisa la'akari da bukatunku a zuciya, sabo da haka take da "
+"sauƙi wajen yin amfani kuma za ta baka dama wajen sarrafawa, shiri na ƙashin "
+"kanka da tsarawa fiye da sauran manyan wayoyi a kasuwa."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2580,6 +2891,9 @@ msgid ""
 " are already preloaded and you can easily import your friends from Facebook,"
 " too.."
 msgstr ""
+"Firefox OS ita ce babbar waya mafi sauƙi da zaka fara da ita. Aikace-aikacen "
+"da ka fi so tuni an lodasu kuma cikin sauƙi za ka iya shigo da abokanka "
+"daga Facebook, kuma.."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2591,6 +2905,8 @@ msgid ""
 "If you love Firefox, you’ll love Firefox OS. Choosing Firefox OS keeps the "
 "power of the Web in your hands."
 msgstr ""
+"Idan ka na son Firefox, za ka so Firefox OS. Zaɓar Firefox OS ya saka ƙarfin "
+"tafiyar da Yanar gizo a hannunka."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2602,6 +2918,8 @@ msgid ""
 "expect, including Messages, Facebook, email, maps and more, all at a better "
 "value."
 msgstr ""
+"Manyan wayoyi na Firefox OS an loda masu duk siffofi da ka ke zato da suka "
+"haɗa da Saƙwanni, Facebook, Imel, taswira da sauransu, duk a kima mafi kyau."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2609,7 +2927,7 @@ msgstr ""
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:8988 db-strings.txt.py:11139
 msgid "The Firefox Marketplace features free apps!"
-msgstr ""
+msgstr "Siffofin aikace-aikace na kyauta na Wurin kasuwanci na Firefox"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2621,24 +2939,28 @@ msgid ""
 "accessible to all. And since Firefox OS is entirely built in HTML5, you get "
 "instant access to thousands of apps already built for the Web."
 msgstr ""
+"Mozilla, masu yin Firefox, sun gina babbar wayar OS domin samun dama ga "
+"Yanar gizo ga kowa. Kuma tunda an gina Firefox OS gaba ɗaya a kan tsarin "
+"HTML5, zaka sami dama nan take ga dubban aikace-aikace da aka gina domin "
+"Yanar gizo."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:9024
 msgid "Track the location of your lost/stolen device"
-msgstr ""
+msgstr "Bi sawun wurin da na'urarka da ta ɓata/aka sace ta ke"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:9033
 msgid "Remotely wipe the device."
-msgstr ""
+msgstr "Share na'urar daga nesa."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:9042
 msgid "Remotely lock the device."
-msgstr ""
+msgstr "Kulle na'ura daga nesa."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2647,6 +2969,8 @@ msgstr ""
 #: db-strings.txt:9078 db-strings.txt.py:11202
 msgid "Firefox OS is built entirely using HTML5 and Open Web standards."
 msgstr ""
+"An gina Firefox gaba ɗaya ta amfani da HTML5 da kuma Buɗaɗɗiyar Yanar Gizo "
+"madaidaiciya."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2654,7 +2978,7 @@ msgstr ""
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:9087 db-strings.txt.py:11211
 msgid "You can use it to create and set a daily budget for data usage."
-msgstr ""
+msgstr "Za ka iya amfani da ita domin ƙirƙira da saita gudanar da bayananka."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2662,7 +2986,7 @@ msgstr ""
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:9096 db-strings.txt.py:11220
 msgid "It shows usage per app."
-msgstr ""
+msgstr "Tana nuna bayani kan kowane aikace-aikace. "
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2670,7 +2994,7 @@ msgstr ""
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:9105 db-strings.txt.py:11229
 msgid "It shows usage by time."
-msgstr ""
+msgstr "Tana nuna amfani da lokaci."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2683,6 +3007,10 @@ msgid ""
 "relevant apps for the Firefox OS platform. New apps and content are added "
 "every day."
 msgstr ""
+"Firefox OS na da goyon bayan al'umma ta duniya na masu samarwa da masu samar "
+"da abubuwan ciki da suka dukufa domin ƙirƙirar sabo kuma kyakkyawan abin "
+"ciki da ko da aikace-aikace na gida domin dandalin Firefox OS. Sababbin "
+"aikace-aikace da abin ciki ana ƙarasu a kullum."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2693,6 +3021,8 @@ msgid ""
 "Apps developers are slowly realizing the benefit of HTML5 in support of the "
 "Open Web."
 msgstr ""
+"Masu samar da aikace-aikace a hankali su na gane amfanin HTML5 wajen "
+"tallafwa Buɗaɗɗiyar Yanar gizo."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2703,6 +3033,7 @@ msgid ""
 "They’re packed with the features that made you want a smartphone in the "
 "first place."
 msgstr ""
+"An cikasu da siffofi waɗanda za su sa ka so babbar wayar hannu tun da farko."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2713,6 +3044,8 @@ msgid ""
 "They’re new and backed by a global community working to help keep the Web "
 "accessible to all."
 msgstr ""
+"Sababbi ne kuma su na da goyon bayan al'umma ta duniya masu aiki domin "
+"tabbatar da samun dama ga Yanar gizo ga kowa."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2723,6 +3056,7 @@ msgid ""
 "It’s packed with the features that made you want a smartphone in the first "
 "place."
 msgstr ""
+"An cikata da siffofi waɗanda za su sa ka so babbar wayar hannu tun da farko."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2733,6 +3067,8 @@ msgid ""
 "It’s new and backed by a global community working to help keep the Web "
 "accessible to all."
 msgstr ""
+"Sabo ne kuma mai goyon bayan al'umma ta duniya masu aiki domin taimakawa a "
+"bar yanar gizo ta zama samammiya ga kowa."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2745,6 +3081,10 @@ msgid ""
 "from malicious applications and content, it also protects applications from "
 "each other."
 msgstr ""
+"Siffofinta mai cikakken tsarin tsaro da ke da wuyar ketawa daga fiye da "
+"shekaru goma na tallafi ga Buɗaɗɗiyar Yanar gizo. An ƙerata domin kare mai "
+"amfani da kuma kwamfuta daga aikace-aikace da abubuwan ciki na rashin "
+"gaskiya, kuma tana kare aikace-aikace daga juna."
 
 #. Translators:
 #. Page path: /2-0/which-version/
@@ -2761,20 +3101,28 @@ msgid ""
 "<li><em>1.3.0.0</em> means you have version 1.3</li> <li><em>2.0.0.0</em> "
 "means you have version 2.0</li> </ul> </li> </ol>"
 msgstr ""
+"<ol> <li>Buɗe Saituna daga na'ura.</li> <li>Gungura ƙasa ka zaɓi "
+"<strong>Bayanin na'ura</strong>.</li> <li>A kan allon fuska na bayanin, "
+"zaɓi, <strong>Ƙarin bayani</strong> kuma ka duba lambar yayin a ƙasa "
+"<em>yayin OS </em> a saman fuskar kwamfuta. <ul> <li><em>Firefox OS "
+"1.0.1.0</em> na nufin kana da yayin 1.0.1</li> <li><em>Firefox OS "
+"1.1.0.0</em> na nufin kana da yayin 1.1</li> <li><em>1.3.0.0</em> na nufin "
+"kana da yayin 1.3</li> <li><em>2.0.0.0</em> na nufin kana da yayin 2.0</li> "
+"</ul> </li> </ol>"
 
 #: masterfirefoxos/base/templates/base.html:35
 msgid "Submit"
-msgstr ""
+msgstr "Miƙa"
 
 #: masterfirefoxos/base/templates/base.html:40
 #: masterfirefoxos/base/templates/base.html:83
 #: masterfirefoxos/base/templates/home.html:12
 msgid "Mozilla"
-msgstr ""
+msgstr "Mozilla"
 
 #: masterfirefoxos/base/templates/base.html:65
 msgid "Menu"
-msgstr ""
+msgstr "Takardar bayani"
 
 #: masterfirefoxos/base/templates/base.html:88
 msgid ""
@@ -2782,177 +3130,183 @@ msgid ""
 "available under a <a href=\"https://www.mozilla.org/foundation/licensing"
 "/website-content/\">Creative Commons license</a>."
 msgstr ""
+"Ɓangarori na wannan abin da ke ciki na ©1998–{0} daga ɗaiɗaiku masu bayar da "
+"gudun mawa. Za'a sami abin ciki a ƙarƙashin <a "
+"href=\"https://www.mozilla.org/foundation/licensing/website-"
+"content/\">Creative Commons license</a>."
 
 #: masterfirefoxos/base/templates/base.html:91
 msgid "Source code"
-msgstr ""
+msgstr "Tushen lamba"
 
 #: masterfirefoxos/base/templates/base.html:96
 msgid "Contact Us"
-msgstr ""
+msgstr "Tuntuɓemu"
 
 #: masterfirefoxos/base/templates/base.html:97
 msgid "Partner with Us"
-msgstr ""
+msgstr "Haɗa gwiwa tare da Mu"
 
 #: masterfirefoxos/base/templates/base.html:98
 msgid "Donate"
-msgstr ""
+msgstr "Bayar da gudun mawa"
 
 #: masterfirefoxos/base/templates/base.html:99
 msgid "Privacy Policy"
-msgstr ""
+msgstr "Manufa ta Ƙashin kai"
 
 #: masterfirefoxos/base/templates/base.html:100
 msgid "Legal Notices"
-msgstr ""
+msgstr "Bayanan Shari'a"
 
 #: masterfirefoxos/base/templates/base.html:101
 msgid "Report Trademark Abuse"
-msgstr ""
+msgstr "Bayar da rahoton saɓawa da Alamar kasuwanci"
 
 #: masterfirefoxos/base/templates/base.html:105
 msgid "Mozilla on Twitter"
-msgstr ""
+msgstr "Mozilla a Twitter"
 
 #: masterfirefoxos/base/templates/base.html:106
 msgid "Firefox on Twitter"
-msgstr ""
+msgstr "Firefox a Twitter"
 
 #: masterfirefoxos/base/templates/base.html:107
 msgid "Mozilla on Facebook"
-msgstr ""
+msgstr "Mozilla a Facebook"
 
 #: masterfirefoxos/base/templates/base.html:108
 msgid "Firefox on Facebook"
-msgstr ""
+msgstr "Firefox a Facebook"
 
 #: masterfirefoxos/base/templates/home.html:49
 msgid "Learn more"
-msgstr ""
+msgstr "Daɗa koyo"
 
 #: masterfirefoxos/base/templates/includes/nav-information.html:3
 msgid "Home"
-msgstr ""
+msgstr "Gida"
 
 #: masterfirefoxos/base/templates/includes/nav-information.html:4
 msgid "About"
-msgstr ""
+msgstr "Dangane da"
 
 #: masterfirefoxos/base/templates/includes/version-language-switcher.html:3
 msgid "Language"
-msgstr ""
+msgstr "Yare"
 
 #: masterfirefoxos/base/templates/includes/version-language-switcher.html:15
 msgid "Firefox OS version"
-msgstr ""
+msgstr "Yayin Firefox OS"
 
 #: masterfirefoxos/base/templates/includes/version-language-switcher.html:21
 msgid "Which version do I have?"
-msgstr ""
+msgstr "Wanne yayi nake da shi?"
 
 #: masterfirefoxos/base/templates/includes/version-language-switcher.html:23
 msgid "Change"
-msgstr ""
+msgstr "Canja"
 
 #: masterfirefoxos/base/templates/includes/version-language-switcher.html:37
 msgid ""
 "Documentation for Firefox OS {version} is not yet available in {language}, "
 "so we redirected you to the English version."
 msgstr ""
+"Bayanan Firefox OS {version} babu shi a yaren {language}, sabo da haka zamu "
+"karkataka zuwa yayin Turanci. "
 
 #: masterfirefoxos/base/templates/includes/version-language-switcher.html:39
 msgid "The latest version available in {language} is {version}."
-msgstr ""
+msgstr "Sabon yayin da ake da shi a {language} {version} ne."
 
 #: masterfirefoxos/settings/base.py:189
 msgid "Afrikaans"
-msgstr ""
+msgstr "Afrikaans"
 
 #: masterfirefoxos/settings/base.py:190
 msgid "Arabic"
-msgstr ""
+msgstr "Larabci"
 
 #: masterfirefoxos/settings/base.py:191
 msgid "Bengali"
-msgstr ""
+msgstr "Bengali"
 
 #: masterfirefoxos/settings/base.py:192
 msgid "Croatian"
-msgstr ""
+msgstr "Croatia"
 
 #: masterfirefoxos/settings/base.py:193
 msgid "Czech"
-msgstr ""
+msgstr "Czech"
 
 #: masterfirefoxos/settings/base.py:194
 msgid "English"
-msgstr ""
+msgstr "Turanci"
 
 #: masterfirefoxos/settings/base.py:195
 msgid "German"
-msgstr ""
+msgstr "Jamusanci"
 
 #: masterfirefoxos/settings/base.py:196
 msgid "Greek"
-msgstr ""
+msgstr "Girkanci"
 
 #: masterfirefoxos/settings/base.py:197
 msgid "French"
-msgstr ""
+msgstr "Faransanci"
 
 #: masterfirefoxos/settings/base.py:198
 msgid "Hindi"
-msgstr ""
+msgstr "Hindi"
 
 #: masterfirefoxos/settings/base.py:199
 msgid "Hungarian"
-msgstr ""
+msgstr "Yaren Hungary"
 
 #: masterfirefoxos/settings/base.py:200
 msgid "Italian"
-msgstr ""
+msgstr "Italiyanci"
 
 #: masterfirefoxos/settings/base.py:201
 msgid "Japanese"
-msgstr ""
+msgstr "Japananci"
 
 #: masterfirefoxos/settings/base.py:202
 msgid "Polish"
-msgstr ""
+msgstr "Polish"
 
 #: masterfirefoxos/settings/base.py:203
 msgid "Portuguese"
-msgstr ""
+msgstr "Portugal"
 
 #: masterfirefoxos/settings/base.py:204
 msgid "Serbian"
-msgstr ""
+msgstr "Serbia"
 
 #: masterfirefoxos/settings/base.py:205
 msgid "Kiswahili"
-msgstr ""
+msgstr "Kiswahili"
 
 #: masterfirefoxos/settings/base.py:206
 msgid "Spanish"
-msgstr ""
+msgstr "Spaniyanci"
 
 #: masterfirefoxos/settings/base.py:207
 msgid "Tamil"
-msgstr ""
+msgstr "Tamil"
 
 #: masterfirefoxos/settings/base.py:208
 msgid "Wolof"
-msgstr ""
+msgstr "Wolof"
 
 #: masterfirefoxos/settings/base.py:209
 msgid "Xhosa"
-msgstr ""
+msgstr "Xhosa"
 
 #: masterfirefoxos/settings/base.py:210
 msgid "Pirate"
-msgstr ""
+msgstr "Pirate"
 
 #: masterfirefoxos/settings/base.py:211
 msgid "Zulu"
-msgstr ""
+msgstr "Zulu"
