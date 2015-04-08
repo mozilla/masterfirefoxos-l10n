@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-03-12 23:15+0000\n"
-"PO-Revision-Date: 2015-03-13 20:55+0000\n"
-"Last-Translator: Benoit <benoit.leseul@gmail.com>\n"
+"PO-Revision-Date: 2015-04-07 19:03+0000\n"
+"Last-Translator: SphinxKnight <sphinx_knight@hotmail.fr>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1426280156.0\n"
+"X-POOTLE-MTIME: 1428433381.0\n"
 
 #. Translators:
 #. Page path: /1-1/
@@ -1049,6 +1049,10 @@ msgid ""
 "my friends, but I don’t want to spend a lot of money.” Which of the "
 "following statements would be a good response? Select all that apply."
 msgstr ""
+"Un client vous dit : « je cherche une façon simple de rester en contact avec "
+"mes amis mais je ne veux pas dépenser beaucoup d'argent ». Parmi les "
+"options suivantes, lesquelles sont les plus appropriées ? Sélectionnez "
+"toutes les réponses qui vous semblent correctes."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1066,6 +1070,11 @@ msgid ""
 "statements would be the most appropriate response to this particular "
 "customer?"
 msgstr ""
+"Un client vous dit : « j'utilise Firefox sur mon ordinateur personnel et "
+"j'apprécie ce logiciel mais je ne savais pas qu'il y avait un système "
+"d'exploitation pour smartphone. Pourquoi ? ». Parmi les réponses suivantes, "
+"sélectionnez celle(s) qui vous semble(nt) appropriée(s) pour ce client. "
+"               "
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1085,6 +1094,8 @@ msgid ""
 "Not quite. A first time smartphone user will be most interested in ease of "
 "use."
 msgstr ""
+"Pas vraiment. Un utilisateur novice sera plus intéressé par l'ergonomie et "
+"la simplicité d'utilisation."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1102,7 +1113,7 @@ msgstr ""
 #: db-strings.txt:8466 db-strings.txt.py:8538 db-strings.txt.py:8574
 #: db-strings.txt:10608 db-strings.txt.py:10680 db-strings.txt.py:10716
 msgid "That’s right!"
-msgstr ""
+msgstr "Correct !              "
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1117,7 +1128,7 @@ msgstr ""
 #: db-strings.txt:1563 db-strings.txt.py:3813 db-strings.txt.py:6225
 #: db-strings.txt:8502 db-strings.txt.py:10644
 msgid "That’s right."
-msgstr ""
+msgstr "C'est juste."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1135,6 +1146,8 @@ msgid ""
 "What’s the best response to this customer’s objection? “How do I know this "
 "new phone is safe?”"
 msgstr ""
+"Dites quelle est la meilleure réponse à cette objection : « Comment savoir "
+"si ce nouveau téléphone est sûr ? »                 "
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1147,7 +1160,7 @@ msgstr ""
 #: db-strings.txt:1698 db-strings.txt.py:6387 db-strings.txt.py:8664
 #: db-strings.txt:10815
 msgid "Firefox Marketplace"
-msgstr ""
+msgstr "Firefox Marketplace"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1164,7 +1177,7 @@ msgstr ""
 #: db-strings.txt:1725 db-strings.txt.py:2823 db-strings.txt.py:4011
 #: db-strings.txt:6414 db-strings.txt.py:8691 db-strings.txt.py:10842
 msgid "Facebook"
-msgstr ""
+msgstr "Facebook"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1179,7 +1192,7 @@ msgstr ""
 #: db-strings.txt:1806 db-strings.txt.py:4632 db-strings.txt.py:6981
 #: db-strings.txt:9195 db-strings.txt.py:11319
 msgid "I’ve never used a smartphone before."
-msgstr ""
+msgstr "Je n'ai jamais utilisé de smartphone auparavant."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1194,7 +1207,7 @@ msgstr ""
 #: db-strings.txt:1815 db-strings.txt.py:4641 db-strings.txt.py:6990
 #: db-strings.txt:9204 db-strings.txt.py:11328
 msgid "I’m looking for the best value for my money."
-msgstr ""
+msgstr "Je cherche le meilleur rapport qualité-prix."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1209,7 +1222,7 @@ msgstr ""
 #: db-strings.txt:1824 db-strings.txt.py:4650 db-strings.txt.py:6999
 #: db-strings.txt:9213 db-strings.txt.py:11337
 msgid "I want a smartphone that is truly easy to use."
-msgstr ""
+msgstr "Je veux un smartphone qui soit vraiment simple à utiliser."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1224,7 +1237,7 @@ msgstr ""
 #: db-strings.txt:1833 db-strings.txt.py:4659 db-strings.txt.py:7008
 #: db-strings.txt:9222 db-strings.txt.py:11346
 msgid "I’m a Firefox fan."
-msgstr ""
+msgstr "Je suis un fan de Firefox."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1241,6 +1254,8 @@ msgid ""
 "backed by a global community working on your behalf and with your interests "
 "in mind."
 msgstr ""
+"Étant donné que Firefox OS est, comme Firefox, conçu par une communauté "
+"mondiale, vous pouvez être sûr qu'elle travaille dans votre intérêt."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1258,6 +1273,10 @@ msgid ""
 "expect — camera, email, apps, music, maps and more — at the most competitive"
 " prices."
 msgstr ""
+"Firefox OS fournit le meilleur rapport qualité-prix avec toutes les "
+"fonctionnalités que vous pouvez attendre d'un smartphone : un appareil "
+"photo, la gestion des e-mails, des applications, de la musique, des cartes "
+"et plus encore pour un prix compétitif."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -2891,15 +2910,15 @@ msgstr ""
 
 #: masterfirefoxos/base/templates/includes/version-language-switcher.html:3
 msgid "Language"
-msgstr ""
+msgstr "Langue"
 
 #: masterfirefoxos/base/templates/includes/version-language-switcher.html:15
 msgid "Firefox OS version"
-msgstr ""
+msgstr "Version de Firefox OS"
 
 #: masterfirefoxos/base/templates/includes/version-language-switcher.html:21
 msgid "Which version do I have?"
-msgstr ""
+msgstr "Quelle est ma version ?"
 
 #: masterfirefoxos/base/templates/includes/version-language-switcher.html:23
 msgid "Change"
@@ -2913,7 +2932,7 @@ msgstr ""
 
 #: masterfirefoxos/base/templates/includes/version-language-switcher.html:39
 msgid "The latest version available in {language} is {version}."
-msgstr ""
+msgstr "La dernière version disponible en {language} est {version}."
 
 #: masterfirefoxos/settings/base.py:189
 msgid "Afrikaans"
@@ -2929,51 +2948,51 @@ msgstr ""
 
 #: masterfirefoxos/settings/base.py:192
 msgid "Croatian"
-msgstr ""
+msgstr "Croate"
 
 #: masterfirefoxos/settings/base.py:193
 msgid "Czech"
-msgstr ""
+msgstr "Anglais"
 
 #: masterfirefoxos/settings/base.py:194
 msgid "English"
-msgstr ""
+msgstr "Anglais"
 
 #: masterfirefoxos/settings/base.py:195
 msgid "German"
-msgstr ""
+msgstr "Allemand"
 
 #: masterfirefoxos/settings/base.py:196
 msgid "Greek"
-msgstr ""
+msgstr "Grec"
 
 #: masterfirefoxos/settings/base.py:197
 msgid "French"
-msgstr ""
+msgstr "Français"
 
 #: masterfirefoxos/settings/base.py:198
 msgid "Hindi"
-msgstr ""
+msgstr "Hindi"
 
 #: masterfirefoxos/settings/base.py:199
 msgid "Hungarian"
-msgstr ""
+msgstr "Hongrois"
 
 #: masterfirefoxos/settings/base.py:200
 msgid "Italian"
-msgstr ""
+msgstr "Italien"
 
 #: masterfirefoxos/settings/base.py:201
 msgid "Japanese"
-msgstr ""
+msgstr "Japonais"
 
 #: masterfirefoxos/settings/base.py:202
 msgid "Polish"
-msgstr ""
+msgstr "Polonais"
 
 #: masterfirefoxos/settings/base.py:203
 msgid "Portuguese"
-msgstr ""
+msgstr "Portugais"
 
 #: masterfirefoxos/settings/base.py:204
 msgid "Serbian"
