@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-03-12 23:15+0000\n"
+"POT-Creation-Date: 2015-04-10 03:52+0000\n"
 "PO-Revision-Date: 2015-02-20 11:48:21\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2345,9 +2345,8 @@ msgstr "Czym jest funkcja Adaptive App Search?"
 #. Translators:
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:1464 db-strings.txt.py:1473 db-strings.txt.py:3714
-#: db-strings.txt:3723 db-strings.txt.py:6126 db-strings.txt.py:6135
-#: db-strings.txt:8403 db-strings.txt.py:8412 db-strings.txt.py:10545
-#: db-strings.txt:10554
+#: db-strings.txt:3723 db-strings.txt.py:6126 db-strings.txt.py:8403
+#: db-strings.txt:10545 db-strings.txt.py:10554
 msgid ""
 "Not quite. A first time smartphone user will be most interested in ease of "
 "use."
@@ -3487,8 +3486,8 @@ msgstr ""
 #. Page path: /2-0/take-the-challenge/
 #. Translators:
 #. Page path: /1-3/take-the-challenge/
-#: db-strings.txt:3291 db-strings.txt.py:5703 db-strings.txt.py:7980
-#: db-strings.txt:10158
+#: db-strings.txt:3291 db-strings.txt.py:5703 db-strings.txt.py:6135
+#: db-strings.txt:7980 db-strings.txt.py:10158
 msgid "There are more. Try again"
 msgstr ""
 
@@ -4326,7 +4325,7 @@ msgstr ""
 #. Translators:
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:7944 db-strings.txt.py:8124 db-strings.txt.py:8367
-#: db-strings.txt:10122 db-strings.txt.py:10302
+#: db-strings.txt:8412 db-strings.txt.py:10122 db-strings.txt.py:10302
 msgid "There are more. Try again."
 msgstr ""
 
@@ -5031,86 +5030,114 @@ msgid "Arabic"
 msgstr ""
 
 #: masterfirefoxos/settings/base.py:191
-msgid "Bengali"
+msgid "Bengali (Bangladesh)"
 msgstr ""
 
 #: masterfirefoxos/settings/base.py:192
-msgid "Croatian"
+msgid "Bengali (India)"
 msgstr ""
 
 #: masterfirefoxos/settings/base.py:193
-msgid "Czech"
+msgid "Croatian"
 msgstr ""
 
 #: masterfirefoxos/settings/base.py:194
-msgid "English"
+msgid "Czech"
 msgstr ""
 
 #: masterfirefoxos/settings/base.py:195
-msgid "German"
+msgid "Ewe"
 msgstr ""
 
 #: masterfirefoxos/settings/base.py:196
-msgid "Greek"
+msgid "English"
 msgstr ""
 
 #: masterfirefoxos/settings/base.py:197
-msgid "French"
+msgid "German"
 msgstr ""
 
 #: masterfirefoxos/settings/base.py:198
-msgid "Hindi"
+msgid "Greek"
 msgstr ""
 
 #: masterfirefoxos/settings/base.py:199
-msgid "Hungarian"
+msgid "Fulah"
 msgstr ""
 
 #: masterfirefoxos/settings/base.py:200
-msgid "Italian"
+msgid "French"
 msgstr ""
 
 #: masterfirefoxos/settings/base.py:201
-msgid "Japanese"
+msgid "Hausa"
 msgstr ""
 
 #: masterfirefoxos/settings/base.py:202
-msgid "Polish"
+msgid "Hindi"
 msgstr ""
 
 #: masterfirefoxos/settings/base.py:203
-msgid "Portuguese"
+msgid "Hungarian"
 msgstr ""
 
 #: masterfirefoxos/settings/base.py:204
-msgid "Serbian"
+msgid "Igbo"
 msgstr ""
 
 #: masterfirefoxos/settings/base.py:205
-msgid "Kiswahili"
+msgid "Italian"
 msgstr ""
 
 #: masterfirefoxos/settings/base.py:206
-msgid "Spanish"
+msgid "Japanese"
 msgstr ""
 
 #: masterfirefoxos/settings/base.py:207
-msgid "Tamil"
+msgid "Lingala"
 msgstr ""
 
 #: masterfirefoxos/settings/base.py:208
-msgid "Wolof"
+msgid "Polish"
 msgstr ""
 
 #: masterfirefoxos/settings/base.py:209
-msgid "Xhosa"
+msgid "Portuguese"
 msgstr ""
 
 #: masterfirefoxos/settings/base.py:210
-msgid "Pirate"
+msgid "Serbian"
 msgstr ""
 
 #: masterfirefoxos/settings/base.py:211
+msgid "Kiswahili"
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:212
+msgid "Spanish"
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:213
+msgid "Tamil"
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:214
+msgid "Wolof"
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:215
+msgid "Xhosa"
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:216
+msgid "Pirate"
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:217
+msgid "Yoruba"
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:218
 msgid "Zulu"
 msgstr ""
 

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-03-12 23:15+0000\n"
+"POT-Creation-Date: 2015-04-10 03:52+0000\n"
 "PO-Revision-Date: 2015-03-30 21:56+0000\n"
 "Last-Translator: Marcelo <mlcaraldi@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1629,7 +1629,6 @@ msgstr ""
 #. Page path: /1-4/take-the-challenge/
 #: db-strings.txt:1032 db-strings.txt.py:1041 db-strings.txt.py:3750
 #: db-strings.txt:3759 db-strings.txt.py:6162 db-strings.txt.py:6171
-#| msgid "<p>What is Adaptive App Search?</p>"
 msgid "Actually, all of these are true of Adaptive App Search!"
 msgstr ""
 "Na verdade, todos estão corretas sobre a pesquisa de aplicativos adaptável?"
@@ -1641,8 +1640,6 @@ msgstr ""
 #. Translators:
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:1050 db-strings.txt.py:8601 db-strings.txt.py:10743
-#| msgid ""
-#| "customer responses indicate an ideal candidate for Firefox  ect allat ly."
 msgid ""
 "Which of these customer responses indicate an ideal candidate for Firefox "
 "OS? Select all that apply."
@@ -1662,11 +1659,10 @@ msgstr ""
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:1059 db-strings.txt.py:3921 db-strings.txt.py:6333
 #: db-strings.txt:8610 db-strings.txt.py:10752
-#| msgid ""
-#| "customer responses indicate an ideal candidate for Firefox  ect allat ly."
 msgid ""
 "That’s right. All of these customers are ideal candidates for Firefox OS!"
-msgstr "Está certo. Todos estes clientes são candidatos ideais para Firefox OS!"
+msgstr ""
+"Está certo. Todos estes clientes são candidatos ideais para Firefox OS!"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1682,10 +1678,9 @@ msgstr "Está certo. Todos estes clientes são candidatos ideais para Firefox OS
 #: db-strings.txt:3939 db-strings.txt.py:6342 db-strings.txt.py:6351
 #: db-strings.txt:8619 db-strings.txt.py:8628 db-strings.txt.py:10761
 #: db-strings.txt:10770
-#| msgid ""
-#| "customer responses indicate an ideal candidate for Firefox  ect allat ly."
 msgid "In fact, ALL of these customers are ideal candidates for Firefox OS!"
-msgstr "Na verdade, todos esses clientes são candidatos ideais para Firefox OS!"
+msgstr ""
+"Na verdade, todos esses clientes são candidatos ideais para Firefox OS!"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1821,8 +1816,6 @@ msgstr ""
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:1230 db-strings.txt.py:3480 db-strings.txt.py:5892
 #: db-strings.txt:8169 db-strings.txt.py:10347
-#| msgid ""
-#| "s you that smartphones seem complicated.  What selling ture uld youad h?"
 msgid ""
 "A customer tells you that smartphones seem complicated. What selling feature"
 " should you lead with?"
@@ -1879,9 +1872,6 @@ msgstr ""
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:1266 db-strings.txt.py:3516 db-strings.txt.py:5928
 #: db-strings.txt:8205 db-strings.txt.py:10383
-#| msgid ""
-#| "s you that she’s ready to move up from her old feature ne. What g ture uld "
-#| "you lead with?"
 msgid ""
 "A customer tells you that she’s ready to move up from her old feature phone."
 " What selling feature should you lead with?"
@@ -1892,7 +1882,6 @@ msgstr ""
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
 #: db-strings.txt:1275
-#| msgid "<p>What is Adaptive App Search?</p>"
 msgid ""
 "That’s right. With a first time smart phone user, you should talk about its "
 "simplicity and features like Adaptive App Search."
@@ -1920,9 +1909,6 @@ msgstr "O que é uma Pesquisa de Aplicativos Adaptável?"
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:1302 db-strings.txt.py:3552 db-strings.txt.py:5964
 #: db-strings.txt:8241 db-strings.txt.py:10419
-#| msgid ""
-#| "s you that he uses Firefox as his desktop browser. With t ling ture uld  "
-#| "lead?"
 msgid ""
 "A customer tells you that he uses Firefox as his desktop browser. With what "
 "selling feature should you lead?"
@@ -2006,9 +1992,9 @@ msgid ""
 "statements would be the most appropriate response to this particular "
 "customer?"
 msgstr ""
-"Um cliente diz \"Eu uso o Firefox no meu computador de casa e amo, mas eu não "
-"sabia que eles tinham um smartphone. Por quê?\". Qual das afirmações abaixo "
-"é a resposta mais apropriada para este cliente em particular?"
+"Um cliente diz \"Eu uso o Firefox no meu computador de casa e amo, mas eu "
+"não sabia que eles tinham um smartphone. Por quê?\". Qual das afirmações "
+"abaixo é a resposta mais apropriada para este cliente em particular?"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -2045,8 +2031,6 @@ msgstr ""
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
 #: db-strings.txt:1410 db-strings.txt.py:3660 db-strings.txt.py:6072
-#| msgid ""
-#| "llowing statements about Adaptive App Search are true? ect all t ly."
 msgid ""
 "Which of the following statements about Adaptive App Search are true? Select"
 " all that apply."
@@ -2061,8 +2045,6 @@ msgstr ""
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
 #: db-strings.txt:1419 db-strings.txt.py:3669 db-strings.txt.py:6081
-#| msgid ""
-#| "pp Search, Firefox OS adapts to your needs better than any er ne."
 msgid ""
 "That’s right. Adaptive App Search anticipates your needs better than any "
 "other phone."
@@ -2075,8 +2057,6 @@ msgstr ""
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
 #: db-strings.txt:1428 db-strings.txt.py:3678
-#| msgid ""
-#| "pp Search, Firefox OS adapts to your needs better than any er ne."
 msgid ""
 "That’s not it. Three of these are correct. While Adaptive App Search "
 "anticipates your needs better than any other phone, it does NOT work just "
@@ -2091,8 +2071,6 @@ msgstr ""
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
 #: db-strings.txt:1437 db-strings.txt.py:3687
-#| msgid ""
-#| "pp Search, Firefox OS adapts to your needs better than any er ne."
 msgid ""
 "That’s quite not it. Three of these are correct. While Adaptive App Search "
 "anticipates your needs better than any other phone, it does NOT work just "
@@ -2119,7 +2097,6 @@ msgstr ""
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
 #: db-strings.txt:1455 db-strings.txt.py:3705 db-strings.txt.py:6117
-#| msgid "<p>What is Adaptive App Search?</p>"
 msgid ""
 "That’s right. A first time smartphone user will be most interested in ease "
 "of use."
@@ -2138,9 +2115,8 @@ msgstr ""
 #. Translators:
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:1464 db-strings.txt.py:1473 db-strings.txt.py:3714
-#: db-strings.txt:3723 db-strings.txt.py:6126 db-strings.txt.py:6135
-#: db-strings.txt:8403 db-strings.txt.py:8412 db-strings.txt.py:10545
-#: db-strings.txt:10554
+#: db-strings.txt:3723 db-strings.txt.py:6126 db-strings.txt.py:8403
+#: db-strings.txt:10545 db-strings.txt.py:10554
 msgid ""
 "Not quite. A first time smartphone user will be most interested in ease of "
 "use."
@@ -2165,9 +2141,6 @@ msgstr "Na verdade, este ícone representa o SMS—ou mensagens de texto."
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
 #: db-strings.txt:1518 db-strings.txt.py:3768 db-strings.txt.py:6180
-#| msgid ""
-#| "pp Search, you can use an app once, quickly and easily, hout ling it. yount "
-#| "to use it again later, it’s easy to  it to your reen."
 msgid ""
 "With Adaptive App Search, you can use an app once, quickly and easily, "
 "without installing it. If you want to use it again later, it’s easy to add "
@@ -2213,8 +2186,6 @@ msgstr "Abra o navegador Firefox."
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
 #: db-strings.txt:1554 db-strings.txt.py:3804 db-strings.txt.py:6216
-#| msgid ""
-#| " response to this customer’s objection? “I’ve heard there  not y s.”"
 msgid ""
 "What’s the best response to this customer’s objection? “I’ve heard there are"
 " not many apps.”"
@@ -2606,17 +2577,14 @@ msgstr ""
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
 #: db-strings.txt:2022 db-strings.txt.py:6675
-#| msgid ""
-#| "ives you the most value for your money. It has everything  ect in tphone "
-#| "amera, email, apps, music, maps and more — the t competitive .</p>"
 msgid ""
 "Firefox OS gives you the most value for your money, with everything you "
 "expect — camera, email, apps, music, maps and more — at the most competitive"
 " prices. Plus, Adaptive App Search feature makes it easy to find the apps "
 "you really need, when you need it."
 msgstr ""
-"O FirefoxOS representa o melhor valor para o seu dinheiro, com tudo que você "
-"espera - câmera, email, apps, música, mapas e muito mais - pelos preços "
+"O FirefoxOS representa o melhor valor para o seu dinheiro, com tudo que você"
+" espera - câmera, email, apps, música, mapas e muito mais - pelos preços "
 "mais competitivos. Ainda temos a Pesquisa de Aplicativos Adaptável que "
 "facilita sua vida na hora de encontrar o que você precisa, quando você "
 "precisa."
@@ -2633,9 +2601,6 @@ msgstr ""
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:2049 db-strings.txt.py:4362 db-strings.txt.py:6702
 #: db-strings.txt:8952 db-strings.txt.py:11103
-#| msgid ""
-#| "he easiest smartphone to get started with. Your favorite s are yeloaded  you"
-#| " can easily import your friends from ebook, too."
 msgid ""
 "Firefox OS is the easiest smartphone to get started with. Your favorite apps"
 " are already preloaded and you can easily import your friends from Facebook "
@@ -2678,7 +2643,6 @@ msgstr ""
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
 #: db-strings.txt:2085 db-strings.txt.py:6738
-#| msgid "arketplace has the cool games and apps your customers want."
 msgid ""
 "The Firefox Marketplace features thousands of apps for free or at very low "
 "prices."
@@ -2912,10 +2876,6 @@ msgstr ""
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
 #: db-strings.txt:2265 db-strings.txt.py:4569 db-strings.txt.py:6918
-#| msgid ""
-#| "as a robust security model that is battle-hardened from e than de of ting "
-#| "the Open Web. It is designed to protect  user and tem m iciousplications and"
-#| " content.</p>"
 msgid ""
 "A robust security model that is battle-hardened from more than a decade of "
 "supporting the Open Web."
@@ -2950,10 +2910,6 @@ msgstr ""
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
 #: db-strings.txt:2319 db-strings.txt.py:6972
-#| msgid ""
-#| "as a robust security model that is battle-hardened from e than de of ting "
-#| "the Open Web. It is designed to protect  user and tem m iciousplications and"
-#| " content.</p>"
 msgid ""
 "A robust security model that is battle-hardened from more than a decade of "
 "supporting the Open Web. Designed to protect the user and system from "
@@ -3043,9 +2999,6 @@ msgstr ""
 #. Page path: /1-3/key-features/
 #: db-strings.txt:2751 db-strings.txt.py:5154 db-strings.txt.py:7422
 #: db-strings.txt:9636
-#| msgid ""
-#| "s packed with the features that your customers expect in a hone. Itts ir es "
-#| "perfectly so they can keep pace with the ld und them.</p>"
 msgid ""
 "Firefox OS is packed with the features that your customers expect in a "
 "smartphone. It’s designed to fit their lives perfectly so they can keep pace"
@@ -3065,10 +3018,6 @@ msgstr ""
 #. Page path: /1-3/key-features/
 #: db-strings.txt:2868 db-strings.txt.py:5262 db-strings.txt.py:7521
 #: db-strings.txt:9735
-#| msgid ""
-#| "With built-in style filters for fun, creative shots, and lots of ways to "
-#| "share your photographs, the full-featured camera and photo gallery will have"
-#| " all your subjects smiling."
 msgid ""
 "With built-in style filters for fun, creative shots and lots of ways to "
 "share your photographs, the full-featured camera and photo gallery will have"
@@ -3100,10 +3049,6 @@ msgstr "Mensagens e e-mail"
 #. Page path: /1-3/frequently-asked-questions/
 #: db-strings.txt:3012 db-strings.txt.py:5424 db-strings.txt.py:7683
 #: db-strings.txt:9861
-#| msgid ""
-#| "Firefox OS has a robust security model that is battle-hardened from more "
-#| "than a decade of supporting the Open Web. It is designed to protect the user"
-#| " and system from malicious applications and content."
 msgid ""
 "Firefox OS has a robust security model that is battle-hardened from more "
 "than a decade of supporting the open Web. It is designed to protect the user"
@@ -3133,10 +3078,6 @@ msgstr "O que quer dizer que eu posso converter sites móveis em aplicativos?"
 #. Translators:
 #. Page path: /1-3/frequently-asked-questions/
 #: db-strings.txt:3048 db-strings.txt.py:7719 db-strings.txt.py:9897
-#| msgid ""
-#| ". However, many of the most popular Android and iOS apps  ually Webps t e a "
-#| "native “wrapper” to allow them to run prietary platforms. ore, many the same"
-#| " apps will be ilable ough Adaptive App rch.</p>"
 msgid ""
 "Not directly. However, many of the most popular Android and iOS apps are "
 "actually Web apps that have a native “wrapper” to allow them to run on "
@@ -3147,8 +3088,8 @@ msgstr ""
 "Não diretamente. Entretanto, muitos dos apps mais populares para Android e "
 "iOS são na verdade aplicativos Web \"empacotados\" com ferramentas que os "
 "fazem parecer nativos. Portanto, muitos dos mesmos apps estarão disponíveis "
-"na Pesquisa de Aplicativos Adaptável. Ferramentas como Emscripten e PhoneGap "
-"também podem converter outros apps (APK e/ou C++) para apps Web."
+"na Pesquisa de Aplicativos Adaptável. Ferramentas como Emscripten e PhoneGap"
+" também podem converter outros apps (APK e/ou C++) para apps Web."
 
 #. Translators:
 #. Page path: /1-3T/frequently-asked-questions/
@@ -3157,11 +3098,6 @@ msgstr ""
 #. Translators:
 #. Page path: /1-3/frequently-asked-questions/
 #: db-strings.txt:3066 db-strings.txt.py:7755 db-strings.txt.py:9933
-#| msgid ""
-#| "s built on Web technologies but has offline capabilities  all  ne’s e "
-#| "ctionalities. That means apps do not require active ernet nection ction "
-#| "unless the app must send or eive data to ther system ough the ernet continue"
-#| " working.</"
 msgid ""
 "Firefox OS is built on Web technologies but has offline capabilities for all"
 " the phone’s core functions. That means apps do not require an active "
@@ -3179,12 +3115,6 @@ msgstr ""
 #. Translators:
 #. Page path: /1-3/frequently-asked-questions/
 #: db-strings.txt:3084 db-strings.txt.py:7773 db-strings.txt.py:9951
-#| msgid ""
-#| "Consumers who need support with an app built for Firefox OS will be directed"
-#| " to the app developer for assistance. If the consumer experience with "
-#| "Firefox OS is negatively impacted by the support incident resulting from the"
-#| " app, Mozilla may recommend workarounds including uninstalling the app until"
-#| " the developer provides appropriate assistance."
 msgid ""
 "Customers who need support with an app built for Firefox OS will be directed"
 " to the app developer for assistance. If the customer experience with "
@@ -3222,9 +3152,6 @@ msgstr "Quais provedores de e-mail são suportados?"
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:3201 db-strings.txt.py:5613 db-strings.txt.py:7890
 #: db-strings.txt:10068
-#| msgid ""
-#| " ready to start selling Firefox OS to your customers? Put r wledge k and wer"
-#| " these questions to prove you have what es.</p>"
 msgid ""
 "Think you are almost ready to start selling Firefox OS to your customers? "
 "Put your knowledge to the test and answer these questions to prove you have "
@@ -3254,14 +3181,12 @@ msgstr "Prepare-se para vender!"
 #. Translators:
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:3264 db-strings.txt.py:7953 db-strings.txt.py:10131
-#| msgid ""
-#| "llowing apps is pre-loaded on every Firefox OS phone? ect all t ly."
 msgid ""
 "Which of the following apps is preloaded on every Firefox OS phone? Select "
 "all that apply."
 msgstr ""
-"Quais dos seguintes aplicativos são pré-instalados em todos os telefones com "
-"o Firefox OS? Selecione todas as opções válidas."
+"Quais dos seguintes aplicativos são pré-instalados em todos os telefones com"
+" o Firefox OS? Selecione todas as opções válidas."
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -3271,8 +3196,8 @@ msgstr ""
 #. Page path: /2-0/take-the-challenge/
 #. Translators:
 #. Page path: /1-3/take-the-challenge/
-#: db-strings.txt:3291 db-strings.txt.py:5703 db-strings.txt.py:7980
-#: db-strings.txt:10158
+#: db-strings.txt:3291 db-strings.txt.py:5703 db-strings.txt.py:6135
+#: db-strings.txt:7980 db-strings.txt.py:10158
 msgid "There are more. Try again"
 msgstr "Há mais. Tente novamente"
 
@@ -3286,7 +3211,6 @@ msgstr "Há mais. Tente novamente"
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:3309 db-strings.txt.py:5721 db-strings.txt.py:7998
 #: db-strings.txt:10176
-#| msgid "Open the Firefox browser."
 msgid "That’s right! This icon represents Messages —or text messaging."
 msgstr "Está certo! Este ícone representa mensagens ou mensagens de texto."
 
@@ -3469,9 +3393,6 @@ msgstr "Mensagens"
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:4263 db-strings.txt.py:6603 db-strings.txt.py:8844
-#| msgid ""
-#| "With Adaptive App Search, Firefox OS adapts to your needs better than any "
-#| "other phone."
 msgid ""
 "With Adaptive App Search, Firefox OS adapts to you needs better than any "
 "other phone."
@@ -3501,9 +3422,6 @@ msgstr ""
 #. Translators:
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:4353 db-strings.txt.py:8943 db-strings.txt.py:11094
-#| msgid ""
-#| "ives you the most value for your money. It has everything  ect in tphone "
-#| "amera, email, apps, music, maps and more — the t competitive .</p>"
 msgid ""
 "Firefox OS gives you the most value for your money, with everything you "
 "expect — Camera, Email, apps, Music and more — at the most competitive "
@@ -3520,9 +3438,6 @@ msgstr ""
 #. Translators:
 #. Page path: /1-3/customer-guide/
 #: db-strings.txt:5064 db-strings.txt.py:7341 db-strings.txt.py:9555
-#| msgid ""
-#| "ives you the most value for your money. It has everything  ect in tphone "
-#| "amera, email, apps, music, maps and more — the t competitive .</p>"
 msgid ""
 "<strong>Here’s what you can say:</strong> Firefox OS gives you the most "
 "value for your money. It has everything you expect in a smartphone — camera,"
@@ -3583,7 +3498,6 @@ msgstr ""
 #. Translators:
 #. Page path: /1-3/introduction/
 #: db-strings.txt:7116 db-strings.txt.py:9330
-#| msgid "<p>Keep the Web in Your Hands</p>"
 msgid "Keep the Web in your hands"
 msgstr "Mantenha a web em suas mãos"
 
@@ -3592,11 +3506,6 @@ msgstr "Mantenha a web em suas mãos"
 #. Translators:
 #. Page path: /1-3/introduction/
 #: db-strings.txt:7125 db-strings.txt.py:9339
-#| msgid ""
-#| "we’re out to make a difference, not a profit.><br>Firefox OS hones cked by a"
-#| " global community of usands of developers working ovate on your ers' behalf "
-#| "and e locally with their interests  needs mind. When tomers'  Firefox OS, "
-#| "they’re helping build a ghter ure for the Web  .</p>"
 msgid ""
 "At Mozilla, we’re out to make a difference, not a profit.   Firefox OS "
 "smartphones are backed by a global community of developers working to "
@@ -3622,12 +3531,6 @@ msgstr "Um telefone para todos"
 #. Translators:
 #. Page path: /1-3/introduction/
 #: db-strings.txt:7143 db-strings.txt.py:9357
-#| msgid ""
-#| " needs are always changing. Firefox OS smartphones adapt your ers' ds so y "
-#| "can live every moment to its fullest.<br/r/>Easy toe, y’re fect for "
-#| "newartphone users and full of  the features t tomers expect. ered by illa, "
-#| "Firefox OS ices are the right ice for one committed to uring that   remains "
-#| "a public resource ilable to ."
 msgid ""
 "Your customers want to get the most out of life, so why should they get any "
 "less from their mobile device?  Firefox OS devices are perfect for new "
@@ -3635,8 +3538,8 @@ msgid ""
 "expect. And because Firefox OS devices are powered by Mozilla, they’re the "
 "perfect choice for anyone committed to keeping the Web open for all."
 msgstr ""
-"Seus clientes querem aproveitar a vida ao máximo, então, porque ele deveriam "
-"ter um telefone que não permite isso? Os aparelhos com Firefox OS são "
+"Seus clientes querem aproveitar a vida ao máximo, então, porque ele deveriam"
+" ter um telefone que não permite isso? Os aparelhos com Firefox OS são "
 "perfeitos para iniciantes em smartphones - fáceis de usar e cheios de "
 "recursos que eles esperam. E como o Firefox OS é feito pela Mozilla, eles "
 "são a escolha perfeita para quem quer manter a Web aberta para todos."
@@ -3680,8 +3583,8 @@ msgstr ""
 "clientes entretidos em trânsito e conectados àquilo que amam.  "
 "<br><br>Câmera: Fotografe, edite e compartilhe. Exiba nossos aplicativos de "
 "câmera e galeria cheios de recursos, incluindo filtros de estilo, vídeos e "
-"mais. <br><br>Música: Com música na palma da mão, seus clientes verão como o "
-"Firefox OS é capaz de mantê-los entretidos e de fazê-los dançar nas ruas."
+"mais. <br><br>Música: Com música na palma da mão, seus clientes verão como o"
+" Firefox OS é capaz de mantê-los entretidos e de fazê-los dançar nas ruas."
 
 #. Translators:
 #. Page path: /2-0/demo-tips/
@@ -3696,11 +3599,6 @@ msgstr "Social e sincronização de contatos"
 #. Translators:
 #. Page path: /1-3/customer-guide/
 #: db-strings.txt:7278 db-strings.txt.py:9492
-#| msgid ""
-#| "Understanding your customer’s needs and knowing how to respond on the spot "
-#| "is critical to any sales opportunity. Check out the common customer segments"
-#| " below, and tap the bar to learn how to best respond to each of their unique"
-#| " needs."
 msgid ""
 "Understanding your customer’s needs and knowing how to respond on the spot "
 "is critical to any sales opportunity. Check out the common customer segments"
@@ -3716,11 +3614,6 @@ msgstr ""
 #. Translators:
 #. Page path: /1-3/customer-guide/
 #: db-strings.txt:7314 db-strings.txt.py:9528
-#| msgid ""
-#| "s the best choice for first time smartphone users. It is er easy , and pts "
-#| "to your needs better than any other ne, so you get e of t you d with s time "
-#| "searching. Plus, is packed with all theatures ’d expect,om camera, email, s,"
-#| " music, maps and more.</p>"
 msgid ""
 "<strong>Here’s what you can say:</strong> Firefox OS is the best choice for "
 "first time smartphone users. It’s super easy to use and adapts to your needs"
@@ -3728,8 +3621,8 @@ msgid ""
 "less time spent searching. Plus, it’s packed with all the features you’d "
 "expect — camera, email, apps, music, maps and more!"
 msgstr ""
-"<strong>Veja o que você pode dizer:</strong> O Firefox OS é a melhor escolha "
-"para os usuários novatos de smartphone. É super fácil de usar e adapta-se "
+"<strong>Veja o que você pode dizer:</strong> O Firefox OS é a melhor escolha"
+" para os usuários novatos de smartphone. É super fácil de usar e adapta-se "
 "às suas necessidades melhor do que qualquer outro telefone. Assim, você tem "
 "o que precisa com menos tempo de pesquisa. Além disso, ele contém todos os "
 "recursos que você espera, de câmera a e-mail, aplicativos, música, mapas e "
@@ -3740,10 +3633,6 @@ msgstr ""
 #. Translators:
 #. Page path: /1-3/customer-guide/
 #: db-strings.txt:7368 db-strings.txt.py:9582
-#| msgid ""
-#| "s the easiest smartphone to get you started. Adaptive App rch ps  finde ngs "
-#| "you need simply — and instantly. The r interface so uitive, you l be e to "
-#| "quickly discover and nload your orite apps sou’re ready to </p>"
 msgid ""
 "<strong>Here’s what you can say:</strong> Firefox OS is the easiest "
 "smartphone to get you started.  The user interface is so intuitive, you’ll "
@@ -3760,11 +3649,6 @@ msgstr ""
 #. Translators:
 #. Page path: /1-3/customer-guide/
 #: db-strings.txt:7395 db-strings.txt.py:9609
-#| msgid ""
-#| "and love Firefox, you’ll love Firefox OS. Firefox OS rtphones  irely based, "
-#| "bringing the best of the Web to r phone. Plus, efox OS designed a munity "
-#| "dedicated to ping the Web accessible all. When  choose efox OS,  have  full "
-#| "power of the Web in your ds.</p>"
 msgid ""
 "<strong>Here’s what you can say:</strong> If you know and love Firefox, "
 "you’ll love Firefox OS.  Firefox OS smartphones are entirely HTML5-based, "
@@ -3774,8 +3658,8 @@ msgid ""
 msgstr ""
 "<strong>Veja o que você pode dizer:</strong> Se você conhece e adora o "
 "Firefox, vai adorar o Firefox OS. Os smartphones Firefox OS são totalmente "
-"baseados em HTML5, trazendo o melhor da Web para o seu telefone. Além disso, "
-"o Firefox OS é desenvolvido por uma comunidade dedicada a manter a Web "
+"baseados em HTML5, trazendo o melhor da Web para o seu telefone. Além disso,"
+" o Firefox OS é desenvolvido por uma comunidade dedicada a manter a Web "
 "acessível para todos. Quando você escolhe o Firefox OS, toda a potência da "
 "Web está em suas mãos."
 
@@ -3784,10 +3668,6 @@ msgstr ""
 #. Translators:
 #. Page path: /1-3/key-features/
 #: db-strings.txt:7449 db-strings.txt.py:9663
-#| msgid ""
-#| "Your go-to source for the best apps for Firefox OS. Browse tens of thousands"
-#| " of free and paid apps in multiple categories, including games, utilities, "
-#| "music, travel, sports, and more."
 msgid ""
 "Your go-to source for the best apps on Firefox OS. Browse multiple "
 "categories, including games, utilities, music, travel, sports and more."
@@ -3801,17 +3681,13 @@ msgstr ""
 #. Translators:
 #. Page path: /1-3/key-features/
 #: db-strings.txt:7467 db-strings.txt.py:9681
-#| msgid ""
-#| "The fast, smart, safe way to get the best of the Web. Use the URL bar to "
-#| "enter websites, perform searches and access your browsing history. Plus, "
-#| "tabs let you multitask by browsing multiple pages simultaneously."
 msgid ""
 "Experience the fast, smart, safe way to get the best of the Web. Use the "
 "Search Bar to visit websites, perform searches and access apps from the "
 "Marketplace. Multitask with tabs and browse multiple pages at the same time"
 msgstr ""
-"Experimente a maneira mais rápida, segura e inteligente de aproveitar a Web. "
-"Use a barra de pesquisa para visitar sites, fazer buscar e acessar apps do "
+"Experimente a maneira mais rápida, segura e inteligente de aproveitar a Web."
+" Use a barra de pesquisa para visitar sites, fazer buscar e acessar apps do "
 "Marketplace. Trabalhe com várias abas e páginas ao mesmo tempo."
 
 #. Translators:
@@ -3819,15 +3695,12 @@ msgstr ""
 #. Translators:
 #. Page path: /1-3/key-features/
 #: db-strings.txt:7485 db-strings.txt.py:9699
-#| msgid ""
-#| "Stay connected, with easy access to your friends and colleagues from "
-#| "wherever you are."
 msgid ""
 "Stay connected with friends and colleagues on your favorite social networks "
 "from wherever your are.."
 msgstr ""
-"Fique conectado com amigos e colegas em suas redes sociais favoritas de onde "
-"quer que esteja."
+"Fique conectado com amigos e colegas em suas redes sociais favoritas de onde"
+" quer que esteja."
 
 #. Translators:
 #. Page path: /2-0/key-features/
@@ -3869,10 +3742,6 @@ msgstr ""
 #. Translators:
 #. Page path: /1-3/key-features/
 #: db-strings.txt:7557 db-strings.txt.py:9771
-#| msgid ""
-#| "Play it all from your phone, or online via Youtube. Browse and play your "
-#| "music collection by album or artist, rate songs and create playlists for "
-#| "your favorites."
 msgid ""
 "Play it all from your phone, or online via YouTube. Browse and play your "
 "music collection by album or artist, rate songs and create playlists for "
@@ -3887,10 +3756,6 @@ msgstr ""
 #. Translators:
 #. Page path: /1-3/key-features/
 #: db-strings.txt:7575 db-strings.txt.py:9789
-#| msgid ""
-#| "Stay connected to your friends and colleagues wherever you are. It's easy to"
-#| " set up multiple email accounts, with support for the most common Exchange, "
-#| "SMTP or IMAP email providers."
 msgid ""
 "Stay connected easily and conveniently. Set up multiple email accounts, with"
 " support for the most common Exchange, POP3 or IMAP email providers."
@@ -3912,9 +3777,9 @@ msgid ""
 "Location tracking helps you find your device if you lose it. Remote wipe and"
 " lock capabilities help you keep your personal information safe."
 msgstr ""
-"O mapeamento da localização ajuda você encontrar seu dispositivo caso você o "
-"perca. Com a capacidade de limpar e bloquear dados remotamente, você mantém "
-"sua informação pessoal segura."
+"O mapeamento da localização ajuda você encontrar seu dispositivo caso você o"
+" perca. Com a capacidade de limpar e bloquear dados remotamente, você mantém"
+" sua informação pessoal segura."
 
 #. Translators:
 #. Page path: /2-0/key-features/
@@ -3937,12 +3802,6 @@ msgstr ""
 #. Translators:
 #. Page path: /1-3/frequently-asked-questions/
 #: db-strings.txt:7665 db-strings.txt.py:9843
-#| msgid ""
-#| "App developers around the world are committed to Firefox OS and tens of "
-#| "thousands of free and paid applications will be available at launch. The "
-#| "growing list includes leading app developers like Accuweather, Airbnb, Box, "
-#| "Cut the Rope, EA Games, Facebook, Nokia HERE&reg;, MTV Brasil, Pulse News, "
-#| "SoundCloud, SporTV, Time Out and Twitter."
 msgid ""
 "App developers around the world are committed to Firefox OS and tens of "
 "hundreds of free applications will be available at launch. The growing list "
@@ -3952,8 +3811,8 @@ msgstr ""
 "Desenvolvedores de aplicativos de todo o mundo estão comprometidos com o "
 "Firefox OS e centenas de aplicativos pagos e gratuitos estarão disponíveis "
 "no lançamento. A lista crescente inclui desenvolvedores de aplicativos "
-"líderes como Facebook, YouTube, Twitter, Pinterest e ConnectA2 assim como um "
-"app de lanterna e calculadora."
+"líderes como Facebook, YouTube, Twitter, Pinterest e ConnectA2 assim como um"
+" app de lanterna e calculadora."
 
 #. Translators:
 #. Page path: /2-0/frequently-asked-questions/
@@ -3969,8 +3828,8 @@ msgid ""
 "for people to get the exact content they want, when they want it."
 msgstr ""
 "Os usuários podem criar marcadores para qualquer site que visitem "
-"diretamente na homescreen para acessar aquele site diretamente de lá. Também "
-"é possível utilizar qualquer termo de pesquisa diretamente na tela inicial "
+"diretamente na homescreen para acessar aquele site diretamente de lá. Também"
+" é possível utilizar qualquer termo de pesquisa diretamente na tela inicial "
 "para usar um app apenas uma vez. A criação e a utilização desses apps sob "
 "demanda colocam o usuário em completo controle do modo como utilizam seu "
 "smartphone e faz com que as pessoas tenham o conteúdo que querem exatamente "
@@ -3996,8 +3855,8 @@ msgid ""
 " create and use group chats and receive notifications of new messages, even "
 "when the app is closed."
 msgstr ""
-"Não diretamente, mas o aplicativo ConnectA2 permite a você enviarr e receber "
-"mensagens instantaneas, emoticons, imagens, videos e arquivos de audio de "
+"Não diretamente, mas o aplicativo ConnectA2 permite a você enviarr e receber"
+" mensagens instantaneas, emoticons, imagens, videos e arquivos de audio de "
 "graça. Você pode também criar e utilizar grupos de chat e receber "
 "notificações de novas mensagens, mesmo o aplicativo estando fechado."
 
@@ -4019,8 +3878,8 @@ msgid ""
 "like Twitter and Facebook, and for awesome local content from the best Web "
 "developers in your region."
 msgstr ""
-"O Firefox Marketplace é o nossa fonte de apps grátis, incluindo os favoritos "
-"como o Twitter e o Facebook, e o conteúdos locais mais legais dos melhores "
+"O Firefox Marketplace é o nossa fonte de apps grátis, incluindo os favoritos"
+" como o Twitter e o Facebook, e o conteúdos locais mais legais dos melhores "
 "desenvolvedores Web da sua região                "
 
 #. Translators:
@@ -4052,13 +3911,6 @@ msgstr "Aceite o Desafio"
 #. Translators:
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:7908 db-strings.txt.py:10086
-#| msgid ""
-#| "worked through the questions and all of the content, then  have  ics ch the "
-#| "needs of Firefox OS to your customers.><br>Easy to , a efox OS hone is "
-#| "perfect for new rtphone users and full of  the tures that tomers t and "
-#| "d.<br><br>And it is powered by illa, makingrefox OS the ht ice for one "
-#| "committed to ensuring t the power of  Web remains the ds of users "
-#| "rywhere!</p>"
 msgid ""
 "If you’ve worked through all of the questions and content, you’re ready to "
 "match Firefox OS to the needs of your customers.  Easy to use, a Firefox OS "
@@ -4080,8 +3932,6 @@ msgstr ""
 #. Translators:
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:7917 db-strings.txt.py:10095
-#| msgid ""
-#| "customer responses indicate an ideal candidate for Firefox  ect allat ly."
 msgid ""
 "What are some examples of the kind of personalization and control that "
 "Firefox OS allows?  Select all that apply."
@@ -4094,8 +3944,6 @@ msgstr ""
 #. Translators:
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:7926 db-strings.txt.py:10104
-#| msgid ""
-#| "llowing apps is pre-loaded on every Firefox OS phone? ect all t ly."
 msgid ""
 "That’s right! All of these things are possible with a Firefox OS phone."
 msgstr ""
@@ -4106,8 +3954,6 @@ msgstr ""
 #. Translators:
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:7935 db-strings.txt.py:10113
-#| msgid ""
-#| "llowing apps is pre-loaded on every Firefox OS phone? ect all t ly."
 msgid "Actually, all of these things are possible with a Firefox OS phone."
 msgstr ""
 "Na verdade, todas essas coisas são possíveis com um telefone Firefox OS."
@@ -4117,7 +3963,7 @@ msgstr ""
 #. Translators:
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:7944 db-strings.txt.py:8124 db-strings.txt.py:8367
-#: db-strings.txt:10122 db-strings.txt.py:10302
+#: db-strings.txt:8412 db-strings.txt.py:10122 db-strings.txt.py:10302
 msgid "There are more. Try again."
 msgstr "Há mais. Tente novamente."
 
@@ -4126,7 +3972,6 @@ msgstr "Há mais. Tente novamente."
 #. Translators:
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:8070 db-strings.txt.py:10248
-#| msgid "Open the Firefox browser."
 msgid "That’s right. This icon represents the Firefox Browser."
 msgstr "Está certo. Este ícone representa o navegador Firefox."
 
@@ -4136,7 +3981,6 @@ msgstr "Está certo. Este ícone representa o navegador Firefox."
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:8079 db-strings.txt.py:8088 db-strings.txt.py:10257
 #: db-strings.txt:10266
-#| msgid "Open the Firefox browser."
 msgid "Actually, this icon represents the Firefox Browser."
 msgstr "Na verdade, este ícone representa o navegador Firefox."
 
@@ -4154,8 +3998,6 @@ msgstr ""
 #. Translators:
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:8106 db-strings.txt.py:10284
-#| msgid ""
-#| "llowing apps is pre-loaded on every Firefox OS phone? ect all t ly."
 msgid ""
 "That’s right! All of these things can be shared via Bluetooth with your "
 "Firefox OS phone."
@@ -4168,8 +4010,6 @@ msgstr ""
 #. Translators:
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:8115 db-strings.txt.py:10293
-#| msgid ""
-#| "llowing apps is pre-loaded on every Firefox OS phone? ect all t ly."
 msgid ""
 "Actually, all of these things can be shared via Bluetooth with your Firefox "
 "OS phone.."
@@ -4182,7 +4022,6 @@ msgstr ""
 #. Translators:
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:8151 db-strings.txt.py:10329
-#| msgid "<p>What is Adaptive App Search?</p>"
 msgid "Actually, all of these are true about Firefox OS."
 msgstr "Na verdade, todas são verdadeiras sobre o Firefox OS."
 
@@ -4191,7 +4030,6 @@ msgstr "Na verdade, todas são verdadeiras sobre o Firefox OS."
 #. Translators:
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:8160 db-strings.txt.py:10338
-#| msgid "<p>What is Adaptive App Search?</p>"
 msgid "Actually, all of these are true about Firefox OS"
 msgstr "Na verdade, todas são verdadeiras sobre o Firefox OS"
 
@@ -4200,7 +4038,6 @@ msgstr "Na verdade, todas são verdadeiras sobre o Firefox OS"
 #. Translators:
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:8214 db-strings.txt.py:10392
-#| msgid "<p>What is Adaptive App Search?</p>"
 msgid ""
 "That’s right. With a first time smart phone user, you should talk about its "
 "simplicity and features including ways to control their experience and "
@@ -4216,16 +4053,13 @@ msgstr ""
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:8223 db-strings.txt.py:8232 db-strings.txt.py:10401
 #: db-strings.txt:10410
-#| msgid ""
-#| "Actually, with a first time smart phone user, you should talk about its "
-#| "simplicity and features like Adaptive App Search."
 msgid ""
 "Actually, with a first time smart phone user, you should talk about its "
 "simplicity and features including ways to control their experience and "
 "personalize their phones."
 msgstr ""
-"Na verdade, com um usuário iniciante, você deve falar sobre sua simplicidade "
-"e recursos que incluem maneiras de controlar e customizar a experiência "
+"Na verdade, com um usuário iniciante, você deve falar sobre sua simplicidade"
+" e recursos que incluem maneiras de controlar e customizar a experiência "
 "dele com o telefone."
 
 #. Translators:
@@ -4264,9 +4098,9 @@ msgid ""
 " set of Firefox OS, including social apps that are preloaded on the phone, "
 "all at great value."
 msgstr ""
-"Está certo. Com este cliente, destaque o grande valor e conjunto completo de "
-"recursos do Firefox OS, incluindo aplicativos sociais que são "
-"pré-instalados no telefone, todos de grande valor."
+"Está certo. Com este cliente, destaque o grande valor e conjunto completo de"
+" recursos do Firefox OS, incluindo aplicativos sociais que são pré-"
+"instalados no telefone, todos de grande valor."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -4279,9 +4113,9 @@ msgid ""
 "feature set of Firefox OS, including social apps that are preloaded on the "
 "phone, all at great value."
 msgstr ""
-"Não é isso. Com este cliente, destaque o grande valor e conjunto completo de "
-"recursos do Firefox OS, incluindo aplicativos sociais que são "
-"pré-instalados no telefone, todos de grande valor."
+"Não é isso. Com este cliente, destaque o grande valor e conjunto completo de"
+" recursos do Firefox OS, incluindo aplicativos sociais que são pré-"
+"instalados no telefone, todos de grande valor."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -4296,8 +4130,8 @@ msgid ""
 msgstr ""
 "Está certo. Este cliente parece ser um fã do Firefox. Fale sobre como os "
 "telefones Firefox OS, feitos pela Mozilla, mostram um compromisso de manter "
-"o poder da web nas mãos do povo. Todas estas declarações são verdadeiras, só "
-"que essa é a melhor resposta para este cliente em particular."
+"o poder da web nas mãos do povo. Todas estas declarações são verdadeiras, só"
+" que essa é a melhor resposta para este cliente em particular."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -4312,8 +4146,8 @@ msgid ""
 "the people."
 msgstr ""
 "Todas essas afirmações são verdadeiras, mas apenas uma é a melhor resposta "
-"para este cliente especial, que parece ser um fã do Firefox. Fale sobre como "
-"telefones Firefox OS, feitas pela Mozilla, ajudam a manter o poder da web "
+"para este cliente especial, que parece ser um fã do Firefox. Fale sobre como"
+" telefones Firefox OS, feitas pela Mozilla, ajudam a manter o poder da web "
 "nas mãos do povo."
 
 #. Translators:
@@ -4343,15 +4177,14 @@ msgid ""
 "Actually, the Find My Device helps you do all these things through your "
 "Firefox Account."
 msgstr ""
-"Na verdade, o Encontre Meu Dispositivo ajuda você a fazer todas essas coisas "
-"através da sua conta Firefox"
+"Na verdade, o Encontre Meu Dispositivo ajuda você a fazer todas essas coisas"
+" através da sua conta Firefox"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #. Translators:
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:8394 db-strings.txt.py:10536
-#| msgid "<p>What is Adaptive App Search?</p>"
 msgid ""
 "That’s right. A first-time smartphone user will be most interested in ease "
 "of use."
@@ -4368,15 +4201,14 @@ msgid ""
 "Which of the following statements are true of the Cost Control app that is "
 "preloaded on Firefox OS?"
 msgstr ""
-"Qual das afirmações abaixo está correta sobre o app Controle de Custos que é "
-"pré-carregado no Firefox OS?"
+"Qual das afirmações abaixo está correta sobre o app Controle de Custos que é"
+" pré-carregado no Firefox OS?"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #. Translators:
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:8430 db-strings.txt.py:10572
-#| msgid "<p>What is Adaptive App Search?</p>"
 msgid "That’s right. All of these are true of the Cost Control app!"
 msgstr "Correto! Todas essas sobre o app Controle de Custo estão corretas!"
 
@@ -4386,7 +4218,6 @@ msgstr "Correto! Todas essas sobre o app Controle de Custo estão corretas!"
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:8439 db-strings.txt.py:8448 db-strings.txt.py:10581
 #: db-strings.txt:10590
-#| msgid "<p>What is Adaptive App Search?</p>"
 msgid "Actually, all of these are true of the Cost Control app!"
 msgstr "Na verdade, todas essas estão corretas."
 
@@ -4420,8 +4251,6 @@ msgstr ""
 #. Translators:
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:8493 db-strings.txt.py:10635
-#| msgid ""
-#| " response to this customer’s objection? “I’ve heard there  not y s.”"
 msgid ""
 "What’s the best response to this customer’s objection? “I’ve heard there "
 "aren’t many apps available.”"
@@ -4434,8 +4263,6 @@ msgstr ""
 #. Translators:
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:8529 db-strings.txt.py:10671
-#| msgid ""
-#| " response to this customer’s objection?<br>“I’ve never rd of efox nes.”"
 msgid ""
 "What’s the best response to this customer’s objection? “I’ve never heard of "
 "Firefox OS phones.\""
@@ -4470,7 +4297,6 @@ msgstr "Crie seus próprios toques de chamada"
 #. Translators:
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:8817 db-strings.txt.py:10968
-#| msgid "Contacts"
 msgid "Share contacts"
 msgstr "Compartilhar contatos"
 
@@ -4493,9 +4319,6 @@ msgstr "Compartilhe vídeos"
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:8853
-#| msgid ""
-#| "x Marketplace and dozens of preloaded apps, like email, s, ebook, ra, ic, "
-#| "and more, Firefox OS is packed with the tures ’d expect in tphone."
 msgid ""
 "With the Firefox Marketplace, the best preloaded apps and an awesome user "
 "experience, Firefox OS is packed with the features that users are looking "
@@ -4508,9 +4331,6 @@ msgstr ""
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:8871
-#| msgid ""
-#| "lt by Firefox, you can feel confident that Firefox OS is ked by al "
-#| "munityrking on your behalf and with your erests in mind."
 msgid ""
 "Since it’s made by Firefox, Firefox OS is backed by a global community "
 "working on your behalf and with your interests in mind."
@@ -4538,9 +4358,6 @@ msgstr ""
 #. Translators:
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:8898 db-strings.txt.py:11049
-#| msgid ""
-#| "he easiest smartphone to get started with. Your favorite s are yeloaded  you"
-#| " can easily import your friends from ebook, too."
 msgid ""
 "Firefox OS is the easiest smartphone to get started with. Your favorite apps"
 " are already preloaded and you can easily import your friends from Facebook,"
@@ -4582,7 +4399,6 @@ msgstr ""
 #. Translators:
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:8988 db-strings.txt.py:11139
-#| msgid "arketplace has the cool games and apps your customers want."
 msgid "The Firefox Marketplace features free apps!"
 msgstr "O Firefox Marketplace oferece aplicativos gratuitos!"
 
@@ -4734,10 +4550,6 @@ msgstr ""
 #. Translators:
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:9186 db-strings.txt.py:11310
-#| msgid ""
-#| "as a robust security model that is battle-hardened from e than de of ting "
-#| "the Open Web. It is designed to protect  user and tem m iciousplications and"
-#| " content.</p>"
 msgid ""
 "It features a robust security model that is battle-hardened from more than a"
 " decade supporting the Open Web. Designed to protect the user and system "
@@ -4763,8 +4575,8 @@ msgid ""
 "<li><em>1.3.0.0</em> means you have version 1.3</li> <li><em>2.0.0.0</em> "
 "means you have version 2.0</li> </ul> </li> </ol>"
 msgstr ""
-"<ol><li>Abra o app de Configurações no seu aparelho.</li><li>Role para baixo "
-"e selecione <strong>Informações do aparelho</strong>.</li><li>Na tela de "
+"<ol><li>Abra o app de Configurações no seu aparelho.</li><li>Role para baixo"
+" e selecione <strong>Informações do aparelho</strong>.</li><li>Na tela de "
 "informações do aparelho, selecione <strong>Mais informações</strong> e "
 "procure pelos números da versão em <em>Versão do SO</em> no topo da "
 "tela.<ul><li><em>Firefox OS 1.0.1.0</em> significa que você tem a versão "
@@ -4793,8 +4605,8 @@ msgid ""
 "available under a <a href=\"https://www.mozilla.org/foundation/licensing"
 "/website-content/\">Creative Commons license</a>."
 msgstr ""
-"Parte deste conteúdo são ©1998–{0} de contribuidores individuais. O conteúdo "
-"está disponível sob a licença <a "
+"Parte deste conteúdo são ©1998–{0} de contribuidores individuais. O conteúdo"
+" está disponível sob a licença <a "
 "href=\"https://www.mozilla.org/foundation/licensing/website-"
 "content/\">Creative Commons</a>."
 
@@ -4891,86 +4703,116 @@ msgid "Arabic"
 msgstr "Árabe"
 
 #: masterfirefoxos/settings/base.py:191
-msgid "Bengali"
-msgstr "Bengali"
+msgid "Bengali (Bangladesh)"
+msgstr ""
 
 #: masterfirefoxos/settings/base.py:192
+#, fuzzy
+#| msgid "Bengali"
+msgid "Bengali (India)"
+msgstr "Bengali"
+
+#: masterfirefoxos/settings/base.py:193
 msgid "Croatian"
 msgstr "Croata"
 
-#: masterfirefoxos/settings/base.py:193
+#: masterfirefoxos/settings/base.py:194
 msgid "Czech"
 msgstr "Tcheco"
 
-#: masterfirefoxos/settings/base.py:194
+#: masterfirefoxos/settings/base.py:195
+msgid "Ewe"
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:196
 msgid "English"
 msgstr "Inglês"
 
-#: masterfirefoxos/settings/base.py:195
+#: masterfirefoxos/settings/base.py:197
 msgid "German"
 msgstr "Alemão"
 
-#: masterfirefoxos/settings/base.py:196
+#: masterfirefoxos/settings/base.py:198
 msgid "Greek"
 msgstr "Grego"
 
-#: masterfirefoxos/settings/base.py:197
+#: masterfirefoxos/settings/base.py:199
+msgid "Fulah"
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:200
 msgid "French"
 msgstr "Francês"
 
-#: masterfirefoxos/settings/base.py:198
+#: masterfirefoxos/settings/base.py:201
+msgid "Hausa"
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:202
 msgid "Hindi"
 msgstr "Hindi"
 
-#: masterfirefoxos/settings/base.py:199
+#: masterfirefoxos/settings/base.py:203
 msgid "Hungarian"
 msgstr "Húngaro"
 
-#: masterfirefoxos/settings/base.py:200
+#: masterfirefoxos/settings/base.py:204
+msgid "Igbo"
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:205
 msgid "Italian"
 msgstr "Italiano"
 
-#: masterfirefoxos/settings/base.py:201
+#: masterfirefoxos/settings/base.py:206
 msgid "Japanese"
 msgstr "Japonês"
 
-#: masterfirefoxos/settings/base.py:202
+#: masterfirefoxos/settings/base.py:207
+msgid "Lingala"
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:208
 msgid "Polish"
 msgstr "Polonês"
 
-#: masterfirefoxos/settings/base.py:203
+#: masterfirefoxos/settings/base.py:209
 msgid "Portuguese"
 msgstr "Português"
 
-#: masterfirefoxos/settings/base.py:204
+#: masterfirefoxos/settings/base.py:210
 msgid "Serbian"
 msgstr "Sérvio"
 
-#: masterfirefoxos/settings/base.py:205
+#: masterfirefoxos/settings/base.py:211
 msgid "Kiswahili"
 msgstr "Kiswahili"
 
-#: masterfirefoxos/settings/base.py:206
+#: masterfirefoxos/settings/base.py:212
 msgid "Spanish"
 msgstr "Espanhol"
 
-#: masterfirefoxos/settings/base.py:207
+#: masterfirefoxos/settings/base.py:213
 msgid "Tamil"
 msgstr "Tâmil"
 
-#: masterfirefoxos/settings/base.py:208
+#: masterfirefoxos/settings/base.py:214
 msgid "Wolof"
 msgstr "Wolof"
 
-#: masterfirefoxos/settings/base.py:209
+#: masterfirefoxos/settings/base.py:215
 msgid "Xhosa"
 msgstr "Xhosa"
 
-#: masterfirefoxos/settings/base.py:210
+#: masterfirefoxos/settings/base.py:216
 msgid "Pirate"
 msgstr "Pirata"
 
-#: masterfirefoxos/settings/base.py:211
+#: masterfirefoxos/settings/base.py:217
+msgid "Yoruba"
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:218
 msgid "Zulu"
 msgstr "Zulu"
 

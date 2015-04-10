@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-03-12 23:15+0000\n"
+"POT-Creation-Date: 2015-04-10 03:52+0000\n"
 "PO-Revision-Date: 2015-03-19 17:43+0000\n"
 "Last-Translator: Michal <michal.stanke@mikk.cz>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -114,7 +114,6 @@ msgstr ""
 #. Translators:
 #. Page path: /1-4/introduction/
 #: db-strings.txt:51 db-strings.txt.py:2391 db-strings.txt.py:4731
-#| msgid "<p>The Adaptive Phone</p>"
 msgid "The Adaptive Phone"
 msgstr "Adaptivní telefon"
 
@@ -123,10 +122,6 @@ msgstr "Adaptivní telefon"
 #. Translators:
 #. Page path: /1-3T/introduction/
 #: db-strings.txt:60 db-strings.txt.py:2400
-#| msgid ""
-#| "dapts to the needs of customers better than any other ><br>Adaptive  rch "
-#| "serves up information on any subject  gives r tomers more of tey’re looking "
-#| "for, exactly when y need it. s lets m make the most of ry ent.</p>"
 msgid ""
 "Firefox OS adapts to the needs of customers better than any other phone by "
 "anticipating their needs and instantly delivering the information they want."
@@ -143,7 +138,6 @@ msgstr ""
 #. Translators:
 #. Page path: /1-3T/introduction/
 #: db-strings.txt:69 db-strings.txt.py:2409
-#| msgid "<p>Have It All</p>"
 msgid "Have It All"
 msgstr "Získejte vše"
 
@@ -176,7 +170,6 @@ msgstr ""
 #. Translators:
 #. Page path: /1-4/introduction/
 #: db-strings.txt:87 db-strings.txt.py:2427 db-strings.txt.py:4767
-#| msgid "<p>Keep the Web in Your Hands</p>"
 msgid "Keep the Web in Your Hands"
 msgstr "Držte web ve vašich rukou"
 
@@ -284,7 +277,6 @@ msgstr ""
 #. Page path: /1-3/demo-tips/
 #: db-strings.txt:141 db-strings.txt.py:2472 db-strings.txt.py:4821
 #: db-strings.txt:7161 db-strings.txt.py:9375
-#| msgid "Demonstrations that matter"
 msgid "Demonstrations That Matter"
 msgstr "Názorné ukázky, které stojí za to"
 
@@ -405,7 +397,6 @@ msgstr "Zůstaňte připojeni"
 #. Translators:
 #. Page path: /1-4/demo-tips/
 #: db-strings.txt:222 db-strings.txt.py:4902
-#| msgid "It’s easier than ever to stay connected with Firefox OS."
 msgid "It’s easier than ever to stay connected with Firefox OS."
 msgstr "Být v kontaktu je s telefonem Firefox OS mnohem snadnější."
 
@@ -471,7 +462,6 @@ msgstr "Marketplace"
 #. Translators:
 #. Page path: /1-4/demo-tips/
 #: db-strings.txt:258 db-strings.txt.py:4938
-#| msgid "arketplace has the cool games and apps your customers want."
 msgid "Firefox Marketplace has the cool games and apps your customers want."
 msgstr ""
 "Firefox Marketplace nabízí báječné hry a aplikace, které vaši zákazníci "
@@ -703,7 +693,6 @@ msgstr ""
 #. Page path: /1-3/customer-guide/
 #: db-strings.txt:393 db-strings.txt.py:2679 db-strings.txt.py:5073
 #: db-strings.txt:7350 db-strings.txt.py:9564
-#| msgid "<p>The Uncertain Upgrader</p>"
 msgid "The Uncertain Upgrader"
 msgstr "Člověk, který chce přejít na vyšší typ, ale není si jistý"
 
@@ -753,7 +742,6 @@ msgstr ""
 #. Page path: /1-3/customer-guide/
 #: db-strings.txt:420 db-strings.txt.py:2706 db-strings.txt.py:5100
 #: db-strings.txt:7377 db-strings.txt.py:9591
-#| msgid "<p>The Firefox Fan</p>"
 msgid "The Firefox Fan"
 msgstr "Milovník Firefoxu"
 
@@ -928,7 +916,6 @@ msgstr ""
 #. Page path: /1-3/key-features/
 #: db-strings.txt:537 db-strings.txt.py:5217 db-strings.txt.py:7476
 #: db-strings.txt:9690
-#| msgid "<p>Facebook and Twitter</p>"
 msgid "Facebook and Twitter"
 msgstr "Facebook a Twitter"
 
@@ -1070,7 +1057,6 @@ msgstr ""
 #. Translators:
 #. Page path: /1-4/key-features/
 #: db-strings.txt:609 db-strings.txt.py:5289
-#| msgid "HERE Maps"
 msgid "Maps"
 msgstr "Mapy"
 
@@ -1100,7 +1086,6 @@ msgstr ""
 #. Page path: /1-3/key-features/
 #: db-strings.txt:627 db-strings.txt.py:2895 db-strings.txt.py:5307
 #: db-strings.txt:7548 db-strings.txt.py:9762
-#| msgid "<p>Music and Video</p>"
 msgid "Music and Video"
 msgstr "Hudba a video"
 
@@ -1166,7 +1151,8 @@ msgstr "Nejčastější dotazy"
 msgid ""
 "Still have questions? Not for long! Find all the answers you're looking for "
 "here."
-msgstr "Máte nejasnosti? Ne na dlouho? Najděte všechny odpovědi, které hledáte."
+msgstr ""
+"Máte nejasnosti? Ne na dlouho? Najděte všechny odpovědi, které hledáte."
 
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
@@ -2048,8 +2034,8 @@ msgid ""
 "That’s right. For a customer looking for a smartphone that is easy to use, "
 "Firefox OS is a great choice."
 msgstr ""
-"To je pravda, pro zákazníka, který hledá chytrý telefon snadný na používání, "
-"je Firefox OS skvělá volba."
+"To je pravda, pro zákazníka, který hledá chytrý telefon snadný na používání,"
+" je Firefox OS skvělá volba."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -2220,8 +2206,8 @@ msgid ""
 "open. And while all of these statements are true, only this one is the best "
 "response for this particular customer."
 msgstr ""
-"Správně, tento zákazník bude fanouškem Firefoxu. Mluvte s ním o telefonech s "
-"Firefox OS od Mozilly, které pomáhají udržet web svobodný a otevřený. I "
+"Správně, tento zákazník bude fanouškem Firefoxu. Mluvte s ním o telefonech s"
+" Firefox OS od Mozilly, které pomáhají udržet web svobodný a otevřený. I "
 "když všechny odpovědi jsou pravdivé, tato je pro tohoto zákazníka nejlepší."
 
 #. Translators:
@@ -2338,9 +2324,8 @@ msgstr "Co je adaptivní vyhledávání aplikací?"
 #. Translators:
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:1464 db-strings.txt.py:1473 db-strings.txt.py:3714
-#: db-strings.txt:3723 db-strings.txt.py:6126 db-strings.txt.py:6135
-#: db-strings.txt:8403 db-strings.txt.py:8412 db-strings.txt.py:10545
-#: db-strings.txt:10554
+#: db-strings.txt:3723 db-strings.txt.py:6126 db-strings.txt.py:8403
+#: db-strings.txt:10545 db-strings.txt.py:10554
 msgid ""
 "Not quite. A first time smartphone user will be most interested in ease of "
 "use."
@@ -2635,8 +2620,8 @@ msgid ""
 "Results include relevant maps, pictures, music, news, videos, Twitter feeds "
 "and more."
 msgstr ""
-"Výsledky zahrnují relevantní mapy, obrázky, hudbu, novinky, videa, kanály na "
-"Twitteru a další."
+"Výsledky zahrnují relevantní mapy, obrázky, hudbu, novinky, videa, kanály na"
+" Twitteru a další."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -2940,8 +2925,8 @@ msgid ""
 "Every Firefox phone includes the Firefox browser, the fast, smart and safe "
 "way to get online."
 msgstr ""
-"Každý telefon obsahuje prohlížeč Firefox, rychlou, chytrou a bezpečnou cestu "
-"jak být online."
+"Každý telefon obsahuje prohlížeč Firefox, rychlou, chytrou a bezpečnou cestu"
+" jak být online."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -3499,8 +3484,8 @@ msgstr ""
 #. Page path: /2-0/take-the-challenge/
 #. Translators:
 #. Page path: /1-3/take-the-challenge/
-#: db-strings.txt:3291 db-strings.txt.py:5703 db-strings.txt.py:7980
-#: db-strings.txt:10158
+#: db-strings.txt:3291 db-strings.txt.py:5703 db-strings.txt.py:6135
+#: db-strings.txt:7980 db-strings.txt.py:10158
 msgid "There are more. Try again"
 msgstr ""
 
@@ -4329,7 +4314,7 @@ msgstr ""
 #. Translators:
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:7944 db-strings.txt.py:8124 db-strings.txt.py:8367
-#: db-strings.txt:10122 db-strings.txt.py:10302
+#: db-strings.txt:8412 db-strings.txt.py:10122 db-strings.txt.py:10302
 msgid "There are more. Try again."
 msgstr ""
 
@@ -5043,86 +5028,114 @@ msgid "Arabic"
 msgstr ""
 
 #: masterfirefoxos/settings/base.py:191
-msgid "Bengali"
+msgid "Bengali (Bangladesh)"
 msgstr ""
 
 #: masterfirefoxos/settings/base.py:192
-msgid "Croatian"
+msgid "Bengali (India)"
 msgstr ""
 
 #: masterfirefoxos/settings/base.py:193
+msgid "Croatian"
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:194
 msgid "Czech"
 msgstr "Čeština"
 
-#: masterfirefoxos/settings/base.py:194
-msgid "English"
-msgstr ""
-
 #: masterfirefoxos/settings/base.py:195
-msgid "German"
+msgid "Ewe"
 msgstr ""
 
 #: masterfirefoxos/settings/base.py:196
-msgid "Greek"
+msgid "English"
 msgstr ""
 
 #: masterfirefoxos/settings/base.py:197
-msgid "French"
+msgid "German"
 msgstr ""
 
 #: masterfirefoxos/settings/base.py:198
-msgid "Hindi"
+msgid "Greek"
 msgstr ""
 
 #: masterfirefoxos/settings/base.py:199
-msgid "Hungarian"
+msgid "Fulah"
 msgstr ""
 
 #: masterfirefoxos/settings/base.py:200
-msgid "Italian"
+msgid "French"
 msgstr ""
 
 #: masterfirefoxos/settings/base.py:201
-msgid "Japanese"
+msgid "Hausa"
 msgstr ""
 
 #: masterfirefoxos/settings/base.py:202
-msgid "Polish"
+msgid "Hindi"
 msgstr ""
 
 #: masterfirefoxos/settings/base.py:203
-msgid "Portuguese"
+msgid "Hungarian"
 msgstr ""
 
 #: masterfirefoxos/settings/base.py:204
-msgid "Serbian"
+msgid "Igbo"
 msgstr ""
 
 #: masterfirefoxos/settings/base.py:205
-msgid "Kiswahili"
+msgid "Italian"
 msgstr ""
 
 #: masterfirefoxos/settings/base.py:206
-msgid "Spanish"
+msgid "Japanese"
 msgstr ""
 
 #: masterfirefoxos/settings/base.py:207
-msgid "Tamil"
+msgid "Lingala"
 msgstr ""
 
 #: masterfirefoxos/settings/base.py:208
-msgid "Wolof"
+msgid "Polish"
 msgstr ""
 
 #: masterfirefoxos/settings/base.py:209
-msgid "Xhosa"
+msgid "Portuguese"
 msgstr ""
 
 #: masterfirefoxos/settings/base.py:210
-msgid "Pirate"
+msgid "Serbian"
 msgstr ""
 
 #: masterfirefoxos/settings/base.py:211
+msgid "Kiswahili"
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:212
+msgid "Spanish"
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:213
+msgid "Tamil"
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:214
+msgid "Wolof"
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:215
+msgid "Xhosa"
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:216
+msgid "Pirate"
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:217
+msgid "Yoruba"
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:218
 msgid "Zulu"
 msgstr ""
 
