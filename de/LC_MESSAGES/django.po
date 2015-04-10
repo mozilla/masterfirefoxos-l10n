@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-04-10 03:52+0000\n"
-"PO-Revision-Date: 2015-03-05 21:40+0000\n"
+"PO-Revision-Date: 2015-04-10 07:18+0000\n"
 "Last-Translator: Michael <michael.koehler1@gmx.de>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: de\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1425591653.0\n"
+"X-POOTLE-MTIME: 1428650339.0\n"
 
 #. Translators:
 #. Page path: /1-1/
@@ -4736,13 +4736,12 @@ msgstr "Arabisch"
 
 #: masterfirefoxos/settings/base.py:191
 msgid "Bengali (Bangladesh)"
-msgstr ""
+msgstr "Bengalisch (Bangladesch)"
 
 #: masterfirefoxos/settings/base.py:192
-#, fuzzy
 #| msgid "Bengali"
 msgid "Bengali (India)"
-msgstr "Bengalisch"
+msgstr "Bengalisch (Indien)"
 
 #: masterfirefoxos/settings/base.py:193
 msgid "Croatian"
@@ -4754,7 +4753,7 @@ msgstr "Tschechisch"
 
 #: masterfirefoxos/settings/base.py:195
 msgid "Ewe"
-msgstr ""
+msgstr "Ewe"
 
 #: masterfirefoxos/settings/base.py:196
 msgid "English"
@@ -4770,7 +4769,7 @@ msgstr "Griechisch"
 
 #: masterfirefoxos/settings/base.py:199
 msgid "Fulah"
-msgstr ""
+msgstr "Fulah"
 
 #: masterfirefoxos/settings/base.py:200
 msgid "French"
@@ -4778,7 +4777,7 @@ msgstr "Französisch"
 
 #: masterfirefoxos/settings/base.py:201
 msgid "Hausa"
-msgstr ""
+msgstr "Hausa"
 
 #: masterfirefoxos/settings/base.py:202
 msgid "Hindi"
@@ -4790,7 +4789,7 @@ msgstr "Ungarisch"
 
 #: masterfirefoxos/settings/base.py:204
 msgid "Igbo"
-msgstr ""
+msgstr "Igbo"
 
 #: masterfirefoxos/settings/base.py:205
 msgid "Italian"
@@ -4802,7 +4801,7 @@ msgstr "Japanisch"
 
 #: masterfirefoxos/settings/base.py:207
 msgid "Lingala"
-msgstr ""
+msgstr "Lingála"
 
 #: masterfirefoxos/settings/base.py:208
 msgid "Polish"
@@ -4842,7 +4841,7 @@ msgstr "Piratisch"
 
 #: masterfirefoxos/settings/base.py:217
 msgid "Yoruba"
-msgstr ""
+msgstr "Yoruba"
 
 #: masterfirefoxos/settings/base.py:218
 msgid "Zulu"
