@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-03-12 23:15+0000\n"
-"PO-Revision-Date: 2015-04-13 18:40+0000\n"
-"Last-Translator: aldolinux <alderic.carpentier@gmail.com>\n"
+"PO-Revision-Date: 2015-04-13 18:56+0000\n"
+"Last-Translator: Benoit <benoit.leseul@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1428950442.0\n"
+"X-POOTLE-MTIME: 1428951399.0\n"
 
 #. Translators:
 #. Page path: /1-1/
@@ -2062,6 +2062,12 @@ msgid ""
 "expect. And because Firefox OS devices are powered by Mozilla, they’re the "
 "perfect choice for anyone committed to keeping the Web open for all."
 msgstr ""
+"Vos clients veulent vivre leur vie au maximum, alors pourquoi devraient-ils "
+"en attendre moins de leur mobile ? Les appareils Firefox OS sont parfaits "
+"pour les nouveaux utilisateurs de smartphones — faciles à utiliser et "
+"offrant toutes les fonctionnalités attendues. Et parce qu'ils sont soutenus "
+"par Mozilla, ils sont le meilleur choix pour tous ceux qui sont concernés "
+"par la préservation d'un web ouvert à tous."
 
 #. Translators:
 #. Page path: /2-0/demo-tips/
@@ -2074,12 +2080,16 @@ msgid ""
 "looking for. Demonstrate an example of a local app that will help make their"
 " lives easier."
 msgstr ""
+"Montrez à vos clients combien il est facile d'installer des apps depuis le "
+"Marketplace Firefox. Dites-leur qu'il offre tous les jeux sympa et les "
+"applications qu'ils attendent. Faites une démonstration avec une application "
+"locale qui leur facilitera la vie."
 
 #. Translators:
 #. Page path: /2-0/demo-tips/
 #: db-strings.txt:7224
 msgid "Rich media experience"
-msgstr ""
+msgstr "Une expérience média riche"
 
 #. Translators:
 #. Page path: /2-0/demo-tips/
@@ -2094,6 +2104,14 @@ msgid ""
 "and more.  <br><br>Music: With music at their fingertips, your customers "
 "will see how Firefox OS keeps them entertained and dancing in the streets."
 msgstr ""
+"Avec notamment des applications d'appareil photo/caméra, galerie de photos "
+"et de musique, Firefox OS permettra à vos clients de se distraire en route "
+"et de rester connectés avec ce qui leur tient le plus à cœur. "
+"<br><br>Caméra : faites des photos, modifiez-les et partagez-les. Montrez "
+"nos applications appareil photos et galerie avec les filtres intégrés, la "
+"vidéo, etc.<br><br>Musique : avec leur musique au bout des doigts, vos "
+"clients verront comment Firefox OS va les amuser et les faire danser dans "
+"les rues."
 
 #. Translators:
 #. Page path: /2-0/demo-tips/
@@ -2101,7 +2119,7 @@ msgstr ""
 #. Page path: /1-3/demo-tips/
 #: db-strings.txt:7242 db-strings.txt.py:9456
 msgid "Social and contact sync"
-msgstr ""
+msgstr "Réseaux sociaux et synchronisation des contacts"
 
 #. Translators:
 #. Page path: /2-0/customer-guide/
