@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-03-12 23:15+0000\n"
-"PO-Revision-Date: 2015-04-14 02:55+0000\n"
+"PO-Revision-Date: 2015-04-15 14:49+0000\n"
 "Last-Translator: Théo <theo.chevalier11@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1428980158.0\n"
+"X-POOTLE-MTIME: 1429109364.0\n"
 
 #. Translators:
 #. Page path: /1-1/
@@ -2131,6 +2131,10 @@ msgid ""
 "is critical to any sales opportunity. Check out the common customer segments"
 " below to learn how to best respond to each of their unique needs."
 msgstr ""
+"Comprendre mieux les besoins de vos clients et savoir comment réagir de "
+"façon adéquate est essentiel pour saisir toute occasion commerciale. "
+"Découvrez les segments de la clientèle ci-dessous pour apprendre à mieux "
+"répondre à chacun de ses besoins uniques."
 
 #. Translators:
 #. Page path: /2-0/customer-guide/
@@ -2144,6 +2148,13 @@ msgid ""
 "less time spent searching. Plus, it’s packed with all the features you’d "
 "expect — camera, email, apps, music, maps and more!"
 msgstr ""
+"<strong>Voici ce que vous pouvez dire&nbsp; : </strong> Firefox OS est le "
+"meilleur choix pour la première utilisation d'un smartphone. Il est plus "
+"facile à utiliser et à adapter à vos besoins que n'importe quel autre "
+"téléphone. Cela veut dire que vous pouvez obtenir plus que ce qui vous est "
+"nécessaire en passant moins de temps à chercher. De plus, il est préparé "
+"avec tout ce que vous en attendez —&nbsp;appareil photo, emails, "
+"applications, musique, cartes et plus encore&nbsp; !"
 
 #. Translators:
 #. Page path: /2-0/customer-guide/
@@ -2156,6 +2167,10 @@ msgid ""
 "be able to quickly discover and download your favorite apps and be ready to "
 "go in no time."
 msgstr ""
+"<strong>Voici ce que vous pouvez dire&nbsp;:</strong> Firefox OS est le "
+"smartphone le plus facile pour commencer. L'interface utilisateur est très "
+"intuitive, vous serez en mesure de découvrir rapidement et télécharger vos "
+"applications préférées et être prêt à vous en servir en un rien de temps."
 
 #. Translators:
 #. Page path: /2-0/customer-guide/
@@ -2939,6 +2954,16 @@ msgid ""
 "<li><em>1.3.0.0</em> means you have version 1.3</li> <li><em>2.0.0.0</em> "
 "means you have version 2.0</li> </ul> </li> </ol>"
 msgstr ""
+"<ol><li>Lancez l'application Paramètres sur votre appareil.</li> <li>Faites "
+"défiler l'écran puis sélectionnez <strong>Informations</strong>.</li> <li>À "
+"partir de la page d'informations, sélectionnez <strong>Plus "
+"d’informations</strong> puis consultez le numéro de version sous <em>Version "
+"du système</em> tout en haut de l'écran.<ul><li><em>Firefox OS 1.0.1.0</em> "
+"signifie que vous disposez de la version 1.0.1</li> <li><em>Firefox OS "
+"1.1.0.0</em> signifie que vous disposez de la version 1.1</li> "
+"<li><em>1.3.0.0</em> signifie que vous disposez de la version 1.3</li> "
+"<li><em>2.0.0.0</em> signifie que vous disposez de la version 2.0</li> </ul> "
+"</li> </ol>"
 
 #: masterfirefoxos/base/templates/base.html:35
 msgid "Submit"
