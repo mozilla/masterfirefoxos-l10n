@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-04-10 03:52+0000\n"
-"PO-Revision-Date: 2015-03-14 14:57+0000\n"
-"Last-Translator: Sara <sara.todaro@mozillaitalia.org>\n"
+"PO-Revision-Date: 2015-04-17 17:32+0000\n"
+"Last-Translator: Francesco <francesco.lodolo@mozillaitalia.org>\n"
 "Language-Team: \n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1426345027.0\n"
+"X-POOTLE-MTIME: 1429291927.0\n"
 
 #. Translators:
 #. Page path: /1-1/
@@ -3091,13 +3091,12 @@ msgstr "Arabo"
 
 #: masterfirefoxos/settings/base.py:191
 msgid "Bengali (Bangladesh)"
-msgstr ""
+msgstr "Bengalese (Bangladesh)"
 
 #: masterfirefoxos/settings/base.py:192
-#, fuzzy
 #| msgid "Bengali"
 msgid "Bengali (India)"
-msgstr "Bengalese"
+msgstr "Bengalese (India)"
 
 #: masterfirefoxos/settings/base.py:193
 msgid "Croatian"
@@ -3109,7 +3108,7 @@ msgstr "Ceco"
 
 #: masterfirefoxos/settings/base.py:195
 msgid "Ewe"
-msgstr ""
+msgstr "Ewe"
 
 #: masterfirefoxos/settings/base.py:196
 msgid "English"
@@ -3125,7 +3124,7 @@ msgstr "Greco"
 
 #: masterfirefoxos/settings/base.py:199
 msgid "Fulah"
-msgstr ""
+msgstr "Fula"
 
 #: masterfirefoxos/settings/base.py:200
 msgid "French"
@@ -3133,7 +3132,7 @@ msgstr "Francese"
 
 #: masterfirefoxos/settings/base.py:201
 msgid "Hausa"
-msgstr ""
+msgstr "Hausa"
 
 #: masterfirefoxos/settings/base.py:202
 msgid "Hindi"
@@ -3145,7 +3144,7 @@ msgstr "Ungherese"
 
 #: masterfirefoxos/settings/base.py:204
 msgid "Igbo"
-msgstr ""
+msgstr "Igbo"
 
 #: masterfirefoxos/settings/base.py:205
 msgid "Italian"
@@ -3157,7 +3156,7 @@ msgstr "Giapponese"
 
 #: masterfirefoxos/settings/base.py:207
 msgid "Lingala"
-msgstr ""
+msgstr "Lingala"
 
 #: masterfirefoxos/settings/base.py:208
 msgid "Polish"
@@ -3197,7 +3196,7 @@ msgstr "Pirata"
 
 #: masterfirefoxos/settings/base.py:217
 msgid "Yoruba"
-msgstr ""
+msgstr "Yoruba"
 
 #: masterfirefoxos/settings/base.py:218
 msgid "Zulu"
