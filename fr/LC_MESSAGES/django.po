@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-03-12 23:15+0000\n"
-"PO-Revision-Date: 2015-04-18 07:02+0000\n"
-"Last-Translator: Jean-Bernard <goofyfr@gmail.com>\n"
+"PO-Revision-Date: 2015-04-18 13:01+0000\n"
+"Last-Translator: Théo <theo.chevalier11@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1429340570.0\n"
+"X-POOTLE-MTIME: 1429362103.0\n"
 
 #. Translators:
 #. Page path: /1-1/
@@ -1332,7 +1332,7 @@ msgid ""
 "Facebook is preloaded on every Firefox OS device and you can import your "
 "Facebook contacts easily!"
 msgstr ""
-"Facebook est préchargé sur chaque appareil Firefox OS et vous pouvez "
+"Facebook est préinstallé sur chaque appareil Firefox OS et vous pouvez "
 "facilement importer vos contacts Facebook !"
 
 #. Translators:
@@ -2011,7 +2011,7 @@ msgid ""
 "that enrich and simplify your daily life. Firefox OS is truly a phone made "
 "with you in mind."
 msgstr ""
-"Utilisez votre téléphone dans votre langue, contrôlez votre utilisation de "
+"Utilisez votre téléphone dans votre langue, contrôlez votre consommation de "
 "données et personnalisez-le en créant vos propres sonneries. Vous pouvez "
 "également télécharger des applications locales pertinentes qui enrichissent "
 "et simplifient votre vie quotidienne. Un téléphone Firefox OS est vraiment "
@@ -2636,7 +2636,7 @@ msgid ""
 msgstr ""
 "C'est exact. Avec ce client, soulignez tout l'intérêt et la gamme étendue "
 "des fonctionnalités de Firefox OS, y compris les applications sociales qui "
-"sont préchargées sur le téléphone, ce qui est un avantage précieux."
+"sont préinstallées sur le téléphone, ce qui est un avantage précieux."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2682,6 +2682,9 @@ msgid ""
 "What does the Find My Device feature on your Firefox OS phone help you do in"
 " the case that your phone is lost or stolen?"
 msgstr ""
+"Qu'est-ce que la fonctionnalité Localiser mon appareil présente sur votre "
+"téléphone Firefox OS permet de faire dans le cas où votre téléphone est "
+"perdu ou volé ?"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2690,6 +2693,8 @@ msgid ""
 "That’s right! The Find My Device helps you do all these things through your "
 "Firefox Account."
 msgstr ""
+"C'est exact. Localiser mon appareil vous permet de faire toutes ces choses "
+"grâce à votre compte Firefox."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2698,6 +2703,8 @@ msgid ""
 "Actually, the Find My Device helps you do all these things through your "
 "Firefox Account."
 msgstr ""
+"En fait, Localiser mon appareil vous permet de faire toutes ces choses grâce "
+"à votre compte Firefox."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2708,6 +2715,8 @@ msgid ""
 "That’s right. A first-time smartphone user will be most interested in ease "
 "of use."
 msgstr ""
+"C'est correct. Un utilisateur novice sera d'abord intéressé par l'ergonomie "
+"et la simplicité d'utilisation."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2718,6 +2727,8 @@ msgid ""
 "Which of the following statements are true of the Cost Control app that is "
 "preloaded on Firefox OS?"
 msgstr ""
+"La ou lesquelles de ces déclarations est(sont) vraie(s) concernant "
+"l'application Suivi conso préinstallée sur Firefox OS ?"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2725,7 +2736,7 @@ msgstr ""
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:8430 db-strings.txt.py:10572
 msgid "That’s right. All of these are true of the Cost Control app!"
-msgstr ""
+msgstr "C'est correct. Tout cela est vrai concernant l'application Suivi conso."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2734,7 +2745,7 @@ msgstr ""
 #: db-strings.txt:8439 db-strings.txt.py:8448 db-strings.txt.py:10581
 #: db-strings.txt:10590
 msgid "Actually, all of these are true of the Cost Control app!"
-msgstr ""
+msgstr "En fait, tout cela est vrai concernant l'application Suivi conso."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2745,6 +2756,8 @@ msgid ""
 "The ConnectA2 app is an instant messaging application compatible with "
 "WhatsApp for your Firefox OS device."
 msgstr ""
+"L'application ConnectA2 est une application de messagerie instantanée "
+"compatible avec WhatsApp pour votre appareil Firefox OS."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2756,6 +2769,8 @@ msgid ""
 "Actually, this is true. ConnectA2 allows you to send instant messages to "
 "your contacts using ConnectA2 and/or WhatsApp."
 msgstr ""
+"En fait, c'est exact. ConnectA2 vous permet d'envoyer des messages "
+"instantanés à vos contacts qui utilisent ConnectA2 et/ou WhatsApp."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2783,7 +2798,7 @@ msgstr ""
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:8637 db-strings.txt.py:10779
 msgid "Set your phone to your language"
-msgstr "Réglez votre téléphone pour qu'il parle votre langue"
+msgstr "Régler votre téléphone pour qu'il parle votre langue"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2791,13 +2806,13 @@ msgstr "Réglez votre téléphone pour qu'il parle votre langue"
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:8646 db-strings.txt.py:10788
 msgid "Control your data usage"
-msgstr ""
+msgstr "Contrôler votre consommation de données"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:8655
 msgid "Create your own ringtones"
-msgstr ""
+msgstr "Créer des sonneries personnalisées"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2908,20 +2923,20 @@ msgstr ""
 #: db-strings.txt:9024
 msgid "Track the location of your lost/stolen device"
 msgstr ""
-"Repérez par géolocalisation où se trouve votre appareil s'il a été perdu ou "
-"volé !"
+"Repérer par géolocalisation où se trouve votre appareil s'il a été perdu ou "
+"volé."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:9033
 msgid "Remotely wipe the device."
-msgstr "Effacez à distance les données de votre appareil."
+msgstr "Effacer à distance les données de votre appareil."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:9042
 msgid "Remotely lock the device."
-msgstr "Verrouillez votre appareil à distance."
+msgstr "Verrouiller votre appareil à distance."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2939,6 +2954,8 @@ msgstr ""
 #: db-strings.txt:9087 db-strings.txt.py:11211
 msgid "You can use it to create and set a daily budget for data usage."
 msgstr ""
+"Vous pouvez l'utiliser pour créer et définir un budget journalier pour la "
+"consommation de données."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2946,7 +2963,7 @@ msgstr ""
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:9096 db-strings.txt.py:11220
 msgid "It shows usage per app."
-msgstr "Il affiche votre utilisation par application."
+msgstr "Il affiche votre consommation par application."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2954,7 +2971,7 @@ msgstr "Il affiche votre utilisation par application."
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:9105 db-strings.txt.py:11229
 msgid "It shows usage by time."
-msgstr ""
+msgstr "Il affiche la consommation au cours du temps."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -3132,11 +3149,11 @@ msgstr "En savoir plus"
 
 #: masterfirefoxos/base/templates/includes/nav-information.html:3
 msgid "Home"
-msgstr ""
+msgstr "Accueil"
 
 #: masterfirefoxos/base/templates/includes/nav-information.html:4
 msgid "About"
-msgstr ""
+msgstr "À propos"
 
 #: masterfirefoxos/base/templates/includes/version-language-switcher.html:3
 msgid "Language"
@@ -3152,7 +3169,7 @@ msgstr "Quelle est ma version ?"
 
 #: masterfirefoxos/base/templates/includes/version-language-switcher.html:23
 msgid "Change"
-msgstr ""
+msgstr "Changer"
 
 #: masterfirefoxos/base/templates/includes/version-language-switcher.html:37
 msgid ""
@@ -3168,7 +3185,7 @@ msgstr "La dernière version disponible en {language} est {version}."
 
 #: masterfirefoxos/settings/base.py:189
 msgid "Afrikaans"
-msgstr ""
+msgstr "Afrikaans"
 
 #: masterfirefoxos/settings/base.py:190
 msgid "Arabic"
@@ -3176,7 +3193,7 @@ msgstr "Arabe"
 
 #: masterfirefoxos/settings/base.py:191
 msgid "Bengali"
-msgstr ""
+msgstr "Bengali"
 
 #: masterfirefoxos/settings/base.py:192
 msgid "Croatian"
@@ -3232,7 +3249,7 @@ msgstr "Serbe"
 
 #: masterfirefoxos/settings/base.py:205
 msgid "Kiswahili"
-msgstr ""
+msgstr "Kiswahili"
 
 #: masterfirefoxos/settings/base.py:206
 msgid "Spanish"
@@ -3240,21 +3257,20 @@ msgstr "Espagnol"
 
 #: masterfirefoxos/settings/base.py:207
 msgid "Tamil"
-msgstr ""
+msgstr "Tamoul"
 
 #: masterfirefoxos/settings/base.py:208
 msgid "Wolof"
-msgstr ""
+msgstr "Wolof"
 
 #: masterfirefoxos/settings/base.py:209
 msgid "Xhosa"
-msgstr ""
+msgstr "Xhosa"
 
 #: masterfirefoxos/settings/base.py:210
 msgid "Pirate"
-msgstr ""
+msgstr "Pirate"
 
 #: masterfirefoxos/settings/base.py:211
-#, fuzzy
 msgid "Zulu"
-msgstr "Zulu"
+msgstr "Zoulou"
