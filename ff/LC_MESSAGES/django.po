@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-04-10 03:52+0000\n"
-"PO-Revision-Date: 2015-04-19 13:45+0000\n"
+"PO-Revision-Date: 2015-04-19 13:54+0000\n"
 "Last-Translator: Ibrahima <ibrahima.sarr@pulaagu.com>\n"
 "Language-Team: FULAH LOCALIZATION\n"
 "Language: ff\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1429451109.0\n"
+"X-POOTLE-MTIME: 1429451671.0\n"
 
 #. Translators:
 #. Page path: /1-1/
@@ -411,7 +411,7 @@ msgstr ""
 #: db-strings.txt:447 db-strings.txt.py:2733 db-strings.txt.py:5127
 #: db-strings.txt:7404 db-strings.txt.py:9618
 msgid "Key Features"
-msgstr ""
+msgstr "Fannuuji dowrowi"
 
 #. Translators:
 #. Page path: /1-1/key-features/
@@ -565,7 +565,7 @@ msgstr ""
 #: db-strings.txt:663 db-strings.txt.py:2931 db-strings.txt.py:5343
 #: db-strings.txt:7620 db-strings.txt.py:9798
 msgid "Frequently Asked Questions"
-msgstr ""
+msgstr "Naamne Ɓurɗe Duumaade"
 
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
@@ -2306,7 +2306,7 @@ msgstr ""
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:7863 db-strings.txt.py:10041
 msgid "Take the Challenge"
-msgstr ""
+msgstr "Ƴeewto Ganndal maa"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2947,75 +2947,75 @@ msgstr ""
 
 #: masterfirefoxos/base/templates/base.html:91
 msgid "Source code"
-msgstr ""
+msgstr "Ɗaɗi dokkol"
 
 #: masterfirefoxos/base/templates/base.html:96
 msgid "Contact Us"
-msgstr ""
+msgstr "Jokkondir e amen"
 
 #: masterfirefoxos/base/templates/base.html:97
 msgid "Partner with Us"
-msgstr ""
+msgstr "Huutondir e Amen"
 
 #: masterfirefoxos/base/templates/base.html:98
 msgid "Donate"
-msgstr ""
+msgstr "Addu dokkal"
 
 #: masterfirefoxos/base/templates/base.html:99
 msgid "Privacy Policy"
-msgstr ""
+msgstr "Dawirgol Suturo"
 
 #: masterfirefoxos/base/templates/base.html:100
 msgid "Legal Notices"
-msgstr ""
+msgstr "Tintine Laawol"
 
 #: masterfirefoxos/base/templates/base.html:101
 msgid "Report Trademark Abuse"
-msgstr ""
+msgstr "Jaŋto Nguyka Marke"
 
 #: masterfirefoxos/base/templates/base.html:105
 msgid "Mozilla on Twitter"
-msgstr ""
+msgstr "Mozilla e Twitter"
 
 #: masterfirefoxos/base/templates/base.html:106
 msgid "Firefox on Twitter"
-msgstr ""
+msgstr "Firefox e Twitter"
 
 #: masterfirefoxos/base/templates/base.html:107
 msgid "Mozilla on Facebook"
-msgstr ""
+msgstr "Mozilla e Facebook"
 
 #: masterfirefoxos/base/templates/base.html:108
 msgid "Firefox on Facebook"
-msgstr ""
+msgstr "Firefox e Facebook"
 
 #: masterfirefoxos/base/templates/home.html:49
 msgid "Learn more"
-msgstr ""
+msgstr "Ɓeydu humpito"
 
 #: masterfirefoxos/base/templates/includes/nav-information.html:3
 msgid "Home"
-msgstr ""
+msgstr "Damal"
 
 #: masterfirefoxos/base/templates/includes/nav-information.html:4
 msgid "About"
-msgstr ""
+msgstr "Baɗte"
 
 #: masterfirefoxos/base/templates/includes/version-language-switcher.html:3
 msgid "Language"
-msgstr ""
+msgstr "Ɗemngal"
 
 #: masterfirefoxos/base/templates/includes/version-language-switcher.html:15
 msgid "Firefox OS version"
-msgstr ""
+msgstr "Yamre Firefox OS"
 
 #: masterfirefoxos/base/templates/includes/version-language-switcher.html:21
 msgid "Which version do I have?"
-msgstr ""
+msgstr "Hol yamre njogii-mi?"
 
 #: masterfirefoxos/base/templates/includes/version-language-switcher.html:23
 msgid "Change"
-msgstr ""
+msgstr "Waylu"
 
 #: masterfirefoxos/base/templates/includes/version-language-switcher.html:37
 msgid ""
@@ -3029,11 +3029,11 @@ msgstr ""
 
 #: masterfirefoxos/settings/base.py:189
 msgid "Afrikaans"
-msgstr ""
+msgstr "Afrikaans"
 
 #: masterfirefoxos/settings/base.py:190
 msgid "Arabic"
-msgstr ""
+msgstr "Aarabeere"
 
 #: masterfirefoxos/settings/base.py:191
 msgid "Bengali (Bangladesh)"
@@ -3045,95 +3045,95 @@ msgstr ""
 
 #: masterfirefoxos/settings/base.py:193
 msgid "Croatian"
-msgstr ""
+msgstr "Korowasiire"
 
 #: masterfirefoxos/settings/base.py:194
 msgid "Czech"
-msgstr ""
+msgstr "Cekiire"
 
 #: masterfirefoxos/settings/base.py:195
 msgid "Ewe"
-msgstr ""
+msgstr "Ewe"
 
 #: masterfirefoxos/settings/base.py:196
 msgid "English"
-msgstr ""
+msgstr "Engeleere"
 
 #: masterfirefoxos/settings/base.py:197
 msgid "German"
-msgstr ""
+msgstr "Docce"
 
 #: masterfirefoxos/settings/base.py:198
 msgid "Greek"
-msgstr ""
+msgstr "Gerek"
 
 #: masterfirefoxos/settings/base.py:199
 msgid "Fulah"
-msgstr ""
+msgstr "Fulfulde"
 
 #: masterfirefoxos/settings/base.py:200
 msgid "French"
-msgstr ""
+msgstr "Farayseere"
 
 #: masterfirefoxos/settings/base.py:201
 msgid "Hausa"
-msgstr ""
+msgstr "Hawsa"
 
 #: masterfirefoxos/settings/base.py:202
 msgid "Hindi"
-msgstr ""
+msgstr "Hinndi"
 
 #: masterfirefoxos/settings/base.py:203
 msgid "Hungarian"
-msgstr ""
+msgstr "Hungariire"
 
 #: masterfirefoxos/settings/base.py:204
 msgid "Igbo"
-msgstr ""
+msgstr "Igbo"
 
 #: masterfirefoxos/settings/base.py:205
 msgid "Italian"
-msgstr ""
+msgstr "Italiire"
 
 #: masterfirefoxos/settings/base.py:206
 msgid "Japanese"
-msgstr ""
+msgstr "Saponeere"
 
 #: masterfirefoxos/settings/base.py:207
 msgid "Lingala"
-msgstr ""
+msgstr "Lingala"
 
 #: masterfirefoxos/settings/base.py:208
 msgid "Polish"
-msgstr ""
+msgstr "Poloneere"
 
 #: masterfirefoxos/settings/base.py:209
 msgid "Portuguese"
-msgstr ""
+msgstr "Purtugeesre"
 
 #: masterfirefoxos/settings/base.py:210
 msgid "Serbian"
-msgstr ""
+msgstr "Serbiire"
 
 #: masterfirefoxos/settings/base.py:211
 msgid "Kiswahili"
-msgstr ""
+msgstr "Suwaahili"
 
 #: masterfirefoxos/settings/base.py:212
 msgid "Spanish"
-msgstr ""
+msgstr "Español"
 
 #: masterfirefoxos/settings/base.py:213
 msgid "Tamil"
-msgstr ""
+msgstr "Tamil"
 
 #: masterfirefoxos/settings/base.py:214
 msgid "Wolof"
-msgstr ""
+msgstr "Wolof"
 
 #: masterfirefoxos/settings/base.py:215
 msgid "Xhosa"
-msgstr ""
+msgstr "Koosa"
 
 #: masterfirefoxos/settings/base.py:216
 msgid "Pirate"
@@ -3141,8 +3141,8 @@ msgstr ""
 
 #: masterfirefoxos/settings/base.py:217
 msgid "Yoruba"
-msgstr ""
+msgstr "Yoruba"
 
 #: masterfirefoxos/settings/base.py:218
 msgid "Zulu"
-msgstr ""
+msgstr "Sulu"
