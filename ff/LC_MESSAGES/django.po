@@ -1,22 +1,21 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+# Ibrahima SARR <ibrahima.sarr@pulaagu.com>, 2015.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-04-10 03:52+0000\n"
-"PO-Revision-Date: 2015-04-19 08:46+0000\n"
-"Last-Translator: Ibrahima <ibrahima.sarr@pulaagu.com>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2015-04-19 12:32+0200\n"
+"Last-Translator: Ibrahima SARR <ibrahima.sarr@pulaagu.com>\n"
+"Language-Team: FULAH LOCALIZATION\n"
 "Language: ff\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.5.0\n"
+"X-Generator: Virtaal 0.7.1\n"
 "X-POOTLE-MTIME: 1429433209.0\n"
 
 #. Translators:
@@ -1236,6 +1235,9 @@ msgid ""
 " are already preloaded and you can easily import your friends from Facebook,"
 " too."
 msgstr ""
+"Firefox OS ko cinndel ɓurngel weeɓde fuɗɗoraade. Jaaɓɗe maa labaaɗe fof "
+"ngarata ko ena loowaa heen tee kadi aɗa waawi jiggaade sehilaaɓe maa wonɓe e "
+"Facebook."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1254,6 +1256,9 @@ msgid ""
 " are already preloaded and you can easily import your friends from Facebook "
 "too."
 msgstr ""
+"Firefox OS ko cinndel ɓurngel weeɓde fuɗɗoraade. Jaaɓɗe maa labaaɗe fof "
+"ngarata ko ena loowaa heen tee kadi aɗa waawi jiggaade sehilaaɓe maa wonɓe e "
+"Facebook."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1269,6 +1274,8 @@ msgid ""
 "Facebook is preloaded on every Firefox OS device and you can import your "
 "Facebook contacts easily!"
 msgstr ""
+"Facebook arata ko ena loowaa e kaɓirgol Firefox OS kala tee ena weeɓiri "
+"jiggaade jokkondire maa Facebook!"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1286,6 +1293,8 @@ msgid ""
 "Every Firefox phone includes the Firefox browser, the fast, smart and safe "
 "way to get online."
 msgstr ""
+"Kaɓirgol Firefox OS kala eba waɗi wanngorde Firefox ndee, laawol ɓurngol "
+"yaawde, yuɓɓude e hisde fayde e geese."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1303,6 +1312,8 @@ msgid ""
 "Firefox OS includes all the same features you’ll find in competitive "
 "smartphones and gives you more value for the money."
 msgstr ""
+"Firefox OS ena waɗi kala fannuuji ɗi tawataa e cinnde ɓurde tiiɗde kadi ena "
+"hokku-maa ngartam kaalis maa."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1318,6 +1329,8 @@ msgstr ""
 #: db-strings.txt:9051 db-strings.txt.py:11175
 msgid "You can easily import contacts from Facebook to your Firefox OS phone."
 msgstr ""
+"Aɗa waawi jiggaade jokkondire Facebook no ɓuri weeɓirde e cinndel maa "
+"Firefox OS."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1335,6 +1348,8 @@ msgid ""
 "Firefox OS gives you access to popular, big name apps, as well as local "
 "content that means the most to you."
 msgstr ""
+"Firefox OS ena hokku-maa heɓde jaaɓɗe yonta oo, jaaɓɗe nganndaaɗe, kadi "
+"loowdi ɓurndi ɓadaade nokku maa e pinal maa."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1353,6 +1368,8 @@ msgid ""
 "expect in a smartphone, with an easy-to-use interface that makes it easy to "
 "get started."
 msgstr ""
+"Firefox OS loowaaka ko ɓuri ko coklu-ɗaa. Maa hokke ko ɗamini-ɗaa e "
+"smartfon, wonndude e weeɓde daartorde haa mbaawaa fuɗɗaade jooni."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1367,7 +1384,7 @@ msgstr ""
 #: db-strings.txt:2229 db-strings.txt.py:4533 db-strings.txt.py:6882
 #: db-strings.txt:9114 db-strings.txt.py:11238
 msgid "True"
-msgstr ""
+msgstr "Goonga"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1382,7 +1399,7 @@ msgstr ""
 #: db-strings.txt:2238 db-strings.txt.py:4542 db-strings.txt.py:6891
 #: db-strings.txt:9123 db-strings.txt.py:11247
 msgid "False"
-msgstr ""
+msgstr "Wona hoonga"
 
 #. Translators:
 #. Page path: /1-1/which-version/
@@ -1397,7 +1414,7 @@ msgstr ""
 #: db-strings.txt:2328 db-strings.txt.py:4668 db-strings.txt.py:7017
 #: db-strings.txt:9231 db-strings.txt.py:11355
 msgid "Which Version Do I Have?"
-msgstr ""
+msgstr "Hol Yamre Njogii-mi?"
 
 #. Translators:
 #. Page path: /1-3T/demo-tips/
@@ -1410,7 +1427,7 @@ msgstr ""
 #: db-strings.txt:2499 db-strings.txt.py:4839 db-strings.txt.py:7188
 #: db-strings.txt:9402
 msgid "Introducing Firefox OS"
-msgstr ""
+msgstr "Fuɗɗo anndude Firefox OS"
 
 #. Translators:
 #. Page path: /1-3T/demo-tips/
@@ -1425,6 +1442,10 @@ msgid ""
 "friends and family. They can also sync their contacts to the phone, quickly "
 "and easily."
 msgstr ""
+"Firefox OS arata ko ena loowaa jaaɓɗe jeewtidal saasi ganndaaɗe e jaaɓɗe "
+"laylayte renndo, wano Facebook, wadde maa kiliyaneeɓe mbaaw seŋaade e "
+"jokkondirde e sehilaaɓe e ɓesngu. Eɓe mbaawi kadi seŋondirde jokkondire "
+"maɓɓe e cinndel ngel e ko yaawi, weeɓi."
 
 #. Translators:
 #. Page path: /1-3T/key-features/
@@ -1441,6 +1462,9 @@ msgid ""
 "smartphone. It’s designed to fit their lives perfectly so they can keep pace"
 " with the world around them."
 msgstr ""
+"Firefox OS ena loowaa fannuuji ɗi kiliyaneeɓe maa ɗamintoo e smartfon. "
+"Waɗiraa ko jaaɓdude e nguurndam maɓɓe no ɓuri yuɓirde haa ɓe mbaawa yahdude "
+"e jamaanu hannde taariiɗo-ɓe oo."
 
 #. Translators:
 #. Page path: /1-3T/key-features/
@@ -1457,6 +1481,9 @@ msgid ""
 "share your photographs, the full-featured camera and photo gallery will have"
 " all your subjects smiling."
 msgstr ""
+"Ena wondi e panni ceɗe camorɗi, potgol ŋelngol e peeje keeɗe ngam lollinde "
+"nate maa, kameraa kimmuɗo e gerngal nate maa ɓeydu moosnude jeese e nate maa "
+"kala."
 
 #. Translators:
 #. Page path: /1-3T/key-features/
@@ -1469,7 +1496,7 @@ msgstr ""
 #: db-strings.txt:2913 db-strings.txt.py:5325 db-strings.txt.py:7566
 #: db-strings.txt:9780
 msgid "Messages and Email"
-msgstr ""
+msgstr "Ɓatakuuje e IImeel"
 
 #. Translators:
 #. Page path: /1-3T/frequently-asked-questions/
@@ -1486,6 +1513,9 @@ msgid ""
 "than a decade of supporting the open Web. It is designed to protect the user"
 " and system from malicious applications and content."
 msgstr ""
+"Firefox OS ena jogii yuɓɓo kisal ɓurngal ñisde ttiɗtinaande e duuɓi sappo "
+"pawɗe ɗe min ndaranii Geese udditiiɗe. Waɗiraa ko suurde kuutoro oo e yuɓɓo "
+"ngoo e jaaɓnirɗe e loowdi bonnooje."
 
 #. Translators:
 #. Page path: /1-3T/frequently-asked-questions/
@@ -1498,7 +1528,7 @@ msgstr ""
 #: db-strings.txt:3021 db-strings.txt.py:5433 db-strings.txt.py:7692
 #: db-strings.txt:9870
 msgid "What do you mean I can convert mobile sites into apps?"
-msgstr ""
+msgstr "Hol ko firti wonde lowe cinndel ena mwaawi wontude jaaɓɗe?"
 
 #. Translators:
 #. Page path: /1-3T/frequently-asked-questions/
@@ -1514,6 +1544,11 @@ msgid ""
 "through Adaptive App Search. Tools such as Emscripten and PhoneGap are also "
 "able to convert other apps (*.apk and/or C/C++) to Web apps."
 msgstr ""
+"Wonaa ɗoon e ɗoon. Kono, yoga e jaaɓɗe Android e iOS ɓurɗe lollude ko jaaɓɗe "
+"Geese e jaati jogiiɗe “coomol” ñiiɓngol ngam ɗe mbaawa dogde e dinndeede "
+"jeyaaɗe. Wadde keewɗe e ɗeen jaaɓɗe maa keɓo e fannu Njiilaw Jaaɓduɗo oo. "
+"Kaɓirɗe wano Emscripten e PhoneGap ena mbaawi kadi waklude jaaɓɗe goɗɗe "
+"(*.apk and/or C/C++) ngonta jaaɓɗe Geese."
 
 #. Translators:
 #. Page path: /1-3T/frequently-asked-questions/
@@ -1527,6 +1562,10 @@ msgid ""
 " the phone’s core functions. That means apps do not require an active "
 "Internet connection to work unless they need to send or receive data."
 msgstr ""
+"Firefox OS mahiraa ko karalleeje Geese kono ena jogii baawal dogde e ceŋtol "
+"wonande fannuuji cinndel jaale ɗee. Ɗuum firti ko jaaɓɗe coklaani ceŋol "
+"Enternet caasngol ngam dogde so wonaa tawa eɗe cokli neldude walla heɓde "
+"keɓe."
 
 #. Translators:
 #. Page path: /1-3T/frequently-asked-questions/
@@ -1990,6 +2029,10 @@ msgid ""
 "be able to quickly discover and download your favorite apps and be ready to "
 "go in no time."
 msgstr ""
+"<strong>Aɗa waawi wiyde nih:</strong> Firefox OS ko cinndel ɓurngel weeɓde "
+"wonande fuɗoraade.  Daartorde kuutoro ndee ena laaɓti, maa waaw yiytude ko "
+"yaawi e aawtaade jaaɓɗe maa ɓur-ɗaa yiɗde kisa puɗɗo-ɗaa e tuma daɓɓo golla "
+"maa."
 
 #. Translators:
 #. Page path: /2-0/customer-guide/
@@ -2592,6 +2635,9 @@ msgid ""
 " are already preloaded and you can easily import your friends from Facebook,"
 " too.."
 msgstr ""
+"Firefox OS ko cinndel ɓurngel weeɓde fuɗɗoraade. Jaaɓɗe maa labaaɗe fof "
+"ngarata ko ena loowaa heen tee kadi aɗa waawi jiggaade sehilaaɓe maa wonɓe e "
+"Facebook.."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
