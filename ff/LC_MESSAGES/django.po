@@ -8,14 +8,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-04-10 03:52+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2015-04-19 08:46+0000\n"
+"Last-Translator: Ibrahima <ibrahima.sarr@pulaagu.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ff\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.10.0-rc1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1429433209.0\n"
 
 #. Translators:
 #. Page path: /1-1/
@@ -33,7 +35,7 @@ msgstr ""
 #: masterfirefoxos/base/templates/base.html:45
 #: masterfirefoxos/base/templates/home.html:17
 msgid "Master Firefox OS"
-msgstr ""
+msgstr "Wontu Ganndo Firefox OS"
 
 #. Translators:
 #. Page path: /1-1/
@@ -48,7 +50,7 @@ msgstr ""
 #: db-strings.txt:15 db-strings.txt.py:2355 db-strings.txt.py:4695
 #: db-strings.txt:7044 db-strings.txt.py:9258
 msgid "Welcome!"
-msgstr ""
+msgstr "On Jaɓɓaama!"
 
 #. Translators:
 #. Page path: /1-1/
@@ -67,6 +69,9 @@ msgid ""
 "effectively communicate the basics of Firefox OS. Select any topic to get "
 "started."
 msgstr ""
+"Ngal ɗoo penngal heblo ngam renndo e gollodiiɓe amen darni ena loowi huunde "
+"kala ko cokly-ɗaa ngam humpitaade ko woni Firefox OS. Suɓo toɓɓere njiɗ-ɗaa "
+"ngam fuɗɗaade."
 
 #. Translators:
 #. Page path: /1-1/introduction/
@@ -81,7 +86,7 @@ msgstr ""
 #: db-strings.txt:33 db-strings.txt.py:2373 db-strings.txt.py:4713
 #: db-strings.txt:7062 db-strings.txt.py:9276
 msgid "Introduction"
-msgstr ""
+msgstr "Naatirka"
 
 #. Translators:
 #. Page path: /1-1/introduction/
@@ -99,6 +104,8 @@ msgid ""
 "Find out what makes Firefox OS perfect for new smartphone users by giving "
 "them just what they need."
 msgstr ""
+"Humpito ko waɗi Firefox OS wonande huutorɓe cinnde kese ɗee daande sabu "
+"hokkude ɗum'en ko ɓe cokli koo tan."
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
@@ -113,7 +120,7 @@ msgstr ""
 #: db-strings.txt:123 db-strings.txt.py:2463 db-strings.txt.py:4803
 #: db-strings.txt:7152 db-strings.txt.py:9366
 msgid "Demo Tips"
-msgstr ""
+msgstr "Peeje Pammingol"
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
@@ -131,6 +138,8 @@ msgid ""
 "Learn how to show off and talk about the key features and benefits of "
 "Firefox OS to your customers."
 msgstr ""
+"Janngu no kollirtaa kiliyaneeɓe maa fannuuji ɓurɗi yuɓɓude e moƴƴe gonɗe e "
+"Firefox OS."
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
@@ -145,7 +154,7 @@ msgstr ""
 #: db-strings.txt:141 db-strings.txt.py:2472 db-strings.txt.py:4821
 #: db-strings.txt:7161 db-strings.txt.py:9375
 msgid "Demonstrations That Matter"
-msgstr ""
+msgstr "Pammingol Juɓɓungol"
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
@@ -162,6 +171,8 @@ msgid ""
 "your best selling tool. Browse the demonstration videos below to get "
 "started."
 msgstr ""
+"Famminde Fannuuji Firefox OS e hol no weeɓiri huutoraade maa ɓeyda-ma heewde "
+"kiliyaneeɓe. Weɗɗit widewooji pammingol gonɗi les ɗoo ngam fuɗɗaade."
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
@@ -174,7 +185,7 @@ msgstr ""
 #: db-strings.txt:168 db-strings.txt.py:4848 db-strings.txt.py:7197
 #: db-strings.txt:9411
 msgid "When you only have a minute, make it count with this simple pitch."
-msgstr ""
+msgstr "So tawii ko hojom gooto tan njogi-ɗaa, yeñcinir mo ngel lefel."
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
@@ -190,7 +201,7 @@ msgstr ""
 #: db-strings.txt:8808 db-strings.txt.py:10824 db-strings.txt.py:10905
 #: db-strings.txt:10932 db-strings.txt.py:10959
 msgid "Firefox Browser"
-msgstr ""
+msgstr "Wanngorde Firefox"
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
@@ -217,7 +228,7 @@ msgstr ""
 #: db-strings.txt:7206 db-strings.txt.py:7440 db-strings.txt.py:9420
 #: db-strings.txt:9654
 msgid "Marketplace"
-msgstr ""
+msgstr "Marketplace"
 
 #. Translators:
 #. Page path: /1-1/customer-guide/
@@ -232,7 +243,7 @@ msgstr ""
 #: db-strings.txt:303 db-strings.txt.py:2589 db-strings.txt.py:4983
 #: db-strings.txt:7260 db-strings.txt.py:9474
 msgid "Customer Guide"
-msgstr ""
+msgstr "Ɗowirde Kiliyaneeɓe"
 
 #. Translators:
 #. Page path: /1-1/customer-guide/
@@ -250,6 +261,8 @@ msgid ""
 "See how Firefox OS fits into your customers' lives, no matter who they are "
 "or where they're from."
 msgstr ""
+"Ƴeew no Firefox OS jaaɓirta e nguurndam kiliyaneeɓe maa, ɗo ɓe mbaawi iwde e "
+"ko ɓe ngoni kala."
 
 #. Translators:
 #. Page path: /1-1/customer-guide/
@@ -264,7 +277,7 @@ msgstr ""
 #: db-strings.txt:321 db-strings.txt.py:2598 db-strings.txt.py:4992
 #: db-strings.txt:7269 db-strings.txt.py:9483
 msgid "Who is your ideal Firefox customer?"
-msgstr ""
+msgstr "Mo woni ɓurɗo e kiliyaneeɓe maa Firefox?"
 
 #. Translators:
 #. Page path: /1-1/customer-guide/
@@ -279,7 +292,7 @@ msgstr ""
 #: db-strings.txt:339 db-strings.txt.py:2625 db-strings.txt.py:5019
 #: db-strings.txt:7296 db-strings.txt.py:9510
 msgid "The Smartphone Rookie"
-msgstr ""
+msgstr "Waaca-bees e Smartfon"
 
 #. Translators:
 #. Page path: /1-1/customer-guide/
@@ -294,7 +307,7 @@ msgstr ""
 #: db-strings.txt:348 db-strings.txt.py:2634 db-strings.txt.py:5028
 #: db-strings.txt:7305 db-strings.txt.py:9519
 msgid "\"I have never had a smartphone.\""
-msgstr ""
+msgstr "\"Mi meeɗaa dañde cinndel smartfon.\""
 
 #. Translators:
 #. Page path: /1-1/customer-guide/
@@ -309,7 +322,7 @@ msgstr ""
 #: db-strings.txt:366 db-strings.txt.py:2652 db-strings.txt.py:5046
 #: db-strings.txt:7323 db-strings.txt.py:9537
 msgid "The Value Seeker"
-msgstr ""
+msgstr "Jiilotooɗo Nafoore"
 
 #. Translators:
 #. Page path: /1-1/customer-guide/
@@ -324,7 +337,7 @@ msgstr ""
 #: db-strings.txt:375 db-strings.txt.py:2661 db-strings.txt.py:5055
 #: db-strings.txt:7332 db-strings.txt.py:9546
 msgid "\"I want a good deal.\""
-msgstr ""
+msgstr "\"Miɗo yiyloo fartaŋŋe.\""
 
 #. Translators:
 #. Page path: /1-1/customer-guide/
