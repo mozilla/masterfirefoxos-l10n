@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-04-24 08:22+0000\n"
+"POT-Creation-Date: 2015-05-18 13:49+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -4977,6 +4977,7 @@ msgid "Menu"
 msgstr ""
 
 #: masterfirefoxos/base/templates/base.html:88
+#, python-brace-format
 msgid ""
 "Portions of this content are ©1998–{0} by individual contributors. Content "
 "available under a <a href=\"https://www.mozilla.org/foundation/licensing/"
@@ -5056,12 +5057,14 @@ msgid "Change"
 msgstr ""
 
 #: masterfirefoxos/base/templates/includes/version-language-switcher.html:37
+#, python-brace-format
 msgid ""
 "Documentation for Firefox OS {version} is not yet available in {language}, "
 "so we redirected you to the English version."
 msgstr ""
 
 #: masterfirefoxos/base/templates/includes/version-language-switcher.html:39
+#, python-brace-format
 msgid "The latest version available in {language} is {version}."
 msgstr ""
 
@@ -5150,37 +5153,41 @@ msgid "Portuguese"
 msgstr ""
 
 #: masterfirefoxos/settings/base.py:210
-msgid "Serbian"
+msgid "Russian"
 msgstr ""
 
 #: masterfirefoxos/settings/base.py:211
-msgid "Kiswahili"
+msgid "Serbian"
 msgstr ""
 
 #: masterfirefoxos/settings/base.py:212
-msgid "Spanish"
+msgid "Kiswahili"
 msgstr ""
 
 #: masterfirefoxos/settings/base.py:213
-msgid "Tamil"
+msgid "Spanish"
 msgstr ""
 
 #: masterfirefoxos/settings/base.py:214
-msgid "Wolof"
+msgid "Tamil"
 msgstr ""
 
 #: masterfirefoxos/settings/base.py:215
-msgid "Xhosa"
+msgid "Wolof"
 msgstr ""
 
 #: masterfirefoxos/settings/base.py:216
-msgid "Pirate"
+msgid "Xhosa"
 msgstr ""
 
 #: masterfirefoxos/settings/base.py:217
-msgid "Yoruba"
+msgid "Pirate"
 msgstr ""
 
 #: masterfirefoxos/settings/base.py:218
+msgid "Yoruba"
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:219
 msgid "Zulu"
 msgstr ""
