@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-04-24 08:22+0000\n"
+"POT-Creation-Date: 2015-05-18 13:49+0000\n"
 "PO-Revision-Date: 2015-03-24 20:11+0000\n"
 "Last-Translator: Inma <inma.barrios@mozilla-hispano.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -4715,6 +4715,7 @@ msgid "Menu"
 msgstr "Menú"
 
 #: masterfirefoxos/base/templates/base.html:88
+#, python-brace-format
 msgid ""
 "Portions of this content are ©1998–{0} by individual contributors. Content "
 "available under a <a href=\"https://www.mozilla.org/foundation/licensing"
@@ -4798,6 +4799,7 @@ msgid "Change"
 msgstr "Cambiar"
 
 #: masterfirefoxos/base/templates/includes/version-language-switcher.html:37
+#, python-brace-format
 msgid ""
 "Documentation for Firefox OS {version} is not yet available in {language}, "
 "so we redirected you to the English version."
@@ -4806,6 +4808,7 @@ msgstr ""
 "{language}, por lo que te redirigimos a la versión en inglés."
 
 #: masterfirefoxos/base/templates/includes/version-language-switcher.html:39
+#, python-brace-format
 msgid "The latest version available in {language} is {version}."
 msgstr "La última versión disponible en {language} es {version}."
 
@@ -4896,38 +4899,42 @@ msgid "Portuguese"
 msgstr "Portugués"
 
 #: masterfirefoxos/settings/base.py:210
+msgid "Russian"
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:211
 msgid "Serbian"
 msgstr "Serbio"
 
-#: masterfirefoxos/settings/base.py:211
+#: masterfirefoxos/settings/base.py:212
 msgid "Kiswahili"
 msgstr "Suajili"
 
-#: masterfirefoxos/settings/base.py:212
+#: masterfirefoxos/settings/base.py:213
 msgid "Spanish"
 msgstr "Español"
 
-#: masterfirefoxos/settings/base.py:213
+#: masterfirefoxos/settings/base.py:214
 msgid "Tamil"
 msgstr "Tamil"
 
-#: masterfirefoxos/settings/base.py:214
+#: masterfirefoxos/settings/base.py:215
 msgid "Wolof"
 msgstr "Wolof"
 
-#: masterfirefoxos/settings/base.py:215
+#: masterfirefoxos/settings/base.py:216
 msgid "Xhosa"
 msgstr "Xhosa"
 
-#: masterfirefoxos/settings/base.py:216
+#: masterfirefoxos/settings/base.py:217
 msgid "Pirate"
 msgstr "Pirata"
 
-#: masterfirefoxos/settings/base.py:217
+#: masterfirefoxos/settings/base.py:218
 msgid "Yoruba"
 msgstr ""
 
-#: masterfirefoxos/settings/base.py:218
+#: masterfirefoxos/settings/base.py:219
 msgid "Zulu"
 msgstr "Zulú"
 
