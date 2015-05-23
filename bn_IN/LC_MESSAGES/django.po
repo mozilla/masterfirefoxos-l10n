@@ -3,19 +3,21 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-05-18 13:49+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2015-05-21 03:55+0000\n"
+"Last-Translator: Ayan <ayay700@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"Language: bn_IN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1432180534.0\n"
 
 #. Translators:
 #. Page path: /1-1/
@@ -33,7 +35,7 @@ msgstr ""
 #: masterfirefoxos/base/templates/base.html:45
 #: masterfirefoxos/base/templates/home.html:17
 msgid "Master Firefox OS"
-msgstr ""
+msgstr "মাস্টার Firefox OS"
 
 #. Translators:
 #. Page path: /1-1/
@@ -48,7 +50,7 @@ msgstr ""
 #: db-strings.txt:15 db-strings.txt.py:2355 db-strings.txt.py:4695
 #: db-strings.txt:7044 db-strings.txt.py:9258
 msgid "Welcome!"
-msgstr ""
+msgstr "স্বাগতম!"
 
 #. Translators:
 #. Page path: /1-1/
@@ -67,6 +69,9 @@ msgid ""
 "effectively communicate the basics of Firefox OS. Select any topic to get "
 "started."
 msgstr ""
+"প্রাথমিক Firefox OS এর সাথে কার্যকরভাবে যোগাযোগ করতে আপনার প্রয়োজনীয় সবকিছু "
+"এই গ্লোবাল অংশীদার এবং কমিউনিটি প্রশিক্ষণ হাবে আছে। কোনো বিষয় নির্বাচন করুন "
+"শুরু।"
 
 #. Translators:
 #. Page path: /1-1/introduction/
@@ -81,7 +86,7 @@ msgstr ""
 #: db-strings.txt:33 db-strings.txt.py:2373 db-strings.txt.py:4713
 #: db-strings.txt:7062 db-strings.txt.py:9276
 msgid "Introduction"
-msgstr ""
+msgstr "ভূমিকা"
 
 #. Translators:
 #. Page path: /1-1/introduction/
@@ -99,6 +104,8 @@ msgid ""
 "Find out what makes Firefox OS perfect for new smartphone users by giving "
 "them just what they need."
 msgstr ""
+"তাদের প্রয়োজন ঠিক কি তাদের দ্বারা নতুন স্মার্টফোন ব্যবহারকারীদের জন্য "
+"নির্ভুল Firefox Os কি করে তোলে খুঁজে বের করুন।"
 
 #. Translators:
 #. Page path: /1-1/introduction/
@@ -108,7 +115,7 @@ msgstr ""
 #. Page path: /1-4/introduction/
 #: db-strings.txt:51 db-strings.txt.py:2391 db-strings.txt.py:4731
 msgid "The Adaptive Phone"
-msgstr ""
+msgstr "একটি অভিযোজিত ফোন"
 
 #. Translators:
 #. Page path: /1-1/introduction/
@@ -118,7 +125,7 @@ msgstr ""
 #. Page path: /1-4/introduction/
 #: db-strings.txt:87 db-strings.txt.py:2427 db-strings.txt.py:4767
 msgid "Keep the Web in Your Hands"
-msgstr ""
+msgstr "ওয়েব কে আপনার হাতে রাখুন"
 
 #. Translators:
 #. Page path: /1-1/introduction/
@@ -128,7 +135,7 @@ msgstr ""
 #. Page path: /1-4/introduction/
 #: db-strings.txt:105 db-strings.txt.py:2445 db-strings.txt.py:4785
 msgid "A phone that makes every moment count"
-msgstr ""
+msgstr "এমন একটি ফোন যেটি প্রত্যেক মুহূর্তকে মনোরম বানায়"
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
@@ -143,7 +150,7 @@ msgstr ""
 #: db-strings.txt:123 db-strings.txt.py:2463 db-strings.txt.py:4803
 #: db-strings.txt:7152 db-strings.txt.py:9366
 msgid "Demo Tips"
-msgstr ""
+msgstr "প্রদর্শনের উপায়"
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
@@ -161,6 +168,8 @@ msgid ""
 "Learn how to show off and talk about the key features and benefits of "
 "Firefox OS to your customers."
 msgstr ""
+"কিভাবে জাহির করবেন এবং Firefox OS এর বিশেষ বৈশিষ্ট্যগুলো ও সুবিধা সম্পর্কে "
+"আপনার গ্রাহকদের বলবেন সেটা শিখুন।"
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
@@ -175,7 +184,7 @@ msgstr ""
 #: db-strings.txt:141 db-strings.txt.py:2472 db-strings.txt.py:4821
 #: db-strings.txt:7161 db-strings.txt.py:9375
 msgid "Demonstrations That Matter"
-msgstr ""
+msgstr "প্রদর্শনটি তাৎপর্যপূর্ণ"
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
@@ -189,6 +198,8 @@ msgstr ""
 #: db-strings.txt:9411
 msgid "When you only have a minute, make it count with this simple pitch."
 msgstr ""
+"আপনার কাছে খুবই কম সময় থাকলে সেই সময়টিকেও মনোরম করে তুলুন আমদের এই অতুলনীয় "
+"কাজের মাধ্যমে।"
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
@@ -213,7 +224,7 @@ msgstr ""
 #: db-strings.txt:5163 db-strings.txt.py:6486 db-strings.txt.py:6522
 #: db-strings.txt:6558 db-strings.txt.py:6594
 msgid "Adaptive App Search"
-msgstr ""
+msgstr "অভিযোজিত অ্যাপ খুজুন"
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
@@ -224,6 +235,8 @@ msgid ""
 "Show customers how Firefox OS adapts to them, giving them more of what they "
 "need, when they need it."
 msgstr ""
+"গ্রাহকদের দেখান কিভাবে Firefox OS কিভাবে তাদের সঙ্গে মানিয়ে নেয় প্রয়োজনের "
+"তুলনায় অধিক জিনিস কম সময়ে প্রদান করে।"
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
@@ -234,6 +247,8 @@ msgid ""
 "Demonstrate the powerful map features of Firefox OS, including local transit"
 " info."
 msgstr ""
+"স্থানীও পরিবহন তথ্য সমেত Firefox OS এর শক্তিশালী মানচিত্র বৈশিষ্ট্য "
+"প্রদর্শন।"
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
@@ -241,7 +256,7 @@ msgstr ""
 #. Page path: /1-4/demo-tips/
 #: db-strings.txt:222 db-strings.txt.py:4902
 msgid "It’s easier than ever to stay connected with Firefox OS."
-msgstr ""
+msgstr "এটা আগের তুলনায় অনেক সহজ Firefox OS এর সাথে সংযুক্ত থাকা।"
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
@@ -257,7 +272,7 @@ msgstr ""
 #: db-strings.txt:8808 db-strings.txt.py:10824 db-strings.txt.py:10905
 #: db-strings.txt:10932 db-strings.txt.py:10959
 msgid "Firefox Browser"
-msgstr ""
+msgstr "Firefox ব্রাঊসার"
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
@@ -284,7 +299,7 @@ msgstr ""
 #: db-strings.txt:7206 db-strings.txt.py:7440 db-strings.txt.py:9420
 #: db-strings.txt:9654
 msgid "Marketplace"
-msgstr ""
+msgstr "মার্কেটপ্লেস"
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
@@ -292,7 +307,7 @@ msgstr ""
 #. Page path: /1-4/demo-tips/
 #: db-strings.txt:258 db-strings.txt.py:4938
 msgid "Firefox Marketplace has the cool games and apps your customers want."
-msgstr ""
+msgstr "গ্রাহকদের জন্য Firefox Marketplace এ ভালো গেম এবং অ্যাপ আছে।"
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
@@ -303,6 +318,8 @@ msgid ""
 "With music at their fingertips, your customers will see how Firefox OS keeps"
 " them entertained and dancing in the streets."
 msgstr ""
+"হাতের কাছেই সঙ্গীত উপলব্ধ হওয়াতে, আপনার গ্রাহকগণ দেখতে পাবেন কিকরে Firefox "
+"OS তাঁদের মাতিয়ে রাখে"
 
 #. Translators:
 #. Page path: /1-1/customer-guide/
@@ -317,7 +334,7 @@ msgstr ""
 #: db-strings.txt:303 db-strings.txt.py:2589 db-strings.txt.py:4983
 #: db-strings.txt:7260 db-strings.txt.py:9474
 msgid "Customer Guide"
-msgstr ""
+msgstr "ক্রেতাদের উপদেষ্টাবলি"
 
 #. Translators:
 #. Page path: /1-1/customer-guide/
@@ -335,6 +352,8 @@ msgid ""
 "See how Firefox OS fits into your customers' lives, no matter who they are "
 "or where they're from."
 msgstr ""
+"দেখুন কিভাবে Firefox OS কাস্টমারদের জীবনের সাথে ফিট করে যায়, কোনো ব্যাপার নয় "
+"তারা কে বা তারা কোথা থেকে।"
 
 #. Translators:
 #. Page path: /1-1/customer-guide/
@@ -349,7 +368,7 @@ msgstr ""
 #: db-strings.txt:321 db-strings.txt.py:2598 db-strings.txt.py:4992
 #: db-strings.txt:7269 db-strings.txt.py:9483
 msgid "Who is your ideal Firefox customer?"
-msgstr ""
+msgstr "আপনার আদর্শ Firefox গ্রাহক কে?"
 
 #. Translators:
 #. Page path: /1-1/customer-guide/
@@ -364,7 +383,7 @@ msgstr ""
 #: db-strings.txt:339 db-strings.txt.py:2625 db-strings.txt.py:5019
 #: db-strings.txt:7296 db-strings.txt.py:9510
 msgid "The Smartphone Rookie"
-msgstr ""
+msgstr "স্মার্টফোনের সৈন্য"
 
 #. Translators:
 #. Page path: /1-1/customer-guide/
@@ -379,7 +398,7 @@ msgstr ""
 #: db-strings.txt:348 db-strings.txt.py:2634 db-strings.txt.py:5028
 #: db-strings.txt:7305 db-strings.txt.py:9519
 msgid "\"I have never had a smartphone.\""
-msgstr ""
+msgstr "\"আমার কাছে কোনদিনও স্মার্টফোন ছিল না।\""
 
 #. Translators:
 #. Page path: /1-1/customer-guide/
@@ -394,7 +413,7 @@ msgstr ""
 #: db-strings.txt:366 db-strings.txt.py:2652 db-strings.txt.py:5046
 #: db-strings.txt:7323 db-strings.txt.py:9537
 msgid "The Value Seeker"
-msgstr ""
+msgstr "মূল্য অন্বেষী"
 
 #. Translators:
 #. Page path: /1-1/customer-guide/
@@ -409,7 +428,7 @@ msgstr ""
 #: db-strings.txt:375 db-strings.txt.py:2661 db-strings.txt.py:5055
 #: db-strings.txt:7332 db-strings.txt.py:9546
 msgid "\"I want a good deal.\""
-msgstr ""
+msgstr "\"আমি একটা ভালো চুক্তি চাই।\""
 
 #. Translators:
 #. Page path: /1-1/customer-guide/
@@ -424,7 +443,7 @@ msgstr ""
 #: db-strings.txt:393 db-strings.txt.py:2679 db-strings.txt.py:5073
 #: db-strings.txt:7350 db-strings.txt.py:9564
 msgid "The Uncertain Upgrader"
-msgstr ""
+msgstr "অনিশ্চিত উন্নতিকারক"
 
 #. Translators:
 #. Page path: /1-1/customer-guide/
@@ -439,7 +458,7 @@ msgstr ""
 #: db-strings.txt:402 db-strings.txt.py:2688 db-strings.txt.py:5082
 #: db-strings.txt:7359 db-strings.txt.py:9573
 msgid "\"It needs to be easy to use.\""
-msgstr ""
+msgstr "\" এটা ব্যবহার সহজ করা প্রয়োজন।\""
 
 #. Translators:
 #. Page path: /1-1/customer-guide/
@@ -454,7 +473,7 @@ msgstr ""
 #: db-strings.txt:420 db-strings.txt.py:2706 db-strings.txt.py:5100
 #: db-strings.txt:7377 db-strings.txt.py:9591
 msgid "The Firefox Fan"
-msgstr ""
+msgstr "Firefox সমর্থক"
 
 #. Translators:
 #. Page path: /1-1/customer-guide/
@@ -469,7 +488,7 @@ msgstr ""
 #: db-strings.txt:429 db-strings.txt.py:2715 db-strings.txt.py:5109
 #: db-strings.txt:7386 db-strings.txt.py:9600
 msgid "\"I love firefox!\""
-msgstr ""
+msgstr "\" আমি firefox কে ভালোবাসি!\""
 
 #. Translators:
 #. Page path: /1-1/key-features/
@@ -484,7 +503,7 @@ msgstr ""
 #: db-strings.txt:447 db-strings.txt.py:2733 db-strings.txt.py:5127
 #: db-strings.txt:7404 db-strings.txt.py:9618
 msgid "Key Features"
-msgstr ""
+msgstr "বিশেষ বৈশিষ্ট্যগুলো"
 
 #. Translators:
 #. Page path: /1-1/key-features/
@@ -502,6 +521,8 @@ msgid ""
 "Discover what makes Firefox OS the most unique and exciting mobile operating"
 " system."
 msgstr ""
+"খুজে পান কি মোবাইল অপারেটিং সিস্টেম হিসাবে Firefox OS কে অনন্য ও উদ্দীপক করে "
+"তোলে।"
 
 #. Translators:
 #. Page path: /1-1/key-features/
@@ -516,7 +537,7 @@ msgstr ""
 #: db-strings.txt:465 db-strings.txt.py:2742 db-strings.txt.py:5145
 #: db-strings.txt:7413 db-strings.txt.py:9627
 msgid "Features that count"
-msgstr ""
+msgstr "গণনা যে বৈশিষ্ট্য"
 
 #. Translators:
 #. Page path: /1-1/key-features/
@@ -535,7 +556,7 @@ msgstr ""
 #: db-strings.txt:2805 db-strings.txt.py:5199 db-strings.txt.py:7458
 #: db-strings.txt:9672
 msgid "Firefox browser"
-msgstr ""
+msgstr "Firefox ব্রাউজার"
 
 #. Translators:
 #. Page path: /1-1/key-features/
@@ -548,7 +569,7 @@ msgstr ""
 #: db-strings.txt:537 db-strings.txt.py:5217 db-strings.txt.py:7476
 #: db-strings.txt:9690
 msgid "Facebook and Twitter"
-msgstr ""
+msgstr "Facebook এবং Twitter"
 
 #. Translators:
 #. Page path: /1-1/key-features/
@@ -562,6 +583,9 @@ msgid ""
 "your Facebook contacts to your phone to keep your community all in one "
 "place."
 msgstr ""
+"আপনার পছন্দের সামাজিক যোগাযোগ নেটওয়ার্কের সাথে গভীরভাবে সংযুক্ত। আপনার "
+"কমিউনিটিকে এক জায়গায় রাখতে আপনি অতি সহজেই Facebook কন্টাক্টগুলো আপনার "
+"মোবাইলে ইম্পোর্ট করতে পারেন।"
 
 #. Translators:
 #. Page path: /1-1/key-features/
@@ -592,7 +616,7 @@ msgstr ""
 #: db-strings.txt:8772 db-strings.txt.py:8799 db-strings.txt.py:9708
 #: db-strings.txt:10896 db-strings.txt.py:10923 db-strings.txt.py:10950
 msgid "Contacts"
-msgstr ""
+msgstr "পরিচিতি"
 
 #. Translators:
 #. Page path: /1-1/key-features/
@@ -605,6 +629,8 @@ msgid ""
 "Stay connected, with easy access to your friends and colleagues from "
 "wherever you are."
 msgstr ""
+"সহজে প্রবেশাধিকার সাথে আপনি যেখানেই থাকুন আপনার বন্ধু বান্ধব এবং সহকর্মীর "
+"যোগাযোগ রাখুন।"
 
 #. Translators:
 #. Page path: /1-1/key-features/
@@ -633,7 +659,7 @@ msgstr ""
 #: db-strings.txt:6405 db-strings.txt.py:7512 db-strings.txt.py:8682
 #: db-strings.txt:9726 db-strings.txt.py:10833
 msgid "Camera and Gallery"
-msgstr ""
+msgstr "ক্যামেরা এবং গ্যালারি"
 
 #. Translators:
 #. Page path: /1-1/key-features/
@@ -650,7 +676,7 @@ msgstr ""
 #: db-strings.txt:591 db-strings.txt.py:1743 db-strings.txt.py:2877
 #: db-strings.txt:4101 db-strings.txt.py:5271 db-strings.txt.py:6432
 msgid "FM Radio"
-msgstr ""
+msgstr "FM রেডিও"
 
 #. Translators:
 #. Page path: /1-1/key-features/
@@ -663,6 +689,8 @@ msgid ""
 "All the audio you want on the go, all on one device. Just plug in your "
 "earphones and start listening."
 msgstr ""
+"যতো গান আপনি বাজাতে চান, সবই রয়েছে একটিমাত্র ডিভাইসে। কেবল আপনার ইয়ারফোনটি "
+"লাগান আর শুনতে থাকুন।"
 
 #. Translators:
 #. Page path: /1-1/key-features/
@@ -670,7 +698,7 @@ msgstr ""
 #. Page path: /1-4/key-features/
 #: db-strings.txt:609 db-strings.txt.py:5289
 msgid "Maps"
-msgstr ""
+msgstr "মানচিত্র"
 
 #. Translators:
 #. Page path: /1-1/key-features/
@@ -685,7 +713,7 @@ msgstr ""
 #: db-strings.txt:627 db-strings.txt.py:2895 db-strings.txt.py:5307
 #: db-strings.txt:7548 db-strings.txt.py:9762
 msgid "Music and Video"
-msgstr ""
+msgstr "সঙ্গীত এবং ভিডিও"
 
 #. Translators:
 #. Page path: /1-1/key-features/
@@ -697,6 +725,9 @@ msgid ""
 "music collection by album or artist, rate songs and create playlists for "
 "your favorites."
 msgstr ""
+"অনলাইন ইউটিউব মাধ্যমে অথবা আপনার ফোন থেকে এটা চালু করুন। অ্যালবাম বা শিল্পী "
+", গানের মান দ্বারা আপনার সঙ্গীত সংগ্রহ দেখুন ও চালান এবং আপনার পছন্দের "
+"প্লেলিস্ট তৈরি করুন।"
 
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
@@ -711,7 +742,7 @@ msgstr ""
 #: db-strings.txt:663 db-strings.txt.py:2931 db-strings.txt.py:5343
 #: db-strings.txt:7620 db-strings.txt.py:9798
 msgid "Frequently Asked Questions"
-msgstr ""
+msgstr "অনবরত জিজ্ঞাসিত প্রশ্ন"
 
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
@@ -729,6 +760,8 @@ msgid ""
 "Still have questions? Not for long! Find all the answers you're looking for "
 "here."
 msgstr ""
+"এখনও প্রশ্ন আছে ? বেশি দূর না! আপনি যা খুঁজছেন সব প্রশ্নের উত্তর এখানে পেতে "
+"পারেন।"
 
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
@@ -743,7 +776,7 @@ msgstr ""
 #: db-strings.txt:681 db-strings.txt.py:2940 db-strings.txt.py:5352
 #: db-strings.txt:7629 db-strings.txt.py:9807
 msgid "You have questions? We have answers!"
-msgstr ""
+msgstr "আপনার কোন প্রশ্ন আছে? আমাদের উত্তর আছে!"
 
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
@@ -761,6 +794,8 @@ msgid ""
 "By now, you probably have questions and so will your customers! Select each "
 "question for more on Firefox OS."
 msgstr ""
+"এরই মধ্যে আপনার মনে নিশ্চয়ই প্রশ্ন জেগেছে এবং আপনার ক্রেতার মনেও জাগবে! "
+"Firefox OS সম্পর্কে আরো জানতে যেকোনো একটি প্রশ্ন বেছে নিন।"
 
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
@@ -770,7 +805,7 @@ msgstr ""
 #. Page path: /1-4/frequently-asked-questions/
 #: db-strings.txt:699 db-strings.txt.py:2967 db-strings.txt.py:5379
 msgid "What is Adaptive App Search?"
-msgstr ""
+msgstr "অভিযোজিত অ্যাপ অনুসন্ধান কি?"
 
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
@@ -785,7 +820,7 @@ msgstr ""
 #: db-strings.txt:717 db-strings.txt.py:2985 db-strings.txt.py:5397
 #: db-strings.txt:7656 db-strings.txt.py:9834
 msgid "How many and what types of apps will be available?"
-msgstr ""
+msgstr "কত এবং কি ধরনের অ্যাপ উপলব্ধ হবে?"
 
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
@@ -800,7 +835,7 @@ msgstr ""
 #: db-strings.txt:735 db-strings.txt.py:3003 db-strings.txt.py:5415
 #: db-strings.txt:7674 db-strings.txt.py:9852
 msgid "What makes Firefox OS more secure than other phones?"
-msgstr ""
+msgstr "কি Firefox OS কে অন্যান্য ফোনের তুলনায় বেশী নিরাপদ করে তোলে?"
 
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
@@ -815,7 +850,7 @@ msgstr ""
 #: db-strings.txt:753 db-strings.txt.py:3039 db-strings.txt.py:5451
 #: db-strings.txt:7710 db-strings.txt.py:9888
 msgid "Do Android apps work on this phone?"
-msgstr ""
+msgstr "Android অ্যাপ কি এই ফোনে কাজ করে?"
 
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
@@ -828,6 +863,10 @@ msgid ""
 "proprietary platforms. Therefore, many of the same apps will be available "
 "through Adaptive App Search."
 msgstr ""
+"সরাসরি চলবে না। যদিও, জনপ্রিয় অনেক Android এবং iOS অ্যাপেই আসলে ওয়েব অ্যাপ "
+"যাদের নিজস্ব “wrapper” রয়েছে যা এগুলো মালিকানাধিন প্লাটফর্মে চলতে অনুমোদন "
+"দেয়। আর তাই, এই রকমের অনেক অ্যাপ বুদ্ধিদীপ্ত অ্যাপ অনুসন্ধানের মাধ্যমে "
+"পাওয়া যেতে পারে।"
 
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
@@ -837,7 +876,7 @@ msgstr ""
 #. Page path: /1-4/frequently-asked-questions/
 #: db-strings.txt:771 db-strings.txt.py:3057 db-strings.txt.py:5469
 msgid "Do my apps work offline?"
-msgstr ""
+msgstr "আমার অ্যাপ কি অফলাইন কাজ করবে?"
 
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
@@ -852,7 +891,7 @@ msgstr ""
 #: db-strings.txt:789 db-strings.txt.py:3075 db-strings.txt.py:5487
 #: db-strings.txt:7764 db-strings.txt.py:9942
 msgid "What about customer support for apps?"
-msgstr ""
+msgstr "আপনার অ্যাপের গ্রাহক সমর্থন সম্পর্কে খবর কি?"
 
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
@@ -866,6 +905,10 @@ msgid ""
 " app, Mozilla may recommend workarounds including uninstalling the app until"
 " the developer provides appropriate assistance."
 msgstr ""
+"কোন ক্রেতার যদি Firefox OS এর জন্য তৈরিকৃত অ্যাপের সাহায্যের প্রয়োজন হয় "
+"তবে তাকে উক্ত অ্যাপ ডেভলপার সহায়তা করবেন। অ্যাপ সংক্রান্ত সহায়তা ক্রেতার "
+"মনঃপুত না হলে, ডেভলপার উপযুক্ত সহায়তা নিশ্চিত করার আগ পর্যন্ত Mozilla উক্ত "
+"অ্যাপটির উপরে আরও কাজ করার, এমন কি আনইন্সটল করার পরামর্শও দিতে পারে।"
 
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
@@ -880,7 +923,7 @@ msgstr ""
 #: db-strings.txt:807 db-strings.txt.py:3093 db-strings.txt.py:5505
 #: db-strings.txt:7782 db-strings.txt.py:9960
 msgid "How do I download and install apps on Firefox OS?"
-msgstr ""
+msgstr "Firefox OS এ অ্যাপ ডাউনলোড এবং ইন্সটল করব কিভাবে?"
 
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
@@ -895,7 +938,7 @@ msgstr ""
 #: db-strings.txt:843 db-strings.txt.py:3129 db-strings.txt.py:5541
 #: db-strings.txt:7818 db-strings.txt.py:9996
 msgid "Where should I go if I have more questions?"
-msgstr ""
+msgstr "আমি কোথায় যাবো যদি আমার আরও কিছু প্রশ্ন থাকে?"
 
 #. Translators:
 #. Page path: /1-1/about/
@@ -905,7 +948,7 @@ msgstr ""
 #. Page path: /1-4/about/
 #: db-strings.txt:861 db-strings.txt.py:3147 db-strings.txt.py:5559
 msgid "The Firefox Mission"
-msgstr ""
+msgstr "Firefox মিশন"
 
 #. Translators:
 #. Page path: /1-1/about/
@@ -921,7 +964,7 @@ msgstr ""
 #: db-strings.txt:7845 db-strings.txt.py:10023
 msgid ""
 "Our mission is to promote openness, innovation and opportunity on the Web."
-msgstr ""
+msgstr "আমাদের লক্ষ্য হলো মুক্ততা, নতুনত্ব এবং সুযোগকে উন্নীত করা।"
 
 #. Translators:
 #. Page path: /1-1/about/
@@ -940,6 +983,12 @@ msgid ""
 "controlled by just a few large entities. Yeah, we’re a little different than"
 " the other guys. Together, we can build a brighter future for the Web."
 msgstr ""
+"প্রত্যেকটি Firefox OS স্মার্ট ফোনের পিছনেই রয়েছে Mozilla: সহস্রাধিক মানুষের "
+"সমন্বয়ে গঠিত একটি গ্লোবাল কমিউনিটি যা সকলের জন্য ওয়েবকে ব্যাবহারযোগ্য "
+"রাখতে নিবেদিত। কেননা আমরা বিশ্বাস করি আমাদের প্রত্যেকেরই এমন ওয়েবের অধিকার "
+"আছে যা শুধুমাত্র কিছু বৃহৎ সংস্থা দ্বারা নিয়ন্ত্রিত নয়। হ্যাঁ , আমরা "
+"অন্যদের থেকে সামান্য আলাদা। একত্রে, আমরা ওয়েবের জন্য একটি উজ্জ্বল ভবিষ্যৎ "
+"নির্মাণ করতে পারি।"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -949,7 +998,7 @@ msgstr ""
 #. Page path: /1-4/take-the-challenge/
 #: db-strings.txt:888 db-strings.txt.py:3174 db-strings.txt.py:5586
 msgid "Take the challenge"
-msgstr ""
+msgstr "চ্যালেঞ্জ গ্রহণ করুন"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -964,7 +1013,7 @@ msgstr ""
 #: db-strings.txt:897 db-strings.txt.py:3192 db-strings.txt.py:5595
 #: db-strings.txt:7872 db-strings.txt.py:10050
 msgid "Ready to show what you know?"
-msgstr ""
+msgstr "আপনি যা জানেন তা দেখাতে প্রস্তুত?"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -982,6 +1031,7 @@ msgid ""
 "Put your new knowledge to the test with this series of fun, interactive "
 "quizzes."
 msgstr ""
+"মজা, ইন্টারেক্টিভ ক্যুইজ এই সিরিজের সঙ্গে পরীক্ষা আপনার নতুন জ্ঞান রাখুন।"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -991,7 +1041,7 @@ msgstr ""
 #. Page path: /1-4/take-the-challenge/
 #: db-strings.txt:942 db-strings.txt.py:3228 db-strings.txt.py:5640
 msgid "How do you access the Adaptive App Search feature on Firefox OS?"
-msgstr ""
+msgstr "Firefox OS এর বুদ্ধিদীপ্ত অনুসন্ধান -এ আপনি কিভাবে ব্যবহার করবেন?"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1002,6 +1052,8 @@ msgid ""
 "Which of the following apps is pre-loaded on every Firefox OS phone? Select "
 "all that apply."
 msgstr ""
+"নিচের কোন অ্যাপগুলো প্রতিটি Firefox OS ফোনে আগে থেকেই দেওয়া থাকবে? প্রযোজ্য "
+"সবগুলো নির্বাচন করুন।"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1017,7 +1069,7 @@ msgstr ""
 #: db-strings.txt:7962 db-strings.txt.py:10140
 msgid ""
 "That’s right! All of these apps come pre-loaded on every Firefox OS phone."
-msgstr ""
+msgstr "একদম সঠিক! এই সকল অ্যাপ Firefox OS ফোনে আগে থেকেই ইন্সটল করা রয়েছে।"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1032,7 +1084,7 @@ msgstr ""
 #: db-strings.txt:996 db-strings.txt.py:3282 db-strings.txt.py:5694
 #: db-strings.txt:7971 db-strings.txt.py:10149
 msgid "Actually, all of these apps come pre-loaded on every Firefox OS phone."
-msgstr ""
+msgstr "আসলে, এই সকল অ্যাপ Firefox OS ফোনে আগে থেকে লোড করা থাকে।"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1045,6 +1097,8 @@ msgid ""
 "When you type a word or subject that interests you using Adaptive App Search"
 " what happens? Select all that apply."
 msgstr ""
+"কি হয় যখন আপনি কোন শব্দ অথবা বিষয় লিখেন যা আপনাকে বুদ্ধিদীপ্ত অ্যাপ "
+"অনুসন্ধানে আগ্রহী করে তুলে?"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1054,7 +1108,7 @@ msgstr ""
 #. Page path: /1-4/take-the-challenge/
 #: db-strings.txt:1023 db-strings.txt.py:3741 db-strings.txt.py:6153
 msgid "That’s right. All of these are true of Adaptive App Search!"
-msgstr ""
+msgstr "সঠিক বলছি। এই সব কিছুই বুদ্ধিদীপ্ত অ্যাপ অনুসন্ধানের জন্য ঠিক।"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1065,7 +1119,7 @@ msgstr ""
 #: db-strings.txt:1032 db-strings.txt.py:1041 db-strings.txt.py:3750
 #: db-strings.txt:3759 db-strings.txt.py:6162 db-strings.txt.py:6171
 msgid "Actually, all of these are true of Adaptive App Search!"
-msgstr ""
+msgstr "আসলে, এগুলো সবই বুদ্ধিদীপ্ত অ্যাপ অনুসন্ধানের জন্য সত্য!"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1081,7 +1135,7 @@ msgstr ""
 #: db-strings.txt:8610 db-strings.txt.py:10752
 msgid ""
 "That’s right. All of these customers are ideal candidates for Firefox OS!"
-msgstr ""
+msgstr "একেবারে ঠিক, এই সকল ক্রেতা Firefox OS এর জন্য আদর্শ প্রার্থী!"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1098,7 +1152,7 @@ msgstr ""
 #: db-strings.txt:8619 db-strings.txt.py:8628 db-strings.txt.py:10761
 #: db-strings.txt:10770
 msgid "In fact, ALL of these customers are ideal candidates for Firefox OS!"
-msgstr ""
+msgstr "বস্তুত, এই  সকল ক্রেতাই সব Firefox OS এর জন্য আদর্শ প্রার্থী!"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1117,7 +1171,7 @@ msgstr ""
 #: db-strings.txt:8025 db-strings.txt.py:8061 db-strings.txt.py:10167
 #: db-strings.txt:10203 db-strings.txt.py:10239
 msgid "Which Firefox OS feature does this icon represent?"
-msgstr ""
+msgstr "এই আইকনটি Firefox OS এর কোন বৈশিষ্টকে নির্দেশ করে?"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1125,7 +1179,7 @@ msgstr ""
 #. Page path: /1-4/take-the-challenge/
 #: db-strings.txt:1095 db-strings.txt.py:5757
 msgid "That’s right. This icon represents Contacts."
-msgstr ""
+msgstr "একদম সঠিক! এই আইকন পরিচিতি নির্দেশ করে।"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1133,7 +1187,7 @@ msgstr ""
 #. Page path: /1-4/take-the-challenge/
 #: db-strings.txt:1104 db-strings.txt.py:1113 db-strings.txt.py:5766
 msgid "Actually, this icon represents Contacts."
-msgstr ""
+msgstr "আসলে, এগুলো সবই বুদ্ধিদীপ্ত অ্যাপ অনুসন্ধানের জন্য সত্য।"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1143,7 +1197,7 @@ msgstr ""
 #. Page path: /1-4/take-the-challenge/
 #: db-strings.txt:1167 db-strings.txt.py:3417 db-strings.txt.py:5829
 msgid "That’s right. This icon represents Adaptive App Search."
-msgstr ""
+msgstr "একেবারে ঠিক, এই সকল ক্রেতা Firefox OS এর জন্য আদর্শ প্রার্থী।"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1161,6 +1215,8 @@ msgid ""
 "Your customer wants to understand the biggest benefits of Firefox OS versus "
 "its competitors. Select all of the statements that apply."
 msgstr ""
+"আপনার ক্রেতা নিজ প্রতিযোগীদের বিপরীতে  Firefox OS এর সব থেকে বড় সুবিধাটি "
+"জানতে চাইবে। প্রযোজ্য সকল বিবৃতি নির্বাচন করুন। "
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1175,7 +1231,7 @@ msgstr ""
 #: db-strings.txt:1203 db-strings.txt.py:3453 db-strings.txt.py:5865
 #: db-strings.txt:8142 db-strings.txt.py:10320
 msgid "That’s right. These statements are all true about Firefox OS."
-msgstr ""
+msgstr "একদম সঠিক! এই সকল বিবৃতি Firefox OS এর সম্পর্কে সত্য।"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1190,6 +1246,8 @@ msgid ""
 "selection of devices.” This may be true in the future, but it is not "
 "currently true."
 msgstr ""
+"মূলত, এগুলোর সব কয়টি সত্য শুধুমাত্র “অনেক ডিভাইস থেক নির্বাচনের সুযোগ” "
+"বিবৃতি বাদে। এটা ভবিষ্যতে সত্য হতে পারে, কিন্তু বর্তমানে এটা সত্য নয়।"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1207,6 +1265,8 @@ msgid ""
 "A customer tells you that smartphones seem complicated. What selling feature"
 " should you lead with?"
 msgstr ""
+"একজন ক্রেতা আপনাকে বললেন স্মার্ট ফোন গুলোকে জটিল মনে হয়। আপনার সেক্ষেত্রে "
+"কি ধরনের বিক্রয় উপায়ী অবলম্বন করা উচিত?"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1224,6 +1284,8 @@ msgid ""
 "That’s right. For a customer looking for a smartphone that is easy to use, "
 "Firefox OS is a great choice."
 msgstr ""
+"একদম সঠিক। একজন ক্রেতার ব্যবহারে সহজ এমন একটি স্মার্টফোনের খুঁজছেন, Firefox "
+"OS  তার জন্যে খুব ভালো হবে।"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1240,6 +1302,8 @@ msgid ""
 "Actually, for this customer, the best choice is to talk about how easy "
 "Firefox OS is to use."
 msgstr ""
+"মূলত, এই ক্রেতার জন্য, সবচেয়ে ভালো উপায় হল Firefox OS ব্যবহার কতটা সহজ সে "
+"সম্পর্কে কথা বলা।"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1257,6 +1321,8 @@ msgid ""
 "A customer tells you that she’s ready to move up from her old feature phone."
 " What selling feature should you lead with?"
 msgstr ""
+"যদি কোন ক্রেতা তার পুরানো ফিচার ফোন পরিবর্তন করতে রাজি থাকেন। তাহলে আপনি "
+"বিক্রির জন্য কি ধরনের ফিচারের সাথে অগ্রসর হবেন?"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1274,6 +1340,8 @@ msgid ""
 "A customer tells you that he uses Firefox as his desktop browser. With what "
 "selling feature should you lead?"
 msgstr ""
+"একজন ক্রেতা আপনাকে বললো, যে সে ডেস্কটপ ব্রাউজার হিসেবে Firefox ব্যবহার করেন। "
+"তাহলে আপনি বিক্রির জন্য কি ধরনের ফিচারের সাথে অগ্রসর হবেন?"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1291,6 +1359,9 @@ msgid ""
 "statements would be the most appropriate response to this particular "
 "customer?"
 msgstr ""
+"একজন ক্রেতা বললেন, “আমি আমার বাড়ির কম্পিউটারে Firefox ব্যবহার করি, আমার এটা "
+"পছন্দও করি, কিন্তু আমি জানতাম না এদের স্মার্টফোন OS আছে। কেন?” ক্রেতার এইরকম "
+"প্রশ্নের বিপরীতে, নিচের কোন উত্তরটি সবচেয়ে সঠিক হবে?"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1303,6 +1374,8 @@ msgid ""
 "Which of the following statements about Adaptive App Search are true? Select"
 " all that apply."
 msgstr ""
+"বুদ্ধিদীপ্ত অ্যাপ অনুসন্ধান সম্পর্কিত নিচের বিবৃতিগুলোর কোনটি সত্যি? "
+"প্রযোজ্য সবগুলো নির্বাচন করুন।"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1315,6 +1388,8 @@ msgid ""
 "That’s right. Adaptive App Search anticipates your needs better than any "
 "other phone."
 msgstr ""
+"একদম সঠিক। বুদ্ধিদীপ্ত অ্যাপ অনুসন্ধান অন্য যেকোন ফোনের চেয়ে আপনার "
+"প্রয়োজনীয়তার কথা বেশি বুঝতে পারে।"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1327,6 +1402,8 @@ msgid ""
 "That’s right. A first time smartphone user will be most interested in ease "
 "of use."
 msgstr ""
+"এটা সত্যি। প্রথমবারের মত একজন স্মার্ট ফোন ব্যাবহারকারী ব্যাবহারিক দিক দিয়ে "
+"আগ্রহী হবে।"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1345,6 +1422,8 @@ msgid ""
 "Not quite. A first time smartphone user will be most interested in ease of "
 "use."
 msgstr ""
+"তেমন কিছু নয়। প্রথমবারের মতো স্মার্ট ফোন ব্যাবহারকারী সহজে ব্যবহার করার "
+"প্রতি বেশি আগ্রহী হবেন।"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1358,6 +1437,9 @@ msgid ""
 "without installing it. If you want to use it again later, it’s easy to add "
 "it to your homescreen."
 msgstr ""
+"বুদ্ধিদীপ্ত অনুসন্ধানের মাধ্যমে আপনি কোন অ্যাপকে ইন্সটল করা ছাড়াই একবারে, "
+"দ্রুত ও সহজে ব্যবহার করতে পারবেন। যদি পরবর্তীতে এটি আবারও ব্যবহার করতে চান, "
+"এটি সহজেই আপনি প্রধান স্ক্রিনে যোগ করে নিতে পারবেন।"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1375,7 +1457,7 @@ msgstr ""
 #: db-strings.txt:8466 db-strings.txt.py:8538 db-strings.txt.py:8574
 #: db-strings.txt:10608 db-strings.txt.py:10680 db-strings.txt.py:10716
 msgid "That’s right!"
-msgstr ""
+msgstr "একদম সঠিক!"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1386,7 +1468,7 @@ msgstr ""
 #: db-strings.txt:1536 db-strings.txt.py:1545 db-strings.txt.py:3786
 #: db-strings.txt:3795 db-strings.txt.py:6198 db-strings.txt.py:6207
 msgid "Actually, this is true."
-msgstr ""
+msgstr "আসলে, এটাই ঠিক।"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1399,6 +1481,8 @@ msgid ""
 "What’s the best response to this customer’s objection? “I’ve heard there are"
 " not many apps.”"
 msgstr ""
+"ক্রেতার এই অভিযোগের সবচেয়ে ভালো উত্তর কি হবে? “আমি শুনেছি সেখানে বেশি অ্যাপ "
+"নেই।\""
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1413,7 +1497,7 @@ msgstr ""
 #: db-strings.txt:1563 db-strings.txt.py:3813 db-strings.txt.py:6225
 #: db-strings.txt:8502 db-strings.txt.py:10644
 msgid "That’s right."
-msgstr ""
+msgstr "একদম সঠিক।"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1426,6 +1510,8 @@ msgid ""
 "What’s the best response to this customer’s objection? “I’ve never heard of "
 "Firefox OS phones.”"
 msgstr ""
+"ক্রেতার এই অভিযোগের সর্বোত্তম জবাব কি হতে পারে? “আমি কখনও Firefox OS এর কথা "
+"শুনিনি।”"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1443,6 +1529,8 @@ msgid ""
 "What’s the best response to this customer’s objection? “How do I know this "
 "new phone is safe?”"
 msgstr ""
+"ক্রেতার এই অভিযোগের সর্বোত্তম জবাব কি হতে পারে? “আমি কিভাবে জানব যে এই নতুন "
+"ফোনটি নিরাপদ?”"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1452,7 +1540,7 @@ msgstr ""
 #. Page path: /1-4/take-the-challenge/
 #: db-strings.txt:1662 db-strings.txt.py:3948 db-strings.txt.py:6360
 msgid "Swipe to the left."
-msgstr ""
+msgstr "বাঁদিকে সোয়াইপ করুন।"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1460,7 +1548,7 @@ msgstr ""
 #. Page path: /1-4/take-the-challenge/
 #: db-strings.txt:1680 db-strings.txt.py:6369
 msgid "Open Firefox Marketplace."
-msgstr ""
+msgstr "Firefox Marketplace-এ খুলুন।"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1468,7 +1556,7 @@ msgstr ""
 #. Page path: /1-4/take-the-challenge/
 #: db-strings.txt:1689 db-strings.txt.py:6378
 msgid "Open the Firefox browser."
-msgstr ""
+msgstr "Firefox Marketplace চালু করুন।"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1481,7 +1569,7 @@ msgstr ""
 #: db-strings.txt:1698 db-strings.txt.py:6387 db-strings.txt.py:8664
 #: db-strings.txt:10815
 msgid "Firefox Marketplace"
-msgstr ""
+msgstr "Firefox Marketplace"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1498,7 +1586,7 @@ msgstr ""
 #: db-strings.txt:1725 db-strings.txt.py:2823 db-strings.txt.py:4011
 #: db-strings.txt:6414 db-strings.txt.py:8691 db-strings.txt.py:10842
 msgid "Facebook"
-msgstr ""
+msgstr "Facebook"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1508,7 +1596,7 @@ msgstr ""
 #. Page path: /1-4/take-the-challenge/
 #: db-strings.txt:1770 db-strings.txt.py:4506 db-strings.txt.py:6846
 msgid "Results from around the Web are displayed like apps on your phone."
-msgstr ""
+msgstr "ওয়েবের অনেক কিছুই ফলালফল হিসাবে অ্যাপের মত করে আপনার ফোনে দেখাবে।"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1521,6 +1609,8 @@ msgid ""
 "Your background image changes instantly to reveal popular photos from the "
 "Web."
 msgstr ""
+"আপনার ব্যাকগ্রাউন্ড ছবি মূহুর্তে পরিবর্তন হয়ে ওয়েবের জনপ্রিয় কোন ছবিতে "
+"রূপান্তরিত হবে।"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1533,6 +1623,8 @@ msgid ""
 "Results include relevant maps, pictures, music, news, videos, Twitter feeds "
 "and more."
 msgstr ""
+"ফলে আপনার অনুসন্ধানের সাথে সম্পৃক্ত মানচিত্র, ছবি, সংগীত, খবর, ভিডিও, টুইটার "
+"ফিড আরও অনেক কিছুই ফলাফলের অন্তর্ভুক্ত থাকবে।"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1541,7 +1633,7 @@ msgstr ""
 #: db-strings.txt:1797 db-strings.txt.py:6873
 msgid ""
 "Tens of thousands of Web apps from around the world are searched instantly."
-msgstr ""
+msgstr "বিশ্বজুড়ে থাকা হাজারো ওয়েব অ্যাপ মূহুর্তে অনুসন্ধান করা হয়ে যাবে।"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1556,7 +1648,7 @@ msgstr ""
 #: db-strings.txt:1806 db-strings.txt.py:4632 db-strings.txt.py:6981
 #: db-strings.txt:9195 db-strings.txt.py:11319
 msgid "I’ve never used a smartphone before."
-msgstr ""
+msgstr "আমি এর আগে কখনও স্মার্টফোন ব্যবহার করিনি।"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1571,7 +1663,7 @@ msgstr ""
 #: db-strings.txt:1815 db-strings.txt.py:4641 db-strings.txt.py:6990
 #: db-strings.txt:9204 db-strings.txt.py:11328
 msgid "I’m looking for the best value for my money."
-msgstr ""
+msgstr "আমি আমার অর্থের সর্বোচ্চ মূল্য চাই।"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1586,7 +1678,7 @@ msgstr ""
 #: db-strings.txt:1824 db-strings.txt.py:4650 db-strings.txt.py:6999
 #: db-strings.txt:9213 db-strings.txt.py:11337
 msgid "I want a smartphone that is truly easy to use."
-msgstr ""
+msgstr "আমি একটি স্মার্টফোনের চাই যা ব্যবহার সত্যিই সহজ।"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1601,7 +1693,7 @@ msgstr ""
 #: db-strings.txt:1833 db-strings.txt.py:4659 db-strings.txt.py:7008
 #: db-strings.txt:9222 db-strings.txt.py:11346
 msgid "I’m a Firefox fan."
-msgstr ""
+msgstr "আমি একজন Firefox ভক্ত।"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1613,6 +1705,9 @@ msgid ""
 " Facebook, a camera, music, and more, Firefox OS is packed with the features"
 " you’d expect in a smartphone."
 msgstr ""
+"Firefox Marketplace এবং আগে থেকে লোড করে রাখা ডজনখানেক অ্যাপ, যেমন ইমেইল , "
+"ম্যাপ , Facebook , ক্যামেরা , সঙ্গীত এবং আরও অনেক কিছু, Firefox OS সেই সকল "
+"বৈশিষ্ট্য যা আপনি সচরাচর একটি স্মার্ট ফোনে প্রত্যাশা করেন।"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1629,6 +1724,9 @@ msgid ""
 "backed by a global community working on your behalf and with your interests "
 "in mind."
 msgstr ""
+"যেহেতু এটি Firefox দ্বারা তৈরি , আপনি নিশ্চিত থাকতে পারেন যে Firefox OS এর "
+"পিছনে একটি গ্লোবাল কমিউনিটি আপনার হয়ে এবং আপনার সুবিধার কথা মাথায় রেখে কাজ "
+"করছে।"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1640,6 +1738,8 @@ msgstr ""
 msgid ""
 "Firefox OS gives you the broadest selection of devices on the market today."
 msgstr ""
+"Firefox OS আপনাকে আজকের বাজারে অনেক ধরনের ডিভাইস থেকে নির্বাচনের সুযোগ "
+"দিচ্ছে।"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1657,6 +1757,9 @@ msgid ""
 "expect — camera, email, apps, music, maps and more — at the most competitive"
 " prices."
 msgstr ""
+"Firefox OS  আপনার প্রত্যাশার - ক্যামেরা , ইমেইল , অ্যাপ, গান, ম্যাপ ইত্যাদির "
+"কথা -  মাথায় রেখে- আপনার অর্থের প্রতি সর্বচ্চ গুরুত্বারোপ  করে - সব থেকে "
+"সাশ্রয়ী মূল্যে।"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1673,6 +1776,9 @@ msgid ""
 " are already preloaded and you can easily import your friends from Facebook,"
 " too."
 msgstr ""
+"Firefox OS ব্যবহার করা সব থেকে সোজা। আপনার পছন্দের অ্যাপ গুলো আগে থেকেই লোড "
+"করা থাকে এবং আপনি আপনার Facebook বন্ধুদেরকেও সহজেই কন্টাক্ট তালিকায় "
+"ইম্পোর্ট করতে পারেন।"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1684,6 +1790,8 @@ msgid ""
 "If you love Firefox browsers, you’ll love Firefox OS phones. Choosing "
 "Firefox OS keeps the power of the Web in your hands."
 msgstr ""
+"আপনি যদি Firefox ব্রাউজারকে ভালবাসেন তাহলে আপনি Firefox OS কেও ভালোবাসবেন। "
+"Firefox OS বেছে নিলে ওয়েবের শক্তি থাকবে আপনার হাতের মুঠোয়।"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1696,6 +1804,10 @@ msgid ""
 " prices. Plus, Adaptive App Search feature makes it easy to find the apps "
 "you really need, when you need it."
 msgstr ""
+"Firefox OS  আপনার প্রত্যাশার - ক্যামেরা, ইমেইল , অ্যাপ, গান , ম্যাপ ইত্যাদির "
+"কথা -  মাথায় রেখে- আপনার অর্থের প্রতি সর্বোচ্চ গুরুত্বারোপ করে - সব থেকে "
+"সাশ্রয়ী মূল্যে। আরও আছে, বুদ্ধিদীপ্ত অ্যাপ অনুসন্ধান বৈশিষ্ট্য, যখন যেমন "
+"অ্যাপ আপনার প্রয়োজন তা সহজেই খুঁজে আনবে।"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1714,6 +1826,9 @@ msgid ""
 " are already preloaded and you can easily import your friends from Facebook "
 "too."
 msgstr ""
+"ব্যবহারের জন্য Firefox OS সবচেয়ে সহজ স্মার্টফোন। আপনার পছন্দসই অ্যাপগুলো "
+"আগে থেকেই দেয়া আছে এবং আপনি আপনার বন্ধুদের কন্টাক্টও Facebook থেকে ইম্পোর্ট "
+"করতে পারেন।"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1729,6 +1844,8 @@ msgid ""
 "Facebook is preloaded on every Firefox OS device and you can import your "
 "Facebook contacts easily!"
 msgstr ""
+"ফেসবুক প্রত্যেকটি Firefox OS ডিভাইসের সাথে প্রিলোডেড ভাবে থাকে এবং আপনি "
+"সহজেই আপনার Facebook কন্ট্যাক্ট ইম্পোর্ট করতে পারেন!"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1739,6 +1856,8 @@ msgid ""
 "The Firefox Marketplace features thousands of apps for free or at very low "
 "prices."
 msgstr ""
+"Firefox Marketplace বৈশিষ্ট্য হল এটি হাজার হাজার অ্যাপস বিনামূল্যে বা খুব কম "
+"দামে পাওয়া যায়।"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1756,6 +1875,8 @@ msgid ""
 "Every Firefox phone includes the Firefox browser, the fast, smart and safe "
 "way to get online."
 msgstr ""
+"প্রতিটি Firefox ফোনে রয়েছে, সবচেয়ে দ্রুত, স্মার্ট এবং নিরাপদে অনলাইনে যাবার "
+"জন্যে Firefox ব্রাউজার।"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1773,6 +1894,8 @@ msgid ""
 "Firefox OS includes all the same features you’ll find in competitive "
 "smartphones and gives you more value for the money."
 msgstr ""
+"অন্য যেকোন স্মার্টফোনের মতই সকল বৈশিষ্ট্য রয়েছে Firefox OS এ, যা আপনার "
+"অর্থের সর্বোচ্চ মূল্য দেয়।"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1782,7 +1905,7 @@ msgstr ""
 #. Page path: /1-4/take-the-challenge/
 #: db-strings.txt:2121 db-strings.txt.py:4434 db-strings.txt.py:6774
 msgid "A unique feature included in every Firefox OS smartphone."
-msgstr ""
+msgstr "একটি অনন্য বৈশিষ্ট্য প্রত্যেক Firefox OS স্মার্টফোনে সংযুক্ত রয়েছে।"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1792,7 +1915,7 @@ msgstr ""
 #. Page path: /1-4/take-the-challenge/
 #: db-strings.txt:2130 db-strings.txt.py:4443 db-strings.txt.py:6783
 msgid "Works just like Web search on Firefox browsers."
-msgstr ""
+msgstr "Firefox ব্রাউজারে ওয়েব অনুসন্ধানের মতই কাজ করে।"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1802,7 +1925,7 @@ msgstr ""
 #. Page path: /1-4/take-the-challenge/
 #: db-strings.txt:2139 db-strings.txt.py:4452 db-strings.txt.py:6792
 msgid "Results include photos, video, music, news, maps and more."
-msgstr ""
+msgstr "ফলাফল ছবি, ভিডিও, সঙ্গীত, সংবাদ, মানচিত্র এবং আরও অনেক কিছু সংযুক্ত।"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1814,6 +1937,8 @@ msgstr ""
 msgid ""
 "Results are instantly usable — you don’t have to download the app first."
 msgstr ""
+"ফলাফল অবিলম্বে উপভোগ্য হয় — প্রথমে আপনাকে  অ্যাপ্লিকেশন ডাউনলোড করতে হবে "
+"না।"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1828,7 +1953,7 @@ msgstr ""
 #: db-strings.txt:2157 db-strings.txt.py:4470 db-strings.txt.py:6810
 #: db-strings.txt:9051 db-strings.txt.py:11175
 msgid "You can easily import contacts from Facebook to your Firefox OS phone."
-msgstr ""
+msgstr "Facebook থেকে আপনার Firefox OS ফোনে সহজেই কন্টাক্ট ইম্পোর্ট করতে পারেন।"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1846,6 +1971,8 @@ msgid ""
 "Firefox OS gives you access to popular, big name apps, as well as local "
 "content that means the most to you."
 msgstr ""
+"Firefox OS আপনাকে জনপ্রিয় , নামিদামি অ্যাপস সংগ্রহের সুযোগ তো দেয়ই , সেই "
+"সাথে আপনার চাহিদার স্থানীয় বিষয়বস্তু গুলো সংগ্রহ করার সুযোগ তৈরি করে দেয়।"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1864,6 +1991,8 @@ msgid ""
 "expect in a smartphone, with an easy-to-use interface that makes it easy to "
 "get started."
 msgstr ""
+"Firefox OS আপনাকে জনপ্রিয় , নামিদামি অ্যাপস সংগ্রহের সুযোগ তো দেয়ই , সেই "
+"সাথে আপনার চাহিদার স্থানীয় বিষয়বস্তু গুলো সংগ্রহ করার সুযোগ তৈরি করে দেয়।"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1874,6 +2003,8 @@ msgstr ""
 #: db-strings.txt:2184 db-strings.txt.py:4497 db-strings.txt.py:6837
 msgid "Firefox OS is built entirely using HTML5 and open Web standards."
 msgstr ""
+"Firefox OS সম্পূর্ণরূপে HTML5 এবং মুক্ত ওয়েব অ্যাপ্লিকেশন ব্যবহার করে বানানো "
+"হয়েছে।"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1888,7 +2019,7 @@ msgstr ""
 #: db-strings.txt:2229 db-strings.txt.py:4533 db-strings.txt.py:6882
 #: db-strings.txt:9114 db-strings.txt.py:11238
 msgid "True"
-msgstr ""
+msgstr "সত্য"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1903,7 +2034,7 @@ msgstr ""
 #: db-strings.txt:2238 db-strings.txt.py:4542 db-strings.txt.py:6891
 #: db-strings.txt:9123 db-strings.txt.py:11247
 msgid "False"
-msgstr ""
+msgstr "মিথ্যা"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1915,6 +2046,8 @@ msgid ""
 "New and backed by a global community working to help keep the Web accessible"
 " to all."
 msgstr ""
+"নতুন এবং বিশ্বব্যাপি একটি কমিউনিটি এর পিছনে রয়েছে যারা ওয়েবকে সকলের "
+"প্রবেশযোগ্য করতে কাজ করে যাচ্ছে।"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1925,6 +2058,8 @@ msgid ""
 "Every phone has access to over 20,000 free and paid apps at launch, "
 "including some of the most popular global apps today."
 msgstr ""
+"লঞ্চের সময় প্রতিটি ফোনে 20000 এরও বেশি বিনামুল্যের এবং কিনতে হয় এমন আরো "
+"অ্যাপ ইনস্টল করার সুযোগ থাকে, যেখানে বিশ্বের সবচেয়ে জনপ্রিয় অ্যাপও রয়েছে।"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1937,6 +2072,8 @@ msgid ""
 "A robust security model that is battle-hardened from more than a decade of "
 "supporting the Open Web."
 msgstr ""
+"একটি শক্তিশালী নিরাপত্তা বলয় যা এক যুগেরও অধিক সময় ধরে মুক্ত ওয়েবের "
+"সমর্থনের ফলে আরও বেশী অভিজ্ঞ।"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1947,6 +2084,8 @@ msgstr ""
 msgid ""
 "Packed with the features that made you want a smartphone in the first place."
 msgstr ""
+"বিভিন্ন বৈশিষ্ট্যে ভরপুর এ বিষয়টি আপনাকে স্মার্টফোন নিতে প্রথমেই আগ্রহী "
+"করেছে।"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1957,6 +2096,9 @@ msgid ""
 "Access to over 20,000 free and paid apps at launch, including some of the "
 "most popular global apps today."
 msgstr ""
+"লঞ্চের সময়ই প্রতিটি ফোনে 20,000 এরও বেশি বিনামুল্যের এবং কিনতে হয় এমন আরো "
+"অ্যাপ ইনস্টল করার সুযোগ থাকে, যেখানে বিশ্বের সবচেয়ে জনপ্রিয়  অ্যাপও "
+"রয়েছে।"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1969,6 +2111,10 @@ msgid ""
 "malicious applications and content, it also protects applications from each "
 "other."
 msgstr ""
+"একটি শক্তিশালী নিরাপত্তা বলয় যা এক যুগেরও অধিক সময় ধরে মুক্ত ওয়েবের "
+"সমর্থনের ফলে আরও বেশী অভিজ্ঞ। এটির নির্মানশৈলী এমন যে, ব্যবহারকারী ও সিস্টেম "
+"যাতে ক্ষতিকারক অ্যাপ্লিকেশন ও তথ্য থেকে সুরক্ষিত থাকে, এটি "
+"অ্যাপ্লিকেশনগুলোকে একে অন্যের থেকেও সুরক্ষিত রাখে।"
 
 #. Translators:
 #. Page path: /1-1/which-version/
@@ -1983,7 +2129,7 @@ msgstr ""
 #: db-strings.txt:2328 db-strings.txt.py:4668 db-strings.txt.py:7017
 #: db-strings.txt:9231 db-strings.txt.py:11355
 msgid "Which Version Do I Have?"
-msgstr ""
+msgstr "আমার কোন সংস্করণ আছে?"
 
 #. Translators:
 #. Page path: /1-1/which-version/
@@ -2000,6 +2146,11 @@ msgid ""
 "<li><em>Firefox OS 1.1.0.0</em> means you have version 1.1</li> </ul> </li> "
 "</ol>"
 msgstr ""
+"<ol> <li>আপনার ডিভাইসে সেটিংস অ্যাপ খুলুন।</li> <li>নীচে স্ক্রল করুন এবং "
+"বাছুন <strong>ডিভাইস তথ্য</strong>।</li> <li>ডিভাইস তথ্য স্ক্রিনে, সংস্করণ "
+"নম্বরের জন্য দেখুন <em>সফটওয়্যার</em>-এর মধ্যে। <ul> <li><em>Firefox OS "
+"1.0.1.0</em> মানে আপনার 1.0.1 সংস্করণ রয়েছে</li> <li><em>Firefox OS "
+"1.1.0.0</em> মানে আপনার 1.1 সংস্করণ রয়েছে</li> </ul> </li> </ol>"
 
 #. Translators:
 #. Page path: /1-3T/demo-tips/
@@ -2012,7 +2163,7 @@ msgstr ""
 #: db-strings.txt:2499 db-strings.txt.py:4839 db-strings.txt.py:7188
 #: db-strings.txt:9402
 msgid "Introducing Firefox OS"
-msgstr ""
+msgstr "Firefox OS-কে উপস্থাপনা করা হচ্ছে"
 
 #. Translators:
 #. Page path: /1-3T/customer-guide/
@@ -2025,6 +2176,9 @@ msgid ""
 " below, then drag the bar to learn how to best respond to each of their "
 "unique needs."
 msgstr ""
+"আপনার ক্রেতার প্রয়োজন বোঝা এবং তাৎক্ষণিকভাবে জবাব দিতে জানা যে কোন বিক্রয় "
+"সুযোগের জন্য গুরুত্বপূর্ণ। নিচে ব্যবহারকারীর সাধারণ কতোগুলো ধরন দেয়া হলো, "
+"বিভিন্ন জনের অনন্য প্রশ্নের ভাল জবাব দেওয়া শিখতে বারটি টানুন।"
 
 #. Translators:
 #. Page path: /1-3T/customer-guide/
@@ -2038,6 +2192,12 @@ msgid ""
 "a community dedicated to keeping the Web accessible to all. When you choose "
 "Firefox OS, you have the full power of the Web in your hands."
 msgstr ""
+"<strong>এক্ষেত্রে আপনি যা বলতে পারেন: </strong> আপনি যদি Firefox কে "
+"ভালোবাসেন তাহলে আপনি অবশ্যই Firefox OS ও ভালোবাসবেন। Firefox OS "
+"স্মার্টফোনগুলি HTML5-এর ভিত্তিতে তৈরী, ফলে আপনি ওয়েবকে আরও ভালোভাবে "
+"পাচ্ছেন। সেই সাথে, Firefox OS এমন একদল মানুষের ডিজাইন করা, যারা সর্বদা "
+"চেষ্টা করে ওয়েবকে সবার জন্য সুগম রাখতে। যখনই আপনি Firefox OS কে বেছে নিলেন "
+"তখনই ওয়েবকে আপনি হাতের মুঠোয় পেলেন।"
 
 #. Translators:
 #. Page path: /1-3T/key-features/
@@ -2054,6 +2214,9 @@ msgid ""
 "smartphone. It’s designed to fit their lives perfectly so they can keep pace"
 " with the world around them."
 msgstr ""
+"একটি স্মার্টফোনে ক্রেতা যা যা প্রত্যাশা করে তার সবই Firefox OS এ রয়েছে। এটি "
+"তাদের জীবন যাপনের সাথে এমনভাবে খাপ খাইয়ে নিবে যাতে তারা বাইরের দুনিয়ার "
+"সাথে তাল মিলিয়ে চলতে পারেন।"
 
 #. Translators:
 #. Page path: /1-3T/key-features/
@@ -2070,6 +2233,9 @@ msgid ""
 "share your photographs, the full-featured camera and photo gallery will have"
 " all your subjects smiling."
 msgstr ""
+"মজা করার জন্য বিল্ট-ইন স্টাইল ফিল্টার, সৃষ্টিশীল শট এবং আপনার ছবি শেয়ার "
+"করার অনেক উপায়, পরিপূর্ণ-সুবিধাযুক্ত ক্যামেরা ও গ্যালারি আপনার মুখে হাসি "
+"ফুটিয়ে তুলবে।"
 
 #. Translators:
 #. Page path: /1-3T/key-features/
@@ -2082,7 +2248,7 @@ msgstr ""
 #: db-strings.txt:2913 db-strings.txt.py:5325 db-strings.txt.py:7566
 #: db-strings.txt:9780
 msgid "Messages and Email"
-msgstr ""
+msgstr "ম্যাসেজ ও ইমেইল"
 
 #. Translators:
 #. Page path: /1-3T/frequently-asked-questions/
@@ -2096,6 +2262,11 @@ msgid ""
 "and makes it easy to add those results to your home screen for easy access "
 "later."
 msgstr ""
+"বুদ্ধিদীপ্ত অ্যাপ অনুসন্ধান হচ্ছে ওয়েবে কনটেন্ট অনুসন্ধানের একটি নতুন উপায় "
+"যা অ্যাপ ডাউনলোডের চিন্তা ছাড়াই আপনার যা প্রয়োজন তা খুঁজে পেতে অ্যাপের "
+"মতন অভিজ্ঞতা দিবে। যখনই আপনি কিছু অনুসন্ধান করবেন, আপনার ফোন অনুসন্ধানের "
+"ফলাফলের সাথে নিজেকে মানিয়ে নিবে এবং পরবর্তীতে যেন সহজে আপনি এই ফলাফল দেখতে "
+"পান, সেটি প্রধান স্ক্রিনে যুক্ত করা সহজ করবে।"
 
 #. Translators:
 #. Page path: /1-3T/frequently-asked-questions/
@@ -2112,6 +2283,10 @@ msgid ""
 "than a decade of supporting the open Web. It is designed to protect the user"
 " and system from malicious applications and content."
 msgstr ""
+"Firefox OS এর একটি ওয়েব সমর্থনকারী একটি শক্তসমর্থ নিরাপত্তা মডেল আছে এক "
+"দশকের বেশী সময় ধরে যা যুদ্ধের মধ্যে দিয়ে কঠিনীভূত হয়ে আসছে। এটি ক্ষতিকর "
+"অ্যাপ্লিকেশন এবং কন্টেন্ট থেকে ব্যবহারকারী ও সিস্টেমকে রক্ষা করার জন্য "
+"ডিজাইন করা হয়েছে।"
 
 #. Translators:
 #. Page path: /1-3T/frequently-asked-questions/
@@ -2124,7 +2299,7 @@ msgstr ""
 #: db-strings.txt:3021 db-strings.txt.py:5433 db-strings.txt.py:7692
 #: db-strings.txt:9870
 msgid "What do you mean I can convert mobile sites into apps?"
-msgstr ""
+msgstr "কি বলতে চাইছেন মোবাইল সাইট কে অ্যাপ এ রূপান্তরিত করা যাবে?"
 
 #. Translators:
 #. Page path: /1-3T/frequently-asked-questions/
@@ -2137,7 +2312,7 @@ msgstr ""
 #: db-strings.txt:3111 db-strings.txt.py:5523 db-strings.txt.py:7800
 #: db-strings.txt:9978
 msgid "What email providers are supported?"
-msgstr ""
+msgstr "কোন কোন ইমেইল প্রোভাইডার রা সমর্থিত?"
 
 #. Translators:
 #. Page path: /1-3T/frequently-asked-questions/
@@ -2147,7 +2322,7 @@ msgstr ""
 msgid ""
 "Hotmail and Yahoo mail are currently supported with more on the way in the "
 "future."
-msgstr ""
+msgstr "Hotmail এবং Yahoo mail এখন সমর্থিত এবং ভবিষ্যতে আরো হবে।"
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -2164,6 +2339,9 @@ msgid ""
 "Put your knowledge to the test and answer these questions to prove you have "
 "what it takes."
 msgstr ""
+"চিন্তা করুন আপনি ইতিমধ্যে তৈরি আপনার কাস্টমারদের কাছে Firefox OS বিক্রি "
+"করবার জন্য? আপনার জ্ঞানকে পরীক্ষায় দিন এবং এই প্রশ্নগুলোর জবাব দিন এটা "
+"প্রমাণ করবার জন্য কি আপনার কাছে কি আছে আপনার কাছে।"
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -2176,7 +2354,7 @@ msgstr ""
 #: db-strings.txt:3210 db-strings.txt.py:5622 db-strings.txt.py:7899
 #: db-strings.txt:10077
 msgid "Get Ready to Sell!"
-msgstr ""
+msgstr "বিক্রি করার জন্য প্রস্তুত হন!"
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -2189,7 +2367,7 @@ msgstr ""
 #: db-strings.txt:3291 db-strings.txt.py:5703 db-strings.txt.py:6135
 #: db-strings.txt:7980 db-strings.txt.py:10158
 msgid "There are more. Try again"
-msgstr ""
+msgstr "আরো রয়েছে। পুনরায় চেষ্টা করুন"
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -2202,7 +2380,7 @@ msgstr ""
 #: db-strings.txt:3309 db-strings.txt.py:5721 db-strings.txt.py:7998
 #: db-strings.txt:10176
 msgid "That’s right! This icon represents Messages —or text messaging."
-msgstr ""
+msgstr "সঠিক! এই আইকনটি বার্তা নির্দেশক —অথবা বার্তা প্রেরক।"
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -2216,7 +2394,7 @@ msgstr ""
 #: db-strings.txt:5739 db-strings.txt.py:8007 db-strings.txt.py:8016
 #: db-strings.txt:10185 db-strings.txt.py:10194
 msgid "Actually, this icon represents Messages — or text messaging."
-msgstr ""
+msgstr "প্রকৃতপক্ষে, এই আইকনটি বার্তা নির্দেশক —অথবা বার্তা প্রেরকের।"
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -2230,7 +2408,7 @@ msgstr ""
 #: db-strings.txt:8043 db-strings.txt.py:8052 db-strings.txt.py:10221
 #: db-strings.txt:10230
 msgid "Actually, this icon represents the Contacts."
-msgstr ""
+msgstr "প্রকৃতপক্ষে, এই আইকনটি পরিচিতি নির্দেশক।"
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -2239,7 +2417,7 @@ msgstr ""
 #: db-strings.txt:3426 db-strings.txt.py:3435 db-strings.txt.py:5838
 #: db-strings.txt:5847
 msgid "Actually, this icon represents Adaptive App Search."
-msgstr ""
+msgstr "প্রকৃতপক্ষে, এই আইকনটি অভিযোজিত অ্যাপ অনুসন্ধান নির্দেশক।"
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -2250,6 +2428,8 @@ msgid ""
 "That’s right. With a first time smartphone user, you should talk about its "
 "simplicity and features like Adaptive App Search."
 msgstr ""
+"সঠিক। প্রথম স্মার্টফোন ব্যবহারকারী হিসেবে আপনার উচিত এটির সাধারণত্ব এবং "
+"অ্যাডাপটিভ অ্যাপের অনুসন্ধান নিয়ে আলোচনা করা।"
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -2261,6 +2441,8 @@ msgid ""
 "Actually, with a first time smartphone user, you should talk about its "
 "simplicity and features like Adaptive App Search."
 msgstr ""
+"আসলে, একজন প্রথমবার স্মার্টফোন ব্যবহারকারী হিসেবে, আপনি এর সরলতা এবং "
+"বৈশিষ্ট্য যেমন অভিযোজিত সার্চ সম্পর্কে কথাবার্তা চালুন।"
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -2271,6 +2453,8 @@ msgid ""
 "That’s right. When you meet a Firefox fan, talk about how choosing Firefox "
 "OS shows a commitment to keeping the Web in their hands."
 msgstr ""
+"সেটা ঠিক। যখন আপনি একজন Firefox সমর্থকের সাথে দেখা করবেন, কথা বলুন কিভাবে "
+"Firefox OS-কে বাছা ওয়েবকে সবার হাতে রাখার প্রতিশ্রুতি দেয়।"
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -2282,6 +2466,9 @@ msgid ""
 "my friends, but I don’t want to spend a lot of money”. Which of the "
 "following statements would be a good response? Select all that apply."
 msgstr ""
+"একজন কাস্টমার আপনাকে বললেন, \"আমি একটা সহজ উপায়ে আমার বন্ধুদের সাথে সম্পর্কে "
+"থাকার রাস্তা খুঁজছি, কিন্তু আমি বেশি টাকা খরচ করতে চাই না\"। নীচের কোন "
+"বাক্যটি সবথেকে বেশি ভালো উত্তর হবে? নির্বাচন করুন যা উপযুক্ত হবে।"
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -2294,6 +2481,10 @@ msgid ""
 "the hands of the people. And while all of these statements are true, only "
 "this one is the best response for this particular customer."
 msgstr ""
+"এটা ঠিক। এই কাস্টমারকে মনে হচ্ছে একজন Firefox ভক্ত। কথা বলুন কিভাবে Firefox "
+"OS ফোন, Mozilla-এর তৈরি, প্রতিশ্রুতি দেখায় কিভাবে ওয়েবকে মানুষদের হাতে রাখা "
+"হয়। এবং যখন এই সমস্ত বাক্যগুলো সত্য হবে, এটাই হবে একজন বিশেষ কাস্টমারের কাছে "
+"সবথেকে ভালো উত্তর।"
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -2307,6 +2498,9 @@ msgid ""
 "Firefox OS phones, made by Mozilla, are part of keeping the Web in the hands"
 " of the people."
 msgstr ""
+"এই বিবৃতিগুলো সব সত্য, কিন্তু শুধুমাত্র এই এক বিশেষ ক্রেতার জন্য সেরা "
+"প্রতিক্রিয়া হতে পারে, যাকে Firefox প্রেমী মনে হচ্ছে। কিভাবে Mozilla কর্তৃক "
+"বানানো Firefox OS মানুষের হাতে ওয়েবকে পৌছে দিচ্ছে তা নিয়ে কথা বলতে পারেন।"
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -2322,6 +2516,8 @@ msgid ""
 "While all of these statements are true, which two responses would be most "
 "useful to a first-time smartphone customer?"
 msgstr ""
+"যখন এই সমস্ত বাক্যগুলো সত্য, কোন দুটো উত্তর সবথেকে বেশি ঠিক হবে একজন "
+"প্রথমবার স্মার্টফোন কাস্টমারকে দেওয়া ঠিক হবে?"
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -2337,7 +2533,7 @@ msgstr ""
 msgid ""
 "The best response to this objection is to talk about all the apps that are "
 "available."
-msgstr ""
+msgstr "সবথেকে ভালো অপশন হল সমস্ত রকমের অ্যাপের সম্পর্কে এদেরকে বলা।"
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -2354,6 +2550,8 @@ msgid ""
 "The best response to this objection is to talk about the experience of the "
 "Mozilla community that is behind Firefox OS."
 msgstr ""
+"সবথেকে ভালো উত্তর হল Mozilla কমিউনিটির অভিজ্ঞতা সম্পর্কে বলা যা Firefox "
+"OS-এর পিছনে কাজ করছে।"
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -2369,7 +2567,7 @@ msgstr ""
 msgid ""
 "The best response to this objection is to talk about the robust security "
 "model."
-msgstr ""
+msgstr "এই আপত্তির সবথেকে বড়ো উত্তর হল রবাস্ট সিকিউরিটি মডেল নিয়ে কথা বলা।"
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -2380,6 +2578,8 @@ msgid ""
 "Which of these customer responses indicate a ideal candidate for Firefox OS?"
 " Select all that apply."
 msgstr ""
+"এর মধ্যে কোন কাস্টমারের উত্তর সবথেকে আদর্শ বলে মনে হয় Firefox OS-এর ওপরে? যা "
+"যা উপযোগ্য তা প্রয়োগ করুন।"
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -2392,7 +2592,7 @@ msgstr ""
 #: db-strings.txt:4092 db-strings.txt.py:6423 db-strings.txt.py:8700
 #: db-strings.txt:10851
 msgid "Email and Messages"
-msgstr ""
+msgstr "ইমেইল এবং মেসেজ"
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -2405,7 +2605,7 @@ msgstr ""
 #: db-strings.txt:4110 db-strings.txt.py:6441 db-strings.txt.py:8709
 #: db-strings.txt:10860
 msgid "Music"
-msgstr ""
+msgstr "মিউজিক"
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -2421,7 +2621,7 @@ msgstr ""
 #: db-strings.txt:8763 db-strings.txt.py:8790 db-strings.txt.py:10887
 #: db-strings.txt:10914 db-strings.txt.py:10941
 msgid "Messages"
-msgstr ""
+msgstr "মেসেজ"
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -2434,6 +2634,8 @@ msgid ""
 "With Adaptive App Search, Firefox OS adapts to you needs better than any "
 "other phone."
 msgstr ""
+"অভিযোজিত অ্যাপ সার্চের মাধ্যমে, Firefox OS আপনার আত্তীকরণে চলে আসে অন্যান্য "
+"ফোনের থেকে অনেক তাড়াতাড়ি।"
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -2445,6 +2647,9 @@ msgid ""
 "to all. And since Firefox OS is entirely built in HTML5, you get instant "
 "access to thousands of apps built already for the Web."
 msgstr ""
+"Mozilla, যারা Firefox তৈরি করেছে, একটি মোবাইল OS তৈরি করেছে সবার কাছে ওয়েবকে "
+"মুক্ত রাখার জন্য। এবং যেহেতু Firefox OS সম্পূর্ণরূপে HTML5, আপনি হাজার "
+"অ্যাপে অ্যাক্সেস পাবেন যা ইতিমধ্যে ওয়েবে তৈরি রয়েছে।"
 
 #. Translators:
 #. Page path: /1-4/introduction/
@@ -2455,12 +2660,16 @@ msgid ""
 "customers more of what they’re looking for, exactly when they need it. This "
 "lets them make the most of every moment."
 msgstr ""
+"Firefox OS অন্যান্য ফোনের চেয়ে কাস্টমারদের চাহিদা সবথেকে ভালো আত্তীকরণ করতে "
+"পারে।  অভিযোজিত অ্যাপ সার্চ যেকোনো বিষয়ের ওপরে তথ্য দিতে পারে যা আপনার "
+"কাস্টমারকে আরও অনেককিছু দিতে পারে যা তারা চাইছে তাঁর থেকে বেশি। এটা তাদেরকে "
+"সমস্ত মূহুর্তের সবথেকে ভালোটা দিতে সাহায্য করবে।"
 
 #. Translators:
 #. Page path: /1-4/introduction/
 #: db-strings.txt:4749
 msgid "Have it All"
-msgstr ""
+msgstr "এর সমস্তকিছু আছে"
 
 #. Translators:
 #. Page path: /1-4/introduction/
@@ -2471,6 +2680,11 @@ msgid ""
 " music and more.  Firefox OS lets customers take control of their online "
 "lives and get the best of the Web no matter where they go."
 msgstr ""
+"Firefox OS সমস্তরকমের বৈশিষ্ট্য দিয়ে পরিপূর্ণ যা আপনার গ্রাহককে যিনি "
+"স্মার্টফোন চাইছেন প্রথম স্থানে এনে দেবে: অ্যাপ, ম্যাপ, ক্যামেরা, গ্যালারি, "
+"সোশ্যাল বৈশিষ্ট্য, সঙ্গীত এবং আরও।  Firefox OS গ্রাহকদের অনলাইনে তাদের "
+"অবস্থানকে নিয়ন্ত্রণ করতে সাহায্য করে এবং ওয়েবের সেরাটা পেতে সাহায্য করে "
+"যেখানেই তারা যান না কেন।"
 
 #. Translators:
 #. Page path: /1-4/introduction/
@@ -2482,6 +2696,11 @@ msgid ""
 "interests and needs in mind. When customers choose Firefox OS, they’re "
 "helping build a brighter future for the Web for all."
 msgstr ""
+"Mozilla-তে, আমরা একটা পরিবর্তন আনতে এসেছি, কোনো লাভ নয়।  Firefox OS "
+"স্মার্টফোন হাজার ডেভেলপারদের একটি গ্লোবাল কমিউনিটি গ্রাহকদের জন্য তৈরি করছে "
+"এবং সেগুলোকে স্থানীয় করছে তাদের ইচ্ছা এবং মনের ইচ্ছার ওপরে নির্ভর করে বানানো "
+"হচ্ছে। যখন গ্রাহক Firefox OS বাছবেন, তারা ওয়েবের ভবিষ্যৎ উজ্জ্বল করতে "
+"সাহায্য করছে।"
 
 #. Translators:
 #. Page path: /1-4/introduction/
@@ -2493,6 +2712,12 @@ msgid ""
 "that customers expect. Powered by Mozilla, Firefox OS devices are the right "
 "choice for anyone committed to ensuring that the Web remains"
 msgstr ""
+"আপনার গ্রাহকদের চাহিদা সবসময় বদলাচ্ছে। Firefox OS স্মার্টফোন আপনার "
+"কাস্টমারের চাহিদা মেটাতে সাহায্য করছে যাতে তারা তাদের জীবনের প্রত্যেকটি "
+"মূহুর্ত উপভোগ করতে পারে। ব্যবহার করতে সহজ, নতুন স্মার্টফোন ব্যবহারকারীদের "
+"জন্য এটা সবথেকে ভালো এবং গ্রাহকদের চাহিদা অনুযায়ী সমস্তরকমের অ্যাপে ভর্তি। "
+"Mozilla দ্বারা চালিত, Firefox OS ডিভাইস হল সবথেকে ভালো পছন্দ তাদের জন্য যারা "
+"ওয়েবে থাকতে পছন্দ করবেন।"
 
 #. Translators:
 #. Page path: /1-4/demo-tips/
@@ -2502,30 +2727,35 @@ msgid ""
 "your best selling tool. So what should you show? Browse the demonstration "
 "videos below to get started."
 msgstr ""
+"Firefox OS-এর বৈশিষ্ট্য এবং কতটা সহজ হবে সবথেকে ভালো বিক্রির টুল হিসেবে "
+"বর্ণনা করছেন। তো আপনি কি দেখাবেন? নীচের বর্ণনাকারী ভিডিওগুলো ব্রাউজ করুন "
+"শুরু করবার জন্য।"
 
 #. Translators:
 #. Page path: /1-4/demo-tips/
 #: db-strings.txt:4875
 msgid "Map"
-msgstr ""
+msgstr "মানচিত্র"
 
 #. Translators:
 #. Page path: /1-4/demo-tips/
 #: db-strings.txt:4893
 msgid "Social"
-msgstr ""
+msgstr "সোশ্যাল"
 
 #. Translators:
 #. Page path: /1-4/demo-tips/
 #: db-strings.txt:4911
 msgid "Browsing"
-msgstr ""
+msgstr "ব্রাউজিং"
 
 #. Translators:
 #. Page path: /1-4/demo-tips/
 #: db-strings.txt:4920
 msgid "Firefox OS puts the Web in users’ hands better than any other phone."
 msgstr ""
+"Firefox OS ওয়েবকে অন্যান্য ফোনের থেকে অনেক ভালোভাবে ব্যবহারকারীদের হাতে এনে "
+"দেয়।"
 
 #. Translators:
 #. Page path: /1-4/demo-tips/
@@ -2534,12 +2764,15 @@ msgid ""
 "Photograph, edit and share. Show off our full-featured camera and gallery "
 "apps, including built-in style filters, video, and more"
 msgstr ""
+"ফোটোগ্রাফ, সম্পাদনা এবং শেয়ার। আপনার সম্পূর্ণ-বৈশিষ্ট্যযুক্ত ক্যামেরা এবং "
+"গ্যালারি অ্যাপ দেখানো হোক, বিল্ট-ইন স্টাইল ফিল্টার, ভিডিও, এবং আরও অনেক "
+"কিছুর মাধ্যমে"
 
 #. Translators:
 #. Page path: /1-4/demo-tips/
 #: db-strings.txt:4965
 msgid "Music and FM Radio"
-msgstr ""
+msgstr "সঙ্গীত এবং FM রেডিও"
 
 #. Translators:
 #. Page path: /1-4/customer-guide/
@@ -2551,6 +2784,12 @@ msgid ""
 "less time searching. Plus, it is packed with all the features you’d expect, "
 "from camera, to email, apps, music, maps and more."
 msgstr ""
+"<strong>এখানে আছে আপনি কি বলতে পারেন:</strong> Firefox OS প্রথমবার "
+"স্মার্টফোন ব্যবহারকারীদের জন্য সবথেকে ভালো উপায়। এটা খুব সহজ ব্যবহার করা এবং "
+"এটি আপনার সমস্ত চাওনাকে আত্তীকরণ করে নেয় অন্যান্য ফোনের চেয়ে অনেক ভালোভাবে, "
+"সেইকারণে আপনি যা চান তার থেকে অনেক বেশি পান কম সময়ে খুঁজে। এছাড়াও, এটা "
+"সমস্ত রকমের বৈশিষ্ট্য দিয়ে ভরা যা যা আপনার প্রয়োজন হবে, ক্যামেরা থেকে শুরু "
+"করে ইমেইল, অ্যাপ, সঙ্গীত, মানচিত্র এবং আরও অনেক কিছু।"
 
 #. Translators:
 #. Page path: /1-4/customer-guide/
@@ -2564,6 +2803,10 @@ msgid ""
 "value for your money. It has everything you expect in a smartphone — camera,"
 " email, apps, music, maps and more — at the most competitive prices."
 msgstr ""
+"<strong>এখানে আছে কি আপনি বলতে পারেন:</strong> Firefox OS আপনাকে আপনার পয়সার "
+"সবথেকে বেশি মূল্য দেয়। এটার সমস্তকিছু আছে যা আপনি একটা স্মার্টফোনে ব্যবহার "
+"করতে চান - ক্যামেরা, ইমেইল, অ্যাপ, সঙ্গীত, মানচিত্র এবং আরও - সবচেয়ে "
+"প্রতিযোগিতামূলক দামে।"
 
 #. Translators:
 #. Page path: /1-4/customer-guide/
@@ -2575,6 +2818,11 @@ msgid ""
 "you will be able to quickly discover and download your favorite apps so "
 "you’re ready to go."
 msgstr ""
+"<strong>এক্ষেত্রে আপনি কি বলতে পারেন:</strong> শুরু করার জন্য Firefox OS "
+"সবচেয়ে সহজ একটি স্মার্টফোন খুব সহজে আর দ্রুত জিনিস খুঁজে পেতে রয়েছে "
+"বুদ্ধিদীপ্ত অ্যাপ অনুসন্ধান।  এর ইউজার ইন্টারফেস এতোটাই সহজাত যে আপনি খুব "
+"দ্রুত আপনার পছন্দের অ্যাপটি খুঁজে ডাউনলোড করে কাজের জন্য প্রস্তুত হতে "
+"পারবেন।"
 
 #. Translators:
 #. Page path: /1-4/key-features/
@@ -2585,6 +2833,10 @@ msgid ""
 "adapts to your request, displaying photos, video, music, news, maps and more"
 " - making it much easier for you to find what you were really looking for."
 msgstr ""
+"আপনার যখনই প্রয়োজন হবে, সঠিক জিনিসটি খুঁজে পাওয়ার নতুন এক উপায়, "
+"অ্যাপ্লিকেশন ডাউনলোডের কোন ঝামেলা ছাড়াই। আপনি যেকোন কিছু খুঁজুন, Firefox "
+"OS, আপনার অনুরোধের সাথে নিজেকে মানিয়ে নিয়ে, ছবি, ভিডিও, সংবাদ, মানচিত্রসহ "
+"আরও অনেক কিছু দেখাবে- যা আপনি আসলেই খুঁজছেন তা পাওয়াকে আরও সহজ করে।"
 
 #. Translators:
 #. Page path: /1-4/key-features/
@@ -2594,6 +2846,9 @@ msgid ""
 " of free and paid apps in multiple categories, from games to utilities, "
 "music, travel, sports, and more."
 msgstr ""
+"আপনার জন্য Firefox OS এর সর্বশ্রেষ্ঠ অ্যাপ উৎস। গেমস থেকে শুরু করে ইউটিলিটি, "
+"গান, ভ্রমন, খেলা এবং আরো অনেক অনেক ক্যাটাগরিতে থাকা দশ হাজারেরও বেশি ফ্রি "
+"এবং পেইড অ্যাপ ব্রাউজ করুন।"
 
 #. Translators:
 #. Page path: /1-4/key-features/
@@ -2603,6 +2858,10 @@ msgid ""
 " enter website URL’s, perform searches, and access your browsing history. "
 "Plus, tabs let you multitask by browsing multiple pages simultaneously."
 msgstr ""
+"ওয়েবের সর্বোত্তম জিনিসগুলো পাওয়ার সবচাইতে দ্রুত, চমকপ্রদ ও নিরাপরদ উপায়। "
+"সেইরকম বার ব্যবহারের মাধ্যেমে আপনি ওয়েবসাইট URL দিতে পারেন, কিছু খুঁজতে "
+"পারেন এবং আপনার ব্রাউজিং ইতিহাস দেখতে পারেন। সেই সাথে ট্যাবগুলি ব্যবহার করে "
+"আপনি একসঙ্গে অনেকগুলো পেজ ব্রাউজিং করতে পারবেন।              "
 
 #. Translators:
 #. Page path: /1-4/key-features/
@@ -2613,6 +2872,10 @@ msgid ""
 "Maps can pinpoint your location and even give you directions (car, walking "
 "or public transportation) to get you to your destination."
 msgstr ""
+"স্যাটেলাইট, সাধারন পরিবহন এবং সরাসরি ট্রাফিক প্রদর্শন, আগ্রহের স্থান খুঁজতে "
+"এমনকি পরবর্তীতে ব্যবহার করতে আপনার মানচিত্র স্থানীয়ভাবে সংরক্ষণও করতে "
+"পারেন। Here Maps আপনার অবস্থান সুনির্দিষ্টভাবে নির্দেশ করে তাছাড়া এটি "
+"আপনাকে গন্তব্যে পৌঁছাতে নির্দেশনাও (গাড়ি, হাঁটা কিংবা গণপরিবহন) দেয়।"
 
 #. Translators:
 #. Page path: /1-4/key-features/
@@ -2622,6 +2885,9 @@ msgid ""
 "set up multiple email accounts, with support for the most common Exchange, "
 "SMTP or IMAP email providers."
 msgstr ""
+"আপনার বন্ধু এবং সহকর্মীদের সাথে যুক্ত থাকুন যেখানেই আপনি থাকুন না কেন। এটা "
+"সহজ কি একাধিক ইমেইল অ্যাকাউন্ট বানানো, সবথেকে সাধারণ Exchange, SMTP বা IMAP "
+"ইমেইল প্রদানকারীদের সাহায্যে।"
 
 #. Translators:
 #. Page path: /1-4/frequently-asked-questions/
@@ -2633,6 +2899,11 @@ msgid ""
 "Cut the Rope, EA Games, Facebook, Nokia HERE, MTV Brasil, Pulse News, "
 "SoundCloud, SporTV, Time Out and Twitter."
 msgstr ""
+"সারা বিশ্বের অ্যাপ উন্নতিকারকরা Firefox ওএসের প্রতি অঙ্গিকারাবদ্ধ এবং এর "
+"লঞ্চের সময় দশ হাজার বিনামূল্যের এবং ক্রয়যোগ্য অ্যাপ পাওয়া যাবে। "
+"Accuweather, Airbnb, Box, Cut the Rope, EA Games, Facebook, Nokia HERE, MTV "
+"Brasil, Pulse News, SoundCloud, SporTV, Time Out এবং Twitter এর মত শীর্ষ "
+"অ্যাপ উন্নতি তালিকায় যুক্ত হচ্ছে এবং প্রতিনিয়ত তালিকা বড় হচ্ছে।"
 
 #. Translators:
 #. Page path: /1-4/frequently-asked-questions/
@@ -2646,6 +2917,13 @@ msgid ""
 "it possible for people to get the exact content they want, when they want "
 "it."
 msgstr ""
+"ব্যবহারকারী যেকোন ওয়েবসাইটকে প্রধান স্ক্রিনে বুকমার্ক করতে পারেন যেন "
+"ওয়েবসাইটের কাজগুলি সরাসরি প্রধান স্ক্রিন থেকে করা যায়। এছাড়া প্রধান "
+"স্ক্রিন থেকে ডানে সুইপ করে, ব্যবহারকারী যেকোন শব্দ অনুসন্ধানে দিয়ে সহজেই "
+"তাৎক্ষণিকভাবে একটি একবার ব্যবহারযোগ্য বা ডাউনলোডযোগ্য অ্যাপ তৈরি করতে পারেন। "
+"চাহিদা মত এই অ্যাপগুলো তৈরি এবং ব্যবহারের মাধ্যমে ব্যবহারকারী তার অ্যাপ এবং "
+"স্মার্টফোনের পূর্ণ নিয়ন্ত্রণ পাবে এবং যখনই চাইবেন  মানুষ যেন তার কাঙ্ক্ষিত "
+"কন্টেন্ট পান তার সম্ভবনা তৈরি করে।"
 
 #. Translators:
 #. Page path: /1-4/frequently-asked-questions/
@@ -2655,6 +2933,10 @@ msgid ""
 " the phone’s core functionalities. That means apps do not require an active "
 "Internet connection to work unless they need to send or receive date."
 msgstr ""
+"Firefox OS ওয়েব প্রযুক্তির উপরে তৈরি হলেও ফোনের মূল বৈশিষ্ট্যগুলোর অফলাইনে "
+"চলার সক্ষমতা রয়েছে। এর অর্থ হচ্ছে, যেসকল অ্যাপ গুলো সক্রিয় ইন্টারনেট "
+"ব্যবহার করে না, আর যদি না তাকে কোন তথ্য আদান-প্রদান করতে হয়, সেগুলো অবশ্যই "
+"চলবে।"
 
 #. Translators:
 #. Page path: /1-4/frequently-asked-questions/
@@ -2667,6 +2949,12 @@ msgid ""
 "region, delivered by a superior mobile experience and tuned to bring you "
 "what you want. </li> </ul>"
 msgstr ""
+"Firefox OS এ অ্যাপ পাওয়ার দুইটি উপায় আছে: <ul> <li>Firefox Marketplace — "
+"আপনার অঞ্চলের সেরা ওয়েব ডেভেলপারদের তৈরি দারুন সব অ্যাপ ও স্থানীয় "
+"কন্টেন্টের উৎস।</li> <li>বুদ্ধিদীপ্ত অ্যাপ অনুসন্ধান — শুধুমাত্র একটি শব্দ "
+"টাইপ করুন যেমন \"news\" এবং আবিষ্কার করুন এ সম্পর্কিত আপনার অঞ্চলের মোবাইল "
+"অ্যাপগুলো, আপনি যা চাইছেন তা খুঁজে আপনার সামনে উপস্থাপন করে আপনাকে মোবাইল "
+"ব্যবহারের উন্নত অভিজ্ঞতা দিবে।</li> </ul>"
 
 #. Translators:
 #. Page path: /1-4/frequently-asked-questions/
@@ -2676,6 +2964,8 @@ msgid ""
 "os\">https://support.mozilla.org/en-US/products/firefox-os</a> for more "
 "information."
 msgstr ""
+"আরও তথ্যের জন্য <a href=\"https://support.mozilla.org/en-US/products/firefox-"
+"os\">https://support.mozilla.org/en-US/products/firefox-os</a> দেখুন।"
 
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
@@ -2688,6 +2978,13 @@ msgid ""
 "Mozilla, making Firefox OS the right choice for anyone committed to ensuring"
 " that the Web remains in your hands!"
 msgstr ""
+"আপনি যদি সকল প্রশ্ন ও বিষয়বস্তু দেখে থাকেন, তাহলে আপনার Firefox OS সম্বন্ধে "
+"সাধারণ ধারণা হয়েছে যেগুলো মূলত আপনার ক্রেতার দরকার হবে।  এটি সহজে ব্যবহার "
+"করা যায়, Firefox OS স্মার্টফোন নতুন স্মার্টফোন ব্যবহারকারীদের জন্য উৎকৃষ্ট "
+"এবং এই স্মার্টফোনটিতে তাদের দরকারী সকল সুবিধা রয়েছে যেগুলো তারা চান।  এটি "
+"মোজিলার মাধ্যমে বলীয়ান, যা Firefox OS কে সবার জন্যে সঠিক পছন্দ হিসেবে তৈরী "
+"করতে কাজ করে যাচ্ছে। যাতে করে ওয়েব আপনার হাতে থাকে তা নিশ্চিত করতে Mozilla "
+"সর্বদা প্রতিজ্ঞাবদ্ধ।"
 
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
@@ -2696,6 +2993,8 @@ msgid ""
 "That’s right!  You can access Adaptive App Search directly on your home "
 "screen."
 msgstr ""
+"একদম সঠিক!  আপনি আপনার হোম পর্দায় সরাসরি অভিযোজিত অ্যাপ অনুসন্ধান করতে "
+"পারেন।"
 
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
@@ -2704,24 +3003,26 @@ msgid ""
 "That’s not it.  You can access Adaptive App Search directly on your home "
 "screen./p>"
 msgstr ""
+"ওটা সেটা নয়। আপনি অভিযোজিত সার্চ সরাসরি আপনার হোম স্ক্রিনে সার্চ করতে "
+"পারেন।/p>"
 
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
 #: db-strings.txt:5667
 msgid "It’s directly on your home screen"
-msgstr ""
+msgstr "এটা সরাসরি আপনার হোম স্ক্রিনে"
 
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
 #: db-strings.txt:5793
 msgid "That’s right. This icon represents Firefox Browser."
-msgstr ""
+msgstr "এটা ঠিক। এই আইকনটি Firefox Browser।"
 
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
 #: db-strings.txt:5802 db-strings.txt.py:5811
 msgid "Actually, this icon represents Firefox Browser."
-msgstr ""
+msgstr "আসলে, এই আইকনটি Firefox Browser-কে প্রতিনিধিত্ব করে।"
 
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
@@ -2730,6 +3031,8 @@ msgid ""
 "Actually, when you meet a Firefox fan, talk about how choosing Firefox OS "
 "shows a commitment to keeping the Web in their hands."
 msgstr ""
+"আসলে, আপনি যখন একজন Firefox সমর্থকের সাথে মিশবেন, কথা বলুন কিভাবে Firefox OS "
+"বাছবেন এবং প্রতিশ্রুতি রাখবেন তাদের হাতে ওয়েবকে রাখার জন্য।"
 
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
@@ -2739,6 +3042,9 @@ msgid ""
 "full feature set of Firefox OS, including social apps that are preloaded on "
 "the phone, all at great value."
 msgstr ""
+"একদম সঠিক। এই ক্রেতার নিকট Firefox OS এর দারুণ উপযোগিতা এবং সবগুলো বৈশিষ্ট্য "
+"তুলে ধরুন, এবং ফোনে আগে থেকেই লোড করা সোশ্যাল অ্যাপ সমূহ আছে, যা "
+"প্রত্যেকটি-ই মূল্যবান ফিচার, তাও বলুন।"
 
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
@@ -2748,6 +3054,9 @@ msgid ""
 "full feature set of Firefox OS, including social apps that are preloaded on "
 "the phone, all at great value."
 msgstr ""
+"এটা ঠিক নয়। এই ক্রেতার নিকট Firefox OS এর দারুণ উপযোগিতা এবং সবগুলো "
+"বৈশিষ্ট্য তুলে ধরুন, এবং ফোনে আগে থেকেই লোড করা সোশ্যাল অ্যাপ সমূহ আছে, যা "
+"প্রত্যেকটি-ই মূল্যবান ফিচার, তাও বলুন।"
 
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
@@ -2757,6 +3066,9 @@ msgid ""
 "anticipates your needs better than any other phone, it does NOT work just "
 "like Web search on Firefox browsers."
 msgstr ""
+"ঠিক সেরকম না।  তিনটিই সঠিক। বুদ্ধিদীপ্ত অ্যাপ অনুসন্ধান অন্য যেকোন ফোনের "
+"চেয়ে আপনার প্রয়োজনীয়তার কথা বেশি বুঝতে পারে দেখেই এটা Firefox ব্রাউজারের "
+"যেকোনো সাধারণ ওয়েব অনুসন্ধানের মত কাজ না করে আরও নিখুঁতভাবে কাজ করে থাকে।"
 
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
@@ -2766,12 +3078,15 @@ msgid ""
 "anticipates your needs better than any other phone, it does NOT work just "
 "like Web search on Firefox browsers.\""
 msgstr ""
+"এটা বেশ নয়। এদের তিনটে ঠিক। যখন অভিযোজিত সার্চ আপনার পাওয়ার প্রত্যাশাকে "
+"অন্যান্য ফোনের থেকে অনেক ভালোভাবে নেয়, এটা শুধুমাত্র Firefox ব্রাউজারে ওয়েব "
+"সার্চের জন্য নয়।\""
 
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
 #: db-strings.txt:6450
 msgid "Here Maps"
-msgstr ""
+msgstr "এখানে ম্যাপ"
 
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
@@ -2781,20 +3096,22 @@ msgid ""
 "expect, including Messages, Facebook, email, maps and more, all at a better "
 "value.</p?"
 msgstr ""
+"আপনি ম্যাসেজ, Facebook, ইমেইল, ম্যাপসহ আরও কিছু যা প্রত্যাশা করছেন আপনাকে "
+"গুরুত্ব দিয়ে তার সবই Firefox OS স্মার্টফোনে প্রিলোড করা রয়েছে।</p?"
 
 #: masterfirefoxos/base/templates/base.html:35
 msgid "Submit"
-msgstr ""
+msgstr "জমা দিন"
 
 #: masterfirefoxos/base/templates/base.html:40
 #: masterfirefoxos/base/templates/base.html:83
 #: masterfirefoxos/base/templates/home.html:12
 msgid "Mozilla"
-msgstr ""
+msgstr "Mozilla"
 
 #: masterfirefoxos/base/templates/base.html:65
 msgid "Menu"
-msgstr ""
+msgstr "মেনু"
 
 #: masterfirefoxos/base/templates/base.html:88
 #, python-brace-format
@@ -2803,78 +3120,81 @@ msgid ""
 "available under a <a href=\"https://www.mozilla.org/foundation/licensing"
 "/website-content/\">Creative Commons license</a>."
 msgstr ""
+"Portions of this content are ©1998–{0} by individual contributors. Content "
+"available under a <a href=\"https://www.mozilla.org/foundation/licensing"
+"/website-content/\">Creative Commons license</a>."
 
 #: masterfirefoxos/base/templates/base.html:91
 msgid "Source code"
-msgstr ""
+msgstr "সোর্স কোড"
 
 #: masterfirefoxos/base/templates/base.html:96
 msgid "Contact Us"
-msgstr ""
+msgstr "আমাদের সাথে যোগাযোগ করুন"
 
 #: masterfirefoxos/base/templates/base.html:97
 msgid "Partner with Us"
-msgstr ""
+msgstr "আমাদের পার্টনার হোন"
 
 #: masterfirefoxos/base/templates/base.html:98
 msgid "Donate"
-msgstr ""
+msgstr "অবদান করুন"
 
 #: masterfirefoxos/base/templates/base.html:99
 msgid "Privacy Policy"
-msgstr ""
+msgstr "গোপনীয়তা নীতি"
 
 #: masterfirefoxos/base/templates/base.html:100
 msgid "Legal Notices"
-msgstr ""
+msgstr "বৈধ নোটিশ"
 
 #: masterfirefoxos/base/templates/base.html:101
 msgid "Report Trademark Abuse"
-msgstr ""
+msgstr "ট্রেডমার্কের অপব্যবহার রিপোর্ট করুন"
 
 #: masterfirefoxos/base/templates/base.html:105
 msgid "Mozilla on Twitter"
-msgstr ""
+msgstr "Twitter-এ Mozilla"
 
 #: masterfirefoxos/base/templates/base.html:106
 msgid "Firefox on Twitter"
-msgstr ""
+msgstr "Twitter-এ Firefox"
 
 #: masterfirefoxos/base/templates/base.html:107
 msgid "Mozilla on Facebook"
-msgstr ""
+msgstr "Facebook-এ Mozilla"
 
 #: masterfirefoxos/base/templates/base.html:108
 msgid "Firefox on Facebook"
-msgstr ""
+msgstr "Facebook-এ Firefox"
 
 #: masterfirefoxos/base/templates/home.html:49
 msgid "Learn more"
-msgstr ""
+msgstr "আরও জানুন"
 
 #: masterfirefoxos/base/templates/includes/nav-information.html:3
 msgid "Home"
-msgstr ""
+msgstr "বাড়ি"
 
 #: masterfirefoxos/base/templates/includes/nav-information.html:4
 msgid "About"
-msgstr ""
+msgstr "সম্পর্কে"
 
 #: masterfirefoxos/base/templates/includes/version-language-switcher.html:3
 msgid "Language"
-msgstr ""
+msgstr "ভাষা"
 
 #: masterfirefoxos/base/templates/includes/version-language-switcher.html:15
 msgid "Firefox OS version"
-msgstr ""
+msgstr "Firefox OS সংস্করণ"
 
 #: masterfirefoxos/base/templates/includes/version-language-switcher.html:21
 msgid "Which version do I have?"
-msgstr ""
+msgstr "আমার কোন সংস্করণ আছে?"
 
 #: masterfirefoxos/base/templates/includes/version-language-switcher.html:23
 msgid "Change"
-msgstr ""
+msgstr "পরিবর্তন"
 
 #: masterfirefoxos/base/templates/includes/version-language-switcher.html:37
 #, python-brace-format
@@ -2882,132 +3202,134 @@ msgid ""
 "Documentation for Firefox OS {version} is not yet available in {language}, "
 "so we redirected you to the English version."
 msgstr ""
+" Firefox OS {version}-এর জন্য ডকুমেন্টেশন এখনও অবধি {language}-এ উপলব্ধ নয়, "
+"তাই আমরা আপনাকে ইংরাজী সংস্করণে পুনঃনির্দেশিত করেছি।"
 
 #: masterfirefoxos/base/templates/includes/version-language-switcher.html:39
 #, python-brace-format
 msgid "The latest version available in {language} is {version}."
-msgstr ""
+msgstr "সর্বশেষ সংস্করণ উপলব্ধ {language} এ আছে হল {version}।"
 
 #: masterfirefoxos/settings/base.py:189
 msgid "Afrikaans"
-msgstr ""
+msgstr "আফ্রিকানরা"
 
 #: masterfirefoxos/settings/base.py:190
 msgid "Arabic"
-msgstr ""
+msgstr "আরবি"
 
 #: masterfirefoxos/settings/base.py:191
 msgid "Bengali (Bangladesh)"
-msgstr ""
+msgstr "বাংলা (বাংলাদেশ)"
 
 #: masterfirefoxos/settings/base.py:192
 msgid "Bengali (India)"
-msgstr ""
+msgstr "বাংলা (ভারত)"
 
 #: masterfirefoxos/settings/base.py:193
 msgid "Croatian"
-msgstr ""
+msgstr "ক্রোয়েশীয়"
 
 #: masterfirefoxos/settings/base.py:194
 msgid "Czech"
-msgstr ""
+msgstr "চেক"
 
 #: masterfirefoxos/settings/base.py:195
 msgid "Ewe"
-msgstr ""
+msgstr "ইউই"
 
 #: masterfirefoxos/settings/base.py:196
 msgid "English"
-msgstr ""
+msgstr "ইংরেজি"
 
 #: masterfirefoxos/settings/base.py:197
 msgid "German"
-msgstr ""
+msgstr "জার্মান"
 
 #: masterfirefoxos/settings/base.py:198
 msgid "Greek"
-msgstr ""
+msgstr "গ্রিক"
 
 #: masterfirefoxos/settings/base.py:199
 msgid "Fulah"
-msgstr ""
+msgstr "ফুলাহ্"
 
 #: masterfirefoxos/settings/base.py:200
 msgid "French"
-msgstr ""
+msgstr "ফরাসি"
 
 #: masterfirefoxos/settings/base.py:201
 msgid "Hausa"
-msgstr ""
+msgstr "হাউসা"
 
 #: masterfirefoxos/settings/base.py:202
 msgid "Hindi"
-msgstr ""
+msgstr "হিন্দি"
 
 #: masterfirefoxos/settings/base.py:203
 msgid "Hungarian"
-msgstr ""
+msgstr "হাঙ্গেরিয়ান"
 
 #: masterfirefoxos/settings/base.py:204
 msgid "Igbo"
-msgstr ""
+msgstr "ইগবো"
 
 #: masterfirefoxos/settings/base.py:205
 msgid "Italian"
-msgstr ""
+msgstr "ইটালিয়ান"
 
 #: masterfirefoxos/settings/base.py:206
 msgid "Japanese"
-msgstr ""
+msgstr "জাপানিজ"
 
 #: masterfirefoxos/settings/base.py:207
 msgid "Lingala"
-msgstr ""
+msgstr "লিঙ্গালা"
 
 #: masterfirefoxos/settings/base.py:208
 msgid "Polish"
-msgstr ""
+msgstr "পোলিশ"
 
 #: masterfirefoxos/settings/base.py:209
 msgid "Portuguese"
-msgstr ""
+msgstr "পর্তুগীজ"
 
 #: masterfirefoxos/settings/base.py:210
 msgid "Russian"
-msgstr ""
+msgstr "রাশিয়ান"
 
 #: masterfirefoxos/settings/base.py:211
 msgid "Serbian"
-msgstr ""
+msgstr "সার্বিয়ান"
 
 #: masterfirefoxos/settings/base.py:212
 msgid "Kiswahili"
-msgstr ""
+msgstr "কিসবাহিলি"
 
 #: masterfirefoxos/settings/base.py:213
 msgid "Spanish"
-msgstr ""
+msgstr "স্প্যানিশ"
 
 #: masterfirefoxos/settings/base.py:214
 msgid "Tamil"
-msgstr ""
+msgstr "তামিল"
 
 #: masterfirefoxos/settings/base.py:215
 msgid "Wolof"
-msgstr ""
+msgstr "উওলোফ"
 
 #: masterfirefoxos/settings/base.py:216
 msgid "Xhosa"
-msgstr ""
+msgstr "জোসা"
 
 #: masterfirefoxos/settings/base.py:217
 msgid "Pirate"
-msgstr ""
+msgstr "পাইরেট"
 
 #: masterfirefoxos/settings/base.py:218
 msgid "Yoruba"
-msgstr ""
+msgstr "ইওরুবা"
 
 #: masterfirefoxos/settings/base.py:219
 msgid "Zulu"
-msgstr ""
+msgstr "জুলু"
