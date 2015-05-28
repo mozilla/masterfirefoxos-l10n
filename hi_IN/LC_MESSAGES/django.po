@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-05-18 13:49+0000\n"
-"PO-Revision-Date: 2015-05-26 17:18+0000\n"
+"PO-Revision-Date: 2015-05-27 14:58+0000\n"
 "Last-Translator: umesh <umeshsnwl@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hi_IN\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1432660690.0\n"
+"X-POOTLE-MTIME: 1432738706.0\n"
 
 #. Translators:
 #. Page path: /1-1/
@@ -274,13 +274,11 @@ msgstr "अनुकूलित एप्प खोज"
 #. Translators:
 #. Page path: /1-4/demo-tips/
 #: db-strings.txt:186 db-strings.txt.py:4866
-#, fuzzy
 msgid ""
 "Show customers how Firefox OS adapts to them, giving them more of what they "
 "need, when they need it."
 msgstr ""
-"ग्राहकों को दिखायें  कि कैसे, Firefox OS उनकी जरूरतानुसार खुद को ढाल लेता "
-"है."
+"ग्राहकों को दिखायें कि कैसे, Firefox OS उनकी जरूरतानुसार खुद को ढाल लेता है."
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
@@ -1803,7 +1801,7 @@ msgstr ""
 #: db-strings.txt:1797 db-strings.txt.py:6873
 msgid ""
 "Tens of thousands of Web apps from around the world are searched instantly."
-msgstr ""
+msgstr "दुनिया भर से हज़ारों वेब एप्प्स पल भर मैं खोजी हैँ."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1994,7 +1992,7 @@ msgstr ""
 "Firefox OS आपको आपके पैसों का सही मूल्य देता है, आपकी उम्मीद से भी ज्यादा — "
 "कैमरा, ईमेल, एप्प्स, संगीत और अधिक — अधिक प्रतिस्पर्धी कीमतों पर. साथ ही, "
 "अनुकूल एप्प खोज आपको आपके जरुरत की एप्प्स खोजने मैं मदद करता है, जब आपको "
-"जरुरत  होती है."
+"जरुरत होती है."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -2008,7 +2006,6 @@ msgstr ""
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:2049 db-strings.txt.py:4362 db-strings.txt.py:6702
 #: db-strings.txt:8952 db-strings.txt.py:11103
-#, fuzzy
 #| msgid ""
 #| "he easiest smartphone to get started with. Your favorite s are yeloaded  you"
 #| " can easily sync your contacts from ebook, too."
@@ -2252,7 +2249,6 @@ msgstr ""
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
 #: db-strings.txt:2265 db-strings.txt.py:4569 db-strings.txt.py:6918
-#, fuzzy
 #| msgid ""
 #| "as a robust security model that is battle-hardened from e than de of ting "
 #| "the open Web. It is designed to protect  user and tem m iciousplications and"
@@ -2273,7 +2269,7 @@ msgstr ""
 #: db-strings.txt:6954
 msgid ""
 "Packed with the features that made you want a smartphone in the first place."
-msgstr ""
+msgstr "इस स्मार्टफोन का सुविधाओं से सम्पन्न होना इसे आपकी पहली पसंद बनाता है."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -2326,7 +2322,6 @@ msgstr "मेरे पास कौन सा संस्करण है?"
 #. Translators:
 #. Page path: /1-4/which-version/
 #: db-strings.txt:2337 db-strings.txt.py:4677 db-strings.txt.py:7026
-#, fuzzy
 msgid ""
 "<ol> <li>Open the Settings app on your device.</li> <li>Scroll down and "
 "select <strong>Device information</strong>.</li> <li>On the Device "
@@ -2335,12 +2330,12 @@ msgid ""
 "<li><em>Firefox OS 1.1.0.0</em> means you have version 1.1</li> </ul> </li> "
 "</ol>"
 msgstr ""
-" <ol> <li> अपने डिवाइस पर सेटिंग एप्लिकेशन खोलें। </ li> <li> नीचे स्क्रॉल "
-"करें और <strong> उपकरण जानकारी </ strong> पर। डिवाइस जानकारी स्क्रीन पर </ "
-"li> <li> के लिए देखो <उन्हें> सॉफ्टवेयर </ em> के तहत संस्करण संख्याओं। <ul> "
-"<li> <em> Firefox OS 1.0.1.0 </ em> आप इसका मतलब है संस्करण 1.0.1 </ li> "
-"<li> <em> फ़ायरफ़ॉक्स ओएस 1.1.0.0 </ em> आप इसका मतलब है संस्करण 1.1 </ li> "
-"</ ul> </ li> </ ol>"
+" <ol> <li> अपने डिवाइस पर सेटिंग एप्लिकेशन खोलें.</ li> <li> नीचे स्क्रॉल "
+"करें और <strong> उपकरण जानकारी </ strong> .</li> <li>डिवाइस जानकारी स्क्रीन "
+"पर संस्करण संख्या देखें <em>सॉफ्टवेयर</em>. <ul> <li> <em> Firefox OS "
+"1.0.1.0</em> इसका मतलब है कि आपके पास संस्करण 1.0.1 है</li> <li><em>Firefox "
+"OS 1.1.0.0</ em> इसका मतलब है कि आपके पास संस्करण 1.1 है</li> </ul> </ li> "
+"</ol>"
 
 #. Translators:
 #. Page path: /1-3T/introduction/
@@ -2387,7 +2382,6 @@ msgstr ""
 #. Translators:
 #. Page path: /1-3T/introduction/
 #: db-strings.txt:2454
-#, fuzzy
 #| msgid ""
 #| " needs are always changing. That’s why Firefox OS does the e — ng so r "
 #| "tomers can live every moment to its fullest.><br>Firefox ices are fect  new "
@@ -2403,8 +2397,8 @@ msgid ""
 "committed to keeping the Web open for all."
 msgstr ""
 "आपके ग्राहकों की जरूरतें हमेशा बदलती रहती हैं. इसलिए Firefox OS अपने "
-"ग्राहकों की जरूरतों के मुताबिक बदलते है — ताकि आपके ग्राहक हर पल पूरी तरह जी"
-" सके. Firefox OS नए स्मार्टफ़ोन उपयोक्ताओं के लिए परिपूर्ण है —ग्राहकों की "
+"ग्राहकों की जरूरतों के मुताबिक बदलते है — ताकि आपके ग्राहक हर पल पूरी तरह जी "
+"सकें. Firefox OS नए स्मार्टफ़ोन उपयोक्ताओं के लिए परिपूर्ण है —ग्राहकों की "
 "उम्मीद के अनुसार सभी सुविधाओं से भरा और उपयोग में आसान. और चूँकि Firefox OS "
 "Mozilla द्वारा ऊर्जावान है, वे उन सभी के लिए सही विकल्प है जो यह सुनिश्चित "
 "करने के लिए प्रतिबद्ध हैं कि वेब सभी के लिए खुली रहे."
@@ -2425,7 +2419,6 @@ msgstr "Firefox OS का परिचय"
 #. Translators:
 #. Page path: /1-3T/demo-tips/
 #: db-strings.txt:2508
-#, fuzzy
 #| msgid ""
 #| "rs everything your customers want in a smartphone — and e — at ces t  y to "
 #| "afford."
@@ -2446,7 +2439,6 @@ msgstr "उपयोग में आसान"
 #. Translators:
 #. Page path: /1-3T/demo-tips/
 #: db-strings.txt:2526
-#, fuzzy
 #| msgid ""
 #| "ntuitive and simple. With a beautifully designed erface, your ers willnd "
 #| "easy to use from the start. It o supports dual SIM  eral local guages."
@@ -2455,9 +2447,9 @@ msgid ""
 "your customers will find it easy to use from the start. It also supports "
 "dual SIM and several local languages."
 msgstr ""
-"Firefox OS अंतरज्ञानी है और काफी सरल है. बेहद खूबसूरत तरीके से डिजायन किए गए"
-" अंतरफलक के साथ, आपके ग्राहक आरंभ से ही इसका उपयोग करने में आसान पाएँगे. यह "
-"साथ ही दोहरे सिम सिम और कई स्थानीय भाषाओं का समर्थन करता है."
+"Firefox OS अंतरज्ञानी है और काफी सरल है. बेहद खूबसूरत तरीके से डिजायन किए गए "
+"अंतरफलक के साथ, आपके ग्राहक आरंभ से ही इसका उपयोग आसान पाएँगे. यह साथ ही "
+"दोहरे सिम और कई स्थानीय भाषाओं का समर्थन करता है."
 
 #. Translators:
 #. Page path: /1-3T/demo-tips/
@@ -2468,7 +2460,6 @@ msgstr "मार्केटप्लेस और अनुकूलन यो
 #. Translators:
 #. Page path: /1-3T/demo-tips/
 #: db-strings.txt:2544
-#, fuzzy
 #| msgid ""
 #| "mers how easy it is to get apps in Firefox Marketplace, or m where theb h "
 #| "Adaptive App Search. It’s all about giving rs more what theyed, n they d it."
@@ -2490,7 +2481,6 @@ msgstr "Rich Media Experience (NT)"
 #. Translators:
 #. Page path: /1-3T/demo-tips/
 #: db-strings.txt:2562
-#, fuzzy
 #| msgid ""
 #| ", Gallery, Music apps and more, Firefox OS will keep your erstertained  go "
 #| "and connected to the things that matter t to them."
@@ -2515,7 +2505,6 @@ msgstr "सामाजिक और संपर्क सिंक"
 #. Translators:
 #. Page path: /1-3/demo-tips/
 #: db-strings.txt:2580 db-strings.txt.py:7251 db-strings.txt.py:9465
-#, fuzzy
 #| msgid ""
 #| "s preloaded with popular instant messaging and social ia apps, e ok, so r "
 #| "customers will be able to stay nected with friends  ily. Theyn also c their "
@@ -2528,7 +2517,7 @@ msgid ""
 msgstr ""
 "Firefox OS लोकप्रिय तत्काल मैसेजिंग औऱ सोसल मीडिया ऐप्प से पहले से लोड है "
 "जैसे Facebook ताकि आपके ग्राहक अपने दोस्तों और परिवार के लोगों से कनेक्टेड "
-"बने रहें. वे अपने संपर्कों को फ़ोन से तेजी और आसानी से सिंक कर सकते हैं."
+"रहें. वे अपने संपर्कों को फ़ोन से तेजी और आसानी से सिंक कर सकते हैं."
 
 #. Translators:
 #. Page path: /1-3T/customer-guide/
@@ -2901,7 +2890,6 @@ msgstr ""
 #. Translators:
 #. Page path: /1-3T/frequently-asked-questions/
 #: db-strings.txt:3102
-#, fuzzy
 #| msgid ""
 #| "rovides two ways to get apps:<ul><li>Marketplace — our go-sourcer ds of at "
 #| "free apps, including popular apps like tter and ebook, andr some localntent "
@@ -3024,13 +3012,12 @@ msgstr ""
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
 #: db-strings.txt:3237
-#, fuzzy
 #| msgid ""
 #| "customer responses indicate a ideal candidate for Firefox  ect all t ly."
 msgid "That’s right! You simply go to your home screen and it’s there!"
 msgstr ""
 "ग्राहकों की प्रतिक्रियाओं के कौन से संकेत, जो एक Firefox OS आदर्श उम्मीदवार "
-"को दर्शाता है? लागू होने वाले सभी का चयन करें."
+"को दर्शाता है? लागू होने वाले सभी का चयन करें!"
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -3125,26 +3112,23 @@ msgstr "मार्केटप्लेस और अनुकूलन यो
 #: db-strings.txt:3354 db-strings.txt.py:3363 db-strings.txt.py:5775
 #: db-strings.txt:8043 db-strings.txt.py:8052 db-strings.txt.py:10221
 #: db-strings.txt:10230
-#, fuzzy
 #| msgid "Marketplace and Adaptive App Search"
 msgid "Actually, this icon represents the Contacts."
-msgstr "मार्केटप्लेस और अनुकूलन योग्य एप्प की खोज"
+msgstr "दरसल, यह आइकॉन संपर्कों को दर्शाता है ."
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
 #: db-strings.txt:3381
-#, fuzzy
 #| msgid "Marketplace and Adaptive App Search"
 msgid "That’s right. This icon represents Browser."
-msgstr "मार्केटप्लेस और अनुकूलन योग्य एप्प की खोज"
+msgstr "यह सही है. यह आइकॉन संपर्कों को दर्शाता है."
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
 #: db-strings.txt:3390 db-strings.txt.py:3399
-#, fuzzy
 #| msgid "Marketplace and Adaptive App Search"
 msgid "Actually, this icon represents Browser."
-msgstr "मार्केटप्लेस और अनुकूलन योग्य एप्प की खोज"
+msgstr "दरअसल, यह आइकॉन ब्राउज़र को दर्शाता है."
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -3152,10 +3136,9 @@ msgstr "मार्केटप्लेस और अनुकूलन यो
 #. Page path: /1-4/take-the-challenge/
 #: db-strings.txt:3426 db-strings.txt.py:3435 db-strings.txt.py:5838
 #: db-strings.txt:5847
-#, fuzzy
 #| msgid "Marketplace and Adaptive App Search"
 msgid "Actually, this icon represents Adaptive App Search."
-msgstr "मार्केटप्लेस और अनुकूलन योग्य एप्प की खोज"
+msgstr "दरअसल, यह आइकॉन अनुकूलन योग्य एप्प खोज को दर्शाता है."
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -3220,7 +3203,6 @@ msgstr ""
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
 #: db-strings.txt:3588 db-strings.txt.py:6000
-#, fuzzy
 #| msgid ""
 #| " to you, “I’m looking for an easy way to stay in touch h my ends,  I ’t t to"
 #| " spend a lot of money”. Which of the lowing tements would a d ponse? Select "
