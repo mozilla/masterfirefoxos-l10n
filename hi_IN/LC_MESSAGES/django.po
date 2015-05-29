@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-05-18 13:49+0000\n"
-"PO-Revision-Date: 2015-05-27 14:58+0000\n"
+"PO-Revision-Date: 2015-05-29 04:42+0000\n"
 "Last-Translator: umesh <umeshsnwl@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hi_IN\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1432738706.0\n"
+"X-POOTLE-MTIME: 1432874555.0\n"
 
 #. Translators:
 #. Page path: /1-1/
@@ -2032,6 +2032,8 @@ msgid ""
 "Facebook is preloaded on every Firefox OS device and you can import your "
 "Facebook contacts easily!"
 msgstr ""
+"सभी Firefox OS उपकरणों मैं फेसबुक पहले से ही मौजूद रहता है तथा आप अपने "
+"फेसबुक के सम्पर्को को आसानी से आयात कर सकते हैं."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -2041,7 +2043,7 @@ msgstr ""
 msgid ""
 "The Firefox Marketplace features thousands of apps for free or at very low "
 "prices."
-msgstr ""
+msgstr "Firefox बाज़ार मैं हज़ारों एप्प्स मुफ्त मैं या कम मूल्य पर मौजूद हैं."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -2137,7 +2139,7 @@ msgstr ""
 #: db-strings.txt:2157 db-strings.txt.py:4470 db-strings.txt.py:6810
 #: db-strings.txt:9051 db-strings.txt.py:11175
 msgid "You can easily import contacts from Facebook to your Firefox OS phone."
-msgstr ""
+msgstr "आप आसानी से संपर्कों को फेसबुक से Firefox OS फ़ोन पर आयात कर सकते हैं."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -2231,6 +2233,8 @@ msgid ""
 "New and backed by a global community working to help keep the Web accessible"
 " to all."
 msgstr ""
+"नई और एक वैश्विक समुदाय द्वारा समर्थित सभी के लिए वेब सुलभ रखने में मदद कर "
+"रहा है."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -2852,7 +2856,6 @@ msgstr ""
 #. Translators:
 #. Page path: /1-3/frequently-asked-questions/
 #: db-strings.txt:3066 db-strings.txt.py:7755 db-strings.txt.py:9933
-#, fuzzy
 #| msgid ""
 #| "s built on Web technologies but has offline capabilities  all  ne’s e "
 #| "ctions. That means apps do not require an ive Internet tion to work ess y "
@@ -2863,9 +2866,9 @@ msgid ""
 "Internet connection to work unless they need to send or receive data."
 msgstr ""
 "Firefox OS वेब प्रौद्योगिकियों पर बनाया गया है, लेकिन सभी फ़ोन के मुख्य "
-"कार्यात्मकता के लिए ऑफ़लाइन क्षमता है. इसका मतलब है कि समारोह के लिए एप्प्स "
-"को  एक सक्रिय इंटरनेट कनेक्शन की आवश्यकता नहीं है जब तक डेटा भेजने या "
-"प्राप्त करने की आवशकता न हो."
+"कार्यात्मकता के लिए ऑफ़लाइन क्षमता है. इसका मतलब है कि कार्य के लिए एप्प्स "
+"को एक सक्रिय इंटरनेट कनेक्शन की आवश्यकता नहीं है जब तक डेटा भेजने या प्राप्त "
+"करने की आवशकता न हो."
 
 #. Translators:
 #. Page path: /1-3T/frequently-asked-questions/
@@ -3022,12 +3025,13 @@ msgstr ""
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
 #: db-strings.txt:3246 db-strings.txt.py:3255
-#, fuzzy
 #| msgid "<p>What is Adaptive App Search?</p>"
 msgid ""
 "That’s not it. You simply go to your home screen to access the Adaptive App "
 "Search feature."
-msgstr "अनुकूली एप्प्स खोज क्या है?"
+msgstr ""
+"ऐसा नहीं है . अनुकूली एप्प्स खोज का उपयोग करने के लिए आप अपने होम स्क्रीन पर "
+"जाओ. "
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -3068,10 +3072,9 @@ msgstr "और भी हैं। पुनः प्रयास करें"
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:3309 db-strings.txt.py:5721 db-strings.txt.py:7998
 #: db-strings.txt:10176
-#, fuzzy
 #| msgid "Marketplace and Adaptive App Search"
 msgid "That’s right! This icon represents Messages —or text messaging."
-msgstr "मार्केटप्लेस और अनुकूलन योग्य एप्प की खोज"
+msgstr "यह सही है! यह चिह्न संदेशों—या पाठ संदेश सेवा का प्रतिनिधित्व करता है."
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -3084,10 +3087,10 @@ msgstr "मार्केटप्लेस और अनुकूलन यो
 #: db-strings.txt:3318 db-strings.txt.py:3327 db-strings.txt.py:5730
 #: db-strings.txt:5739 db-strings.txt.py:8007 db-strings.txt.py:8016
 #: db-strings.txt:10185 db-strings.txt.py:10194
-#, fuzzy
 #| msgid "Marketplace and Adaptive App Search"
 msgid "Actually, this icon represents Messages — or text messaging."
-msgstr "मार्केटप्लेस और अनुकूलन योग्य एप्प की खोज"
+msgstr ""
+"वास्तव में, यह चिह्न संदेशों — या पाठ संदेश सेवा का प्रतिनिधित्व करता है."
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -3096,10 +3099,9 @@ msgstr "मार्केटप्लेस और अनुकूलन यो
 #. Translators:
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:3345 db-strings.txt.py:8034 db-strings.txt.py:10212
-#, fuzzy
 #| msgid "Marketplace and Adaptive App Search"
 msgid "That’s right. This icon represents the Contacts."
-msgstr "मार्केटप्लेस और अनुकूलन योग्य एप्प की खोज"
+msgstr "मार्केटप्लेस और अनुकूलन योग्य एप्प की खोज."
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -3156,12 +3158,13 @@ msgstr ""
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
 #: db-strings.txt:3525 db-strings.txt.py:5937
-#, fuzzy
 #| msgid "Marketplace and Adaptive App Search"
 msgid ""
 "That’s right. With a first time smartphone user, you should talk about its "
 "simplicity and features like Adaptive App Search."
-msgstr "मार्केटप्लेस और अनुकूलन योग्य एप्प की खोज"
+msgstr ""
+"यह सही है. पहली बार स्मार्टफोन का उपयोग करते हुए आपको, उसकी सादगी और अनुकूली "
+"एप्प खोज जैसी सुविधाओं के बारे में बात करनी चाहिए."
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -3173,8 +3176,8 @@ msgid ""
 "Actually, with a first time smartphone user, you should talk about its "
 "simplicity and features like Adaptive App Search."
 msgstr ""
-"असल में, एक पहली बार स्मार्ट फोन उपयोगकर्ता के साथ, आप अनुकूली app की खोज की"
-" तरह अपनी सादगी और सुविधाओं के बारे में बात करनी चाहिए."
+"यह सही है. पहली बार स्मार्टफोन का उपयोग करते हुए, आपको उसकी सादगी और अनुकूली "
+"एप्प खोज जैसी सुविधाओं के बारे में बात करनी चाहिए."
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
