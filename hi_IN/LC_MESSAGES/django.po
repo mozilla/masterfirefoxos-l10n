@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-05-18 13:49+0000\n"
-"PO-Revision-Date: 2015-05-29 04:42+0000\n"
+"PO-Revision-Date: 2015-05-30 07:22+0000\n"
 "Last-Translator: umesh <umeshsnwl@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hi_IN\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1432874555.0\n"
+"X-POOTLE-MTIME: 1432970532.0\n"
 
 #. Translators:
 #. Page path: /1-1/
@@ -3267,6 +3267,10 @@ msgid ""
 "the hands of the people. And while all of these statements are true, only "
 "this one is the best response for this particular customer."
 msgstr ""
+"यह सही है. यह ग्राहक एक firefox प्रशंसक की तरह प्रतीत होता है. विचार करें कि "
+"mozilla द्वारा बनाये गए Firefox OS फ़ोन्स वेब को करीब रखने की प्रतिबद्धता "
+"दिखाते हैं. जब ये बयान सत्य होंगे, यही एक चीज़ ग्राहकों के लिए सर्वोत्तम "
+"प्रतिक्रिया होगी."
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -3280,6 +3284,9 @@ msgid ""
 "Firefox OS phones, made by Mozilla, are part of keeping the Web in the hands"
 " of the people."
 msgstr ""
+"ये सारे बयान सत्य हैं, लेकिन एक विशेष ग्राहक जो कि firefox प्रशंसक प्रतीत "
+"होता है ही सर्वोत्तम प्रतिक्रिया है. बात करें कि, कैसे mozilla द्वारा बनाए "
+"गए Firefox ओएस फोन, वेब को लोगों के पास में रखने का हिस्सा हैं."
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -3315,7 +3322,7 @@ msgstr ""
 msgid ""
 "The best response to this objection is to talk about all the apps that are "
 "available."
-msgstr ""
+msgstr "इस आपत्ति का सर्वोत्तम जवाब है, सभी मौजूद एप्प्स पर विचार विमर्श."
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -3332,6 +3339,8 @@ msgid ""
 "The best response to this objection is to talk about the experience of the "
 "Mozilla community that is behind Firefox OS."
 msgstr ""
+"इस आपत्ति का सर्वोत्तम जवाब है firefox os की सफलता को प्रतिबद्ध Mozilla "
+"समुदाय पर विचार विमर्श."
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -3348,6 +3357,7 @@ msgid ""
 "The best response to this objection is to talk about the robust security "
 "model."
 msgstr ""
+"मजबूत सुरक्षा मॉडल के विषय मैं बातचीत करना इस आपत्ति का सर्वोत्तम जवाब है."
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -3381,18 +3391,16 @@ msgstr "ब्राउज़र खोलें."
 #. Page path: /1-3T/take-the-challenge/
 #: db-strings.txt:3993 db-strings.txt.py:4137 db-strings.txt.py:4173
 #: db-strings.txt:4209 db-strings.txt.py:4245
-#, fuzzy
 #| msgid "<p>Firefox browser</p>"
 msgid "Browser"
-msgstr "Firefox ब्राउज़र"
+msgstr "ब्राउज़र"
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
 #: db-strings.txt:4020
-#, fuzzy
 #| msgid "<p>Contacts</p>"
 msgid "ConnectA2"
-msgstr "सम्पर्क"
+msgstr "सम्पर्कA2"
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -3423,10 +3431,9 @@ msgstr "कैलेंडर"
 #. Translators:
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:4065 db-strings.txt.py:8727 db-strings.txt.py:10878
-#, fuzzy
 #| msgid "<p>Contacts</p>"
 msgid "Clock"
-msgstr "सम्पर्क"
+msgstr "घडी"
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -3450,7 +3457,6 @@ msgstr "उपयोग"
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:4092 db-strings.txt.py:6423 db-strings.txt.py:8700
 #: db-strings.txt:10851
-#, fuzzy
 #| msgid "Email and Messages"
 msgid "Email and Messages"
 msgstr "ईमेल और संदेश"
@@ -3465,10 +3471,9 @@ msgstr "ईमेल और संदेश"
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:4110 db-strings.txt.py:6441 db-strings.txt.py:8709
 #: db-strings.txt:10860
-#, fuzzy
 #| msgid "<p>Music and Video</p>"
 msgid "Music"
-msgstr "संगीत और वीडियो"
+msgstr "संगीत"
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -3653,6 +3658,9 @@ msgid ""
 "to all. And since Firefox OS is entirely built in HTML5, you get instant "
 "access to thousands of apps built already for the Web."
 msgstr ""
+"mozilla जो कि firefox के निर्माता हैं, ने सभी के लिए वेब सुलभ करने के लिए एक "
+"मोबाइल ओएस का निर्माण किया है. क्योंकि firefox os को HTML5 मैं बनाया गया है "
+"आपके हाथ मैं हज़ारो एप्प्स मौजूद रहेंगी."
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
