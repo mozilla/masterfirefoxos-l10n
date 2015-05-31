@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-05-18 13:49+0000\n"
-"PO-Revision-Date: 2015-05-31 16:30+0000\n"
+"PO-Revision-Date: 2015-05-31 17:51+0000\n"
 "Last-Translator: umesh <umeshsnwl@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hi_IN\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1433089809.0\n"
+"X-POOTLE-MTIME: 1433094701.0\n"
 
 #. Translators:
 #. Page path: /1-1/
@@ -4072,7 +4072,6 @@ msgstr ""
 #. Translators:
 #. Page path: /1-4/frequently-asked-questions/
 #: db-strings.txt:5514
-#, fuzzy
 #| msgid ""
 #| "rovides two ways to get apps:<ul><li>Marketplace — our go-sourcer ds of at "
 #| "free apps, including popular apps like tter and ebook, andr some localntent "
@@ -4227,7 +4226,6 @@ msgstr ""
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
 #: db-strings.txt:6099
-#, fuzzy
 #| msgid ""
 #| "pp Search, Firefox OS adapts to you needs better than any er ne."
 msgid ""
@@ -4236,13 +4234,15 @@ msgid ""
 "like Web search on Firefox browsers.\""
 msgstr ""
 "अनुकूल एप्प खोज के साथ, Firefox OS आपको किसी दूसरे फ़ोन से बेहतर जरूरत के "
-"लिए अनुकूल बनाता है."
+"लिए अनुकूल बनाता है. ऐसा बिल्कुल नहीं है. इनमें से तीन सही हैं. जबकि अनुकूली "
+"एप्प खोज आपकी आवश्यकताओं को किसी अन्य फ़ोन्स की तुलना मैं बेहतर तरीके से "
+"समझता है, यह सिर्फ वेब खोज की तरह Firefox ब्राउज़रों पर काम नहीं करता."
 
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
 #: db-strings.txt:6450
 msgid "Here Maps"
-msgstr ""
+msgstr "यहाँ नक़्शे"
 
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
@@ -4252,20 +4252,22 @@ msgid ""
 "expect, including Messages, Facebook, email, maps and more, all at a better "
 "value.</p?"
 msgstr ""
+"Firefox Os सभी सुविधाओं से युक्त है जिनकी आपको उम्मीद थी,जैसे-संदेश, "
+"Facebook, ईमेल, नक्शे और अधिक, सभी में एक बेहतर बहुमूल्यता के साथ.</p?"
 
 #: masterfirefoxos/base/templates/base.html:35
 msgid "Submit"
-msgstr ""
+msgstr "निवेदन कीजिए"
 
 #: masterfirefoxos/base/templates/base.html:40
 #: masterfirefoxos/base/templates/base.html:83
 #: masterfirefoxos/base/templates/home.html:12
 msgid "Mozilla"
-msgstr ""
+msgstr "Mozilla"
 
 #: masterfirefoxos/base/templates/base.html:65
 msgid "Menu"
-msgstr ""
+msgstr "मीनू"
 
 #: masterfirefoxos/base/templates/base.html:88
 #, python-brace-format
@@ -4274,6 +4276,9 @@ msgid ""
 "available under a <a href=\"https://www.mozilla.org/foundation/licensing"
 "/website-content/\">Creative Commons license</a>."
 msgstr ""
+"इस संवाद के हिस्से©1998–{0} व्यक्तिगत योगदानकर्ताओं द्वारा हैं. Content "
+"available under a <a href=\"https://www.mozilla.org/foundation/licensing"
+"/website-content/\">Creative Commons license</a>."
 
 #: masterfirefoxos/base/templates/base.html:91
 msgid "Source code"
@@ -4341,11 +4346,11 @@ msgstr "Firefox OS संस्करण"
 
 #: masterfirefoxos/base/templates/includes/version-language-switcher.html:21
 msgid "Which version do I have?"
-msgstr ""
+msgstr "मेरे पास कौनसा संस्करण है?"
 
 #: masterfirefoxos/base/templates/includes/version-language-switcher.html:23
 msgid "Change"
-msgstr ""
+msgstr "परिवर्तन"
 
 #: masterfirefoxos/base/templates/includes/version-language-switcher.html:37
 #, python-brace-format
@@ -4353,23 +4358,25 @@ msgid ""
 "Documentation for Firefox OS {version} is not yet available in {language}, "
 "so we redirected you to the English version."
 msgstr ""
+"Firefox Os{version} के लिए प्रलेखन अभी {language} मैं मौजूद नहीं है, तभी "
+"हमने आपको अंग्रेजी संस्करण पर पुनः निर्देशित किया."
 
 #: masterfirefoxos/base/templates/includes/version-language-switcher.html:39
 #, python-brace-format
 msgid "The latest version available in {language} is {version}."
-msgstr ""
+msgstr "नवीनतम संस्करण {version} है जो कि {language} में उपलब्ध है."
 
 #: masterfirefoxos/settings/base.py:189
 msgid "Afrikaans"
-msgstr ""
+msgstr "अफ्रीकन्स"
 
 #: masterfirefoxos/settings/base.py:190
 msgid "Arabic"
-msgstr ""
+msgstr "अरेबिक"
 
 #: masterfirefoxos/settings/base.py:191
 msgid "Bengali (Bangladesh)"
-msgstr ""
+msgstr "बंगाली (Bangladesh)"
 
 #: masterfirefoxos/settings/base.py:192
 msgid "Bengali (India)"
@@ -4381,12 +4388,11 @@ msgstr "क्रोटिअन"
 
 #: masterfirefoxos/settings/base.py:194
 msgid "Czech"
-msgstr ""
+msgstr "जेच"
 
 #: masterfirefoxos/settings/base.py:195
-#, fuzzy
 msgid "Ewe"
-msgstr "Ewe"
+msgstr "इयु"
 
 #: masterfirefoxos/settings/base.py:196
 msgid "English"
@@ -4410,43 +4416,43 @@ msgstr "फ्रेंच"
 
 #: masterfirefoxos/settings/base.py:201
 msgid "Hausa"
-msgstr ""
+msgstr "हौसा"
 
 #: masterfirefoxos/settings/base.py:202
 msgid "Hindi"
-msgstr ""
+msgstr "हिंदी"
 
 #: masterfirefoxos/settings/base.py:203
 msgid "Hungarian"
-msgstr ""
+msgstr "हंगेरियन"
 
 #: masterfirefoxos/settings/base.py:204
 msgid "Igbo"
-msgstr ""
+msgstr "इग्बो"
 
 #: masterfirefoxos/settings/base.py:205
 msgid "Italian"
-msgstr ""
+msgstr "इटैलियन"
 
 #: masterfirefoxos/settings/base.py:206
 msgid "Japanese"
-msgstr ""
+msgstr "जापानीज"
 
 #: masterfirefoxos/settings/base.py:207
 msgid "Lingala"
-msgstr ""
+msgstr "लिंगाला"
 
 #: masterfirefoxos/settings/base.py:208
 msgid "Polish"
-msgstr ""
+msgstr "पोलिश"
 
 #: masterfirefoxos/settings/base.py:209
 msgid "Portuguese"
-msgstr ""
+msgstr "पुर्तगाली"
 
 #: masterfirefoxos/settings/base.py:210
 msgid "Russian"
-msgstr ""
+msgstr "रशियन"
 
 #: masterfirefoxos/settings/base.py:211
 msgid "Serbian"
