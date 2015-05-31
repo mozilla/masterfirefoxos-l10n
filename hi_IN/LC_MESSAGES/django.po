@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-05-18 13:49+0000\n"
-"PO-Revision-Date: 2015-05-30 13:33+0000\n"
+"PO-Revision-Date: 2015-05-31 11:30+0000\n"
 "Last-Translator: umesh <umeshsnwl@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hi_IN\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1432992813.0\n"
+"X-POOTLE-MTIME: 1433071849.0\n"
 
 #. Translators:
 #. Page path: /1-1/
@@ -3700,6 +3700,8 @@ msgid ""
 "Firefox OS phones provide access to hundreds of free apps at launch, "
 "including some of the most popular global apps today."
 msgstr ""
+"Firefox OS फ़ोन्स के द्वारा आप लांच से ही कुछ सबसे लोकप्रिय वैश्विक एप्प्स "
+"सहित, हज़ारो एप्प्स को एक्सेस कर सकते हैं."
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -3770,6 +3772,7 @@ msgstr ""
 #. Translators:
 #. Page path: /1-4/introduction/
 #: db-strings.txt:4776
+#, fuzzy
 msgid ""
 "At Mozilla, we’re out to make a difference, not a profit.  Firefox OS "
 "smartphones are backed by a global community of thousands of developers "
@@ -3777,6 +3780,9 @@ msgid ""
 "interests and needs in mind. When customers choose Firefox OS, they’re "
 "helping build a brighter future for the Web for all."
 msgstr ""
+"mozilla मैं हमारा मकसद लाभ का नहीं अपितु एक अंतर बनाना है. 'Firefox OS "
+"स्मार्टफोन्स अपने ग्राहकों पर कुछ नया करने के लिए डेवलपर्स के हजारों की "
+"संख्या के वैश्विक समुदाय के द्वारा समर्थित हैं.'"
 
 #. Translators:
 #. Page path: /1-4/introduction/
@@ -3804,7 +3810,6 @@ msgstr ""
 #. Translators:
 #. Page path: /1-4/demo-tips/
 #: db-strings.txt:4830
-#, fuzzy
 #| msgid ""
 #| "Demonstrating the features of Firefox OS and how easy it is to use will be "
 #| "your best selling tool. Browse the demonstration videos below to get "
@@ -3821,7 +3826,7 @@ msgstr ""
 #. Page path: /1-4/demo-tips/
 #: db-strings.txt:4875
 msgid "Map"
-msgstr ""
+msgstr "नक्शा"
 
 #. Translators:
 #. Page path: /1-4/demo-tips/
@@ -3839,13 +3844,12 @@ msgstr "ब्राउज़िंग"
 #. Translators:
 #. Page path: /1-4/demo-tips/
 #: db-strings.txt:4920
-#, fuzzy
 #| msgid ""
 #| "pp Search, Firefox OS adapts to you needs better than any er ne."
 msgid "Firefox OS puts the Web in users’ hands better than any other phone."
 msgstr ""
-"अनुकूल एप्प खोज के साथ, Firefox OS आपको किसी दूसरे फ़ोन से बेहतर जरूरत के "
-"लिए अनुकूल बनाता है."
+"अनुकूल एप्प खोज के साथ, Firefox OS आपको किसी दूसरे फ़ोन से बेहतर वेब सुविधा "
+"उपलब्ध कराता है."
 
 #. Translators:
 #. Page path: /1-4/demo-tips/
@@ -3854,6 +3858,9 @@ msgid ""
 "Photograph, edit and share. Show off our full-featured camera and gallery "
 "apps, including built-in style filters, video, and more"
 msgstr ""
+"फोटोग्राफ खीचें, संपादित करें और साझा करें. कैमरा तथा गैलरी एप्प्स के साथ "
+"साथ हमारी पूर्ण विशेषताओं जैसे-अंतर्निहित शैली फिल्टर, वीडियो और बहुत कुछ "
+"प्रदर्शन करें."
 
 #. Translators:
 #. Page path: /1-4/demo-tips/
@@ -3928,7 +3935,6 @@ msgstr ""
 #. Translators:
 #. Page path: /1-4/key-features/
 #: db-strings.txt:5172
-#, fuzzy
 #| msgid ""
 #| " get what you need right when you need it. Search for thing and x OS pts "
 #| "your request, displaying photos, video, ic, news and e — ing it h easier  "
@@ -3939,14 +3945,14 @@ msgid ""
 "adapts to your request, displaying photos, video, music, news, maps and more"
 " - making it much easier for you to find what you were really looking for."
 msgstr ""
-"जब आपको इसकी जरूरत है उसी वक़्त पाने के लिए एक नया तरीका, कुछ भी खोजने, और "
-"Firefox OS आपके अनुरोध को मानकर फोटो, वीडियो, संगीत, समाचार और अधिक "
-"प्रदर्शित करने के लिए."
+"जब आपको इसकी जरूरत है उसी वक़्त पाने के लिए एक नया तरीका, कुछ भी खोजें, "
+"एप्लीकेशन को डाउनलोड करने की भी कोई जरुरत नहीं है और Firefox OS आपके अनुरोध "
+"को मानकर फोटो, वीडियो, संगीत, समाचार और अधिक प्रदर्शित करता है वो भी आपकी "
+"पसंद के अनुताबित."
 
 #. Translators:
 #. Page path: /1-4/key-features/
 #: db-strings.txt:5190
-#, fuzzy
 #| msgid ""
 #| "Your go-to source for the best apps for Firefox OS. Browse hundreds of free "
 #| "apps in multiple categories: Games, Tools, Lifestyle and more."
@@ -3955,17 +3961,18 @@ msgid ""
 " of free and paid apps in multiple categories, from games to utilities, "
 "music, travel, sports, and more."
 msgstr ""
-"Firefox OS के सबसे अच्छे ऐप्स के लिए आपका उद्गम. कई श्रेणियों में सैकड़ों "
+"Firefox OS के सबसे अच्छे ऐप्स के लिए आपका साथी. कई श्रेणियों में सैकड़ों "
 "मुफ्त ऐप्स ब्राउज़ करें: खेल, औज़ार, जीवनशैली और भी काफी कुछ."
 
 #. Translators:
 #. Page path: /1-4/key-features/
 #: db-strings.txt:5208
+#, fuzzy
 msgid ""
 "The fast, smart, safe way to get the best of the Web. Use the awesome bar to"
 " enter website URL’s, perform searches, and access your browsing history. "
 "Plus, tabs let you multitask by browsing multiple pages simultaneously."
-msgstr ""
+msgstr "तेजी से वेब को पाने के लिए स्मार्ट, सुरक्षित तरीका है."
 
 #. Translators:
 #. Page path: /1-4/key-features/
@@ -3976,6 +3983,11 @@ msgid ""
 "Maps can pinpoint your location and even give you directions (car, walking "
 "or public transportation) to get you to your destination."
 msgstr ""
+"उपग्रह, सार्वजनिक परिवहन, और लाइव आवागमन दृष्य, अपनी पसंदीदा जगहों की खोज, "
+"और अपने स्थानीय नक्शे को जल्दी दूरस्थ पहुँच के लिए स्थानीय रूप से सहेजें. "
+"यहाँ नक्शे आपके स्थान इंगित कर सकते हैं और यहां तक कि आपको आपकी मंज़िल तक "
+"पहुँचाने के लिए दिशाओं (कार, पैदल या सार्वजनिक परिवहन) का भी ज्ञान करा सकते "
+"हैं."
 
 #. Translators:
 #. Page path: /1-4/key-features/
