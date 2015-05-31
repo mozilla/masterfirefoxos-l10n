@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-05-18 13:49+0000\n"
-"PO-Revision-Date: 2015-05-31 11:30+0000\n"
+"PO-Revision-Date: 2015-05-31 16:30+0000\n"
 "Last-Translator: umesh <umeshsnwl@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hi_IN\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1433071849.0\n"
+"X-POOTLE-MTIME: 1433089809.0\n"
 
 #. Translators:
 #. Page path: /1-1/
@@ -3772,7 +3772,6 @@ msgstr ""
 #. Translators:
 #. Page path: /1-4/introduction/
 #: db-strings.txt:4776
-#, fuzzy
 msgid ""
 "At Mozilla, we’re out to make a difference, not a profit.  Firefox OS "
 "smartphones are backed by a global community of thousands of developers "
@@ -3780,9 +3779,11 @@ msgid ""
 "interests and needs in mind. When customers choose Firefox OS, they’re "
 "helping build a brighter future for the Web for all."
 msgstr ""
-"mozilla मैं हमारा मकसद लाभ का नहीं अपितु एक अंतर बनाना है. 'Firefox OS "
+"Mozilla मैं हमारा मकसद लाभ का नहीं अपितु एक अंतर बनाना है. 'Firefox OS "
 "स्मार्टफोन्स अपने ग्राहकों पर कुछ नया करने के लिए डेवलपर्स के हजारों की "
-"संख्या के वैश्विक समुदाय के द्वारा समर्थित हैं.'"
+"संख्या के वैश्विक समुदाय के द्वारा समर्थित हैं.' जब ग्राहक firefox OS का चयन "
+"करते हैं, वे सभी के लिए वेब के एक उज्जवल भविष्य के निर्माण मैं मदद कर कर "
+"रहे हैं."
 
 #. Translators:
 #. Page path: /1-4/introduction/
@@ -3967,12 +3968,14 @@ msgstr ""
 #. Translators:
 #. Page path: /1-4/key-features/
 #: db-strings.txt:5208
-#, fuzzy
 msgid ""
 "The fast, smart, safe way to get the best of the Web. Use the awesome bar to"
 " enter website URL’s, perform searches, and access your browsing history. "
 "Plus, tabs let you multitask by browsing multiple pages simultaneously."
-msgstr "तेजी से वेब को पाने के लिए स्मार्ट, सुरक्षित तरीका है."
+msgstr ""
+"तेजी से वेब को पाने के लिए स्मार्ट, सुरक्षित तरीका है. इस आश्चर्यजनक बार का "
+"उपयोग करके वेबसाइट URL दर्ज करें, खोजें तथा अपना ब्राउज़िंग इतिहास देखें. "
+"साथ ही टैब्स का प्रयोग करके एकाधिक पृष्ठों को एक साथ ब्राउज करें."
 
 #. Translators:
 #. Page path: /1-4/key-features/
@@ -4141,39 +4144,37 @@ msgstr "यह सही है. यह आइकन अनुकूली app �
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
 #: db-strings.txt:5658
-#, fuzzy
 #| msgid "<p>What is Adaptive App Search?</p>"
 msgid ""
 "That’s not it.  You can access Adaptive App Search directly on your home "
 "screen./p>"
-msgstr "अनुकूली एप्प्स खोज क्या है?"
+msgstr ""
+"यह नहीं है. आप सीधे अपने घर स्क्रीन पर अनुकूली एप्प खोज तक पहुँच सकते "
+"हैं./p>"
 
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
 #: db-strings.txt:5667
 msgid "It’s directly on your home screen"
-msgstr ""
+msgstr "यह सीधा आपके होम स्क्रीन पर होगा."
 
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
 #: db-strings.txt:5793
-#, fuzzy
 #| msgid "Marketplace and Adaptive App Search"
 msgid "That’s right. This icon represents Firefox Browser."
-msgstr "मार्केटप्लेस और अनुकूलन योग्य एप्प की खोज"
+msgstr "यह सही है. यह आइकॉन Firefox ब्राउज़र को दर्शाता है."
 
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
 #: db-strings.txt:5802 db-strings.txt.py:5811
-#, fuzzy
 #| msgid "Marketplace and Adaptive App Search"
 msgid "Actually, this icon represents Firefox Browser."
-msgstr "मार्केटप्लेस और अनुकूलन योग्य एप्प की खोज"
+msgstr "दरसल, यह आइकॉन Firefox ब्राउज़र को दर्शाता है."
 
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
 #: db-strings.txt:5982 db-strings.txt.py:5991
-#, fuzzy
 #| msgid ""
 #| "Actually, when you meet a Firefox fan, talk about how choosing Firefox OS "
 #| "shows a commitment to keeping the Web in their hands"
@@ -4181,8 +4182,9 @@ msgid ""
 "Actually, when you meet a Firefox fan, talk about how choosing Firefox OS "
 "shows a commitment to keeping the Web in their hands."
 msgstr ""
-"यदि आप Firefox से प्यार करते हैं, तो आप Firefox OS से भी प्यार करेंगे. "
-"Firefox OS डिवाइस का चुनाव करके वेब की शक्ति आपके हाथों में होती है."
+"दरसल, जब आप किसी firefox प्रशंसक से मिलते हैं, उनसे बात करें कि कैसे Firefox "
+"OS का चुनाव करके आप वेब की शक्ति आपके हाथों में ले सकने के वादे को पूरा कर "
+"सकते हैं."
 
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
@@ -4192,6 +4194,9 @@ msgid ""
 "full feature set of Firefox OS, including social apps that are preloaded on "
 "the phone, all at great value."
 msgstr ""
+"यह सही है. इसके माध्यम से ग्राहक,सामाजिक एप्प्स जो कि पहले से ही मौजूद रहती "
+"हैं सहित Firefox OS की प्रमुख विशेषताओं पर प्रकाश डालता है, वो भी बेहतरीन "
+"ढंग से."
 
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
@@ -4201,11 +4206,13 @@ msgid ""
 "full feature set of Firefox OS, including social apps that are preloaded on "
 "the phone, all at great value."
 msgstr ""
+"ऐसा नहीं है. इसके माध्यम से ग्राहक,सामाजिक एप्प्स जो कि पहले से ही मौजूद "
+"रहती हैं सहित Firefox OS की प्रमुख विशेषताओं पर प्रकाश डालता है, वो भी "
+"बेहतरीन ढंग से."
 
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
 #: db-strings.txt:6090
-#, fuzzy
 #| msgid ""
 #| "pp Search, Firefox OS adapts to you needs better than any er ne."
 msgid ""
@@ -4213,8 +4220,9 @@ msgid ""
 "anticipates your needs better than any other phone, it does NOT work just "
 "like Web search on Firefox browsers."
 msgstr ""
-"अनुकूल एप्प खोज के साथ, Firefox OS आपको किसी दूसरे फ़ोन से बेहतर जरूरत के "
-"लिए अनुकूल बनाता है."
+"ऐसा नहीं है. अनुकूल एप्प खोज के साथ, Firefox OS आपको किसी दूसरे फ़ोन से "
+"बेहतर जरूरत के लिए अनुकूल बनाता है, यह Firefox ब्राउज़रों पर केवल वेब सर्च "
+"की तरह काम नहीं करता."
 
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
@@ -4297,39 +4305,39 @@ msgstr "व्यापार-चिह्न दुरूप्रयोग व
 
 #: masterfirefoxos/base/templates/base.html:105
 msgid "Mozilla on Twitter"
-msgstr ""
+msgstr "Twitter मैं Mozilla"
 
 #: masterfirefoxos/base/templates/base.html:106
 msgid "Firefox on Twitter"
-msgstr ""
+msgstr "Twitter मैं Firefox"
 
 #: masterfirefoxos/base/templates/base.html:107
 msgid "Mozilla on Facebook"
-msgstr ""
+msgstr "Facebook मैं Mozilla"
 
 #: masterfirefoxos/base/templates/base.html:108
 msgid "Firefox on Facebook"
-msgstr ""
+msgstr "Facebook मैं Firefox"
 
 #: masterfirefoxos/base/templates/home.html:49
 msgid "Learn more"
-msgstr ""
+msgstr "और अधिक जानें"
 
 #: masterfirefoxos/base/templates/includes/nav-information.html:3
 msgid "Home"
-msgstr ""
+msgstr "घर"
 
 #: masterfirefoxos/base/templates/includes/nav-information.html:4
 msgid "About"
-msgstr ""
+msgstr "के विषय मैं"
 
 #: masterfirefoxos/base/templates/includes/version-language-switcher.html:3
 msgid "Language"
-msgstr ""
+msgstr "भाषा"
 
 #: masterfirefoxos/base/templates/includes/version-language-switcher.html:15
 msgid "Firefox OS version"
-msgstr ""
+msgstr "Firefox OS संस्करण"
 
 #: masterfirefoxos/base/templates/includes/version-language-switcher.html:21
 msgid "Which version do I have?"
@@ -4365,39 +4373,40 @@ msgstr ""
 
 #: masterfirefoxos/settings/base.py:192
 msgid "Bengali (India)"
-msgstr ""
+msgstr "बंगाली(भारत )"
 
 #: masterfirefoxos/settings/base.py:193
 msgid "Croatian"
-msgstr ""
+msgstr "क्रोटिअन"
 
 #: masterfirefoxos/settings/base.py:194
 msgid "Czech"
 msgstr ""
 
 #: masterfirefoxos/settings/base.py:195
+#, fuzzy
 msgid "Ewe"
-msgstr ""
+msgstr "Ewe"
 
 #: masterfirefoxos/settings/base.py:196
 msgid "English"
-msgstr ""
+msgstr "इंग्लिश"
 
 #: masterfirefoxos/settings/base.py:197
 msgid "German"
-msgstr ""
+msgstr "जर्मन"
 
 #: masterfirefoxos/settings/base.py:198
 msgid "Greek"
-msgstr ""
+msgstr "ग्रीक"
 
 #: masterfirefoxos/settings/base.py:199
 msgid "Fulah"
-msgstr ""
+msgstr "फुलाह"
 
 #: masterfirefoxos/settings/base.py:200
 msgid "French"
-msgstr ""
+msgstr "फ्रेंच"
 
 #: masterfirefoxos/settings/base.py:201
 msgid "Hausa"
@@ -4441,39 +4450,39 @@ msgstr ""
 
 #: masterfirefoxos/settings/base.py:211
 msgid "Serbian"
-msgstr ""
+msgstr "सर्बियन"
 
 #: masterfirefoxos/settings/base.py:212
 msgid "Kiswahili"
-msgstr ""
+msgstr "किसवाहिली"
 
 #: masterfirefoxos/settings/base.py:213
 msgid "Spanish"
-msgstr ""
+msgstr "स्पैनिश"
 
 #: masterfirefoxos/settings/base.py:214
 msgid "Tamil"
-msgstr ""
+msgstr "तमिल"
 
 #: masterfirefoxos/settings/base.py:215
 msgid "Wolof"
-msgstr ""
+msgstr "वोलोफ"
 
 #: masterfirefoxos/settings/base.py:216
 msgid "Xhosa"
-msgstr ""
+msgstr "होसा"
 
 #: masterfirefoxos/settings/base.py:217
 msgid "Pirate"
-msgstr ""
+msgstr "पायरेट"
 
 #: masterfirefoxos/settings/base.py:218
 msgid "Yoruba"
-msgstr ""
+msgstr "योरूबा"
 
 #: masterfirefoxos/settings/base.py:219
 msgid "Zulu"
-msgstr ""
+msgstr "ज़ुलू"
 
 #~ msgid "z8IAfoqxOPI"
 #~ msgstr "z8IAfoqxOPI"
