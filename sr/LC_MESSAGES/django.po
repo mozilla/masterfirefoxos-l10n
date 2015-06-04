@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-05-18 13:49+0000\n"
-"PO-Revision-Date: 2015-06-02 13:04+0000\n"
-"Last-Translator: Aleksandra <auzelac91@gmail.com>\n"
+"PO-Revision-Date: 2015-06-04 07:11+0000\n"
+"Last-Translator: Vanja <tumbas93@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: sr\n"
 "MIME-Version: 1.0\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
 "10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1433250242.0\n"
+"X-POOTLE-MTIME: 1433401889.0\n"
 
 #. Translators:
 #. Page path: /1-1/
@@ -71,7 +71,7 @@ msgid ""
 "started."
 msgstr ""
 "Ovaj centar globalnih partnera i treniranja zajednica poseduje sve što Vam "
-"je potrebno da uspešno komunicirate o osnovama Firefox Os-a. Izaberite bilo "
+"je potrebno da uspešno komunicirate o osnovama Firefox OS-a. Izaberite bilo "
 "koju temu kako biste započeli."
 
 #. Translators:
@@ -783,9 +783,9 @@ msgid ""
 " - making it much easier for you to find what you were really looking for."
 msgstr ""
 "Novi način da dobijete sve što Vam je potrebno, u pravom trenutku, bez "
-"mučenja u preuzimanju aplikacija. Pretražujte bilo šta i Firefox OS će se "
+"mučenja sa preuzimanjem aplikacija. Pretražujte bilo šta i Firefox OS će se "
 "prilagoditi Vašem zahtevu prikazujući fotografije, video snimke, muziku, "
-"vesti, mape itd. - što će Vam olakšati pronalaženje stvari koje tražite."
+"vesti, mape - što će Vam olakšati pronalaženje stvari koje tražite."
 
 #. Translators:
 #. Page path: /1-1/key-features/
@@ -1320,7 +1320,7 @@ msgstr ""
 "<li>Prilagodljiva pretraga aplikacija — Otkucajte samo jednu reč kao što je "
 "“suši” da biste otkrili povezane mobilne aplikacije u svom regionu, koje "
 "obezbeđuje vrhunsko mobilno iskustvo i koje su podešene da Vam daju ono što "
-"želite.</li></ul>"
+"želite.</li> </ul>"
 
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
@@ -1335,7 +1335,7 @@ msgid ""
 "Hotmail and Yahoo mail are currently supported with more on the way in "
 "future releases."
 msgstr ""
-"Hotmail i Yahoo e-pošta je trenutno podržana. Očekuju se i drugi u budućim "
+"Hotmail i Yahoo e-pošta je trenutno podržana, a očekuju se i drugi u budućim "
 "izdanjima."
 
 #. Translators:
@@ -1653,7 +1653,7 @@ msgstr ""
 #: db-strings.txt:8610 db-strings.txt.py:10752
 msgid ""
 "That’s right. All of these customers are ideal candidates for Firefox OS!"
-msgstr "Tako je. Svi ovi kupci su idealni kandidati za Firefox OS."
+msgstr "Tako je. Svi ovi kupci su idealni kandidati za Firefox OS!"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1795,8 +1795,8 @@ msgid ""
 "selection of devices.” This may be true in the future, but it is not "
 "currently true."
 msgstr ""
-"Zapravo, svi odgovori su tačni osim dela o “najširem izboru uređaja\". Možda"
-" bude istinito u budućnosti, ali trenutno nije."
+"Zapravo, svi odgovori su tačni osim dela o “najširem izboru uređaja.\" Možda "
+"bude istinito u budućnosti, ali trenutno nije."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1896,7 +1896,10 @@ msgstr ""
 msgid ""
 "Actually, with a first time smart phone user, you should talk about its "
 "simplicity and features like Adaptive App Search."
-msgstr "Šta je prilagodljiva pretraga aplikacija?"
+msgstr ""
+"Zapravo, sa korisnicima koji prvi put koriste pametan telefon, treba da "
+"pričate o jednostavnosti i mogućnostima kao što je prilagodljiva pretraga "
+"aplikacija."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -2109,7 +2112,9 @@ msgstr ""
 msgid ""
 "Not quite. A first time smartphone user will be most interested in ease of "
 "use."
-msgstr "Šta je prilagodljiva pretraga aplikacija?"
+msgstr ""
+"Ne baš. Korisnika koji prvi put koristi pametan telefon će najviše zanimati "
+"lakoća korišćenja."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -2160,7 +2165,7 @@ msgstr ""
 #: db-strings.txt:8466 db-strings.txt.py:8538 db-strings.txt.py:8574
 #: db-strings.txt:10608 db-strings.txt.py:10680 db-strings.txt.py:10716
 msgid "That’s right!"
-msgstr "Prilagodljiv telefon"
+msgstr "Tako je!"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -2171,7 +2176,7 @@ msgstr "Prilagodljiv telefon"
 #: db-strings.txt:1536 db-strings.txt.py:1545 db-strings.txt.py:3786
 #: db-strings.txt:3795 db-strings.txt.py:6198 db-strings.txt.py:6207
 msgid "Actually, this is true."
-msgstr "Otvorite Firefox pregledač."
+msgstr "Заправо, то је истина."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -2451,7 +2456,7 @@ msgstr ""
 #: db-strings.txt:9222 db-strings.txt.py:11346
 #| msgid "<p>The Firefox Fan</p>"
 msgid "I’m a Firefox fan."
-msgstr "Ljubitelj Firefox-a"
+msgstr "Ljubitelj Firefox-a."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -2541,7 +2546,7 @@ msgid ""
 "expect — camera, email, apps, music, maps and more — at the most competitive"
 " prices."
 msgstr ""
-"Firefox OS Vam daje najveću vrednost za Vaš novac. Ima sve što očekujete od "
+"Firefox OS Vam daje najveću vrednost za Vaš novac, sa svime što očekujete od "
 "pametnog telefona — kameru, e-poštu, aplikacije, muziku, mape i ostalo — i "
 "najkonkurentnije cene."
 
@@ -2592,7 +2597,7 @@ msgid ""
 " prices. Plus, Adaptive App Search feature makes it easy to find the apps "
 "you really need, when you need it."
 msgstr ""
-"Firefox OS Vam daje najveću vrednost za Vaš novac. Ima sve što očekujete — "
+"Firefox OS Vam daje najveću vrednost za Vaš novac, sa svime što očekujete — "
 "kameru, e-poštu, aplikacije, muziku, mape i još mnogo toga — po "
 "najkonkurentnijim cenama. Takođe, Prilagodljiva pretraga aplikacija olakšava "
 "pronalaženje aplikacija koje su Vam zaista potrebne, u bilo kom trenutku."
