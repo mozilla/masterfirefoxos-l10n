@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-05-18 13:49+0000\n"
-"PO-Revision-Date: 2015-06-07 03:57+0000\n"
+"PO-Revision-Date: 2015-06-07 04:14+0000\n"
 "Last-Translator: Stephen <wanjaustev@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: sw\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1433649465.0\n"
+"X-POOTLE-MTIME: 1433650474.0\n"
 
 #. Translators:
 #. Page path: /1-1/
@@ -2819,7 +2819,7 @@ msgstr "Shiriki anwani"
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:8826 db-strings.txt.py:10977
 msgid "Share images"
-msgstr ""
+msgstr "Shiriki picha"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2827,7 +2827,7 @@ msgstr ""
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:8835 db-strings.txt.py:10986
 msgid "Share videos"
-msgstr ""
+msgstr "Shiriki video"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2837,6 +2837,9 @@ msgid ""
 "experience, Firefox OS is packed with the features that users are looking "
 "for in a smartphone."
 msgstr ""
+"Pamoja  na Firefox Marketplace, programu bora zilizopakiwa awali na uzoefu "
+"bora wa mtumiaji, Firefox imepakiwa na vipengele ambavyo watumiaji "
+"wanatafuta katika smartphone."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2845,6 +2848,8 @@ msgid ""
 "Since it’s made by Firefox, Firefox OS is backed by a global community "
 "working on your behalf and with your interests in mind."
 msgstr ""
+"Kawa sababu imeundwa na Firefox, Firefox OS inaungwa mkono na jamii dunia "
+"nzima inayofanya kazi kwa niaba yako huku ikijali maslahi yako."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2856,6 +2861,9 @@ msgid ""
 "to use and allows for greater control, personalization and customization "
 "than many other smartphones on the market."
 msgstr ""
+"Firefox OS imeundwa huku wewe na mahitaji yakizingatiwa, kwa hivo ni rahisi "
+"zaidi kutumia na inakukubalia udhibiti mkubwa zaidi, kubinafsisha na "
+"kuboresha kuliko smartphone zingine zilizo katika soko."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2867,6 +2875,9 @@ msgid ""
 " are already preloaded and you can easily import your friends from Facebook,"
 " too.."
 msgstr ""
+"Firefox OS ndio smartphone rahisi mno kuanza kutumia. Programu zako "
+"uzipendazo zimepakiwa tayari na unaweza kuleta kwa urahisi marafiki wako "
+"kutoka Facebook pia..."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2878,6 +2889,8 @@ msgid ""
 "If you love Firefox, you’ll love Firefox OS. Choosing Firefox OS keeps the "
 "power of the Web in your hands."
 msgstr ""
+"Kama unapenda Firefox, utapenda Firefox OS. Kuchagua Firefox OS kunaweka "
+"nguvu ya Mtandao mikononi mwako."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2889,6 +2902,9 @@ msgid ""
 "expect, including Messages, Facebook, email, maps and more, all at a better "
 "value."
 msgstr ""
+"Smartphone ya Firefox OS tayari imepakiwa na vipengele vyote ambavyo "
+"ungetarajia, pamoja na Jumbe, Facebook, barua pepe, ramani na zaidi, yote "
+"kwa thamani bora zaidi."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2908,6 +2924,9 @@ msgid ""
 "accessible to all. And since Firefox OS is entirely built in HTML5, you get "
 "instant access to thousands of apps already built for the Web."
 msgstr ""
+"Mozilla, inayounda Firefoc, ilijenga Os ya smartphone kufanya Mtanda "
+"kufikiwa na wote. Na kwa sababu Firefox OS imejengwa kwa HTML5, unapata "
+"ufikiajai wa papo hapo kwa maelfu ya programu ambazo zimejengewa Mtandao."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -3110,23 +3129,23 @@ msgstr ""
 
 #: masterfirefoxos/base/templates/base.html:107
 msgid "Mozilla on Facebook"
-msgstr ""
+msgstr "Mozilla katika Facebook"
 
 #: masterfirefoxos/base/templates/base.html:108
 msgid "Firefox on Facebook"
-msgstr ""
+msgstr "Firefox katika Facebook"
 
 #: masterfirefoxos/base/templates/home.html:49
 msgid "Learn more"
-msgstr ""
+msgstr "Soma zaidi"
 
 #: masterfirefoxos/base/templates/includes/nav-information.html:3
 msgid "Home"
-msgstr ""
+msgstr "Nyumbani"
 
 #: masterfirefoxos/base/templates/includes/nav-information.html:4
 msgid "About"
-msgstr ""
+msgstr "Kuhusu"
 
 #: masterfirefoxos/base/templates/includes/version-language-switcher.html:3
 msgid "Language"
@@ -3150,6 +3169,8 @@ msgid ""
 "Documentation for Firefox OS {version} is not yet available in {language}, "
 "so we redirected you to the English version."
 msgstr ""
+"Nyaraka ya toleo {version} la Firefox OS bado halijatolewa katika lugha ya "
+"{language}, kwa hivyo tumekuelekeza upya kwa toleo la Kizungu."
 
 #: masterfirefoxos/base/templates/includes/version-language-switcher.html:39
 #, python-brace-format
@@ -3170,11 +3191,11 @@ msgstr "Kibengali(Bangladesh)"
 
 #: masterfirefoxos/settings/base.py:192
 msgid "Bengali (India)"
-msgstr ""
+msgstr "Kibengali(India)"
 
 #: masterfirefoxos/settings/base.py:193
 msgid "Croatian"
-msgstr ""
+msgstr "Kikroeshia"
 
 #: masterfirefoxos/settings/base.py:194
 msgid "Czech"
@@ -3182,7 +3203,7 @@ msgstr ""
 
 #: masterfirefoxos/settings/base.py:195
 msgid "Ewe"
-msgstr "Kondoo jike"
+msgstr "Kicheki"
 
 #: masterfirefoxos/settings/base.py:196
 msgid "English"
