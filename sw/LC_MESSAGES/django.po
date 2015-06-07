@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-05-18 13:49+0000\n"
-"PO-Revision-Date: 2015-06-07 04:14+0000\n"
-"Last-Translator: Stephen <wanjaustev@gmail.com>\n"
+"PO-Revision-Date: 2015-06-07 09:46+0000\n"
+"Last-Translator: Dennis <ndegwa90@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: sw\n"
 "MIME-Version: 1.0\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1433650474.0\n"
+"X-POOTLE-MTIME: 1433670370.0\n"
 
 #. Translators:
 #. Page path: /1-1/
@@ -2990,6 +2990,10 @@ msgid ""
 "relevant apps for the Firefox OS platform. New apps and content are added "
 "every day."
 msgstr ""
+"Firefox OS inaungwa mkono na dunia ya jamii ya waendelezaji na watoaji ambao "
+"wamejitolea kuyaunda mambo mapya ya kufurahisha na hata programu "
+"zinazohusika na mambo ya kinyumbani katika jukwaa la Firefox OS. Programu "
+"mpya na mengine mengi yanaongezwa kila siku."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -3000,6 +3004,8 @@ msgid ""
 "Apps developers are slowly realizing the benefit of HTML5 in support of the "
 "Open Web."
 msgstr ""
+"Waendelezaji wanayatambua manufaa ya HTML5 katika kuunga mkono mtandao ulio "
+"na uwazi polepole."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -3010,6 +3016,7 @@ msgid ""
 "They’re packed with the features that made you want a smartphone in the "
 "first place."
 msgstr ""
+"Zimepakiwa na vipengele vilivyokufanya upende smartphone kwa mara ya kwanza."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -3020,6 +3027,8 @@ msgid ""
 "They’re new and backed by a global community working to help keep the Web "
 "accessible to all."
 msgstr ""
+"Ni mpya na zinaungwa mkono na jamii ya kidunia inayofanya kazi ili kusaidia "
+"kuuweka mtandao ukiwa wazi kwa wote."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -3030,6 +3039,7 @@ msgid ""
 "It’s packed with the features that made you want a smartphone in the first "
 "place."
 msgstr ""
+"Imepakiwa na vipengele ambavyo vilikufanya upende smartphone hapo mwanzoni."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -3040,6 +3050,8 @@ msgid ""
 "It’s new and backed by a global community working to help keep the Web "
 "accessible to all."
 msgstr ""
+"Ni mpya na inaungwa mkono na jamii dunia nzima inayofanya kazi kusaidia "
+"kufanya Mtandao kufikiwa na wote."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -3052,6 +3064,8 @@ msgid ""
 "from malicious applications and content, it also protects applications from "
 "each other."
 msgstr ""
+"Ni mpya na inaungwa mkono na jamii dunia nzima inayofanya kazi kusaidia "
+"kufanya Mtandao kufikiwa na wote."
 
 #. Translators:
 #. Page path: /2-0/which-version/
@@ -3068,10 +3082,18 @@ msgid ""
 "<li><em>1.3.0.0</em> means you have version 1.3</li> <li><em>2.0.0.0</em> "
 "means you have version 2.0</li> </ul> </li> </ol>"
 msgstr ""
+"<ol> <li>Ifungue programu ya mipangilio katika kifaa chako.</li> <li>Nenda "
+"chini kisha uchague <strong>Maelezo ya kifaa</strong>.</li> <li>Katika "
+"skrini ya maelezo ya kifaa, chagua <strong>Maelezo zaidi</strong> kisha "
+"uiangalie namba ya toleo chini ya <em>toleo la OS</em> hapo juu katika "
+"skrini. <ul> <li><em>Firefox OS 1.0.1.0</em> inamaanisha unatumia tole "
+"1.0.1</li> <li><em>Firefox OS 1.1.0.0</em> inamaanisha unatumia toleo "
+"1.1</li> <li><em>1.3.0.0</em> inamaanisha unatumia toleo 1.3</li> "
+"<li><em>2.0.0.0</em> inamaanisha unatumia toleo 2.0</li> </ul> </li> </ol>"
 
 #: masterfirefoxos/base/templates/base.html:35
 msgid "Submit"
-msgstr ""
+msgstr "Wasilisha"
 
 #: masterfirefoxos/base/templates/base.html:40
 #: masterfirefoxos/base/templates/base.html:83
@@ -3090,10 +3112,14 @@ msgid ""
 "available under a <a href=\"https://www.mozilla.org/foundation/licensing"
 "/website-content/\">Creative Commons license</a>."
 msgstr ""
+"Sehemu ya yaliyomo  ©1998–{0} ni michango ya watu binafsi. Yaliyomo "
+"yanapatikana chini ya leseni ya <a "
+"href=\"https://www.mozilla.org/foundation/licensing/website-"
+"content/\">Creative Commons license</a>."
 
 #: masterfirefoxos/base/templates/base.html:91
 msgid "Source code"
-msgstr ""
+msgstr "Kodi ya chanzo"
 
 #: masterfirefoxos/base/templates/base.html:96
 msgid "Contact Us"
@@ -3117,15 +3143,15 @@ msgstr "Ilani za Kisheria"
 
 #: masterfirefoxos/base/templates/base.html:101
 msgid "Report Trademark Abuse"
-msgstr ""
+msgstr "Ripoti Matumizi mabaya ya Alama ya biashara"
 
 #: masterfirefoxos/base/templates/base.html:105
 msgid "Mozilla on Twitter"
-msgstr ""
+msgstr "Mozilla katika Twitter"
 
 #: masterfirefoxos/base/templates/base.html:106
 msgid "Firefox on Twitter"
-msgstr ""
+msgstr "Firefox katika Twitter"
 
 #: masterfirefoxos/base/templates/base.html:107
 msgid "Mozilla on Facebook"
@@ -3199,7 +3225,7 @@ msgstr "Kikroeshia"
 
 #: masterfirefoxos/settings/base.py:194
 msgid "Czech"
-msgstr ""
+msgstr "Kicheki"
 
 #: masterfirefoxos/settings/base.py:195
 msgid "Ewe"
@@ -3235,7 +3261,7 @@ msgstr "Kihindi"
 
 #: masterfirefoxos/settings/base.py:203
 msgid "Hungarian"
-msgstr ""
+msgstr "Kihungari"
 
 #: masterfirefoxos/settings/base.py:204
 msgid "Igbo"
@@ -3247,7 +3273,7 @@ msgstr "Kiitaliano"
 
 #: masterfirefoxos/settings/base.py:206
 msgid "Japanese"
-msgstr ""
+msgstr "Kijapani"
 
 #: masterfirefoxos/settings/base.py:207
 msgid "Lingala"
@@ -3267,7 +3293,7 @@ msgstr "Kirusi"
 
 #: masterfirefoxos/settings/base.py:211
 msgid "Serbian"
-msgstr ""
+msgstr "Kisabia"
 
 #: masterfirefoxos/settings/base.py:212
 msgid "Kiswahili"
