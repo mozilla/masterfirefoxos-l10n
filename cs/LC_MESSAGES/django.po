@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-05-18 13:49+0000\n"
-"PO-Revision-Date: 2015-03-19 17:43+0000\n"
-"Last-Translator: Michal <michal.stanke@mikk.cz>\n"
+"PO-Revision-Date: 2015-08-03 18:40+0000\n"
+"Last-Translator: Tomáš <zelitomas@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1426786994.0\n"
+"X-POOTLE-MTIME: 1438627236.0\n"
 
 #. Translators:
 #. Page path: /1-1/
@@ -144,7 +144,6 @@ msgstr "Získejte vše"
 #. Translators:
 #. Page path: /1-1/introduction/
 #: db-strings.txt:78
-#, fuzzy
 #| msgid ""
 #| "s packed with all the features that made your customers t a rtphone  st "
 #| "place: apps, maps, camera, gallery, social tures, ic and br><br>With  the "
@@ -159,9 +158,8 @@ msgid ""
 msgstr ""
 "Firefox OS je plný funkcí, které vaši zákazníci od chytrého telefonu chtějí "
 "v první řadě: aplikace, mapy, fotoaparát, galerie, multimediální funkce, "
-"hudba a mnoho dalších. With all the features and no compromises, Firefox OS "
-"phones fit your customers' lives more perfectly, so they can fit in with the"
-" world around them."
+"hudba a mnoho dalších. Se všemi svými vlastnostmi a žádnými kompromisy se "
+"telefon s Firefox OS bude perfektně hodit do života vašich zákazníků."
 
 #. Translators:
 #. Page path: /1-1/introduction/
@@ -353,15 +351,14 @@ msgstr "Adaptivní vyhledávání aplikací"
 #. Translators:
 #. Page path: /1-4/demo-tips/
 #: db-strings.txt:186 db-strings.txt.py:4866
-#, fuzzy
 #| msgid ""
 #| "how Firefox OS adapts to them, giving them more of what y need, n y d it."
 msgid ""
 "Show customers how Firefox OS adapts to them, giving them more of what they "
 "need, when they need it."
 msgstr ""
-"Ukažte zákazníkům, jak se jim telefon Firefox OS přizpůsobí, dá jim ještě "
-"více než potřebují a kdykolivž to potřebují."
+"Ukažte zákazníkům, jak se jim telefon s Firefox OS přizpůsobí a dá jim ještě "
+"více toho, co potřebují zrovna ve chvíli, kdy to potřebují."
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
@@ -376,15 +373,14 @@ msgstr "Mapy HERE"
 #. Translators:
 #. Page path: /1-4/demo-tips/
 #: db-strings.txt:204 db-strings.txt.py:4884
-#, fuzzy
 #| msgid ""
 #| " powerful map features of Firefox OS, including local nsit info."
 msgid ""
 "Demonstrate the powerful map features of Firefox OS, including local transit"
 " info."
 msgstr ""
-"Předveďte skvělé funkce map v telefonu Firefox OS, včetně informací o "
-"místním provozu či dopravě."
+"Předveďte skvělé funkce map ve Firefox OS telefonech, například informace o "
+"aktuální dopravní situaci v jejich okolí."
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
@@ -419,7 +415,6 @@ msgstr "Prohlížeč Firefox"
 #. Translators:
 #. Page path: /1-1/demo-tips/
 #: db-strings.txt:240
-#, fuzzy
 #| msgid ""
 #| " customers take control of their online lives and get the t of  Web ter re "
 #| "they go."
@@ -427,8 +422,9 @@ msgid ""
 "Firefox OS lets customers take control of their online lives and get the "
 "best of the Web no matter where they go."
 msgstr ""
-"Firefox OS zákazníkům umožní, aby měli svůj online život pod kontrolou a "
-"získali na tomto webu to nejlepší bez ohledu na to, kde právě jsou."
+"Firefox OS nechá zákazníky převzít kontrolu nad jejich online životem do "
+"vlastních rukou a získat z webu to nejlepší bez ohledu na to, kde zrovna "
+"jsou."
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
