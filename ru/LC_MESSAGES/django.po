@@ -3,21 +3,20 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-08-06 22:44+0000\n"
-"PO-Revision-Date: 2015-06-02 11:00+0000\n"
-"Last-Translator: Abdelrahman <abood.fcb@hotmail.com>\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: ar\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
-"X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1433242813.0\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
 #. Translators:
 #. Page path: /1-1/
@@ -35,7 +34,7 @@ msgstr ""
 #: masterfirefoxos/base/templates/base.html:45
 #: masterfirefoxos/base/templates/home.html:17
 msgid "Master Firefox OS"
-msgstr "نظام تشغيل فيرفكس الرئيسي"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/
@@ -50,7 +49,7 @@ msgstr "نظام تشغيل فيرفكس الرئيسي"
 #: db-strings.txt:15 db-strings.txt.py:2355 db-strings.txt.py:4695
 #: db-strings.txt:7044 db-strings.txt.py:9258
 msgid "Welcome!"
-msgstr "مرحبا!"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/
@@ -69,8 +68,6 @@ msgid ""
 "effectively communicate the basics of Firefox OS. Select any topic to get "
 "started."
 msgstr ""
-"هذا الشريك العالمي ومركز التدريب المجتمعي لديه كل ما تحتاجه لتوصيل أساسيات "
-"نظام تشغيل فيرفوكس بشكل فعال. حدد أي موضوع للبدء."
 
 #. Translators:
 #. Page path: /1-1/introduction/
@@ -85,7 +82,7 @@ msgstr ""
 #: db-strings.txt:33 db-strings.txt.py:2373 db-strings.txt.py:4713
 #: db-strings.txt:7062 db-strings.txt.py:9276
 msgid "Introduction"
-msgstr "مقدمة"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/introduction/
@@ -103,8 +100,6 @@ msgid ""
 "Find out what makes Firefox OS perfect for new smartphone users by giving "
 "them just what they need."
 msgstr ""
-"تعرف على ما الذي يجعل نظام التشغيل فيرفكس مثالي لمستخدمي الهاتف الذكي الجديد"
-" بإعطائهم ما يحتاجون إليه فقط."
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
@@ -119,7 +114,7 @@ msgstr ""
 #: db-strings.txt:123 db-strings.txt.py:2463 db-strings.txt.py:4803
 #: db-strings.txt:7152 db-strings.txt.py:9366
 msgid "Demo Tips"
-msgstr "عرض النصائح"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
@@ -137,8 +132,6 @@ msgid ""
 "Learn how to show off and talk about the key features and benefits of "
 "Firefox OS to your customers."
 msgstr ""
-"تعلم كيفية إظهار و الحديث عن السمات الرئيسية و فوائد نظام تشغيل فيرفكس "
-"لعملائك."
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
@@ -153,7 +146,7 @@ msgstr ""
 #: db-strings.txt:141 db-strings.txt.py:2472 db-strings.txt.py:4821
 #: db-strings.txt:7161 db-strings.txt.py:9375
 msgid "Demonstrations That Matter"
-msgstr "العمليات التي تهم"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
@@ -170,8 +163,6 @@ msgid ""
 "your best selling tool. Browse the demonstration videos below to get "
 "started."
 msgstr ""
-"إظهار ميزات نظام تشغيل فيرفكس و كيفية سهولة استخدامه ليصبح أفضل أداة للبيع. "
-"تصفح الفيديو الظاهر للبدء."
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
@@ -185,7 +176,6 @@ msgstr ""
 #: db-strings.txt:9411
 msgid "When you only have a minute, make it count with this simple pitch."
 msgstr ""
-"عندما لا يكون  لديك سوى دقيقة واحدة، اجعلها محسوبة مع هذه الأرضية البسيطة."
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
@@ -201,7 +191,7 @@ msgstr ""
 #: db-strings.txt:8808 db-strings.txt.py:10824 db-strings.txt.py:10905
 #: db-strings.txt:10932 db-strings.txt.py:10959
 msgid "Firefox Browser"
-msgstr "متصفح فيرفكس"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
@@ -228,7 +218,7 @@ msgstr "متصفح فيرفكس"
 #: db-strings.txt:7206 db-strings.txt.py:7440 db-strings.txt.py:9420
 #: db-strings.txt:9654
 msgid "Marketplace"
-msgstr "سوق فيرفكس"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/customer-guide/
@@ -243,7 +233,7 @@ msgstr "سوق فيرفكس"
 #: db-strings.txt:303 db-strings.txt.py:2589 db-strings.txt.py:4983
 #: db-strings.txt:7260 db-strings.txt.py:9474
 msgid "Customer Guide"
-msgstr "دليل المستخدم"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/customer-guide/
@@ -261,8 +251,6 @@ msgid ""
 "See how Firefox OS fits into your customers' lives, no matter who they are "
 "or where they're from."
 msgstr ""
-"انظر كيف يتناسب نظام تشغيل فيرفكس مع حياة المستخدم, لا يهم من أين هم ولا من "
-"أين هم."
 
 #. Translators:
 #. Page path: /1-1/customer-guide/
@@ -277,7 +265,7 @@ msgstr ""
 #: db-strings.txt:321 db-strings.txt.py:2598 db-strings.txt.py:4992
 #: db-strings.txt:7269 db-strings.txt.py:9483
 msgid "Who is your ideal Firefox customer?"
-msgstr "من هو المثل الأعلى من مستخدمين فيرفكس؟"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/customer-guide/
@@ -292,7 +280,7 @@ msgstr "من هو المثل الأعلى من مستخدمين فيرفكس؟"
 #: db-strings.txt:339 db-strings.txt.py:2625 db-strings.txt.py:5019
 #: db-strings.txt:7296 db-strings.txt.py:9510
 msgid "The Smartphone Rookie"
-msgstr "الهاتف الذكي الصاعد"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/customer-guide/
@@ -307,7 +295,7 @@ msgstr "الهاتف الذكي الصاعد"
 #: db-strings.txt:348 db-strings.txt.py:2634 db-strings.txt.py:5028
 #: db-strings.txt:7305 db-strings.txt.py:9519
 msgid "\"I have never had a smartphone.\""
-msgstr "\" لم استخدم هاتف ذكي قط \""
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/customer-guide/
@@ -322,7 +310,7 @@ msgstr "\" لم استخدم هاتف ذكي قط \""
 #: db-strings.txt:366 db-strings.txt.py:2652 db-strings.txt.py:5046
 #: db-strings.txt:7323 db-strings.txt.py:9537
 msgid "The Value Seeker"
-msgstr "الباحث عن القيم"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/customer-guide/
@@ -337,7 +325,7 @@ msgstr "الباحث عن القيم"
 #: db-strings.txt:375 db-strings.txt.py:2661 db-strings.txt.py:5055
 #: db-strings.txt:7332 db-strings.txt.py:9546
 msgid "\"I want a good deal.\""
-msgstr "\" أريد تعامل جيد \""
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/customer-guide/
@@ -352,7 +340,7 @@ msgstr "\" أريد تعامل جيد \""
 #: db-strings.txt:393 db-strings.txt.py:2679 db-strings.txt.py:5073
 #: db-strings.txt:7350 db-strings.txt.py:9564
 msgid "The Uncertain Upgrader"
-msgstr "التحديث غير مؤكد"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/customer-guide/
@@ -367,7 +355,7 @@ msgstr "التحديث غير مؤكد"
 #: db-strings.txt:402 db-strings.txt.py:2688 db-strings.txt.py:5082
 #: db-strings.txt:7359 db-strings.txt.py:9573
 msgid "\"It needs to be easy to use.\""
-msgstr "\"يجب يكون سهل الاستخدام.\""
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/customer-guide/
@@ -382,7 +370,7 @@ msgstr "\"يجب يكون سهل الاستخدام.\""
 #: db-strings.txt:420 db-strings.txt.py:2706 db-strings.txt.py:5100
 #: db-strings.txt:7377 db-strings.txt.py:9591
 msgid "The Firefox Fan"
-msgstr "معجب فيرفكس"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/customer-guide/
@@ -397,7 +385,7 @@ msgstr "معجب فيرفكس"
 #: db-strings.txt:429 db-strings.txt.py:2715 db-strings.txt.py:5109
 #: db-strings.txt:7386 db-strings.txt.py:9600
 msgid "\"I love firefox!\""
-msgstr "\" أنا أحب فيرفكس!\""
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/key-features/
@@ -412,7 +400,7 @@ msgstr "\" أنا أحب فيرفكس!\""
 #: db-strings.txt:447 db-strings.txt.py:2733 db-strings.txt.py:5127
 #: db-strings.txt:7404 db-strings.txt.py:9618
 msgid "Key Features"
-msgstr "الميزات الرئيسية"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/key-features/
@@ -430,7 +418,6 @@ msgid ""
 "Discover what makes Firefox OS the most unique and exciting mobile operating"
 " system."
 msgstr ""
-"اكتشف ما الذي يجعل نظام تشغيل فيرفكس أكثر نظام تشغيل هواتف فريد و ممتع."
 
 #. Translators:
 #. Page path: /1-1/key-features/
@@ -445,7 +432,7 @@ msgstr ""
 #: db-strings.txt:465 db-strings.txt.py:2742 db-strings.txt.py:5145
 #: db-strings.txt:7413 db-strings.txt.py:9627
 msgid "Features that count"
-msgstr "الميزات التي تعد"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/key-features/
@@ -464,7 +451,7 @@ msgstr "الميزات التي تعد"
 #: db-strings.txt:2805 db-strings.txt.py:5199 db-strings.txt.py:7458
 #: db-strings.txt:9672
 msgid "Firefox browser"
-msgstr "متصفح فيرفكس"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/key-features/
@@ -477,7 +464,7 @@ msgstr "متصفح فيرفكس"
 #: db-strings.txt:537 db-strings.txt.py:5217 db-strings.txt.py:7476
 #: db-strings.txt:9690
 msgid "Facebook and Twitter"
-msgstr "فيسبوك و تويتر"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/key-features/
@@ -508,7 +495,7 @@ msgstr "فيسبوك و تويتر"
 #: db-strings.txt:8772 db-strings.txt.py:8799 db-strings.txt.py:9708
 #: db-strings.txt:10896 db-strings.txt.py:10923 db-strings.txt.py:10950
 msgid "Contacts"
-msgstr "جهات الاتصال"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/key-features/
@@ -537,7 +524,7 @@ msgstr "جهات الاتصال"
 #: db-strings.txt:6405 db-strings.txt.py:7512 db-strings.txt.py:8682
 #: db-strings.txt:9726 db-strings.txt.py:10833
 msgid "Camera and Gallery"
-msgstr "الكاميرا و المعرض"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/key-features/
@@ -552,7 +539,7 @@ msgstr "الكاميرا و المعرض"
 #: db-strings.txt:627 db-strings.txt.py:2895 db-strings.txt.py:5307
 #: db-strings.txt:7548 db-strings.txt.py:9762
 msgid "Music and Video"
-msgstr "الموسيقى و الفيديو"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
@@ -567,7 +554,7 @@ msgstr "الموسيقى و الفيديو"
 #: db-strings.txt:663 db-strings.txt.py:2931 db-strings.txt.py:5343
 #: db-strings.txt:7620 db-strings.txt.py:9798
 msgid "Frequently Asked Questions"
-msgstr "الأسئلة الأكثر تكراراً"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
@@ -585,7 +572,6 @@ msgid ""
 "Still have questions? Not for long! Find all the answers you're looking for "
 "here."
 msgstr ""
-"هل تبقى لديك أسئلة؟ ليس لفترة طويلة! جد كل الأجوبة التي تبحث عليها هنا."
 
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
@@ -600,7 +586,7 @@ msgstr ""
 #: db-strings.txt:681 db-strings.txt.py:2940 db-strings.txt.py:5352
 #: db-strings.txt:7629 db-strings.txt.py:9807
 msgid "You have questions? We have answers!"
-msgstr "هل لديك أسئلة؟ لدينا الأجوبة!"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
@@ -618,8 +604,6 @@ msgid ""
 "By now, you probably have questions and so will your customers! Select each "
 "question for more on Firefox OS."
 msgstr ""
-"حتى الآن، ربما لديك أسئلة و هذا سيكون حال زبائنك أيضاً! حدد كل سؤال لمعرفة "
-"المزيد عن نظام تشغيل فيرفكس."
 
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
@@ -634,7 +618,7 @@ msgstr ""
 #: db-strings.txt:717 db-strings.txt.py:2985 db-strings.txt.py:5397
 #: db-strings.txt:7656 db-strings.txt.py:9834
 msgid "How many and what types of apps will be available?"
-msgstr "كم عدد التطبيقات التي ستكون متاحة وما هي أنواعها؟"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
@@ -649,7 +633,7 @@ msgstr "كم عدد التطبيقات التي ستكون متاحة وما ه�
 #: db-strings.txt:735 db-strings.txt.py:3003 db-strings.txt.py:5415
 #: db-strings.txt:7674 db-strings.txt.py:9852
 msgid "What makes Firefox OS more secure than other phones?"
-msgstr "ما الذي يجعل نظام تشغيل فيرفكس أكثر أماناً من غيره من الهواتف؟"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
@@ -664,7 +648,7 @@ msgstr "ما الذي يجعل نظام تشغيل فيرفكس أكثر أما�
 #: db-strings.txt:753 db-strings.txt.py:3039 db-strings.txt.py:5451
 #: db-strings.txt:7710 db-strings.txt.py:9888
 msgid "Do Android apps work on this phone?"
-msgstr "هل تعمل تطبيقات آندرويد على هذا الهاتف؟"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
@@ -679,7 +663,7 @@ msgstr "هل تعمل تطبيقات آندرويد على هذا الهاتف؟
 #: db-strings.txt:789 db-strings.txt.py:3075 db-strings.txt.py:5487
 #: db-strings.txt:7764 db-strings.txt.py:9942
 msgid "What about customer support for apps?"
-msgstr "ماذا عن دعم العملاء للتطبيقات؟"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
@@ -694,7 +678,7 @@ msgstr "ماذا عن دعم العملاء للتطبيقات؟"
 #: db-strings.txt:807 db-strings.txt.py:3093 db-strings.txt.py:5505
 #: db-strings.txt:7782 db-strings.txt.py:9960
 msgid "How do I download and install apps on Firefox OS?"
-msgstr "كيف يمكنني تحميل وتثبيت التطبيقات على نظام تشغيل فيرفكس؟"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
@@ -709,7 +693,7 @@ msgstr "كيف يمكنني تحميل وتثبيت التطبيقات على ن
 #: db-strings.txt:843 db-strings.txt.py:3129 db-strings.txt.py:5541
 #: db-strings.txt:7818 db-strings.txt.py:9996
 msgid "Where should I go if I have more questions?"
-msgstr "أين يجب أن أذهب إذا كان لدي المزيد من الأسئلة؟"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
@@ -726,9 +710,6 @@ msgid ""
 "os\">https://support.mozilla.org/en-US/products/firefox-os</a> for more "
 "information."
 msgstr ""
-"قم بزيارة <a href=\"https://support.mozilla.org/en-US/products/firefox-"
-"os\">https://support.mozilla.org/en-US/products/firefox-os</a> للمزيد من "
-"المعلومات."
 
 #. Translators:
 #. Page path: /1-1/about/
@@ -744,7 +725,7 @@ msgstr ""
 #: db-strings.txt:7845 db-strings.txt.py:10023
 msgid ""
 "Our mission is to promote openness, innovation and opportunity on the Web."
-msgstr "مهمتنا هي تعزيز الانفتاح والابتكار والفرص على شبكة الانترنت."
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/about/
@@ -763,11 +744,6 @@ msgid ""
 "controlled by just a few large entities. Yeah, we’re a little different than"
 " the other guys. Together, we can build a brighter future for the Web."
 msgstr ""
-"وراء كل هاتف ذكي لنظام تشغيل فيرفكس منظمة موزيلا، مجتمع عالمي مكون من الآلاف"
-" مكرسون للحفاظ على الويب في متناول الجميع. ذلك لأننا نؤمن أن كل واحد منا "
-"لديه الحق في الحصول على ويب لا يسيطر عليه سوى عدد قليل من الكيانات الكبيرة. "
-"نعم، نحن مختلفين قليلاً عن الآخرين. معاً، نستطيع بناء مستقبل أكثر إشراقاً "
-"للويب."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -782,7 +758,7 @@ msgstr ""
 #: db-strings.txt:897 db-strings.txt.py:3192 db-strings.txt.py:5595
 #: db-strings.txt:7872 db-strings.txt.py:10050
 msgid "Ready to show what you know?"
-msgstr "هل أنت على استعداد لإظهار ما تعرفه؟"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -800,8 +776,6 @@ msgid ""
 "Put your new knowledge to the test with this series of fun, interactive "
 "quizzes."
 msgstr ""
-"قم بوضع المعرفة الجديدة الخاصة بك على المحك مع هذه السلسلة من المرح "
-"والمسابقات التفاعلية."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -818,8 +792,6 @@ msgstr ""
 msgid ""
 "That’s right! All of these apps come pre-loaded on every Firefox OS phone."
 msgstr ""
-"هذا صحيح! كل من هذه التطبيقات تأتي محملة مسبقاً على كل هاتف بنظام تشغيل "
-"فيرفكس."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -835,8 +807,6 @@ msgstr ""
 #: db-strings.txt:7971 db-strings.txt.py:10149
 msgid "Actually, all of these apps come pre-loaded on every Firefox OS phone."
 msgstr ""
-"في الواقع، كل من هذه التطبيقات تأتي محملة مسبقاً على كل هاتف بنظام تشغيل "
-"فيرفكس."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -849,8 +819,6 @@ msgid ""
 "Which of these customer responses indicate an ideal candidate for Firefox "
 "OS? Select all that apply."
 msgstr ""
-"أي من ردود العملاء هي إشارة إلى المرشح المثالي لنظام تشغيل فيرفكس؟ اختر كل "
-"ما ينطبق عليه."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -867,7 +835,6 @@ msgstr ""
 msgid ""
 "That’s right. All of these customers are ideal candidates for Firefox OS!"
 msgstr ""
-"هذا صحيح. كل من هؤلاء العملاء هم المرشحون المثاليون لنظام تشغيل فيرفكس!"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -885,7 +852,6 @@ msgstr ""
 #: db-strings.txt:10770
 msgid "In fact, ALL of these customers are ideal candidates for Firefox OS!"
 msgstr ""
-"في الواقع، كل من هؤلاء العملاء هم المرشحون المثاليون لنظام تشغيل فيرفكس!"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -904,7 +870,7 @@ msgstr ""
 #: db-strings.txt:8025 db-strings.txt.py:8061 db-strings.txt.py:10167
 #: db-strings.txt:10203 db-strings.txt.py:10239
 msgid "Which Firefox OS feature does this icon represent?"
-msgstr "ما هي الميزة في نظام تشغيل فيرفكس التي تميزها هذه الأيقونة؟"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -922,8 +888,6 @@ msgid ""
 "Your customer wants to understand the biggest benefits of Firefox OS versus "
 "its competitors. Select all of the statements that apply."
 msgstr ""
-"عميلك يريد أن يعرف أكبر الفوائد لنظام تشغيل فيرفكس مقابل منافسيه. اختر كل "
-"الجمل التي تنطبق."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -938,7 +902,7 @@ msgstr ""
 #: db-strings.txt:1203 db-strings.txt.py:3453 db-strings.txt.py:5865
 #: db-strings.txt:8142 db-strings.txt.py:10320
 msgid "That’s right. These statements are all true about Firefox OS."
-msgstr "هذا صحيح. كل هذه الجمل صحيحه بخصوص نظام تشغيل فيرفكس."
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -956,8 +920,6 @@ msgid ""
 "A customer tells you that smartphones seem complicated. What selling feature"
 " should you lead with?"
 msgstr ""
-"هناك عميل يخبرك أن الهواتف الذكية معقدة. ما ميزة البيع التي يجب أن تؤديها "
-"معه؟"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -975,8 +937,6 @@ msgid ""
 "That’s right. For a customer looking for a smartphone that is easy to use, "
 "Firefox OS is a great choice."
 msgstr ""
-"هذا صحيح. لعميل يبحث عن هاتف ذكي سهل الاستخدام، نظام تشغيل فيرفكس هو خيار "
-"ممتاز."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -993,8 +953,6 @@ msgid ""
 "Actually, for this customer, the best choice is to talk about how easy "
 "Firefox OS is to use."
 msgstr ""
-"في الواقع، لهذا العميل، فإن أفضل خيار هو التحدث عن مدى سهولة استخدام نظام "
-"تشغيل فيرفكس."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1012,8 +970,6 @@ msgid ""
 "A customer tells you that she’s ready to move up from her old feature phone."
 " What selling feature should you lead with?"
 msgstr ""
-"عميل تخبرك أنها على استعداد للانتقال من هاتفها القديم إلى آخر جديد. ما ميزة "
-"البيع التي يجب أن تؤديها معها؟"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1031,8 +987,6 @@ msgid ""
 "A customer tells you that he uses Firefox as his desktop browser. With what "
 "selling feature should you lead?"
 msgstr ""
-"عميل يخبرك أنه يستخدم فيرفكس كمتصفح على سطح المكتب . ما ميزة البيع التي يجب "
-"أن تؤديها معه؟"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1046,9 +1000,6 @@ msgid ""
 "my friends, but I don’t want to spend a lot of money.” Which of the "
 "following statements would be a good response? Select all that apply."
 msgstr ""
-"عندما يقول عميل لك، \"أنا أبحث عن وسيلة سهلة للبقاء على اتصال مع أصدقائي، "
-"لكنني لا أريد أن أنفق الكثير من المال\". أي من العبارات التالية ستكون "
-"استجابة جيدة؟ اختر ما ينطبق."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1066,9 +1017,6 @@ msgid ""
 "statements would be the most appropriate response to this particular "
 "customer?"
 msgstr ""
-"العميل يقول, \" أنا أستخدم فيرفكس على جهازي و أنا احبه, لكن لاأعرف لماذا "
-"قاموا بعمل نظام تشغيل للأجهزة الذكية ؟\" أي من العبارات التالية سيكون الرد "
-"الأنسب لهذا العميل؟"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1087,8 +1035,6 @@ msgid ""
 "Not quite. A first time smartphone user will be most interested in ease of "
 "use."
 msgstr ""
-"ليس تماماً.مستخدم الهاتف الذكي لأول مرة يكون أكثر اهتماماً في سهولة "
-"الاستخدام."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1106,7 +1052,7 @@ msgstr ""
 #: db-strings.txt:8466 db-strings.txt.py:8538 db-strings.txt.py:8574
 #: db-strings.txt:10608 db-strings.txt.py:10680 db-strings.txt.py:10716
 msgid "That’s right!"
-msgstr "هذا صحيح!"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1121,7 +1067,7 @@ msgstr "هذا صحيح!"
 #: db-strings.txt:1563 db-strings.txt.py:3813 db-strings.txt.py:6225
 #: db-strings.txt:8502 db-strings.txt.py:10644
 msgid "That’s right."
-msgstr "هذا صحيح."
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1139,8 +1085,6 @@ msgid ""
 "What’s the best response to this customer’s objection? “How do I know this "
 "new phone is safe?”"
 msgstr ""
-"ما هو أفضل رد على اعتراض هذا العميل؟ \"كيف لي أن أعرف أن هذا الهاتف الجديد "
-"هو آمن؟\""
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1153,7 +1097,7 @@ msgstr ""
 #: db-strings.txt:1698 db-strings.txt.py:6387 db-strings.txt.py:8664
 #: db-strings.txt:10815
 msgid "Firefox Marketplace"
-msgstr "سوق فيرفكس"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1170,7 +1114,7 @@ msgstr "سوق فيرفكس"
 #: db-strings.txt:1725 db-strings.txt.py:2823 db-strings.txt.py:4011
 #: db-strings.txt:6414 db-strings.txt.py:8691 db-strings.txt.py:10842
 msgid "Facebook"
-msgstr "فيسبوك"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1185,7 +1129,7 @@ msgstr "فيسبوك"
 #: db-strings.txt:1806 db-strings.txt.py:4632 db-strings.txt.py:6981
 #: db-strings.txt:9195 db-strings.txt.py:11319
 msgid "I’ve never used a smartphone before."
-msgstr "لم يسبق لي استخدام الهواتف الذكية من قبل."
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1200,7 +1144,7 @@ msgstr "لم يسبق لي استخدام الهواتف الذكية من قب�
 #: db-strings.txt:1815 db-strings.txt.py:4641 db-strings.txt.py:6990
 #: db-strings.txt:9204 db-strings.txt.py:11328
 msgid "I’m looking for the best value for my money."
-msgstr "أنا أبحث عن أفضل قيمة مقابل المال الذي أدفعه."
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1215,7 +1159,7 @@ msgstr "أنا أبحث عن أفضل قيمة مقابل المال الذي أ
 #: db-strings.txt:1824 db-strings.txt.py:4650 db-strings.txt.py:6999
 #: db-strings.txt:9213 db-strings.txt.py:11337
 msgid "I want a smartphone that is truly easy to use."
-msgstr "أريد هاتفاً ذكياً حقاً سهل الاستخدام."
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1230,7 +1174,7 @@ msgstr "أريد هاتفاً ذكياً حقاً سهل الاستخدام."
 #: db-strings.txt:1833 db-strings.txt.py:4659 db-strings.txt.py:7008
 #: db-strings.txt:9222 db-strings.txt.py:11346
 msgid "I’m a Firefox fan."
-msgstr "أنا من محبي فيَرَفُكس."
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1247,8 +1191,6 @@ msgid ""
 "backed by a global community working on your behalf and with your interests "
 "in mind."
 msgstr ""
-"لأنه يتم بناؤه من قبل فيرفكس، يمكنك أن تشعر بالثقة أن نظام تشغيل فيرفكس "
-"المدعوم من قبل المجتمع الدولي يقوم بالعمل نيابة عنك ومع مصالحك ."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1266,9 +1208,6 @@ msgid ""
 "expect — camera, email, apps, music, maps and more — at the most competitive"
 " prices."
 msgstr ""
-"نظام تشغيل فيرفكس يمنحك أكبر قدر من القيمة لأموالك، مع كل ما تتوقعه - "
-"الكاميرا، والبريد الإلكتروني، والتطبيقات، والموسيقى والخرائط وغيرها - "
-"وبأسعار تنافسية."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1285,8 +1224,6 @@ msgid ""
 " are already preloaded and you can easily import your friends from Facebook,"
 " too."
 msgstr ""
-"نظام تشغيل فيرفكس هو أسهل هاتف ذكي لتبدأ معه. التطبيقات المفضلة لديك تم "
-"تحميلها مسبقاً ويمكنك بسهولة استيراد أصدقائك من الفيسبوك، أيضاً."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1305,8 +1242,6 @@ msgid ""
 " are already preloaded and you can easily import your friends from Facebook "
 "too."
 msgstr ""
-"نظام تشغيل فيرفكس هو أسهل هاتف ذكي لتبدأ معه. التطبيقات المفضلة لديك تم "
-"تحميلها مسبقاً ويمكنك بسهولة استيراد أصدقائك من الفيسبوك، أيضاً."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1322,8 +1257,6 @@ msgid ""
 "Facebook is preloaded on every Firefox OS device and you can import your "
 "Facebook contacts easily!"
 msgstr ""
-"تم تحميل الفيسبوك مسبقاً على كل جهاز بنظام تشغيل فيرفكس ويمكنك استيراد جهات "
-"الاتصال الخاصة بك من الفيسبوك بسهولة!"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1341,8 +1274,6 @@ msgid ""
 "Every Firefox phone includes the Firefox browser, the fast, smart and safe "
 "way to get online."
 msgstr ""
-"كل هاتف فيرفكس يتضمن متصفح فيرفكس ، الطريقة السريعة والذكية والآمنة للحصول "
-"على الانترنت."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1360,8 +1291,6 @@ msgid ""
 "Firefox OS includes all the same features you’ll find in competitive "
 "smartphones and gives you more value for the money."
 msgstr ""
-"يشمل نظام تشغيل فيرفكس نفس الميزات التي سوف تجدها في الهواتف الذكية "
-"المنافسة، ويمنحك المزيد من القيمة مقابل المال المدفوع."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1377,8 +1306,6 @@ msgstr ""
 #: db-strings.txt:9051 db-strings.txt.py:11175
 msgid "You can easily import contacts from Facebook to your Firefox OS phone."
 msgstr ""
-"يمكنك بسهولة استيراد جهات الاتصال من الفيسبوك الخاص بك إلى هاتف نظام التشغيل"
-" فيرفكس."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1396,8 +1323,6 @@ msgid ""
 "Firefox OS gives you access to popular, big name apps, as well as local "
 "content that means the most to you."
 msgstr ""
-" نظام التشغيل فيرفكس يتيح لك الوصول إلى شعبية كبيرة، وتطبيقات ذات اسم كبير، "
-"وكذلك محتوى محلي وهذا يعني أهمية قصوى بالنسبة لك."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1416,8 +1341,6 @@ msgid ""
 "expect in a smartphone, with an easy-to-use interface that makes it easy to "
 "get started."
 msgstr ""
-"نظام تشغيل فيرفكس ليس مزدحماً بأكثر مما تحتاج. فهو يوفر لك ما كنت تتوقعه في "
-"الهاتف الذكي، مع واجهة سهلة الاستخدام التي تجعل البدء سهلاً."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1432,7 +1355,7 @@ msgstr ""
 #: db-strings.txt:2229 db-strings.txt.py:4533 db-strings.txt.py:6882
 #: db-strings.txt:9114 db-strings.txt.py:11238
 msgid "True"
-msgstr "صحيح"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1447,7 +1370,7 @@ msgstr "صحيح"
 #: db-strings.txt:2238 db-strings.txt.py:4542 db-strings.txt.py:6891
 #: db-strings.txt:9123 db-strings.txt.py:11247
 msgid "False"
-msgstr "خطأ"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-1/which-version/
@@ -1462,7 +1385,7 @@ msgstr "خطأ"
 #: db-strings.txt:2328 db-strings.txt.py:4668 db-strings.txt.py:7017
 #: db-strings.txt:9231 db-strings.txt.py:11355
 msgid "Which Version Do I Have?"
-msgstr "ما الإصدار الذي لدي؟"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-3T/demo-tips/
@@ -1475,7 +1398,7 @@ msgstr "ما الإصدار الذي لدي؟"
 #: db-strings.txt:2499 db-strings.txt.py:4839 db-strings.txt.py:7188
 #: db-strings.txt:9402
 msgid "Introducing Firefox OS"
-msgstr "نقدم نظام التشغيل فيرفكس"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-3T/demo-tips/
@@ -1490,9 +1413,6 @@ msgid ""
 "friends and family. They can also sync their contacts to the phone, quickly "
 "and easily."
 msgstr ""
-"نظام التشغيل فيرفكس يأتي مسبقاً مع الرسائل الفورية الشهيرة وتطبيقات وسائل "
-"الإعلام الاجتماعية، مثل فيسبوك، بحيث يمكن لعملائك أن يبقوا على اتصال مع "
-"الأصدقاء والعائلة. يمكنهم أيضا مزامنة جهات الاتصال على الهاتف، بسرعة وسهولة."
 
 #. Translators:
 #. Page path: /1-3T/key-features/
@@ -1509,8 +1429,6 @@ msgid ""
 "smartphone. It’s designed to fit their lives perfectly so they can keep pace"
 " with the world around them."
 msgstr ""
-"نظام التشغيل فيرفكس حزم مع الميزات التي يتوقعها الزبائن في الهاتف الذكي. إنه"
-" مصمم ليناسب حياتهم تماماً حتى يتمكنوا من مواكبة العالم من حولهم."
 
 #. Translators:
 #. Page path: /1-3T/key-features/
@@ -1527,8 +1445,6 @@ msgid ""
 "share your photographs, the full-featured camera and photo gallery will have"
 " all your subjects smiling."
 msgstr ""
-"مع الفلاتر الموجودة للتسلية, لقطات إبداعية والكثير من الطرق لمشاركة صورك, "
-"الكاميرا التي تحتوي على جميع الخصائص والمعرض ستجعل كل ما لديك يبتسم."
 
 #. Translators:
 #. Page path: /1-3T/key-features/
@@ -1541,7 +1457,7 @@ msgstr ""
 #: db-strings.txt:2913 db-strings.txt.py:5325 db-strings.txt.py:7566
 #: db-strings.txt:9780
 msgid "Messages and Email"
-msgstr "الرسائل و البريد الإلكتروني"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-3T/frequently-asked-questions/
@@ -1558,9 +1474,6 @@ msgid ""
 "than a decade of supporting the open Web. It is designed to protect the user"
 " and system from malicious applications and content."
 msgstr ""
-"نظام التشغيل فيرفكس لديه نموذج الأمن القوي ذا خبرة قتالية من أكثر من عشر "
-"سنوات من دعم الويب المفتوح. وهي مصممة لحماية المستخدم والنظام من التطبيقات "
-"والمحتويات الخبيثة ."
 
 #. Translators:
 #. Page path: /1-3T/frequently-asked-questions/
@@ -1573,7 +1486,7 @@ msgstr ""
 #: db-strings.txt:3021 db-strings.txt.py:5433 db-strings.txt.py:7692
 #: db-strings.txt:9870
 msgid "What do you mean I can convert mobile sites into apps?"
-msgstr "ماذا تقصد بأنني أستطيع تحويل المواقع الإلكترونية إلى تطبيقات؟"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-3T/frequently-asked-questions/
@@ -1589,11 +1502,6 @@ msgid ""
 "through Adaptive App Search. Tools such as Emscripten and PhoneGap are also "
 "able to convert other apps (*.apk and/or C/C++) to Web apps."
 msgstr ""
-"ليس بشكل مباشر. ومع ذلك، فإن العديد من تطبيقات نظم تشغيل الآندرويد و الiOS "
-"الأكثر شعبية هي في الواقع تطبيقات ويب تحتوي على \"إطار\" محلي للسماح لهم "
-"بالتشغيل على منصات البرامج. ولذا فإن كثيراً من نفس التطبيقات سوف تكون متاحة "
-"من خلال البحث عن التطبيقات المتكيف. أدوات مثل Emscripten وPhoneGap هي أيضا "
-"قادرة على تحويل تطبيقات أخرى (*.apk and/or C/C++) إلى تطبيقات ويب."
 
 #. Translators:
 #. Page path: /1-3T/frequently-asked-questions/
@@ -1607,9 +1515,6 @@ msgid ""
 " the phone’s core functions. That means apps do not require an active "
 "Internet connection to work unless they need to send or receive data."
 msgstr ""
-"فيرفكس مبني على نظام تشغيل تقنيات الويب لكن لديه قدرات لجميع الوظائف "
-"الأساسية للهاتف. وهذا يعني التطبيقات لا تتطلب الاتصال بإنترنت نشط للعمل إلا "
-"إذا كانت بحاجة الى إرسال أو استقبال البيانات."
 
 #. Translators:
 #. Page path: /1-3T/frequently-asked-questions/
@@ -1625,10 +1530,6 @@ msgid ""
 " app, Mozilla may recommend workarounds including uninstalling the app until"
 " the developer provides appropriate assistance."
 msgstr ""
-"العملاء الذين يحتاجون إلى الدعم التطبيقات التي بنيت لنظام التشغيل فيرفكس "
-"ستوجه لمطور التطبيق للحصول على المساعدة. إذا كانت تجربة العملاء مع نظام "
-"التشغيل فيرفكس تتأثر سلباً من جراء الدعم الناجم عن التطبيق، قد يوصي موزيلا "
-"بالحلول بما في ذلك إلغاء تثبيت التطبيق حتى يوفر المطور المساعدة المناسبة."
 
 #. Translators:
 #. Page path: /1-3T/frequently-asked-questions/
@@ -1641,7 +1542,7 @@ msgstr ""
 #: db-strings.txt:3111 db-strings.txt.py:5523 db-strings.txt.py:7800
 #: db-strings.txt:9978
 msgid "What email providers are supported?"
-msgstr "ما هو مزود البريد المعتمد ؟"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -1658,8 +1559,6 @@ msgid ""
 "Put your knowledge to the test and answer these questions to prove you have "
 "what it takes."
 msgstr ""
-"هل تعتقد أنك تكاد تكون على استعداد لبدء بيع نظام التشغيل فيرفكس لعملائك؟ ضع "
-"معرفتك للاختبار والإجابة على هذه الأسئلة لإثبات أن لديك ما يلزم."
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -1672,7 +1571,7 @@ msgstr ""
 #: db-strings.txt:3210 db-strings.txt.py:5622 db-strings.txt.py:7899
 #: db-strings.txt:10077
 msgid "Get Ready to Sell!"
-msgstr "استعد للبيع !"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -1685,7 +1584,6 @@ msgid ""
 "Which of the following apps is preloaded on every Firefox OS phone? Select "
 "all that apply."
 msgstr ""
-"ما هي التطبيقات التي توجد مسبقا على نظام تشغيل فيرفكس ؟ اختر كل الذي ينطبق."
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -1698,7 +1596,7 @@ msgstr ""
 #: db-strings.txt:3291 db-strings.txt.py:5703 db-strings.txt.py:6135
 #: db-strings.txt:7980 db-strings.txt.py:10158
 msgid "There are more. Try again"
-msgstr "هنالك المزيد. أعد المحاولة"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -1711,7 +1609,7 @@ msgstr "هنالك المزيد. أعد المحاولة"
 #: db-strings.txt:3309 db-strings.txt.py:5721 db-strings.txt.py:7998
 #: db-strings.txt:10176
 msgid "That’s right! This icon represents Messages —or text messaging."
-msgstr "هذا صحيح! الأيقونة تمثل الرسائل — أو الرسائل النصية."
+msgstr ""
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -1725,7 +1623,7 @@ msgstr "هذا صحيح! الأيقونة تمثل الرسائل — أو ال�
 #: db-strings.txt:5739 db-strings.txt.py:8007 db-strings.txt.py:8016
 #: db-strings.txt:10185 db-strings.txt.py:10194
 msgid "Actually, this icon represents Messages — or text messaging."
-msgstr "في الواقع, هذه الأيقونه تمثل الرسائل — أو الرسائل النصية."
+msgstr ""
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -1735,7 +1633,7 @@ msgstr "في الواقع, هذه الأيقونه تمثل الرسائل — �
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:3345 db-strings.txt.py:8034 db-strings.txt.py:10212
 msgid "That’s right. This icon represents the Contacts."
-msgstr "هذا صحيح ! هذه الأيقونة تمثل جهات الاتصال."
+msgstr ""
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -1749,7 +1647,7 @@ msgstr "هذا صحيح ! هذه الأيقونة تمثل جهات الاتصا
 #: db-strings.txt:8043 db-strings.txt.py:8052 db-strings.txt.py:10221
 #: db-strings.txt:10230
 msgid "Actually, this icon represents the Contacts."
-msgstr "في الواقع, هذه الأيقونة تمثل جهات الاتصال."
+msgstr ""
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -1765,8 +1663,6 @@ msgid ""
 "While all of these statements are true, which two responses would be most "
 "useful to a first-time smartphone customer?"
 msgstr ""
-"في حين أن كل من هذه البيانات صحيحة، أي من الردين سيكون أكثر فائدة للعميل "
-"الذكي لأول مرة؟"
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -1782,7 +1678,7 @@ msgstr ""
 msgid ""
 "The best response to this objection is to talk about all the apps that are "
 "available."
-msgstr "أفضل رد على الاعتراض هو أن تتحدث عن كل التطبيقات المتوفرة."
+msgstr ""
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -1799,8 +1695,6 @@ msgid ""
 "The best response to this objection is to talk about the experience of the "
 "Mozilla community that is behind Firefox OS."
 msgstr ""
-"أفضل رد على هذا الاعتراض هو أن نتحدث عن تجربة مجتمع موزيلا الذي يقف وراء "
-"نظام التشغيل فيرفكس."
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -1816,7 +1710,7 @@ msgstr ""
 msgid ""
 "The best response to this objection is to talk about the robust security "
 "model."
-msgstr "أفضل رد على هذا الاعتراض هو أن تتحدث عن النموذج الأمني القوي."
+msgstr ""
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -1826,7 +1720,7 @@ msgstr "أفضل رد على هذا الاعتراض هو أن تتحدث عن �
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:4056 db-strings.txt.py:8718 db-strings.txt.py:10869
 msgid "Calendar"
-msgstr "التقويم"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -1836,7 +1730,7 @@ msgstr "التقويم"
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:4065 db-strings.txt.py:8727 db-strings.txt.py:10878
 msgid "Clock"
-msgstr "الساعة"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -1849,7 +1743,7 @@ msgstr "الساعة"
 #: db-strings.txt:4092 db-strings.txt.py:6423 db-strings.txt.py:8700
 #: db-strings.txt:10851
 msgid "Email and Messages"
-msgstr "البريد الإلكتروني والرسائل"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -1862,7 +1756,7 @@ msgstr "البريد الإلكتروني والرسائل"
 #: db-strings.txt:4110 db-strings.txt.py:6441 db-strings.txt.py:8709
 #: db-strings.txt:10860
 msgid "Music"
-msgstr "الموسيقى"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -1878,7 +1772,7 @@ msgstr "الموسيقى"
 #: db-strings.txt:8763 db-strings.txt.py:8790 db-strings.txt.py:10887
 #: db-strings.txt:10914 db-strings.txt.py:10941
 msgid "Messages"
-msgstr "الرسائل"
+msgstr ""
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -1891,8 +1785,6 @@ msgid ""
 "With Adaptive App Search, Firefox OS adapts to you needs better than any "
 "other phone."
 msgstr ""
-"مع خاصية البحث في التطبيقات التكيفية ، يتكيف نظام التشغيل فيرفكس مع "
-"احتياجاتكم أفضل من أي جهاز آخر."
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -1906,8 +1798,6 @@ msgid ""
 "If you love Firefox, you’ll love Firefox OS. Choosing a Firefox OS device "
 "puts the power of the Web in your hands."
 msgstr ""
-"إذا كنت تحب فيرفكس، ستحب نظام التشغيل فيرفكس. اختيار جهاز نظام التشغيل "
-"فيرفكس يضع سلطة للويب في يديك."
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -1921,8 +1811,6 @@ msgid ""
 "expect — Camera, Email, apps, Music and more — at the most competitive "
 "prices."
 msgstr ""
-"نظام التشغيل فيرفكس يمنحك أكبر قدر من القيمة لأموالك، مع كل ما تتوقعه - "
-"كاميرا، بريد الإلكتروني، وتطبيقات وموسيقى وأكثر - وبأسعار تنافسية."
 
 #. Translators:
 #. Page path: /1-4/customer-guide/
@@ -1936,9 +1824,6 @@ msgid ""
 "value for your money. It has everything you expect in a smartphone — camera,"
 " email, apps, music, maps and more — at the most competitive prices."
 msgstr ""
-"<strong>إليك ما يمكنك قوله:</strong> نظام التشغيل فيرفكس يمنحك أكبر قدر من "
-"القيمة لأموالك. لديه كل ما تتوقعه في الهاتف الذكي - الكاميرا، والبريد "
-"الإلكتروني، وتطبيقات، والموسيقى والخرائط وغيرها - وبأسعار تنافسية."
 
 #. Translators:
 #. Page path: /2-0/introduction/
@@ -1946,7 +1831,7 @@ msgstr ""
 #. Page path: /1-3/introduction/
 #: db-strings.txt:7080 db-strings.txt.py:9294
 msgid "An excellent user experience"
-msgstr "تجربة مستخدم ممتازة"
+msgstr ""
 
 #. Translators:
 #. Page path: /2-0/introduction/
@@ -1958,9 +1843,6 @@ msgid ""
 "for better performance, easier customization and simpler navigation. "
 "Everything your customer needs or wants is either one scroll or swipe away."
 msgstr ""
-"الحياة معقدة، هاتفك الذكي لا ينبغي أن يكون كذلك. تم تصميم نظام التشغيل "
-"فيرفكس لأداء أفضل ، وتخصيص أسهل وملاحة أبسط . كل شيء يحتاجه أو يريده العميل "
-"الخاص بك يبعد عنه إما انتقالاً واحداً أو تمريراً."
 
 #. Translators:
 #. Page path: /2-0/introduction/
@@ -1968,7 +1850,7 @@ msgstr ""
 #. Page path: /1-3/introduction/
 #: db-strings.txt:7098 db-strings.txt.py:9312
 msgid "Made with you in mind"
-msgstr "تم تقديمه لك أنت بشكل أساسي"
+msgstr ""
 
 #. Translators:
 #. Page path: /2-0/introduction/
@@ -1979,10 +1861,6 @@ msgid ""
 "that enrich and simplify your daily life. Firefox OS is truly a phone made "
 "with you in mind."
 msgstr ""
-"استخدم الهاتف بلغتك، وراقب استخدام البيانات الخاصة بك و أضف إليها الطابع "
-"الشخصي من خلال إنشاء النغمات الخاصة بك. يمكنك أيضاً تحميل تطبيقات محلية ذات "
-"صلة تثري وتبسيط حياتك اليومية. نظام التشغيل فيرفكس حقاً هاتف موجه لك أنت "
-"بشكل أساسي."
 
 #. Translators:
 #. Page path: /2-0/introduction/
@@ -1990,7 +1868,7 @@ msgstr ""
 #. Page path: /1-3/introduction/
 #: db-strings.txt:7116 db-strings.txt.py:9330
 msgid "Keep the Web in your hands"
-msgstr "أبق الويب في يديك"
+msgstr ""
 
 #. Translators:
 #. Page path: /2-0/introduction/
@@ -2003,10 +1881,6 @@ msgid ""
 "innovate and further Web technologies.    When you choose Firefox OS, you’re"
 " helping build a brighter future for the Web for all."
 msgstr ""
-"في موزيلا، نحن هنا لإحداث فرق، وليس للربح. الهواتف الذكية لنظام التشغيل "
-"فيرفكس مدعومة من قبل مجتمع عالمي من المطورين الذين يعملون على الابتكار ومزيد"
-" من تقنيات الويب. عندما تختار نظام التشغيل فيرفكس ، فإنك تساعد في بناء "
-"مستقبل أكثر إشراقاً للويب للجميع."
 
 #. Translators:
 #. Page path: /2-0/introduction/
@@ -2014,7 +1888,7 @@ msgstr ""
 #. Page path: /1-3/introduction/
 #: db-strings.txt:7134 db-strings.txt.py:9348
 msgid "A phone for everyone"
-msgstr "هاتف للجميع"
+msgstr ""
 
 #. Translators:
 #. Page path: /2-0/introduction/
@@ -2028,11 +1902,6 @@ msgid ""
 "expect. And because Firefox OS devices are powered by Mozilla, they’re the "
 "perfect choice for anyone committed to keeping the Web open for all."
 msgstr ""
-"زبائنك ترغب في الحصول على أقصى استفادة من الحياة، فلماذا إذاً يحصلون على أقل"
-" من أجهزتهم النقالة؟ أجهزة نظام التشغيل فيرفكس مثالية لمستخدمي الهاتف الذكي "
-"الجديد - سهل الاستخدام وكامل من جميع الميزات التي يتوقعونها. ولأن أجهزة نظام"
-" التشغيل فيرفكس مدعومة من قبل موزيلا، فهم الخيار الأمثل لأي ملتزم في إبقاء "
-"الويب مفتوح للجميع."
 
 #. Translators:
 #. Page path: /2-0/demo-tips/
@@ -2045,15 +1914,12 @@ msgid ""
 "looking for. Demonstrate an example of a local app that will help make their"
 " lives easier."
 msgstr ""
-"أظهر لعملائك كم هو سهل للحصول على تطبيقات من سوق فيرفكس. أخبرهم أن السوق "
-"لديه الألعاب والتطبيقات الرائعة التي يبحثون عنه. أعطهم مثالاً على التطبيقات "
-"المحلية التي من شأنها أن تساعد على جعل حياتهم أسهل."
 
 #. Translators:
 #. Page path: /2-0/demo-tips/
 #: db-strings.txt:7224
 msgid "Rich media experience"
-msgstr "تجربة الوسائط الغنية"
+msgstr ""
 
 #. Translators:
 #. Page path: /2-0/demo-tips/
@@ -2068,12 +1934,6 @@ msgid ""
 "and more.  <br><br>Music: With music at their fingertips, your customers "
 "will see how Firefox OS keeps them entertained and dancing in the streets."
 msgstr ""
-"مع الكاميرا، المعرض، وتطبيقات الموسيقى وأكثر من ذلك، نظام التشغيل فيرفكس "
-"سيحافظ على زبائن مرفهة ومتصلة بالأشياء الأكثر أهمية بالنسبة إليهم.  "
-"<br><br>الكاميرا: التصوير والتحرير والمشاركة.تباهى بمواصفات الكاميرا ومعرض "
-"التطبيقات، بما في ذلك الفلاتر المضمنة والفيديو وأكثر من ذلك. <br><br> "
-"الموسيقى: مع الموسيقى التي في متناول أيديهم، زبائنك سوف ترى كيف يجعلهم نظام "
-"التشغيل فيرفكس مرفهين ويرقصون في الشوارع."
 
 #. Translators:
 #. Page path: /2-0/demo-tips/
@@ -2081,7 +1941,7 @@ msgstr ""
 #. Page path: /1-3/demo-tips/
 #: db-strings.txt:7242 db-strings.txt.py:9456
 msgid "Social and contact sync"
-msgstr "التزامن الاجتماعي و لجهات الاتصال"
+msgstr ""
 
 #. Translators:
 #. Page path: /2-0/customer-guide/
@@ -2093,9 +1953,6 @@ msgid ""
 "is critical to any sales opportunity. Check out the common customer segments"
 " below to learn how to best respond to each of their unique needs."
 msgstr ""
-"فهم احتياجات عملائك ومعرفة كيفية الرد على الفور أمر بالغ الأهمية لأي فرصة "
-"بيع. تحقق من شرائح العملاء الشائعة أدناه لمعرفة كيفية الرد الأفضل على كل من "
-"احتياجاتهم الفريدة."
 
 #. Translators:
 #. Page path: /2-0/customer-guide/
@@ -2109,12 +1966,6 @@ msgid ""
 "less time spent searching. Plus, it’s packed with all the features you’d "
 "expect — camera, email, apps, music, maps and more!"
 msgstr ""
-"<strong>إليك ما يمكنك قوله:</strong>نظام التشغيل فيرفكس هو الخيار الأفضل "
-"لمستخدمي الهاتف الذكي للمرة الأولى. انه سهل الاستعمال ويتكيف مع الاحتياجات "
-"الخاصة بك أفضل من أي هاتف آخر. هذا يعني أنك تحصل على أكثر من ما تحتاج إليه "
-"مع أقل وقت تنفقه في البحث. بالاضافة الى ذلك، انه مكتظ بجميع الميزات التي "
-"تتوقعها - الكاميرا، والبريد الإلكتروني، والتطبيقات، والموسيقى والخرائط "
-"وغيرها!"
 
 #. Translators:
 #. Page path: /2-0/customer-guide/
@@ -2127,9 +1978,6 @@ msgid ""
 "be able to quickly discover and download your favorite apps and be ready to "
 "go in no time."
 msgstr ""
-"<strong>إليك ما يمكنك قوله:</strong>نظام التشغيل فيرفكس هو أسهل هاتف ذكي "
-"تبدأ معه. واجهة المستخدم بديهية جداً، ستكون قادراً على اكتشاف و تحميل "
-"التطبيقات المفضلة لديك بسرعة و على استعداد للذهاب في أي وقت من الأوقات."
 
 #. Translators:
 #. Page path: /2-0/customer-guide/
@@ -2143,11 +1991,6 @@ msgid ""
 " a community dedicated to keeping the Web accessible to all. When you choose"
 " Firefox OS, you have the full power of the Web in your hands."
 msgstr ""
-"<strong>إليك مما يمكنك قوله: إذا كنت تعرف وتحب فيرفكس، ستحب نظام التشغيل "
-"فيرفكس . تستند هواتف  نظام التشغيل فيرفكس الذكية على HTML5 بالكامل ، وبذلك "
-"يصبح أفضل من الويب على هاتفك. بالإضافة إلى ذلك، تم تصميم نظام التشغيل فيرفكس"
-" من قبل مجتمع مكرس للحفاظ على الويب في متناول الجميع. عندما تختار نظام "
-"التشغيل فيرفكس  ، لديك قدرة كاملة على الويب في متناول يديك."
 
 #. Translators:
 #. Page path: /2-0/key-features/
@@ -2158,8 +2001,6 @@ msgid ""
 "Your go-to source for the best apps on Firefox OS. Browse multiple "
 "categories, including games, utilities, music, travel, sports and more."
 msgstr ""
-"انت تتوجه الى مصدر أفضل البرامج لنظام تشغيل فيرفكس. تصفح فئات متعدده, منها "
-"الألعاب, خدمات, موسيقى, رحلات, رياضة و غيرها."
 
 #. Translators:
 #. Page path: /2-0/key-features/
@@ -2171,9 +2012,6 @@ msgid ""
 "Search Bar to visit websites, perform searches and access apps from the "
 "Marketplace. Multitask with tabs and browse multiple pages at the same time"
 msgstr ""
-"جرب الطريقة الذكية السريعة، والآمنة للحصول على أفضل ما في الويب. قم باستخدام"
-" شريط البحث لزيارة المواقع، وإجراء عمليات البحث وتطبيقات الوصول من السوق. "
-"تعدد المهام مع علامات التبويب وتصفح صفحات متعددة في نفس الوقت"
 
 #. Translators:
 #. Page path: /2-0/key-features/
@@ -2184,8 +2022,6 @@ msgid ""
 "Stay connected with friends and colleagues on your favorite social networks "
 "from wherever your are.."
 msgstr ""
-"ابق على اتصال مع الأصدقاء والزملاء على الشبكات الاجتماعية المفضلة لديك من أي"
-" مكان تكون به.."
 
 #. Translators:
 #. Page path: /2-0/key-features/
@@ -2197,8 +2033,6 @@ msgid ""
 "all in one place thanks to deep integration with your favorite social "
 "networks."
 msgstr ""
-"قم باستيراد أصدقاء الفيسبوك على الهاتف الخاص بك وحافظ على مجتمعك في مكان "
-"واحد وذلك بفضل التكامل العميق مع الشبكات الاجتماعية المفضلة لديك."
 
 #. Translators:
 #. Page path: /2-0/key-features/
@@ -2206,7 +2040,7 @@ msgstr ""
 #. Page path: /1-3/key-features/
 #: db-strings.txt:7530 db-strings.txt.py:9744
 msgid "Bluetooth"
-msgstr "بلوتوث"
+msgstr ""
 
 #. Translators:
 #. Page path: /2-0/key-features/
@@ -2217,8 +2051,6 @@ msgid ""
 "Easily pair your device with a wide range of Bluetooth accessories. Share "
 "contacts, images, videos or your favorite URLs with friends."
 msgstr ""
-"قم بإقران الجهاز بسهولة مع مجموعة واسعة من ملحقات البلوتوث. قم بمشاركة جهات "
-"الاتصال والصور وأشرطة الفيديو أو عناوين المواقع المفضلة لديك مع الأصدقاء."
 
 #. Translators:
 #. Page path: /2-0/key-features/
@@ -2230,9 +2062,6 @@ msgid ""
 "music collection by album or artist, rate songs and create playlists for "
 "your favorites."
 msgstr ""
-"تحكم بكل ذلك عن طريق الهاتف الخاص بك، أو عبر الإنترنت من خلال موقع يوتيوب. "
-"تصفح و شغل مجموعتك الموسيقية عن طريق الألبوم أو الفنان، قيم الأغنية و أنشئ "
-"قوائم التشغيل المفضلة لديك."
 
 #. Translators:
 #. Page path: /2-0/key-features/
@@ -2243,14 +2072,12 @@ msgid ""
 "Stay connected easily and conveniently. Set up multiple email accounts, with"
 " support for the most common Exchange, POP3 or IMAP email providers."
 msgstr ""
-"ابق على اتصال بكل بسهولة و راحة. قم بإعداد حسابات بريد الكتروني متعددة، مع "
-"دعم للتبادل الأكثر شيوعاً ،POP3  أو IMAP  مقدمي خدمات الإيميل."
 
 #. Translators:
 #. Page path: /2-0/key-features/
 #: db-strings.txt:7584
 msgid "Find My Device"
-msgstr "‎البحث عن جهازي"
+msgstr ""
 
 #. Translators:
 #. Page path: /2-0/key-features/
@@ -2259,14 +2086,12 @@ msgid ""
 "Location tracking helps you find your device if you lose it. Remote wipe and"
 " lock capabilities help you keep your personal information safe."
 msgstr ""
-"تتبع الموقع  يساعدك على العثور على الجهاز الخاص بك إذا فقدته. المسح عن بعد "
-"وقدرات القفل تساعدك على الحفاظ على المعلومات الشخصية الخاصة بك آمنة."
 
 #. Translators:
 #. Page path: /2-0/key-features/
 #: db-strings.txt:7602
 msgid "Ringtones"
-msgstr "النغمات"
+msgstr ""
 
 #. Translators:
 #. Page path: /2-0/key-features/
@@ -2275,8 +2100,6 @@ msgid ""
 "Customize your Firefox OS phone by creating new ringtones from your music "
 "collection or from songs you download from the Web."
 msgstr ""
-"قم بتخصيص هاتف نظام تشغيل فيرفكس عن طريق إنشاء نغمات رنين جديدة من مجموعتك "
-"الموسيقية أو من الأغاني التي تقوم بتحميلها من الويب."
 
 #. Translators:
 #. Page path: /2-0/frequently-asked-questions/
@@ -2289,10 +2112,6 @@ msgid ""
 "includes leading app developers like Facebook, YouTube, Twitter, YouTube, "
 "Pinterest and ConnectA2 as well as a Flashlight app and Calculator."
 msgstr ""
-"مطورو التطبيقات حول العالم ملتزمون بنظام تشغيل فيرفكس وستكون عشرات المئات من"
-" التطبيقات المجانية متاحة عند الاطلاق.  وتشمل القائمة المتزايدة مطوري "
-"التطبيقات الرائدة مثل الفيسبوك، يوتيوب، تويتر، بينتيريست ConnectA2  فضلا عن "
-"تطبيق المصباح والآلة الحاسبة."
 
 #. Translators:
 #. Page path: /2-0/frequently-asked-questions/
@@ -2307,12 +2126,6 @@ msgid ""
 " in complete control of their smartphone experience and makes it possible "
 "for people to get the exact content they want, when they want it."
 msgstr ""
-"يمكن للمستخدمين وضع الإشارات على أي موقع على الشاشة الرئيسية لتوفير وظائف "
-"لذلك الموقع مباشرة من هناك. أيضا، يمكن للمستخدمين ببساطة إدخال أي مصطلح "
-"البحث على الشاشة الرئيسية وعلى الفور إنشاء الاستعمال لمرة واحدة أو تحميل "
-"التطبيق. إنشاء و استهلاك هذه التطبيقات على الطلب يضع المستخدمين في السيطرة "
-"الكاملة على تجربة الهاتف الذكي، ويجعل من الممكن للناس للحصول على المحتوى "
-"الدقيق الذي يريدون، و وقتما يريدون."
 
 #. Translators:
 #. Page path: /2-0/frequently-asked-questions/
@@ -2320,7 +2133,7 @@ msgstr ""
 #. Page path: /1-3/frequently-asked-questions/
 #: db-strings.txt:7728 db-strings.txt.py:9906
 msgid "Can I use WhatsApp on this phone?"
-msgstr "هل يمكنني استخدام ال WhatsApp على هذا الهاتف؟"
+msgstr ""
 
 #. Translators:
 #. Page path: /2-0/frequently-asked-questions/
@@ -2334,11 +2147,6 @@ msgid ""
 " create and use group chats and receive notifications of new messages, even "
 "when the app is closed."
 msgstr ""
-"بشكل غير مباشر, لكن تطبيق ConnectA2 يسمح لك بإرسال الرسائل إلى جهات الاتصال "
-"الخاصة بك على ConnectA2 و/أو whatsapp. بإمكانك إرسال واستقبال الرسائل, "
-"الأشكال, الصور, مقاطع الفيديو والصوت مجاناً. تستطيع أيضاً إنشاء واستخدام "
-"المحادثات الجماعية واستقبال الإشعارات للرسائل الجديدة, حتى لو كان التطبيق "
-"مغلقاً. "
 
 #. Translators:
 #. Page path: /2-0/frequently-asked-questions/
@@ -2346,7 +2154,7 @@ msgstr ""
 #. Page path: /1-3/frequently-asked-questions/
 #: db-strings.txt:7746 db-strings.txt.py:9924
 msgid "Will my apps work offline?"
-msgstr "هل تطبيقي يعمل و أنا غير متصل ؟"
+msgstr ""
 
 #. Translators:
 #. Page path: /2-0/frequently-asked-questions/
@@ -2358,8 +2166,6 @@ msgid ""
 "like Twitter and Facebook, and for awesome local content from the best Web "
 "developers in your region."
 msgstr ""
-"سوق فيرفكس مصدرنا للتطبيقات المجانية, و يتضمن المفضلات مثل تويتر و فيسبوك و "
-"المحتوى الرائع من أفضل المطورين في منطقتك."
 
 #. Translators:
 #. Page path: /2-0/frequently-asked-questions/
@@ -2367,7 +2173,7 @@ msgstr ""
 #. Page path: /1-3/frequently-asked-questions/
 #: db-strings.txt:7809 db-strings.txt.py:9987
 msgid "Exchange, POP3 and IMAP are currently supported."
-msgstr "تحويل, POP3 و IMAP مدعومين بالفعل."
+msgstr ""
 
 #. Translators:
 #. Page path: /2-0/about/
@@ -2375,7 +2181,7 @@ msgstr "تحويل, POP3 و IMAP مدعومين بالفعل."
 #. Page path: /1-3/about/
 #: db-strings.txt:7836 db-strings.txt.py:10014
 msgid "The Mozilla Mission"
-msgstr "مهمة موزيلا"
+msgstr ""
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2383,7 +2189,7 @@ msgstr "مهمة موزيلا"
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:7863 db-strings.txt.py:10041
 msgid "Take the Challenge"
-msgstr "اقبل التحدي"
+msgstr ""
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2398,11 +2204,6 @@ msgid ""
 "OS the right choice for anyone committed to ensuring that the power of the "
 "Web remains in their hands!"
 msgstr ""
-"إذا كنت قد مررت على جميع الأسئلة والمحتوى، فأنت على استعداد لمطابقة نظام "
-"التشغيل فيرفكس مع احتياجات الزبائن. سهل الاستخدام، والهاتف الذكي بنظام "
-"التشغيل فيرفكس مثالي لمستخدمي الهاتف الذكي لأول مرة و مليء بجميع الميزات "
-"التي يريدها و يحتاجها العملاء . مدعوم من قبل موزيلا، مما يجعل نظام التشغيل "
-"فيرفكس الاختيار الصحيح لأي ملتزم بضمان أن قوة الإنترنت لا تزال في أيديهم!"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2413,8 +2214,6 @@ msgid ""
 "What are some examples of the kind of personalization and control that "
 "Firefox OS allows?  Select all that apply."
 msgstr ""
-"ما هي بعض الأمثلة على هذا النوع من التخصيص والتحكم التي يسمح بها نظام "
-"التشغيل فيرفكس؟ اختر كل ما ينطبق."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2423,7 +2222,7 @@ msgstr ""
 #: db-strings.txt:7926 db-strings.txt.py:10104
 msgid ""
 "That’s right! All of these things are possible with a Firefox OS phone."
-msgstr "هذا صحيح! كل هذا محتمل مع نظام تشغيل فيرفكس. "
+msgstr ""
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2431,7 +2230,7 @@ msgstr "هذا صحيح! كل هذا محتمل مع نظام تشغيل فير�
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:7935 db-strings.txt.py:10113
 msgid "Actually, all of these things are possible with a Firefox OS phone."
-msgstr "في الواقع, كل هذا محتمل مع نظام تشغيل فيرفكس."
+msgstr ""
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2440,7 +2239,7 @@ msgstr "في الواقع, كل هذا محتمل مع نظام تشغيل في�
 #: db-strings.txt:7944 db-strings.txt.py:8124 db-strings.txt.py:8367
 #: db-strings.txt:8412 db-strings.txt.py:10122 db-strings.txt.py:10302
 msgid "There are more. Try again."
-msgstr "هنالك المزيد. حاول مره أخرى."
+msgstr ""
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2448,7 +2247,7 @@ msgstr "هنالك المزيد. حاول مره أخرى."
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:8070 db-strings.txt.py:10248
 msgid "That’s right. This icon represents the Firefox Browser."
-msgstr "هذا صحيح. هذه الأيقونة تمثل متصفح فيرفكس."
+msgstr ""
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2457,7 +2256,7 @@ msgstr "هذا صحيح. هذه الأيقونة تمثل متصفح فيرفك�
 #: db-strings.txt:8079 db-strings.txt.py:8088 db-strings.txt.py:10257
 #: db-strings.txt:10266
 msgid "Actually, this icon represents the Firefox Browser."
-msgstr "في الواقع, هذه الأيقونة تمثل متصفح فيرفكس."
+msgstr ""
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2465,7 +2264,7 @@ msgstr "في الواقع, هذه الأيقونة تمثل متصفح فيرف�
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:8097 db-strings.txt.py:10275
 msgid "What does Bluetooth allow users to do? Select all that apply"
-msgstr "ماذا يسمح البلوتوث للمستخدمين أن يفعلوا ؟ اختر الذي ينطبق"
+msgstr ""
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2476,8 +2275,6 @@ msgid ""
 "That’s right! All of these things can be shared via Bluetooth with your "
 "Firefox OS phone."
 msgstr ""
-"هذا صحيح! كل هذا من الممكن نشره باستخدام البلوتوث على أجهزة نظام تشغيل "
-"فيرفكس."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2488,8 +2285,6 @@ msgid ""
 "Actually, all of these things can be shared via Bluetooth with your Firefox "
 "OS phone.."
 msgstr ""
-"في الواقع, كل هذا من الممكن نشره باستخدام البلوتوث على أجهزة نظام تشغيل "
-"فيرفكس."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2497,7 +2292,7 @@ msgstr ""
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:8151 db-strings.txt.py:10329
 msgid "Actually, all of these are true about Firefox OS."
-msgstr "في الواقع, كل هذا صحيح بخصوص نظام تشغيل فيرفكس."
+msgstr ""
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2505,7 +2300,7 @@ msgstr "في الواقع, كل هذا صحيح بخصوص نظام تشغيل �
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:8160 db-strings.txt.py:10338
 msgid "Actually, all of these are true about Firefox OS"
-msgstr "في الواقع, كل هذا صحيح بخصوص نظام تشغيل فيرفكس."
+msgstr ""
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2517,8 +2312,6 @@ msgid ""
 "simplicity and features including ways to control their experience and "
 "personalize their phones."
 msgstr ""
-"هذا صحيح. مع مستخدمي الهواتف الذكية لأول مرة ، يجب أن نتحدث عن البساطته "
-"والميزات بما في ذلك طرق للسيطرة على تجربتهم وتخصيص هواتفهم."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2531,8 +2324,6 @@ msgid ""
 "simplicity and features including ways to control their experience and "
 "personalize their phones."
 msgstr ""
-"في الواقع، مع مستخدمي الهواتف الذكية لأول مرة ، يجب أن نتحدث عن بساطته "
-"والميزات بما في ذلك طرق السيطرة على تجربتهم وتخصيص هواتفهم."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2543,8 +2334,6 @@ msgid ""
 "That’s right. When you meet a Firefox fan, talk about how choosing Firefox "
 "OS shows a commitment to keeping the power of the Web in their hands."
 msgstr ""
-"هذا صحيح. عندما تقابل أحداً من محبي فيرفكس، تحدث عن أن اختيار نظام التشغيل "
-"فيرفكس يظهر الالتزام بإبقاء قوة الشبكة في أيديهم."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2556,8 +2345,6 @@ msgid ""
 "Actually, when you meet a Firefox fan, talk about how choosing Firefox OS "
 "shows a commitment to keeping power of the the Web in their hands."
 msgstr ""
-"في الواقع، عندما تقابل أحداً من محبي فيرفكس، تحدث عن أن نظام التشغيل اختيار "
-"فيرفكس يظهر الالتزام بالحفاظ على قوة الشبكة في أيديهم."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2569,9 +2356,6 @@ msgid ""
 " set of Firefox OS, including social apps that are preloaded on the phone, "
 "all at great value."
 msgstr ""
-"هذا صحيح. مع هذا العميل، قم بتسليط الضوء على القيمة الكبيرة و مجموعة "
-"المميزات الكاملة لنظام التشغيل فيرفكس، بما في ذلك التطبيقات الاجتماعية التي "
-"تم تحميلها مسبقاً على الهاتف، جميعها ذات القيمة العظيمة."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2584,9 +2368,6 @@ msgid ""
 "feature set of Firefox OS, including social apps that are preloaded on the "
 "phone, all at great value."
 msgstr ""
-"ليس هذا كل شيء. مع هذا العميل، قم بتسليط الضوء على القيمة الكبيرة و مجموعة "
-"المميزات الكاملة لنظام التشغيل فيرفكس، بما في ذلك التطبيقات الاجتماعية التي "
-"تم تحميلها مسبقاً على الهاتف، جميعها ذات القيمة العظيمة.                "
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2599,10 +2380,6 @@ msgid ""
 "of the Web in the hands of the people. And while all of these statements are"
 " true, only this one is the best response for this particular customer."
 msgstr ""
-"هذا صحيح. يبدو أن هذا العميل من المعجبين بفيرفكس. قم بالحديث عن كيفية صنع "
-"نظام التشغيل فيرفكس التي قام بها موزيلاا، وأظهر الالتزام بإبقاء قوة الويب في"
-" أيدي الناس. وعلى الرغم من كل هذه التصريحات صحيحة،هذه الاستجابة فقط هي "
-"الأفضل لهذا العميل."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2616,9 +2393,6 @@ msgid ""
 "OS phones, made by Mozilla, help keep the power of the Web in the hands of "
 "the people."
 msgstr ""
-"كل هذه التصريحات صحيحة، ولكن عناك الاستجابة واحدة فقط هي الأفضل لهذا العميل."
-" الذس يبدو أنه من المعجبين بفيرفكس. قم بالحديث عن كيفية صنع نظام التشغيل "
-"فيرفكس التي قام بها موزيلا، وأظهر الالتزام بإبقاء قوة الويب في أيدي الناس. "
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2627,8 +2401,6 @@ msgid ""
 "What does the Find My Device feature on your Firefox OS phone help you do in"
 " the case that your phone is lost or stolen?"
 msgstr ""
-"ما الذي تساعدك على فعله خاصية البحث عن جهازي على هاتف نظام تشغيل فيرفكس في "
-"حالة فقدان أو سرقة الهاتف؟"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2637,8 +2409,6 @@ msgid ""
 "That’s right! The Find My Device helps you do all these things through your "
 "Firefox Account."
 msgstr ""
-"هذا صحيح!خاصية البحث عن جهازي تساعدك على القيام بكل هذه الأشياء من خلال حساب"
-" فيرفكس الخاص بك ."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2647,8 +2417,6 @@ msgid ""
 "Actually, the Find My Device helps you do all these things through your "
 "Firefox Account."
 msgstr ""
-"في الواقع، خاصية البحث عن جهازي تساعدك على القيام بكل هذه الأشياء من خلال "
-"حساب فيرفكس الخاص بك ."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2659,8 +2427,6 @@ msgid ""
 "That’s right. A first-time smartphone user will be most interested in ease "
 "of use."
 msgstr ""
-"هذا صحيح. يمكن لمستخدمي الهاتف الذكي لأول مرة يكون الأكثر اهتماما في سهولة "
-"الاستخدام."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2671,8 +2437,6 @@ msgid ""
 "Which of the following statements are true of the Cost Control app that is "
 "preloaded on Firefox OS?"
 msgstr ""
-"أي من العبارات التالية صحيحة لتطبيق مراقبة التكلفة الذي تم تحميله مسبقاً على"
-" نظام التشغيل فيرفكس؟"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2680,7 +2444,7 @@ msgstr ""
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:8430 db-strings.txt.py:10572
 msgid "That’s right. All of these are true of the Cost Control app!"
-msgstr "هذا صحيح. كل هذا صحيح يما يخص تطبيق مراقبة التكاليف!"
+msgstr ""
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2690,8 +2454,6 @@ msgstr "هذا صحيح. كل هذا صحيح يما يخص تطبيق مراق�
 #: db-strings.txt:10590
 msgid "Actually, all of these are true of the Cost Control app!"
 msgstr ""
-"في الواقع. كل هذا صحيح يما يخص تطبيق مراقبة التكاليف!"
-"                                "
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2702,8 +2464,6 @@ msgid ""
 "The ConnectA2 app is an instant messaging application compatible with "
 "WhatsApp for your Firefox OS device."
 msgstr ""
-"تطبيق ConnectA2 هو تطبيق المراسلة الفورية المتوافق مع ال WhatsApp لجهاز نظام"
-" التشغيل فيرفكس  الخاص بك."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2715,8 +2475,6 @@ msgid ""
 "Actually, this is true. ConnectA2 allows you to send instant messages to "
 "your contacts using ConnectA2 and/or WhatsApp."
 msgstr ""
-" في الواقع، هذا صحيح. تطبيق ConnectA2  يسمح لك بإرسال رسائل فورية إلى جهات "
-"الاتصال الخاصة بك باستخدامConnectA2  أو/و WhatsApp."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2727,8 +2485,6 @@ msgid ""
 "What’s the best response to this customer’s objection? “I’ve heard there "
 "aren’t many apps available.”"
 msgstr ""
-"ما هو أفضل رد على اعتراض هذا العميل؟ \"لقد سمعت أنه لا يوجد العديد من "
-"التطبيقات المتاحة\"."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2739,8 +2495,6 @@ msgid ""
 "What’s the best response to this customer’s objection? “I’ve never heard of "
 "Firefox OS phones.\""
 msgstr ""
-"ما هو أفضل رد على اعتراض هذا العميل؟ \"لم اسمع ابداً عن هواتف نظام تشغيل "
-"فيرفكس \"."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2748,7 +2502,7 @@ msgstr ""
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:8637 db-strings.txt.py:10779
 msgid "Set your phone to your language"
-msgstr "خصص هاتفك بلغتك"
+msgstr ""
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2756,13 +2510,13 @@ msgstr "خصص هاتفك بلغتك"
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:8646 db-strings.txt.py:10788
 msgid "Control your data usage"
-msgstr "تحكم باستهلاك بياناتك"
+msgstr ""
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:8655
 msgid "Create your own ringtones"
-msgstr "قم بإنشاء النغمات الخاصة بك"
+msgstr ""
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2770,7 +2524,7 @@ msgstr "قم بإنشاء النغمات الخاصة بك"
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:8817 db-strings.txt.py:10968
 msgid "Share contacts"
-msgstr "شارك جهات الاتصال "
+msgstr ""
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2778,7 +2532,7 @@ msgstr "شارك جهات الاتصال "
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:8826 db-strings.txt.py:10977
 msgid "Share images"
-msgstr "شارك الصور"
+msgstr ""
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2786,7 +2540,7 @@ msgstr "شارك الصور"
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:8835 db-strings.txt.py:10986
 msgid "Share videos"
-msgstr "شارك الفيديو"
+msgstr ""
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2796,8 +2550,6 @@ msgid ""
 "experience, Firefox OS is packed with the features that users are looking "
 "for in a smartphone."
 msgstr ""
-"مع سوق فيرفكس ، أفضل التطبيقات المحملة مسبقا وتجربة المستخدم  الرائعة،نظام "
-"التشغيل فيرفكس حزم مع الميزات التي يبحث عنها المستخدمون في الهاتف الذكي."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2806,8 +2558,6 @@ msgid ""
 "Since it’s made by Firefox, Firefox OS is backed by a global community "
 "working on your behalf and with your interests in mind."
 msgstr ""
-"لأنها مصنوعة من قبل فيرفكس،  نظام التشغيل فيرفكس مدعوم من قبل المجتمع الدولي"
-" ليعمل بالنيابة عنك ومع مصالحك في الاعتبار."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2819,9 +2569,6 @@ msgid ""
 "to use and allows for greater control, personalization and customization "
 "than many other smartphones on the market."
 msgstr ""
-"نظام التشغيل فيرفكس مصنوع لكم واحتياجاتكم في الاعتبار، لذلك استخدامه سهل "
-"للغاية ويسمح لقدر أكبر من السيطرة والتخصيص أكثر من العديد من الهواتف الذكية "
-"الأخرى في السوق."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2833,8 +2580,6 @@ msgid ""
 " are already preloaded and you can easily import your friends from Facebook,"
 " too.."
 msgstr ""
-"نظام التشغيل فيرفكس هو أسهل هاتف ذكي تبدأ معه. التطبيقات المفضلة لديك محملة "
-"مسبقاً، ويمكنك بسهولة استيراد أصدقائك من الفيسبوك، أيضا .."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2846,8 +2591,6 @@ msgid ""
 "If you love Firefox, you’ll love Firefox OS. Choosing Firefox OS keeps the "
 "power of the Web in your hands."
 msgstr ""
-"إذا كنت تحب فيرفكس، ستحب نظام التشغيل فيرفكس . اختيار نظام التشغيل فيرفكس "
-"يبقي قوة الويب تحت يديك."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2859,9 +2602,6 @@ msgid ""
 "expect, including Messages, Facebook, email, maps and more, all at a better "
 "value."
 msgstr ""
-"تم تحميل جميع الميزات التي تتوقعها مسبقا على الهاتف الذكي بنظام التشغيل "
-"فيرفكس  ، في ذلك الرسائل، الفيسبوك والبريد الإلكتروني والخرائط وغيرها، وكل "
-"هذا بسعر أفضل."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2869,7 +2609,7 @@ msgstr ""
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:8988 db-strings.txt.py:11139
 msgid "The Firefox Marketplace features free apps!"
-msgstr "سوق فيرفكس يتميز بتطبيقات مجانية!"
+msgstr ""
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2881,27 +2621,24 @@ msgid ""
 "accessible to all. And since Firefox OS is entirely built in HTML5, you get "
 "instant access to thousands of apps already built for the Web."
 msgstr ""
-"موزيلا, المنتج لفيرفكس, صنعت نظام تشغيل للهواتف لجعل الويب سهل الوصول من قبل"
-" الجميع. ولأن نظام تشغيل فيرفكس مبني باستخدام HTML5, يمكنك الوصول لآلاف "
-"التطبيقات المبنية للويب."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:9024
 msgid "Track the location of your lost/stolen device"
-msgstr "تتبع موقع جهازك المفقود / المسروق"
+msgstr ""
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:9033
 msgid "Remotely wipe the device."
-msgstr "قم بمسح محتويات الجهاز عن بعد."
+msgstr ""
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:9042
 msgid "Remotely lock the device."
-msgstr "قم بقفل الجهاز عن بعد."
+msgstr ""
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2910,8 +2647,6 @@ msgstr "قم بقفل الجهاز عن بعد."
 #: db-strings.txt:9078 db-strings.txt.py:11202
 msgid "Firefox OS is built entirely using HTML5 and Open Web standards."
 msgstr ""
-"نظام التشغيل فيرفكس مبني كلياً باستخدام HTML5 ومعايير الويب المفتوح."
-"                "
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2919,7 +2654,7 @@ msgstr ""
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:9087 db-strings.txt.py:11211
 msgid "You can use it to create and set a daily budget for data usage."
-msgstr "يمكنك استخدامه لإنشاء وتعيين ميزانية يومية لاستخدام البيانات."
+msgstr ""
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2927,7 +2662,7 @@ msgstr "يمكنك استخدامه لإنشاء وتعيين ميزانية ي�
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:9096 db-strings.txt.py:11220
 msgid "It shows usage per app."
-msgstr "يبين الاستخدام لكل التطبيق."
+msgstr ""
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2935,7 +2670,7 @@ msgstr "يبين الاستخدام لكل التطبيق."
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:9105 db-strings.txt.py:11229
 msgid "It shows usage by time."
-msgstr "يظهر الاستخدام بالوقت."
+msgstr ""
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2948,10 +2683,6 @@ msgid ""
 "relevant apps for the Firefox OS platform. New apps and content are added "
 "every day."
 msgstr ""
-"نظام تشغيل فيرفكس تم بناؤه من قبل مجموعة من مطوري المجتمع الخاص بموزيلا "
-"ومزودي المحتوى الذين وهبوا أنفسهم لإنشاء محتوى جديد و ممتع وحتى تطبيقات "
-"مرتبطة محلياً للبنية الأساسية لنظام تشغيل فيرفكس. تطبيقات ومحتويات جديدة يتم"
-" إضافتها كل يوم."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2961,7 +2692,7 @@ msgstr ""
 msgid ""
 "Apps developers are slowly realizing the benefit of HTML5 in support of the "
 "Open Web."
-msgstr "تطبيقات المطورين يدركون ببطء فائدة HTML5 لدعم فتح الويب المفتوح."
+msgstr ""
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2971,7 +2702,7 @@ msgstr "تطبيقات المطورين يدركون ببطء فائدة HTML5 �
 msgid ""
 "They’re packed with the features that made you want a smartphone in the "
 "first place."
-msgstr "تم بناؤهه بمواصفات تجعلك تريد هاتف ذكي في المقام الأول."
+msgstr ""
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2982,8 +2713,6 @@ msgid ""
 "They’re new and backed by a global community working to help keep the Web "
 "accessible to all."
 msgstr ""
-"انهم جدد ومدعومون من قبل المجتمع الدولي للعمل على المساعدة في الحفاظ على "
-"الويب في متناول الجميع."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2993,7 +2722,7 @@ msgstr ""
 msgid ""
 "It’s packed with the features that made you want a smartphone in the first "
 "place."
-msgstr "تم بناؤهه بمواصفات تجعلك تريد هاتف ذكي في المقام الأول."
+msgstr ""
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -3004,8 +2733,6 @@ msgid ""
 "It’s new and backed by a global community working to help keep the Web "
 "accessible to all."
 msgstr ""
-"انها جديدة و مدعومة من قبل المجتمع الدولي للعمل على المساعدة في الحفاظ على "
-"الويب في متناول الجميع."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -3018,9 +2745,6 @@ msgid ""
 "from malicious applications and content, it also protects applications from "
 "each other."
 msgstr ""
-"ويتميز بنظام أمان القوي منذ أكثر من عقد لدعم الويب المفتوح. صمم لحماية "
-"المستخدم والنظام من التطبيقات والمحتويات الخبيثة, وهي تقوم أيضاً بحماية "
-"التطبيقات من بعضها البعض."
 
 #. Translators:
 #. Page path: /2-0/which-version/
@@ -3037,28 +2761,20 @@ msgid ""
 "<li><em>1.3.0.0</em> means you have version 1.3</li> <li><em>2.0.0.0</em> "
 "means you have version 2.0</li> </ul> </li> </ol>"
 msgstr ""
-"<ol><li> قم بفتح تطبيق الإعدادات في جهازك. </li><li> انزل للأسفل واختر "
-"<strong> معلومات الجهاز</strong>. </li><li> في شاشة معلومات الجهاز, اختر "
-"<strong> المزيد من المعلومات </strong> وانظر إلى أرقام الإصدار تحت <em> "
-"إصدار نظام التشغيل </em> أعلى الشاشة. <ul><li> <em> نظام التشغيل فيرفكس "
-"1.0.1.0 </em> تعني أن لديك الإصدار 1.0.1</li><li><em> نظام التشغيل فيرفكس "
-"1.1.0.0</em> يعني أنك تملك نسخة 1.1</li> <li> </em>  <em> نسخة 1.3.0.0 </em>"
-" تعني أنك تملك نسخة 1.3</li><li><em> نسخة 2.0.0.0 </em> يعني أنك تمتلك نسخة "
-"2.0 </li></ul></li></ol>"
 
 #: masterfirefoxos/base/templates/base.html:35
 msgid "Submit"
-msgstr "إرسال"
+msgstr ""
 
 #: masterfirefoxos/base/templates/base.html:40
 #: masterfirefoxos/base/templates/base.html:83
 #: masterfirefoxos/base/templates/home.html:12
 msgid "Mozilla"
-msgstr "موزيلا"
+msgstr ""
 
 #: masterfirefoxos/base/templates/base.html:65
 msgid "Menu"
-msgstr "القائمة"
+msgstr ""
 
 #: masterfirefoxos/base/templates/base.html:88
 #, python-brace-format
@@ -3067,81 +2783,78 @@ msgid ""
 "available under a <a href=\"https://www.mozilla.org/foundation/licensing"
 "/website-content/\">Creative Commons license</a>."
 msgstr ""
-"أجزاء من هذا المحتوى هم ©1998–{0} بواسطة مساهمين فرديين. المحتوى متوفر تحت "
-"<a href=\"https://www.mozilla.org/foundation/licensing/website-content/\">  "
-"الرخصة العامة للإبداع</a>."
 
 #: masterfirefoxos/base/templates/base.html:91
 msgid "Source code"
-msgstr "الكود الأساسي"
+msgstr ""
 
 #: masterfirefoxos/base/templates/base.html:96
 msgid "Contact Us"
-msgstr "الاتصال بنا"
+msgstr ""
 
 #: masterfirefoxos/base/templates/base.html:97
 msgid "Partner with Us"
-msgstr "الشراكة معنا"
+msgstr ""
 
 #: masterfirefoxos/base/templates/base.html:98
 msgid "Donate"
-msgstr "تبرع"
+msgstr ""
 
 #: masterfirefoxos/base/templates/base.html:99
 msgid "Privacy Policy"
-msgstr "سياسة الخصوصية"
+msgstr ""
 
 #: masterfirefoxos/base/templates/base.html:100
 msgid "Legal Notices"
-msgstr "الإشعارات القانونية"
+msgstr ""
 
 #: masterfirefoxos/base/templates/base.html:101
 msgid "Report Trademark Abuse"
-msgstr "تقرير إساءة استخدام العلامات التجارية "
+msgstr ""
 
 #: masterfirefoxos/base/templates/base.html:105
 msgid "Mozilla on Twitter"
-msgstr "موزيلا على تويتر"
+msgstr ""
 
 #: masterfirefoxos/base/templates/base.html:106
 msgid "Firefox on Twitter"
-msgstr "فيرفكس على تويتر"
+msgstr ""
 
 #: masterfirefoxos/base/templates/base.html:107
 msgid "Mozilla on Facebook"
-msgstr "موزيلا على فيس بوك"
+msgstr ""
 
 #: masterfirefoxos/base/templates/base.html:108
 msgid "Firefox on Facebook"
-msgstr "فيرفكس على فيس بوك"
+msgstr ""
 
 #: masterfirefoxos/base/templates/home.html:49
 msgid "Learn more"
-msgstr "معرفة المزيد"
+msgstr ""
 
 #: masterfirefoxos/base/templates/includes/nav-information.html:3
 msgid "Home"
-msgstr "الصفحة الرئيسية"
+msgstr ""
 
 #: masterfirefoxos/base/templates/includes/nav-information.html:4
 msgid "About"
-msgstr "حول"
+msgstr ""
 
 #: masterfirefoxos/base/templates/includes/version-language-switcher.html:3
 msgid "Language"
-msgstr "اللغة"
+msgstr ""
 
 #: masterfirefoxos/base/templates/includes/version-language-switcher.html:15
 msgid "Firefox OS version"
-msgstr "إصدار نظام التشغيل فيرفكس "
+msgstr ""
 
 #: masterfirefoxos/base/templates/includes/version-language-switcher.html:21
 msgid "Which version do I have?"
-msgstr "ما هو الإصدار الموجود لدي؟"
+msgstr ""
 
 #: masterfirefoxos/base/templates/includes/version-language-switcher.html:23
 msgid "Change"
-msgstr "تغيير"
+msgstr ""
 
 #: masterfirefoxos/base/templates/includes/version-language-switcher.html:37
 #, python-brace-format
@@ -3149,97 +2862,95 @@ msgid ""
 "Documentation for Firefox OS {version} is not yet available in {language}, "
 "so we redirected you to the English version."
 msgstr ""
-"وثائق نظام التشغيل فيرفكس {version} ليست متاحة بعد في {language}، ولذا فإننا"
-" نقوك بإعادة توجيهك إلى النسخة الإنجليزية."
 
 #: masterfirefoxos/base/templates/includes/version-language-switcher.html:39
 #, python-brace-format
 msgid "The latest version available in {language} is {version}."
-msgstr "أحدث نسخة متوفرة في {language} هي {version}."
+msgstr ""
 
 #: masterfirefoxos/settings/base.py:189
 msgid "Afrikaans"
-msgstr "الأفريكانية"
+msgstr ""
 
 #: masterfirefoxos/settings/base.py:190
 msgid "Arabic"
-msgstr "العربية"
+msgstr ""
 
 #: masterfirefoxos/settings/base.py:191
 msgid "Bengali (Bangladesh)"
-msgstr "البنغالية (بنغلاديش)"
+msgstr ""
 
 #: masterfirefoxos/settings/base.py:192
 msgid "Bengali (India)"
-msgstr "البنغالية (الهند)"
+msgstr ""
 
 #: masterfirefoxos/settings/base.py:193
 msgid "Croatian"
-msgstr "الكرواتية"
+msgstr ""
 
 #: masterfirefoxos/settings/base.py:194
 msgid "Czech"
-msgstr "التشيكية"
+msgstr ""
 
 #: masterfirefoxos/settings/base.py:195
 msgid "Ewe"
-msgstr "الإيوي"
+msgstr ""
 
 #: masterfirefoxos/settings/base.py:196
 msgid "English"
-msgstr "الإنجليزية"
+msgstr ""
 
 #: masterfirefoxos/settings/base.py:197
 msgid "German"
-msgstr "الألمانية"
+msgstr ""
 
 #: masterfirefoxos/settings/base.py:198
 msgid "Greek"
-msgstr "اليونانية"
+msgstr ""
 
 #: masterfirefoxos/settings/base.py:199
 msgid "Fulah"
-msgstr "الفولاه"
+msgstr ""
 
 #: masterfirefoxos/settings/base.py:200
 msgid "French"
-msgstr "الفرنسية"
+msgstr ""
 
 #: masterfirefoxos/settings/base.py:201
 msgid "Hausa"
-msgstr "الهوسا"
+msgstr ""
 
 #: masterfirefoxos/settings/base.py:202
 msgid "Hindi"
-msgstr "الهندية"
+msgstr ""
 
 #: masterfirefoxos/settings/base.py:203
 msgid "Hungarian"
-msgstr "الهنغارية"
+msgstr ""
 
 #: masterfirefoxos/settings/base.py:204
 msgid "Igbo"
-msgstr "الإجبوية"
+msgstr ""
 
 #: masterfirefoxos/settings/base.py:205
 msgid "Italian"
-msgstr "الإيطالية"
+msgstr ""
 
 #: masterfirefoxos/settings/base.py:206
 msgid "Japanese"
-msgstr "اليابانية"
+msgstr ""
 
 #: masterfirefoxos/settings/base.py:207
 msgid "Lingala"
-msgstr "لغة اللينجالا"
+msgstr ""
 
 #: masterfirefoxos/settings/base.py:208
 msgid "Polish"
-msgstr "البولندية"
+msgstr ""
 
 #: masterfirefoxos/settings/base.py:209
 msgid "Portuguese"
-msgstr "البرتغالية"
+msgstr ""
 
 #: masterfirefoxos/settings/base.py:210
 msgid "Romanian"
@@ -3247,40 +2958,40 @@ msgstr ""
 
 #: masterfirefoxos/settings/base.py:211
 msgid "Russian"
-msgstr "الروسية"
+msgstr ""
 
 #: masterfirefoxos/settings/base.py:212
 msgid "Serbian"
-msgstr "الصربية"
+msgstr ""
 
 #: masterfirefoxos/settings/base.py:213
 msgid "Kiswahili"
-msgstr "اللغة السواحيلية"
+msgstr ""
 
 #: masterfirefoxos/settings/base.py:214
 msgid "Spanish"
-msgstr "الأسبانية"
+msgstr ""
 
 #: masterfirefoxos/settings/base.py:215
 msgid "Tamil"
-msgstr "اللغة التاميلية"
+msgstr ""
 
 #: masterfirefoxos/settings/base.py:216
 msgid "Wolof"
-msgstr "لغة الوولوف الغرب افريقية"
+msgstr ""
 
 #: masterfirefoxos/settings/base.py:217
 msgid "Xhosa"
-msgstr "زوسا"
+msgstr ""
 
 #: masterfirefoxos/settings/base.py:218
 msgid "Pirate"
-msgstr "قرصان"
+msgstr ""
 
 #: masterfirefoxos/settings/base.py:219
 msgid "Yoruba"
-msgstr "اليوروبية"
+msgstr ""
 
 #: masterfirefoxos/settings/base.py:220
 msgid "Zulu"
-msgstr "الزولو"
+msgstr ""

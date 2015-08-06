@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-05-18 13:49+0000\n"
+"POT-Creation-Date: 2015-08-06 22:44+0000\n"
 "PO-Revision-Date: 2015-06-12 21:42+0000\n"
 "Last-Translator: Marco Aurélio <ouesten@me.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -210,8 +210,8 @@ msgstr ""
 "aproveitar o melhor de cada momento. Fáceis de usar, são a escolha certa "
 "para pessoas que estão aprendendo a usar smartphones e precisam de um "
 "aparelho que tem tudo que é esperado. Desenvolvidos pela Mozilla, os "
-"aparelhos com Firefox OS são a escolha certa para qualquer pessoa que esteja "
-"comprometida em garantir que a Web continue um recurso público disponível "
+"aparelhos com Firefox OS são a escolha certa para qualquer pessoa que esteja"
+" comprometida em garantir que a Web continue um recurso público disponível "
 "para todos."
 
 #. Translators:
@@ -997,8 +997,8 @@ msgid ""
 "Maps can pinpoint your location and even give you directions (car, walking "
 "or public transportation) to get you to your destination."
 msgstr ""
-"Confira a situação do trânsito ao vivo, salve seus locais preferidos e tenha "
-"acesso à eles sem necessidade de conexão com a internet. Nossa ferramenta "
+"Confira a situação do trânsito ao vivo, salve seus locais preferidos e tenha"
+" acesso à eles sem necessidade de conexão com a internet. Nossa ferramenta "
 "de localização fornece a melhor rota, seja de carro, caminhando ou de "
 "transporte público, para chegar ao seu destino."
 
@@ -1321,10 +1321,10 @@ msgstr ""
 "Há dois modos de obter aplicativos no Firefox OS:<ul><li>Firefox  "
 "Marketplace — Nossa fonte dedicada aos melhores aplicativos, como o Twitter "
 "e conteúdo local dos melhores desenvolvedores de Web de sua "
-"região.</li><li>Pesquisa de aplicativos adaptável — Digite uma única palavra "
-"como “sushi” para descobrir aplicativos móveis relacionados em sua região, "
-"fornecidos por uma experiência móvel superior e ajustado para dar o que você "
-"precisa.</li><ul>"
+"região.</li><li>Pesquisa de aplicativos adaptável — Digite uma única palavra"
+" como “sushi” para descobrir aplicativos móveis relacionados em sua região, "
+"fornecidos por uma experiência móvel superior e ajustado para dar o que você"
+" precisa.</li><ul>"
 
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
@@ -1992,8 +1992,8 @@ msgid ""
 "statements would be the most appropriate response to this particular "
 "customer?"
 msgstr ""
-"Um cliente diz “Eu uso o Firefox no meu computador de casa e amo, mas eu não "
-"sabia que eles tinham um smartphone. Por quê?”. Qual das afirmações abaixo "
+"Um cliente diz “Eu uso o Firefox no meu computador de casa e amo, mas eu não"
+" sabia que eles tinham um smartphone. Por quê?”. Qual das afirmações abaixo "
 "é a resposta mais apropriada para este cliente em particular?"
 
 #. Translators:
@@ -2584,8 +2584,8 @@ msgid ""
 "you really need, when you need it."
 msgstr ""
 "O Firefox OS representa o melhor valor para o seu dinheiro, com tudo que "
-"você espera - câmera, email, apps, música, mapas e muito mais - pelos preços "
-"mais competitivos. Ainda temos a Pesquisa de Aplicativos Adaptável que "
+"você espera - câmera, email, apps, música, mapas e muito mais - pelos preços"
+" mais competitivos. Ainda temos a Pesquisa de Aplicativos Adaptável que "
 "facilita sua vida na hora de encontrar o que você precisa, quando você "
 "precisa."
 
@@ -3088,8 +3088,8 @@ msgstr ""
 "Não diretamente. Entretanto, muitos dos apps mais populares para Android e "
 "iOS são na verdade aplicativos Web \"empacotados\" com ferramentas que os "
 "fazem parecer nativos. Portanto, muitos dos mesmos apps estarão disponíveis "
-"na pesquisa de aplicativos adaptável. Ferramentas como Emscripten e PhoneGap "
-"também podem converter outros apps (*.apk e/ou C/C++) para apps Web."
+"na pesquisa de aplicativos adaptável. Ferramentas como Emscripten e PhoneGap"
+" também podem converter outros apps (*.apk e/ou C/C++) para apps Web."
 
 #. Translators:
 #. Page path: /1-3T/frequently-asked-questions/
@@ -3877,8 +3877,8 @@ msgid ""
 "like Twitter and Facebook, and for awesome local content from the best Web "
 "developers in your region."
 msgstr ""
-"O Firefox Marketplace é o nossa fonte de apps grátis, incluindo os favoritos "
-"como o Twitter e o Facebook, e o conteúdos locais mais legais dos melhores "
+"O Firefox Marketplace é o nossa fonte de apps grátis, incluindo os favoritos"
+" como o Twitter e o Facebook, e o conteúdos locais mais legais dos melhores "
 "desenvolvedores Web da sua região."
 
 #. Translators:
@@ -4781,42 +4781,46 @@ msgid "Portuguese"
 msgstr "Português"
 
 #: masterfirefoxos/settings/base.py:210
+msgid "Romanian"
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:211
 msgid "Russian"
 msgstr "Russo"
 
-#: masterfirefoxos/settings/base.py:211
+#: masterfirefoxos/settings/base.py:212
 msgid "Serbian"
 msgstr "Sérvio"
 
-#: masterfirefoxos/settings/base.py:212
+#: masterfirefoxos/settings/base.py:213
 msgid "Kiswahili"
 msgstr "Kiswahili"
 
-#: masterfirefoxos/settings/base.py:213
+#: masterfirefoxos/settings/base.py:214
 msgid "Spanish"
 msgstr "Espanhol"
 
-#: masterfirefoxos/settings/base.py:214
+#: masterfirefoxos/settings/base.py:215
 msgid "Tamil"
 msgstr "Tâmil"
 
-#: masterfirefoxos/settings/base.py:215
+#: masterfirefoxos/settings/base.py:216
 msgid "Wolof"
 msgstr "Wolof"
 
-#: masterfirefoxos/settings/base.py:216
+#: masterfirefoxos/settings/base.py:217
 msgid "Xhosa"
 msgstr "Xhosa"
 
-#: masterfirefoxos/settings/base.py:217
+#: masterfirefoxos/settings/base.py:218
 msgid "Pirate"
 msgstr "Pirata"
 
-#: masterfirefoxos/settings/base.py:218
+#: masterfirefoxos/settings/base.py:219
 msgid "Yoruba"
 msgstr "Yoruba"
 
-#: masterfirefoxos/settings/base.py:219
+#: masterfirefoxos/settings/base.py:220
 msgid "Zulu"
 msgstr "Zulu"
 

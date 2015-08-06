@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-05-18 13:49+0000\n"
+"POT-Creation-Date: 2015-08-06 22:44+0000\n"
 "PO-Revision-Date: 2015-08-03 18:40+0000\n"
 "Last-Translator: Tomáš <zelitomas@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -144,11 +144,6 @@ msgstr "Získejte vše"
 #. Translators:
 #. Page path: /1-1/introduction/
 #: db-strings.txt:78
-#| msgid ""
-#| "s packed with all the features that made your customers t a rtphone  st "
-#| "place: apps, maps, camera, gallery, social tures, ic and br><br>With  the "
-#| "features and no promises, Firefox OS nes fit your ers' lives more fectly, "
-#| "they can fit in with the ld around m.</p>"
 msgid ""
 "Firefox OS is packed with all the features that made your customers want a "
 "smartphone in the first place: apps, maps, camera, gallery, social features,"
@@ -351,14 +346,12 @@ msgstr "Adaptivní vyhledávání aplikací"
 #. Translators:
 #. Page path: /1-4/demo-tips/
 #: db-strings.txt:186 db-strings.txt.py:4866
-#| msgid ""
-#| "how Firefox OS adapts to them, giving them more of what y need, n y d it."
 msgid ""
 "Show customers how Firefox OS adapts to them, giving them more of what they "
 "need, when they need it."
 msgstr ""
-"Ukažte zákazníkům, jak se jim telefon s Firefox OS přizpůsobí a dá jim ještě "
-"více toho, co potřebují zrovna ve chvíli, kdy to potřebují."
+"Ukažte zákazníkům, jak se jim telefon s Firefox OS přizpůsobí a dá jim ještě"
+" více toho, co potřebují zrovna ve chvíli, kdy to potřebují."
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
@@ -373,8 +366,6 @@ msgstr "Mapy HERE"
 #. Translators:
 #. Page path: /1-4/demo-tips/
 #: db-strings.txt:204 db-strings.txt.py:4884
-#| msgid ""
-#| " powerful map features of Firefox OS, including local nsit info."
 msgid ""
 "Demonstrate the powerful map features of Firefox OS, including local transit"
 " info."
@@ -415,9 +406,6 @@ msgstr "Prohlížeč Firefox"
 #. Translators:
 #. Page path: /1-1/demo-tips/
 #: db-strings.txt:240
-#| msgid ""
-#| " customers take control of their online lives and get the t of  Web ter re "
-#| "they go."
 msgid ""
 "Firefox OS lets customers take control of their online lives and get the "
 "best of the Web no matter where they go."
@@ -5103,42 +5091,46 @@ msgid "Portuguese"
 msgstr ""
 
 #: masterfirefoxos/settings/base.py:210
-msgid "Russian"
+msgid "Romanian"
 msgstr ""
 
 #: masterfirefoxos/settings/base.py:211
-msgid "Serbian"
+msgid "Russian"
 msgstr ""
 
 #: masterfirefoxos/settings/base.py:212
-msgid "Kiswahili"
+msgid "Serbian"
 msgstr ""
 
 #: masterfirefoxos/settings/base.py:213
-msgid "Spanish"
+msgid "Kiswahili"
 msgstr ""
 
 #: masterfirefoxos/settings/base.py:214
-msgid "Tamil"
+msgid "Spanish"
 msgstr ""
 
 #: masterfirefoxos/settings/base.py:215
-msgid "Wolof"
+msgid "Tamil"
 msgstr ""
 
 #: masterfirefoxos/settings/base.py:216
-msgid "Xhosa"
+msgid "Wolof"
 msgstr ""
 
 #: masterfirefoxos/settings/base.py:217
-msgid "Pirate"
+msgid "Xhosa"
 msgstr ""
 
 #: masterfirefoxos/settings/base.py:218
-msgid "Yoruba"
+msgid "Pirate"
 msgstr ""
 
 #: masterfirefoxos/settings/base.py:219
+msgid "Yoruba"
+msgstr ""
+
+#: masterfirefoxos/settings/base.py:220
 msgid "Zulu"
 msgstr ""
 
