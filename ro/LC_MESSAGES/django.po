@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-08-06 22:44+0000\n"
-"PO-Revision-Date: 2015-08-10 23:52+0000\n"
+"PO-Revision-Date: 2015-08-11 10:00+0000\n"
 "Last-Translator: CristianSilaghi <cristian.silaghi@mozilla.ro>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ro\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
 "20)) ? 1 : 2);;\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1439250723.0\n"
+"X-POOTLE-MTIME: 1439287237.0\n"
 
 #. Translators:
 #. Page path: /1-1/
@@ -296,7 +296,7 @@ msgstr "Cine este clientul dumneavoastră ideal de Firefox?"
 #: db-strings.txt:339 db-strings.txt.py:2625 db-strings.txt.py:5019
 #: db-strings.txt:7296 db-strings.txt.py:9510
 msgid "The Smartphone Rookie"
-msgstr "Utilizatorul novice într-ale smartphone-urilor"
+msgstr "Utilizatorul novice de smartphone"
 
 #. Translators:
 #. Page path: /1-1/customer-guide/
@@ -1541,9 +1541,9 @@ msgid ""
 "share your photographs, the full-featured camera and photo gallery will have"
 " all your subjects smiling."
 msgstr ""
-"Cu filtre de stil încorporate pentru pozele amuzante, creative și o mulțime "
-"de modalități de a partaja fotografiile, camera dotată cu o gamă completă de "
-"funcții și galeria de fotografii vor pune zâmbete pe fețele tuturor."
+"Cu filtre de stil încorporate pentru poze amuzante și creative și o mulțime "
+"de moduri de partajare a fotografiilor, camera complet echipată și galeria "
+"foto vor pune zâmbete pe fețele celor surprinși în cadru."
 
 #. Translators:
 #. Page path: /1-3T/key-features/
@@ -2104,10 +2104,10 @@ msgstr ""
 "Folosind aplicațiile de Cameră, Galerie, Muzică și multe altele, Firefox OS "
 "va mentine clienții încântați din mers și conectați la lucrurile care "
 "contează cel mai mult pentru ei.  <br><br>Camera: Fotografiați, editați și "
-"partajați. Etalați-vă aplicațiile de cameră dotată cu o gamă completă de "
-"funcții și galerie, care include filtre de stil încorporate, video și multe "
-"altele.  <br><br>Muzică: Cu muzica la vârful degetelor, clienții vor vedea "
-"cum Firefox OS îi menține încântați și dansând pe străzi."
+"partajați. Etalați-vă camera complet echipată și galeria, acestea incluzând "
+"filtre de stil încorporate, video și multe altele.  <br><br>Muzică: Cu "
+"muzica la vârful degetelor, clienții vor vedea cum Firefox OS îi menține "
+"încântați și dansând pe străzi."
 
 #. Translators:
 #. Page path: /2-0/demo-tips/
@@ -2145,11 +2145,11 @@ msgid ""
 "expect — camera, email, apps, music, maps and more!"
 msgstr ""
 "<strong>Iată ce puteți să spuneți:</strong> Firefox OS este cea mai bună "
-"alegere pentru primul smartphone deținut de utilizatori. Este super ușor de "
-"folosit și se adaptează nevoilor dumneavoastră mai bine decât orice alt "
-"telefon. Asta înseamnă că obțineți mai mult din ceea ce doriți cu mai puțin "
-"timp petrecut căutând. În plus, este dotat cu toate funcțiile la care v-ați "
-"aștepta — cameră, e-mail, aplicații, muzică, hărți și multe altele!"
+"alegere pentru un prim smartphone. Este super ușor de folosit și se "
+"adaptează nevoilor dumneavoastră mai bine decât orice alt telefon. Asta "
+"înseamnă că obțineți mai mult din ceea ce doriți cu mai puțin timp petrecut "
+"căutând. În plus, este dotat cu toate funcțiile la care v-ați aștepta — "
+"cameră, e-mail, aplicații, muzică, hărți și multe altele!"
 
 #. Translators:
 #. Page path: /2-0/customer-guide/
@@ -2163,10 +2163,9 @@ msgid ""
 "go in no time."
 msgstr ""
 "<strong>Iată ce puteți să spuneți:</strong> Firefox OS este cel mai ușor "
-"smartphone cu care să începeți.  Interfața utilizatorului este atât de "
-"intuitivă, veți putea să descoperiți rapid și să descărcați aplicațiile "
-"favorite și să fiți gata pentru a porni la drum în doi timpi și trei "
-"mișcări."
+"smartphone cu care să începeți. Interfața utilizatorului este atât de "
+"intuitivă, încât veți putea descoperi rapid și descărca aplicațiile favorite "
+"pentru a porni la drum în doi timpi și trei mișcări."
 
 #. Translators:
 #. Page path: /2-0/customer-guide/
@@ -2197,7 +2196,7 @@ msgid ""
 "categories, including games, utilities, music, travel, sports and more."
 msgstr ""
 "Sursa de descărcare pentru cele mai bune aplicații Firefox OS. Navigați "
-"printre categoriile multiple, inclusiv jocuri, utilități, muzică, călătorie, "
+"printre categoriile multiple, inclusiv jocuri, utilitare, muzică, călătorie, "
 "sporturi și multe altele."
 
 #. Translators:
@@ -2285,9 +2284,9 @@ msgid ""
 "Stay connected easily and conveniently. Set up multiple email accounts, with"
 " support for the most common Exchange, POP3 or IMAP email providers."
 msgstr ""
-"Rămâneți conectat cu ușurință și într-o manieră comodă. Configurați "
-"conturile multiple de e-mail cu suport pentru majoritatea furnizorilor de "
-"e-mail cei mai importanți care folosesc Exchange, POP3 și IMAP."
+"Rămâneți conectat cu ușurință și într-o manieră comodă. Configurați mai "
+"multe conturi de e-mail cu suport pentru protocoalele Exchange, POP3 și "
+"IMAP."
 
 #. Translators:
 #. Page path: /2-0/key-features/
