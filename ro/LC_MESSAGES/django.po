@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-08-06 22:44+0000\n"
-"PO-Revision-Date: 2015-08-11 19:32+0000\n"
-"Last-Translator: Jobava <jobaval10n@gmail.com>\n"
+"PO-Revision-Date: 2015-08-11 20:03+0000\n"
+"Last-Translator: CristianSilaghi <cristian.silaghi@mozilla.ro>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ro\n"
 "MIME-Version: 1.0\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
 "20)) ? 1 : 2);;\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1439321543.0\n"
+"X-POOTLE-MTIME: 1439323402.0\n"
 
 #. Translators:
 #. Page path: /1-1/
@@ -774,9 +774,9 @@ msgid ""
 msgstr ""
 "În spatele fiecărui smartphone Firefox OS se află Mozilla, o comunitate "
 "globală de mii de oameni dedicată păstrării Webului accesibil pentru toți. "
-"Facem asta deoarece credem că fiecare dintre noi are dreptul la un Web care "
-"nu este controlat de doar câteva entități mari. Da, suntem puțin diferiți "
-"față de ceilalți. Împreună putem clădi un viitor mai bun pentru Web."
+"Pentru că credem că fiecare dintre noi are dreptul la un Web care nu este "
+"controlat de doar câteva entități mari. Da, suntem puțin diferiți față de "
+"ceilalți. Împreună putem clădi un viitor mai bun pentru Web."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1256,9 +1256,9 @@ msgid ""
 "backed by a global community working on your behalf and with your interests "
 "in mind."
 msgstr ""
-"Pentru că este construit de Firefox, puteți avea încredere că Firefox OS "
-"este susținut de o comunitate globală care lucrează pentru dumneavoastră și "
-"care ține cont de interesele dumneavoastră."
+"Întrucât este construit de Firefox, puteți avea încredere că Firefox OS este "
+"susținut de o comunitate globală care lucrează pentru dumneavoastră și care "
+"ține cont de interesele dumneavoastră."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1335,7 +1335,7 @@ msgid ""
 "Facebook contacts easily!"
 msgstr ""
 "Facebook vine preîncărcat pe fiecare dispozitiv Firefox OS și puteți importa "
-"contactele Facebook într-o manieră ușoară!"
+"ușor contactele Facebook!"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1576,7 +1576,8 @@ msgid ""
 msgstr ""
 "Firefox OS are un model robust de securitate care este consolidat de mai "
 "bine de un deceniu de sprijinire a Webului deschis. Este conceput să "
-"protejeze utilizatorul și sistemul de aplicații de conținut malițios."
+"protejeze utilizatorul și sistemul față de aplicațiile și conținutul "
+"malițios."
 
 #. Translators:
 #. Page path: /1-3T/frequently-asked-questions/
@@ -3085,8 +3086,8 @@ msgid ""
 msgstr ""
 "Înglobează un model robust de securitate care este consolidat de mai bine de "
 "un deceniu de sprijinire a Webului deschis. Este conceput să protejeze "
-"utilizatorul și sistemul de aplicații de conținut malițios, de asemenea "
-"protejează aplicațiile unele de altele."
+"utilizatorul și sistemul față de aplicațiile și conținutul malițios, de "
+"asemenea protejează aplicațiile unele de altele."
 
 #. Translators:
 #. Page path: /2-0/which-version/
@@ -3235,11 +3236,11 @@ msgstr "Arabă"
 
 #: masterfirefoxos/settings/base.py:191
 msgid "Bengali (Bangladesh)"
-msgstr "Bengali (Bangladesh)"
+msgstr "Bengaleză (Bangladesh)"
 
 #: masterfirefoxos/settings/base.py:192
 msgid "Bengali (India)"
-msgstr "Bengali (India)"
+msgstr "Bengaleză (India)"
 
 #: masterfirefoxos/settings/base.py:193
 msgid "Croatian"
