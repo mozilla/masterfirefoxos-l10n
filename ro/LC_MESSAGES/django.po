@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-08-06 22:44+0000\n"
-"PO-Revision-Date: 2015-08-11 11:09+0000\n"
-"Last-Translator: CristianSilaghi <cristian.silaghi@mozilla.ro>\n"
+"PO-Revision-Date: 2015-08-11 19:32+0000\n"
+"Last-Translator: Jobava <jobaval10n@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ro\n"
 "MIME-Version: 1.0\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
 "20)) ? 1 : 2);;\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1439291349.0\n"
+"X-POOTLE-MTIME: 1439321543.0\n"
 
 #. Translators:
 #. Page path: /1-1/
@@ -106,7 +106,7 @@ msgid ""
 "them just what they need."
 msgstr ""
 "Aflați ce face ca Firefox OS să fie perfect pentru utilizatorii noi de "
-"smartphone-uri oferindu-le exact ceea ce au nevoie."
+"smartphone-uri, oferindu-le exact ceea ce au nevoie."
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
@@ -754,6 +754,7 @@ msgstr ""
 "Misiunea noastră este de a promova deschiderea, inovația și oportunitatea pe "
 "Web."
 
+# Mozilla nu-i un individ :)
 #. Translators:
 #. Page path: /1-1/about/
 #. Translators:
@@ -775,8 +776,7 @@ msgstr ""
 "globală de mii de oameni dedicată păstrării Webului accesibil pentru toți. "
 "Facem asta deoarece credem că fiecare dintre noi are dreptul la un Web care "
 "nu este controlat de doar câteva entități mari. Da, suntem puțin diferiți "
-"față de ceilalți indivizi. Împreună putem clădi un viitor mai bun pentru "
-"Web."
+"față de ceilalți. Împreună putem clădi un viitor mai bun pentru Web."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1240,6 +1240,7 @@ msgstr "Vreau un smartphone care este cu adevărat ușor de folosit."
 msgid "I’m a Firefox fan."
 msgstr "Sunt fan(ă) Firefox."
 
+# ținând cont -> și care ține cont
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
 #. Translators:
@@ -1257,7 +1258,7 @@ msgid ""
 msgstr ""
 "Pentru că este construit de Firefox, puteți avea încredere că Firefox OS "
 "este susținut de o comunitate globală care lucrează pentru dumneavoastră și "
-"ținând cont de interesele dumneavoastră."
+"care ține cont de interesele dumneavoastră."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1372,7 +1373,7 @@ msgid ""
 "smartphones and gives you more value for the money."
 msgstr ""
 "Firefox OS include toate aceleași funcții pe care le veți găsi în "
-"smartphone-uri concurente și vă oferă un raport calitate/preț."
+"smartphone-uri concurente și vă oferă un mai bun raport calitate/preț."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1575,7 +1576,7 @@ msgid ""
 msgstr ""
 "Firefox OS are un model robust de securitate care este consolidat de mai "
 "bine de un deceniu de sprijinire a Webului deschis. Este conceput să "
-"protejeze utilizatorul și sistemul de aplicații și conținut malițios."
+"protejeze utilizatorul și sistemul de aplicații de conținut malițios."
 
 #. Translators:
 #. Page path: /1-3T/frequently-asked-questions/
@@ -1933,8 +1934,8 @@ msgid ""
 "If you love Firefox, you’ll love Firefox OS. Choosing a Firefox OS device "
 "puts the power of the Web in your hands."
 msgstr ""
-"Dacă iubiți Firefox, veți iubi Firefox OS. Alegând un dispozitiv Firefox OS "
-"vă pune puterea Webului în mâinile dumneavoastră."
+"Dacă iubiți Firefox, veți iubi Firefox OS. Alegerea unui dispozitiv Firefox "
+"OS vă pune puterea Webului în mâinile dumneavoastră."
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -2163,7 +2164,7 @@ msgid ""
 "go in no time."
 msgstr ""
 "<strong>Iată ce puteți să spuneți:</strong> Firefox OS este cel mai ușor "
-"smartphone cu care să începeți. Interfața utilizatorului este atât de "
+"smartphone cu care să începeți.  Interfața utilizatorului este atât de "
 "intuitivă, încât veți putea descoperi rapid și descărca aplicațiile favorite "
 "pentru a porni la drum în doi timpi și trei mișcări."
 
@@ -2181,7 +2182,7 @@ msgid ""
 msgstr ""
 "<strong>Iată ce puteți să spuneți:</strong> Dacă cunoașteți și iubiți "
 "Firefox, veți iubi Firefox OS.  Smartphone-urile Firefox OS sunt bazate în "
-"întregime pe HTML5, aducând ce-i mai bun din Web pe telefon.  În plus, "
+"întregime pe HTML5 și vă aduc ce-i mai bun din Web pe telefon.  În plus, "
 "Firefox OS este conceput de către o comunitate dedicată în păstrarea webului "
 "accesibil tuturor. Când alegeți Firefox OS, aveți întreaga putere a Webului "
 "în mâinile dumneavoastră."
@@ -2355,9 +2356,9 @@ msgstr ""
 "obține funcționalitatea site-ului direct de acolo. De asemenea, utilizatorii "
 "pot introduce orice termen de căutare pe ecranul principal pentru a crea "
 "instant o aplicație de unică folosință sau descărcabilă. Crearea și "
-"consumarea acestor aplicații la cerere permit utilizatorilor un control "
-"complet al experienței pe smartphone și face posibilă obținerea de conținut "
-"exact pe care îl doresc, atunci când îl doresc."
+"utilizarea acestor aplicații, la cerere, permit utilizatorilor un control "
+"complet al experienței pe smartphone și face posibilă obținerea conținutului "
+"dorit, exact atunci când îl doresc."
 
 #. Translators:
 #. Page path: /2-0/frequently-asked-questions/
@@ -2655,8 +2656,8 @@ msgstr ""
 "Corect. Acest client pare a fi un fan Firefox. Vorbiți despre cum "
 "telefoanele Firefox OS, realizate de Mozilla, demonstrează un angajament de "
 "păstrare a puterii Webului în mâinile oamenilor. Iar deși toate aceste "
-"afirmații sunt adevărate, doar acesta este cel mai bun răspuns acestui "
-"anumit client."
+"afirmații sunt adevărate, doar acesta este cel mai bun răspuns pentru acest "
+"client."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2876,7 +2877,7 @@ msgid ""
 msgstr ""
 "Firefox OS este făcut cu interesul și nevoile dumneavoastră în minte, astfel "
 "încât este extrem de ușor de folosit și permite un control și personalizare "
-"mai crescută față de alte smartphone-uri de pe piață."
+"mai mare față de alte smartphone-uri de pe piață."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -2924,7 +2925,7 @@ msgstr ""
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:8988 db-strings.txt.py:11139
 msgid "The Firefox Marketplace features free apps!"
-msgstr "Firefox Marketplace oferă aplicații gratuite!"
+msgstr "Firefox Marketplace vă oferă aplicații gratuite!"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -3084,7 +3085,7 @@ msgid ""
 msgstr ""
 "Înglobează un model robust de securitate care este consolidat de mai bine de "
 "un deceniu de sprijinire a Webului deschis. Este conceput să protejeze "
-"utilizatorul și sistemul de aplicații și conținut malițios, de asemenea "
+"utilizatorul și sistemul de aplicații de conținut malițios, de asemenea "
 "protejează aplicațiile unele de altele."
 
 #. Translators:
@@ -3164,7 +3165,7 @@ msgstr "Mențiuni legale"
 
 #: masterfirefoxos/base/templates/base.html:101
 msgid "Report Trademark Abuse"
-msgstr "Raportați abuz asupra mărcilor înregistrate"
+msgstr "Raportați abuzul mărcilor înregistrate"
 
 #: masterfirefoxos/base/templates/base.html:105
 msgid "Mozilla on Twitter"
@@ -3216,7 +3217,7 @@ msgid ""
 "Documentation for Firefox OS {version} is not yet available in {language}, "
 "so we redirected you to the English version."
 msgstr ""
-"Documentația pentru Firefox OS {version} nu este încă valabilă în "
+"Documentația pentru Firefox OS {version} nu este încă disponibilă în "
 "{language}, astfel încât v-am redirecționat la versiunea în Engleză."
 
 #: masterfirefoxos/base/templates/includes/version-language-switcher.html:39
