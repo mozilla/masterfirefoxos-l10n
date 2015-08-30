@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-08-21 17:46+0000\n"
-"PO-Revision-Date: 2015-08-29 21:37+0000\n"
+"PO-Revision-Date: 2015-08-30 06:14+0000\n"
 "Last-Translator: Michal <michal.stanke@mikk.cz>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: cs\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1440884247.0\n"
+"X-POOTLE-MTIME: 1440915252.0\n"
 
 #. Translators:
 #. Page path: /1-1/
@@ -3960,7 +3960,6 @@ msgstr ""
 #. Translators:
 #. Page path: /2-1/introduction/
 #: db-strings.txt:7143 db-strings.txt.py:9357 db-strings.txt.py:11481
-#, fuzzy
 #| msgid ""
 #| " needs are always changing. Firefox OS smartphones adapt your ers' ds so y "
 #| "can live every moment to its fullest.<br/r/>Easy toe, y’re fect for "
@@ -3974,13 +3973,12 @@ msgid ""
 "expect. And because Firefox OS devices are powered by Mozilla, they’re the "
 "perfect choice for anyone committed to keeping the Web open for all."
 msgstr ""
-"Potřeby vašich zákazníků se neustále mění. Chytré telefony Firefox OS se umí"
-" přizpůsobit potřebám vašich zákazníků tak, aby mohli žít každý okamžik "
-"naplno.<br/><br/>Snadno se používají. Jsou perfektní volbou pro nové "
-"uživatele chytrých telefonů. A jsou nabité funkcemi, které zákazníci "
-"očekávají. Zařízení Firefox OS podporovaná Mozillou jsou tou nejlepší volbou"
-" pro každého, komu záleží na tom, aby web zůstal veřejným zdrojem dostupným "
-"pro všechny."
+"Vaši zákazníci si chtějí užívat, tak proč by jim v tom nemohlo pomáhat i "
+"chytré mobilní zařízení? Zařízení s Firefox OS jsou skvělá pro nové "
+"uživatele chytrých telefonů — snadno se používají a jsou plné funkcí, které "
+"od takového telefonu očekáváte. Zařízení Firefox OS podporovaná Mozillou "
+"jsou tou nejlepší volbou pro každého, komu záleží na tom, aby web zůstal "
+"veřejným zdrojem dostupným pro všechny."
 
 #. Translators:
 #. Page path: /2-0/demo-tips/
@@ -4082,7 +4080,6 @@ msgstr ""
 #. Translators:
 #. Page path: /2-1/customer-guide/
 #: db-strings.txt:7368 db-strings.txt.py:9582 db-strings.txt.py:11761
-#, fuzzy
 #| msgid ""
 #| "s the easiest smartphone to get you started. Adaptive App rch ps  finde ngs "
 #| "you need simply — and instantly. The r interface so uitive, you l be e to "
@@ -4093,10 +4090,10 @@ msgid ""
 "be able to quickly discover and download your favorite apps and be ready to "
 "go in no time."
 msgstr ""
-"Když začínáte s chytrým telefonem, Firefox OS je ten nejvhodnější. Adaptivní"
-" vyhledávání aplikací vám pomůže najít věci, které potřebujete – a najde vám"
-" je snadno a hned. Uživatelské rozhraní je tak intuitivní, že v něm dokážete"
-" rychle najít a stáhnout své oblíbené aplikace a rovnou je začít používat."
+"<strong>Co můžete říci:</strong> Když začínáte s chytrým telefonem, Firefox "
+"OS je ten nejvhodnější. Uživatelské rozhraní je tak intuitivní, že v něm "
+"dokážete rychle najít a stáhnout své oblíbené aplikace a rovnou je začít "
+"používat."
 
 #. Translators:
 #. Page path: /2-0/customer-guide/
@@ -4148,7 +4145,6 @@ msgstr ""
 #. Translators:
 #. Page path: /1-3/key-features/
 #: db-strings.txt:7467 db-strings.txt.py:9681
-#, fuzzy
 #| msgid ""
 #| "The fast, smart, safe way to get the best of the Web. Use the URL bar to "
 #| "enter websites, perform searches and access your browsing history. Plus, "
@@ -4158,9 +4154,10 @@ msgid ""
 "Search Bar to visit websites, perform searches and access apps from the "
 "Marketplace. Multitask with tabs and browse multiple pages at the same time"
 msgstr ""
-"Rychlý, chytrý a bezpečný způsob, jak získat z webu to nejlepší. Použijte "
-"panel URLadresní řádek pro zadání adres webových stránek, vyhledávejte a "
-"prohlížejte historii svého vyhledávání"
+"Užijte si rychlý, chytrý a bezpečný způsob, jak získat z webu to nejlepší. "
+"Použijte vyhledávání pro zadání adres webových stránek, vyhledávejte a "
+"stahujte aplikace z Marketplace. S panely můžete prohlížet najednou kolik "
+"stránek budete chtít."
 
 #. Translators:
 #. Page path: /2-0/key-features/
@@ -4239,7 +4236,6 @@ msgstr ""
 #. Translators:
 #. Page path: /2-1/key-features/
 #: db-strings.txt:7575 db-strings.txt.py:9789 db-strings.txt.py:12040
-#, fuzzy
 #| msgid ""
 #| "Stay connected to your friends and colleagues wherever you are. It's easy to"
 #| " set up multiple email accounts, with support for the most common Exchange, "
@@ -4248,9 +4244,9 @@ msgid ""
 "Stay connected easily and conveniently. Set up multiple email accounts, with"
 " support for the most common Exchange, POP3 or IMAP email providers."
 msgstr ""
-"Zůstaňte v kontaktu se svými přáteli a kolegy bez ohledu na to, kde právě "
-"jste. Díky podpoře nejběžnějších poskytovatelů e-mailových služeb Exchange, "
-"SMTP nebo IMAP je snadné nastavit si více e-mailových účtů."
+"Zůstaňte snadno v kontaktu. Díky podpoře nejběžnějších poskytovatelů "
+"e-mailových služeb Exchange, POP3 nebo IMAP je snadné nastavit si více "
+"e-mailových účtů."
 
 #. Translators:
 #. Page path: /2-0/key-features/
@@ -4441,16 +4437,14 @@ msgstr ""
 #. Translators:
 #. Page path: /2-1/take-the-challenge/
 #: db-strings.txt:7917 db-strings.txt.py:10095 db-strings.txt.py:12400
-#, fuzzy
 #| msgid ""
 #| "customer responses indicate an ideal candidate for Firefox  ect allat ly."
 msgid ""
 "What are some examples of the kind of personalization and control that "
 "Firefox OS allows?  Select all that apply."
 msgstr ""
-"Které z těchto odpovědí zákazníka naznačují, že to bude ideální kandidát pro"
-" nákup telefonu Firefox OS? Vyberte všechny možnosti, které přicházejí v "
-"úvahu."
+"Jaké jsou možnosti přizpůsobení a kontroly, které Firefox OS nabízí? Vyberte "
+"všechny, které přicházejí v úvahu."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -4459,14 +4453,11 @@ msgstr ""
 #. Translators:
 #. Page path: /2-1/take-the-challenge/
 #: db-strings.txt:7926 db-strings.txt.py:10104 db-strings.txt.py:12409
-#, fuzzy
 #| msgid ""
 #| "llowing apps is pre-loaded on every Firefox OS phone? ect all t ly."
 msgid ""
 "That’s right! All of these things are possible with a Firefox OS phone."
-msgstr ""
-"Která z následujících aplikací je předem nainstalovaná na každém telefonu "
-"Firefox OS? Vyberte všechny možnosti, které přicházejí v úvahu."
+msgstr "Správě! Všechny tyto věci jsou s telefonem s Firefox OS možné."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -4475,13 +4466,10 @@ msgstr ""
 #. Translators:
 #. Page path: /2-1/take-the-challenge/
 #: db-strings.txt:7935 db-strings.txt.py:10113 db-strings.txt.py:12418
-#, fuzzy
 #| msgid ""
 #| "llowing apps is pre-loaded on every Firefox OS phone? ect all t ly."
 msgid "Actually, all of these things are possible with a Firefox OS phone."
-msgstr ""
-"Která z následujících aplikací je předem nainstalovaná na každém telefonu "
-"Firefox OS? Vyberte všechny možnosti, které přicházejí v úvahu."
+msgstr "Ve skutečnosti vše uvedené je s telefonem s Firefox OS možné."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -4534,30 +4522,28 @@ msgstr ""
 #. Translators:
 #. Page path: /2-1/take-the-challenge/
 #: db-strings.txt:8106 db-strings.txt.py:10284 db-strings.txt.py:12589
-#, fuzzy
 #| msgid ""
 #| "llowing apps is pre-loaded on every Firefox OS phone? ect all t ly."
 msgid ""
 "That’s right! All of these things can be shared via Bluetooth with your "
 "Firefox OS phone."
 msgstr ""
-"Která z následujících aplikací je předem nainstalovaná na každém telefonu "
-"Firefox OS? Vyberte všechny možnosti, které přicházejí v úvahu."
+"Správně! Pomocí Bluetooth může být s vaším telefonem s Firefox OS sdíleno "
+"všechno."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
 #. Translators:
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:8115 db-strings.txt.py:10293
-#, fuzzy
 #| msgid ""
 #| "llowing apps is pre-loaded on every Firefox OS phone? ect all t ly."
 msgid ""
 "Actually, all of these things can be shared via Bluetooth with your Firefox "
 "OS phone.."
 msgstr ""
-"Která z následujících aplikací je předem nainstalovaná na každém telefonu "
-"Firefox OS? Vyberte všechny možnosti, které přicházejí v úvahu."
+"Ve skutečnosti pomocí Bluetooth může být s vaším telefonem s Firefox OS "
+"sdíleno všechno."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -4585,13 +4571,15 @@ msgstr "Ve skutečnosti vše toto o Firefox OS je pravda."
 #. Translators:
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:8214 db-strings.txt.py:10392
-#, fuzzy
 #| msgid "<p>What is Adaptive App Search?</p>"
 msgid ""
 "That’s right. With a first time smart phone user, you should talk about its "
 "simplicity and features including ways to control their experience and "
 "personalize their phones."
-msgstr "Co je adaptivní vyhledávání aplikací?"
+msgstr ""
+"Správně. S uživatelem prvního chytrého telefonu byste měli mluvit o tom, jak "
+"je jednoduché jeho používání a o funkcích jako je kontrola a přizpůsobení "
+"jejich telefonu."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -4599,7 +4587,6 @@ msgstr "Co je adaptivní vyhledávání aplikací?"
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:8223 db-strings.txt.py:8232 db-strings.txt.py:10401
 #: db-strings.txt:10410
-#, fuzzy
 #| msgid ""
 #| "Actually, with a first time smart phone user, you should talk about its "
 #| "simplicity and features like Adaptive App Search."
@@ -4607,7 +4594,10 @@ msgid ""
 "Actually, with a first time smart phone user, you should talk about its "
 "simplicity and features including ways to control their experience and "
 "personalize their phones."
-msgstr "Co je adaptivní vyhledávání aplikací?"
+msgstr ""
+"Ve skutečnosti byste s uživatelem prvního chytrého telefonu měli mluvit o "
+"tom, jak je jednoduché jeho používání a o funkcích jako je kontrola a "
+"přizpůsobení jejich telefonu."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -4717,12 +4707,13 @@ msgstr ""
 #. Translators:
 #. Page path: /2-1/take-the-challenge/
 #: db-strings.txt:8394 db-strings.txt.py:10536 db-strings.txt.py:12877
-#, fuzzy
 #| msgid "<p>What is Adaptive App Search?</p>"
 msgid ""
 "That’s right. A first-time smartphone user will be most interested in ease "
 "of use."
-msgstr "Co je adaptivní vyhledávání aplikací?"
+msgstr ""
+"Správně. Uživatele, který si chce koupit první chytrý telefon, bude nejvíce "
+"zajímat jeho snadné používání."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -4739,10 +4730,9 @@ msgstr ""
 #. Translators:
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:8430 db-strings.txt.py:10572
-#, fuzzy
 #| msgid "<p>What is Adaptive App Search?</p>"
 msgid "That’s right. All of these are true of the Cost Control app!"
-msgstr "Co je adaptivní vyhledávání aplikací?"
+msgstr "Správně. Vše toto je pravda o aplikaci Využití!"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -4750,10 +4740,9 @@ msgstr "Co je adaptivní vyhledávání aplikací?"
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:8439 db-strings.txt.py:8448 db-strings.txt.py:10581
 #: db-strings.txt:10590
-#, fuzzy
 #| msgid "<p>What is Adaptive App Search?</p>"
 msgid "Actually, all of these are true of the Cost Control app!"
-msgstr "Co je adaptivní vyhledávání aplikací?"
+msgstr "Ve skutečnosti vše toto je pravda o aplikaci Využití!"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
