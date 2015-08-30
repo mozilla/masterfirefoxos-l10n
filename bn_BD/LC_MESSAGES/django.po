@@ -3,21 +3,21 @@
 # This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-08-21 17:46+0000\n"
-"PO-Revision-Date: 2015-02-20 11:48:07\n"
-"Last-Translator: Ayan Choudhury <ping2ayan@gmail.com>\n"
+"PO-Revision-Date: 2015-08-30 08:52+0000\n"
+"Last-Translator: Mahay <mahayalamkhan@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: bn\n"
+"Language: bn_BD\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pontoon\n"
+"X-Generator: Pootle 2.5.0\n"
+"X-POOTLE-MTIME: 1440924744.0\n"
 
 #. Translators:
 #. Page path: /1-1/
@@ -54,7 +54,7 @@ msgstr "মাস্টার Firefox OS"
 #: db-strings.txt:15 db-strings.txt.py:2355 db-strings.txt.py:4695
 #: db-strings.txt:7044 db-strings.txt.py:9258 db-strings.txt.py:11382
 msgid "Welcome!"
-msgstr ""
+msgstr "স্বাগতম!"
 
 #. Translators:
 #. Page path: /1-1/
@@ -70,7 +70,6 @@ msgstr ""
 #. Page path: /2-1/
 #: db-strings.txt:24 db-strings.txt.py:2364 db-strings.txt.py:4704
 #: db-strings.txt:7053 db-strings.txt.py:9267 db-strings.txt.py:11391
-#, fuzzy
 #| msgid ""
 #| "Welcome to the Firefox OS global partner and community training hub. Select "
 #| "any topic to get started."
@@ -79,8 +78,8 @@ msgid ""
 "effectively communicate the basics of Firefox OS. Select any topic to get "
 "started."
 msgstr ""
-"Firefox OS বিশ্বব্যাপী অংশীদার এবং সম্প্রদায় প্রশিক্ষণ কেন্দ্রে স্বাগতম। যে"
-" কোনো বিষয় নির্বাচন করুন শুরু।"
+"প্রাথমিক পর্যায়ে Firefox OS সম্পর্কিত সক্রিয় যোগাযোগ করার জন্যে প্রয়োজনীয় "
+"সকল তথ্য এই কমিউনিটি হাবে রয়েছে। কোন কিছু নির্বাচন করে আরম্ভ করুন।"
 
 #. Translators:
 #. Page path: /1-1/introduction/
@@ -118,7 +117,7 @@ msgid ""
 "them just what they need."
 msgstr ""
 "তাদের প্রয়োজন ঠিক কি তাদের দ্বারা নতুন স্মার্টফোন ব্যবহারকারীদের জন্য "
-"নির্ভুল Firefox Os কি করে তোলে খুঁজে বের করুন"
+"নির্ভুল Firefox OS কি করে তোলে খুঁজে বের করুন।"
 
 #. Translators:
 #. Page path: /1-1/introduction/
@@ -2309,6 +2308,11 @@ msgid ""
 "<li><em>Firefox OS 1.1.0.0</em> means you have version 1.1</li> </ul> </li> "
 "</ol>"
 msgstr ""
+"<ol> <li>ডিভাইসের সেটিংস অ্যাপ চালু করুন।</li> <li>নীচে স্ক্রল করে নির্বাচন "
+"করুন <strong>ডিভাইস তথ্য</strong>।</li> <li>ডিভাইস তথ্য স্ক্রিনে, সংস্করণের "
+"নম্বর দেখুন <em>সফটওয়্যার</em>-এর মধ্যে। <ul> <li><em>Firefox OS "
+"1.0.1.0</em> আপনার 1.0.1 সংস্করণ রয়েছে</li> <li><em>Firefox OS 1.1.0.0</em> "
+"অর্থ্যাৎ আপনার Firefox OS 1.1 সংস্করণের</li> </ul> </li> </ol>"
 
 #. Translators:
 #. Page path: /1-3T/demo-tips/
@@ -3165,7 +3169,6 @@ msgstr ""
 #. Translators:
 #. Page path: /1-4/frequently-asked-questions/
 #: db-strings.txt:5550
-#, fuzzy
 #| msgid ""
 #| "Visit <a href=\"https://support.mozilla.org/en-US/kb/firefox-os-user-"
 #| "guide\">https://support.mozilla.org/en-US/kb/firefox-os-user-guide</a> for "
@@ -3175,9 +3178,9 @@ msgid ""
 "os\">https://support.mozilla.org/en-US/products/firefox-os</a> for more "
 "information."
 msgstr ""
-"আরও তথ্যের জন্য  <a href=\"https://support.mozilla.org/bn-BD/kb/firefox-os-"
-"user-guide\">https://support.mozilla.org/bn-BD/kb/firefox-os-user-guide</a> "
-"দেখুন"
+"আরও তথ্যের জন্য <a href=\"hhttps://support.mozilla.org/en-US/products"
+"/firefox-os\">https://support.mozilla.org/en-US/products/firefox-os</a> "
+"দেখুন।"
 
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
@@ -3302,7 +3305,6 @@ msgstr "HERE Map"
 #. Translators:
 #. Page path: /1-4/take-the-challenge/
 #: db-strings.txt:6720
-#, fuzzy
 #| msgid ""
 #| "OS smartphone is preloaded with all the features that ’d ect,cluding es, "
 #| "Facebook, email, maps and more, all at etter ue.</p"
@@ -3311,8 +3313,8 @@ msgid ""
 "expect, including Messages, Facebook, email, maps and more, all at a better "
 "value.</p?"
 msgstr ""
-"আপনি ম্যাসেজ, Facebook, ইমেইল, ম্যাপসহ আরও কিছু যা প্রত্যাশা করছেন আপনাকে "
-"গুরুত্ব দিয়ে তার সবই Firefox OS স্মার্টফোনে প্রিলোড করা রয়েছে।"
+"আপনি ম্যাসেজ, Facebook, ইমেইল, ম্যাপসহ আরও কিছু যা প্রত্যাশা করছেন ভালো দামে "
+"তার সবই Firefox OS স্মার্টফোনে প্রিলোড করা রয়েছে।"
 
 #: masterfirefoxos/base/templates/base.html:35
 msgid "Submit"
@@ -3335,6 +3337,9 @@ msgid ""
 "available under a <a href=\"https://www.mozilla.org/foundation/licensing"
 "/website-content/\">Creative Commons license</a>."
 msgstr ""
+"কনটেন্টের এই অংশ ©1998–{0} ব্যক্তিগত অবদানকারীদের দ্বারা তৈরী। এই কনটেন্ট "
+"সমূহ <a href=\"https://www.mozilla.org/foundation/licensing/website-"
+"content/\">সৃজনী সাধারণ লাইসেন্সের</a> আওতায় সুলভ।"
 
 #: masterfirefoxos/base/templates/base.html:91
 msgid "Source code"
@@ -3424,21 +3429,20 @@ msgstr "সর্বশেষ সংস্করণ {version} উপলব্ধ
 
 #: masterfirefoxos/settings/base.py:189
 msgid "Afrikaans"
-msgstr ""
+msgstr "আফ্রিকান"
 
 #: masterfirefoxos/settings/base.py:190
 msgid "Arabic"
-msgstr ""
+msgstr "আরবি"
 
 #: masterfirefoxos/settings/base.py:191
 msgid "Bengali (Bangladesh)"
-msgstr ""
+msgstr "বাংলা (বাংলাদেশ)"
 
 #: masterfirefoxos/settings/base.py:192
-#, fuzzy
 #| msgid "Bengali"
 msgid "Bengali (India)"
-msgstr "বাংলা"
+msgstr "বাংলা (ভারত)"
 
 #: masterfirefoxos/settings/base.py:193
 msgid "Croatian"
@@ -3450,7 +3454,7 @@ msgstr "চেক"
 
 #: masterfirefoxos/settings/base.py:195
 msgid "Ewe"
-msgstr ""
+msgstr "ইউই"
 
 #: masterfirefoxos/settings/base.py:196
 msgid "English"
@@ -3466,15 +3470,15 @@ msgstr "গ্রীক"
 
 #: masterfirefoxos/settings/base.py:199
 msgid "Fulah"
-msgstr ""
+msgstr "ফুলাহ্"
 
 #: masterfirefoxos/settings/base.py:200
 msgid "French"
-msgstr ""
+msgstr "ফরাসী"
 
 #: masterfirefoxos/settings/base.py:201
 msgid "Hausa"
-msgstr ""
+msgstr "হাউসা"
 
 #: masterfirefoxos/settings/base.py:202
 msgid "Hindi"
@@ -3486,7 +3490,7 @@ msgstr "হাঙ্গেরিয়ান"
 
 #: masterfirefoxos/settings/base.py:204
 msgid "Igbo"
-msgstr ""
+msgstr "ইগবো"
 
 #: masterfirefoxos/settings/base.py:205
 msgid "Italian"
@@ -3498,7 +3502,7 @@ msgstr "জাপানিজ"
 
 #: masterfirefoxos/settings/base.py:207
 msgid "Lingala"
-msgstr ""
+msgstr "লিঙ্গালা"
 
 #: masterfirefoxos/settings/base.py:208
 msgid "Polish"
@@ -3510,11 +3514,11 @@ msgstr "পর্তুগীজ"
 
 #: masterfirefoxos/settings/base.py:210
 msgid "Romanian"
-msgstr ""
+msgstr "রোমানীয়"
 
 #: masterfirefoxos/settings/base.py:211
 msgid "Russian"
-msgstr ""
+msgstr "রুশ"
 
 #: masterfirefoxos/settings/base.py:212
 msgid "Serbian"
@@ -3522,7 +3526,7 @@ msgstr "সার্বিয়ান"
 
 #: masterfirefoxos/settings/base.py:213
 msgid "Kiswahili"
-msgstr ""
+msgstr "সোহালী"
 
 #: masterfirefoxos/settings/base.py:214
 msgid "Spanish"
@@ -3534,11 +3538,11 @@ msgstr "তামিল"
 
 #: masterfirefoxos/settings/base.py:216
 msgid "Wolof"
-msgstr ""
+msgstr "উলোফ"
 
 #: masterfirefoxos/settings/base.py:217
 msgid "Xhosa"
-msgstr ""
+msgstr "জোসা"
 
 #: masterfirefoxos/settings/base.py:218
 msgid "Pirate"
@@ -3546,11 +3550,11 @@ msgstr "পাইরেট"
 
 #: masterfirefoxos/settings/base.py:219
 msgid "Yoruba"
-msgstr ""
+msgstr "ইওরুবা"
 
 #: masterfirefoxos/settings/base.py:220
 msgid "Zulu"
-msgstr ""
+msgstr "জুলু"
 
 #~ msgid "Have it all"
 #~ msgstr "সবকিছু আছে"
