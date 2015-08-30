@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-08-21 17:46+0000\n"
-"PO-Revision-Date: 2015-08-30 06:47+0000\n"
+"PO-Revision-Date: 2015-08-30 20:25+0000\n"
 "Last-Translator: Michal <michal.stanke@mikk.cz>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: cs\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1440917234.0\n"
+"X-POOTLE-MTIME: 1440966344.0\n"
 
 #. Translators:
 #. Page path: /1-1/
@@ -2559,7 +2559,7 @@ msgstr ""
 #. Page path: /1-4/take-the-challenge/
 #: db-strings.txt:1662 db-strings.txt.py:3948 db-strings.txt.py:6360
 msgid "Swipe to the left."
-msgstr ""
+msgstr "Přejeďte prstem zleva doprava."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -2647,7 +2647,7 @@ msgstr "Přehrávač hudby"
 #. Page path: /1-4/take-the-challenge/
 #: db-strings.txt:1770 db-strings.txt.py:4506 db-strings.txt.py:6846
 msgid "Results from around the Web are displayed like apps on your phone."
-msgstr ""
+msgstr "Výsledky z celého internetu se zobrazí jako aplikace na vašem telefonu."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -2659,7 +2659,7 @@ msgstr ""
 msgid ""
 "Your background image changes instantly to reveal popular photos from the "
 "Web."
-msgstr ""
+msgstr "Váš obrázek na pozadí se okamžitě změní na populární fotografii z webu."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -3006,6 +3006,8 @@ msgid ""
 "Firefox OS includes all the same features you’ll find in competitive "
 "smartphones and gives you more value for the money."
 msgstr ""
+"Firefox OS obsahuje stejné funkce, které najdete i u jeho konkurenčních "
+"chytrých telefonů a nabízí vám větší hodnotu hodnotu za stejné peníze."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -3044,7 +3046,7 @@ msgstr ""
 #. Page path: /1-4/take-the-challenge/
 #: db-strings.txt:2139 db-strings.txt.py:4452 db-strings.txt.py:6792
 msgid "Results include photos, video, music, news, maps and more."
-msgstr ""
+msgstr "Výsledky obsahují fotografie, videa, hudbu, novinky mapy a další."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -3056,6 +3058,7 @@ msgstr ""
 msgid ""
 "Results are instantly usable — you don’t have to download the app first."
 msgstr ""
+"Nalezené výsledky můžete hned použít — nemusíte čekat na stažení aplikace."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -3073,6 +3076,8 @@ msgstr ""
 #: db-strings.txt:9051 db-strings.txt.py:11175 db-strings.txt.py:13543
 msgid "You can easily import contacts from Facebook to your Firefox OS phone."
 msgstr ""
+"Kontakty z Facebooku můžete snadno do svého telefonu s Firefox OS "
+"naimportovat."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -3251,7 +3256,7 @@ msgstr ""
 #: db-strings.txt:2328 db-strings.txt.py:4668 db-strings.txt.py:7017
 #: db-strings.txt:9231 db-strings.txt.py:11355 db-strings.txt.py:13723
 msgid "Which Version Do I Have?"
-msgstr ""
+msgstr "Jakou verzi mám?"
 
 #. Translators:
 #. Page path: /1-1/which-version/
@@ -3729,7 +3734,7 @@ msgstr ""
 #: db-strings.txt:4056 db-strings.txt.py:8718 db-strings.txt.py:10869
 #: db-strings.txt:13219
 msgid "Calendar"
-msgstr ""
+msgstr "Kalendář"
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -3742,7 +3747,7 @@ msgstr ""
 #: db-strings.txt:4065 db-strings.txt.py:8727 db-strings.txt.py:10878
 #: db-strings.txt:13228
 msgid "Clock"
-msgstr ""
+msgstr "Hodiny"
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -3773,7 +3778,7 @@ msgstr "E-maily a Zprávy"
 #: db-strings.txt:4110 db-strings.txt.py:6441 db-strings.txt.py:8709
 #: db-strings.txt:10860 db-strings.txt.py:13210
 msgid "Music"
-msgstr ""
+msgstr "Hudby"
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -3792,7 +3797,7 @@ msgstr ""
 #: db-strings.txt:10914 db-strings.txt.py:10941 db-strings.txt.py:13237
 #: db-strings.txt:13264 db-strings.txt.py:13300
 msgid "Messages"
-msgstr ""
+msgstr "Zprávy"
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -3956,7 +3961,7 @@ msgstr ""
 #. Page path: /2-1/introduction/
 #: db-strings.txt:7134 db-strings.txt.py:9348 db-strings.txt.py:11472
 msgid "A phone for everyone"
-msgstr ""
+msgstr "Telefon pro každého"
 
 #. Translators:
 #. Page path: /2-0/introduction/
@@ -4200,7 +4205,7 @@ msgstr ""
 #. Page path: /2-1/key-features/
 #: db-strings.txt:7530 db-strings.txt.py:9744 db-strings.txt.py:11995
 msgid "Bluetooth"
-msgstr ""
+msgstr "Bluetooth"
 
 #. Translators:
 #. Page path: /2-0/key-features/
@@ -4810,7 +4815,7 @@ msgstr ""
 #. Page path: /2-1/take-the-challenge/
 #: db-strings.txt:8637 db-strings.txt.py:10779 db-strings.txt.py:13120
 msgid "Set your phone to your language"
-msgstr ""
+msgstr "Nastavte jazyk svého telefonu"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
