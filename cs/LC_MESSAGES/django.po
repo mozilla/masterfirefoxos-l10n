@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-08-21 17:46+0000\n"
-"PO-Revision-Date: 2015-08-30 06:34+0000\n"
+"PO-Revision-Date: 2015-08-30 06:47+0000\n"
 "Last-Translator: Michal <michal.stanke@mikk.cz>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: cs\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1440916440.0\n"
+"X-POOTLE-MTIME: 1440917234.0\n"
 
 #. Translators:
 #. Page path: /1-1/
@@ -1547,7 +1547,7 @@ msgstr ""
 #. Page path: /1-4/about/
 #: db-strings.txt:861 db-strings.txt.py:3147 db-strings.txt.py:5559
 msgid "The Firefox Mission"
-msgstr "Naše poslání"
+msgstr "Mise Mozilly"
 
 #. Translators:
 #. Page path: /1-1/about/
@@ -1775,7 +1775,7 @@ msgstr ""
 #| "llowing apps is pre-loaded on every Firefox OS phone? ect all t ly."
 msgid "Actually, all of these apps come pre-loaded on every Firefox OS phone."
 msgstr ""
-"Ve skutečnosti jsou všechny tyto aplikace přeinstalované na každém telefonu "
+"Všechny tyto aplikace jsou ve skutečnosti přeinstalované na každém telefonu "
 "s Firefox OS."
 
 #. Translators:
@@ -1817,7 +1817,7 @@ msgstr ""
 #: db-strings.txt:1023 db-strings.txt.py:3741 db-strings.txt.py:6153
 #| msgid "<p>What is Adaptive App Search?</p>"
 msgid "That’s right. All of these are true of Adaptive App Search!"
-msgstr "Správě. Vše uvedené je o adaptivním vyhledávání aplikací pravda!"
+msgstr "Správně. Vše uvedené je o adaptivním vyhledávání aplikací pravda!"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1829,7 +1829,7 @@ msgstr "Správě. Vše uvedené je o adaptivním vyhledávání aplikací pravda
 #: db-strings.txt:3759 db-strings.txt.py:6162 db-strings.txt.py:6171
 #| msgid "<p>What is Adaptive App Search?</p>"
 msgid "Actually, all of these are true of Adaptive App Search!"
-msgstr "Ve skutečnosti vše uvedené o adaptivním vyhledávání aplikací je pravda!"
+msgstr "Vše uvedené o adaptivním vyhledávání aplikací je ve skutečnosti pravda!"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1891,7 +1891,7 @@ msgstr "Správně. Všichni tito zákazníci jsou vhodní kandidáti pro Firefox
 #| "customer responses indicate an ideal candidate for Firefox  ect allat ly."
 msgid "In fact, ALL of these customers are ideal candidates for Firefox OS!"
 msgstr ""
-"Ve skutečnosti všichni tito zákazníci jsou vhodní kandidáti pro Firefox OS!"
+"Všichni tito zákazníci jsou ve skutečnosti vhodní kandidáti pro Firefox OS!"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1934,7 +1934,7 @@ msgstr "Správně. Toto je ikona pro Kontakty."
 #: db-strings.txt:1104 db-strings.txt.py:1113 db-strings.txt.py:5766
 #| msgid "Open the Firefox browser."
 msgid "Actually, this icon represents Contacts."
-msgstr "Ve skutečnosti tato ikona představuje Kontakty."
+msgstr "Tato ikona ve skutečnosti představuje Kontakty."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1957,7 +1957,7 @@ msgstr "Správně. Toto je ikona prohlížeče Firefox."
 #: db-strings.txt:1140 db-strings.txt.py:1149
 #| msgid "Open the Firefox browser."
 msgid "Actually, this icon represents the Firefox browser."
-msgstr "Ve skutečnosti tato ikona představuje prohlížeč Firefox."
+msgstr "Tato ikona ve skutečnosti představuje prohlížeč Firefox."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -1975,7 +1975,7 @@ msgstr "Správně. Tato ikona zastupuje adaptivní vyhledávání aplikací."
 #: db-strings.txt:1176 db-strings.txt.py:1185
 #| msgid "Open the Firefox browser."
 msgid "Actually, this icon represents the Adaptive App Search."
-msgstr "Ve skutečnosti tato ikona zastupuje adaptivní vyhledávání aplikací."
+msgstr "Tato ikona ve skutečnosti představuje adaptivní vyhledávání aplikací."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -2143,7 +2143,7 @@ msgid ""
 "Actually, with a first time smart phone user, you should talk about its "
 "simplicity and features like Adaptive App Search."
 msgstr ""
-"Ve skutečnosti s uživatelem prvního chytrého telefonu byste měli mluvit jak "
+"S uživatelem prvního chytrého telefonu byste ve skutečnosti měli mluvit jak "
 "snadné je jeho použití a o funkcích jako je adaptivní vyhledávání aplikací."
 
 #. Translators:
@@ -2397,7 +2397,7 @@ msgstr "Správně! Tato ikona zastupuje SMS—nebo textové zprávy."
 #: db-strings.txt:1500 db-strings.txt.py:1509
 #| msgid "Open the Firefox browser."
 msgid "Actually, this icon represents SMS—or text messaging."
-msgstr "Ve skutečnosti tato ikona zastupuje SMS—nebo textové zprávy."
+msgstr "Tato ikona ve skutečnosti představuje SMS—nebo textové zprávy."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -2548,7 +2548,7 @@ msgid ""
 "Actually, the best response to this objection is to talk about the robust "
 "security model."
 msgstr ""
-"Ve skutečnosti tou nejlepší odpovědí je mluvit o robustním bezpečnostním "
+"Tou nejlepší odpovědí je ve skutčenosti mluvit o robustním bezpečnostním "
 "modelu."
 
 #. Translators:
@@ -3156,7 +3156,7 @@ msgstr "Ano"
 #: db-strings.txt:9123 db-strings.txt.py:11247 db-strings.txt.py:13615
 #| msgid "<p>Maps</p>"
 msgid "False"
-msgstr "Špatně"
+msgstr "Ne"
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -3611,7 +3611,7 @@ msgstr "Správně! Tato ikona zastupuje Zprávy —nebo textové zprávy."
 #: db-strings.txt:12499
 #| msgid "Open the Firefox browser."
 msgid "Actually, this icon represents Messages — or text messaging."
-msgstr "Ve skutečnosti tato ikona zastupuje Zprávy —nebo textové zprávy."
+msgstr "Tato ikona ve skutečnosti představuje Zprávy —nebo textové zprávy."
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -3642,7 +3642,7 @@ msgstr "Správně! Tato ikona zastupuje Kontakty."
 #: db-strings.txt:10230 db-strings.txt.py:12526 db-strings.txt.py:12535
 #| msgid "Open the Firefox browser."
 msgid "Actually, this icon represents the Contacts."
-msgstr "Ve skutečnosti tato ikona zastupuje Kontakty."
+msgstr "Tato ikona ve skutečnosti představuje Kontakty."
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -4474,7 +4474,7 @@ msgstr "Správě! Všechny tyto věci jsou s telefonem s Firefox OS možné."
 #| msgid ""
 #| "llowing apps is pre-loaded on every Firefox OS phone? ect all t ly."
 msgid "Actually, all of these things are possible with a Firefox OS phone."
-msgstr "Ve skutečnosti vše uvedené je s telefonem s Firefox OS možné."
+msgstr "Vše uvedené je s telefonem s Firefox OS ve skutečnosti možné."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -4510,7 +4510,7 @@ msgstr "Správně. Tato ikona představuje prohlížeč Firefox."
 #: db-strings.txt:10266 db-strings.txt.py:12562 db-strings.txt.py:12571
 #| msgid "Open the Firefox browser."
 msgid "Actually, this icon represents the Firefox Browser."
-msgstr "Ve skutečnosti tato ikona představuje prohlížeč Firefox."
+msgstr "Tato ikona ve skutečnosti představuje prohlížeč Firefox."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -4560,7 +4560,7 @@ msgstr ""
 #: db-strings.txt:12643
 #| msgid "<p>What is Adaptive App Search?</p>"
 msgid "Actually, all of these are true about Firefox OS."
-msgstr "Ve skutečnosti vše toto je o Firefox OS pravda."
+msgstr "Vše toto je o Firefox OS ve skutečnosti pravda."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -4569,7 +4569,7 @@ msgstr "Ve skutečnosti vše toto je o Firefox OS pravda."
 #: db-strings.txt:8160 db-strings.txt.py:10338
 #| msgid "<p>What is Adaptive App Search?</p>"
 msgid "Actually, all of these are true about Firefox OS"
-msgstr "Ve skutečnosti vše toto o Firefox OS je pravda"
+msgstr "Vše toto o Firefox OS je ve skutečnosti pravda"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -4600,7 +4600,7 @@ msgid ""
 "simplicity and features including ways to control their experience and "
 "personalize their phones."
 msgstr ""
-"Ve skutečnosti byste s uživatelem prvního chytrého telefonu měli mluvit o "
+"S uživatelem prvního chytrého telefonu byste měli ve skutečnosti mluvit o "
 "tom, jak je jednoduché jeho používání a o funkcích jako je kontrola a "
 "přizpůsobení jejich telefonu."
 
