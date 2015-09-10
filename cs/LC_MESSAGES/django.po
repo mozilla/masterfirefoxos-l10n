@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-08-21 17:46+0000\n"
-"PO-Revision-Date: 2015-08-30 20:25+0000\n"
+"PO-Revision-Date: 2015-09-10 11:20+0000\n"
 "Last-Translator: Michal <michal.stanke@mikk.cz>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: cs\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1440966344.0\n"
+"X-POOTLE-MTIME: 1441884045.0\n"
 
 #. Translators:
 #. Page path: /1-1/
@@ -3017,6 +3017,9 @@ msgid ""
 "accessible to all. And since Firefox OS is entirely built in HTML5, you get "
 "instant access to thousands of apps ready for the web."
 msgstr ""
+"Mozilla, která je autorem Firefoxu, vytvořila OS pro chytré telefony s cílem "
+"udržet web dostupný pro všechny. A protože je Firefox OS postavený na "
+"HTML5, získáte přísmý přístup k tisícům aplikací, které již na webu jsou."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -3026,7 +3029,7 @@ msgstr ""
 #. Page path: /1-4/take-the-challenge/
 #: db-strings.txt:2121 db-strings.txt.py:4434 db-strings.txt.py:6774
 msgid "A unique feature included in every Firefox OS smartphone."
-msgstr ""
+msgstr "Unikátní funkce v každém chytrém telefonu s Firefox OS."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -3036,7 +3039,7 @@ msgstr ""
 #. Page path: /1-4/take-the-challenge/
 #: db-strings.txt:2130 db-strings.txt.py:4443 db-strings.txt.py:6783
 msgid "Works just like Web search on Firefox browsers."
-msgstr ""
+msgstr "Funguje přesně jako vyhledávání na webu v prohlížečích Firefox."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -3097,6 +3100,8 @@ msgid ""
 "Firefox OS gives you access to popular, big name apps, as well as local "
 "content that means the most to you."
 msgstr ""
+"Firefox OS vám zpřístupní známé oblíbené aplikace stejně jako místní obsah, "
+"který pro vás nejvíce znamená."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -3117,6 +3122,9 @@ msgid ""
 "expect in a smartphone, with an easy-to-use interface that makes it easy to "
 "get started."
 msgstr ""
+"Firefox OS není zaplněný věcmi, které nepotřebujete. Dá vám přesně to, co od "
+"chytrého telefonu očekáváte a snadno ovladatelným rozhraním můžete rychle "
+"začít."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -3127,6 +3135,7 @@ msgstr ""
 #: db-strings.txt:2184 db-strings.txt.py:4497 db-strings.txt.py:6837
 msgid "Firefox OS is built entirely using HTML5 and open Web standards."
 msgstr ""
+"Firefox OS je postavený celý pomocí HTML5 a otevřených webových standardů."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -3183,6 +3192,8 @@ msgid ""
 "Every phone has access to over 20,000 free and paid apps at launch, "
 "including some of the most popular global apps today."
 msgstr ""
+"Každý telefon má přístup k více než 20 000 aplikacím zdarma nebo placeným, "
+"včetně některých globálně nejoblíbenějších."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -3210,7 +3221,7 @@ msgstr ""
 #: db-strings.txt:6954
 msgid ""
 "Packed with the features that made you want a smartphone in the first place."
-msgstr ""
+msgstr "Plný funkcí, kvůli kterým si chcete chytrý telefon pořídit."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -3221,6 +3232,8 @@ msgid ""
 "Access to over 20,000 free and paid apps at launch, including some of the "
 "most popular global apps today."
 msgstr ""
+"Přístup k více než 20 000 aplikacím zdarma nebo placeným, včetně některých "
+"globálně nejoblíbenějších."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -3273,6 +3286,12 @@ msgid ""
 "<li><em>Firefox OS 1.1.0.0</em> means you have version 1.1</li> </ul> </li> "
 "</ol>"
 msgstr ""
+"<ol> <li>Otevřete ve svém zařízení aplikaci Nastavení.</li> <li>Přejeďte "
+"dolů a vyberte <strong>Informace o zařízení</strong>.</li> <li>Na obrazovce "
+"s informacemi najděte čísla verzí pod <em>Software</em>. <ul> "
+"<li><em>Firefox OS 1.0.1.0</em> znamená, že máte verzi 1.0.1</li> "
+"<li><em>Firefox OS 1.1.0.0</em> znamená, že máte verzi 1.1</li> </ul> </li> "
+"</ol>"
 
 #. Translators:
 #. Page path: /1-3T/demo-tips/
@@ -3306,6 +3325,10 @@ msgid ""
 "friends and family. They can also sync their contacts to the phone, quickly "
 "and easily."
 msgstr ""
+"Firefox OS přichází s předinstalovanými oblíbenými aplikacemi pro sociální "
+"sítě nebo chat, jako je Facebook, takže vaši zákazníci budou moci zůstat v "
+"kontaktu se svými přáteli nebo rodinou. Své kontakty také mohou "
+"synchronizovat do svého telefonu, a to velmi snadno a rychle."
 
 #. Translators:
 #. Page path: /1-3T/key-features/
@@ -3411,7 +3434,7 @@ msgstr ""
 #: db-strings.txt:3021 db-strings.txt.py:5433 db-strings.txt.py:7692
 #: db-strings.txt:9870 db-strings.txt.py:12175
 msgid "What do you mean I can convert mobile sites into apps?"
-msgstr ""
+msgstr "Co myslíte tím, že mohu převést mobilní stránky na aplikace?"
 
 #. Translators:
 #. Page path: /1-3T/frequently-asked-questions/
@@ -3582,7 +3605,7 @@ msgstr ""
 #: db-strings.txt:3291 db-strings.txt.py:5703 db-strings.txt.py:6135
 #: db-strings.txt:7980 db-strings.txt.py:10158
 msgid "There are more. Try again"
-msgstr ""
+msgstr "Je jich více. Zkuste to znovu"
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -3665,6 +3688,8 @@ msgid ""
 "While all of these statements are true, which two responses would be most "
 "useful to a first-time smartphone customer?"
 msgstr ""
+"I když jsou všechny možnosti pravdivé, které dvě odpovědi jsou pro uživatele "
+"prvního chytrého telefonu nejužitečnější?"
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -3684,6 +3709,8 @@ msgid ""
 "The best response to this objection is to talk about all the apps that are "
 "available."
 msgstr ""
+"Nejlepší odpověď na tuto námitku je mluvit o všech těch aplikacích, které "
+"jsou dostupné."
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -3703,6 +3730,8 @@ msgid ""
 "The best response to this objection is to talk about the experience of the "
 "Mozilla community that is behind Firefox OS."
 msgstr ""
+"Nejlepší odpověď na tuto námitku je mluvit o velké komunitě Mozilly, které "
+"stojí za Firefox OS."
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -3722,6 +3751,7 @@ msgid ""
 "The best response to this objection is to talk about the robust security "
 "model."
 msgstr ""
+"Nejlepší odpověď na tuto námitku je mluvit robustním zabezpečeném modelu."
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -3830,6 +3860,8 @@ msgid ""
 "If you love Firefox, you’ll love Firefox OS. Choosing a Firefox OS device "
 "puts the power of the Web in your hands."
 msgstr ""
+"Pokud máte rádi Firefox, bude milovat i Firefox OS. Výběrem zařízení s "
+"Firefox OS budete mít web ve svých rukou."
 
 #. Translators:
 #. Page path: /1-3T/take-the-challenge/
@@ -3881,7 +3913,7 @@ msgstr ""
 #. Page path: /2-1/introduction/
 #: db-strings.txt:7080 db-strings.txt.py:9294 db-strings.txt.py:11418
 msgid "An excellent user experience"
-msgstr ""
+msgstr "Skvělý uživatelský zážitek"
 
 #. Translators:
 #. Page path: /2-0/introduction/
@@ -3895,6 +3927,9 @@ msgid ""
 "for better performance, easier customization and simpler navigation. "
 "Everything your customer needs or wants is either one scroll or swipe away."
 msgstr ""
+"Život je sice někdy komplikovaný, ale váš chytrý telefon být nemusí. Firefox "
+"OS je navržen pro lepší rychlost, snazší přizpůsobení a ovládání. Vše, co "
+"vaši zákazníci potřebují nebo chtějí, je na dosah prstu."
 
 #. Translators:
 #. Page path: /2-0/introduction/
@@ -3917,6 +3952,10 @@ msgid ""
 "that enrich and simplify your daily life. Firefox OS is truly a phone made "
 "with you in mind."
 msgstr ""
+"Používejte svůj telefon ve vlastním jazyce, mějte přehled jeho využívání dat "
+"a přizpůsobte si jej s vlastním vyzváněcím tónem. Můžete si také stáhnout "
+"aplikace o vašem okolí, které vám zpříjemní každý den. Firefox OS je "
+"skutečně telefon s vámi na prvním místě."
 
 #. Translators:
 #. Page path: /2-0/introduction/
@@ -4001,6 +4040,10 @@ msgid ""
 "looking for. Demonstrate an example of a local app that will help make their"
 " lives easier."
 msgstr ""
+"Ukažte svým zákazníkům jak snadno mohou získat aplikace s Firefox "
+"Marketplace. Řekněte jim, že na Marketplace najdou super hry a aplikace, "
+"které budou hledat. Ukažte jim například nějakou místní aplikace, která jim "
+"zpříjemní každý den."
 
 #. Translators:
 #. Page path: /2-0/demo-tips/
@@ -4025,6 +4068,12 @@ msgid ""
 "and more.  <br><br>Music: With music at their fingertips, your customers "
 "will see how Firefox OS keeps them entertained and dancing in the streets."
 msgstr ""
+"S Fotoaparátem, Galerií, aplikací pro přehrávání hudby a dalšími bude "
+"Firefox OS vaše zákazníky bavit na cestách a budou moci být stále ve spojení "
+"na kom jim nejvíce záleží. <br><br>Fotoaparát: Fotografujte, upravujte a "
+"sdílejte. Ukažte naše aplikace pro fotoaparát a galerii, včetně vestavěných "
+"filtrů, videa a další. <br><br>Hudba: S hudbou na dosah vaši klienti "
+"poznají, jak je bude Firefox OS bavit a budou tančit třeba i na ulici."
 
 #. Translators:
 #. Page path: /2-0/demo-tips/
@@ -4034,7 +4083,7 @@ msgstr ""
 #. Page path: /2-1/demo-tips/
 #: db-strings.txt:7242 db-strings.txt.py:9456 db-strings.txt.py:11580
 msgid "Social and contact sync"
-msgstr ""
+msgstr "Synchronizace kontaktů a sociálních sítí"
 
 #. Translators:
 #. Page path: /2-0/customer-guide/
@@ -4264,7 +4313,7 @@ msgstr ""
 #. Page path: /2-1/key-features/
 #: db-strings.txt:7584 db-strings.txt.py:12049
 msgid "Find My Device"
-msgstr ""
+msgstr "Nalézt mé zařízení"
 
 #. Translators:
 #. Page path: /2-0/key-features/
@@ -4282,7 +4331,7 @@ msgstr ""
 #. Page path: /2-1/key-features/
 #: db-strings.txt:7602 db-strings.txt.py:12067
 msgid "Ringtones"
-msgstr ""
+msgstr "Vyzvánění"
 
 #. Translators:
 #. Page path: /2-0/key-features/
@@ -4332,6 +4381,12 @@ msgid ""
 " in complete control of their smartphone experience and makes it possible "
 "for people to get the exact content they want, when they want it."
 msgstr ""
+"Uživatele mohou ukládat záložky svých oblíbených stránek přímo na domovskou "
+"obrazovku, které jim přímo umožní danou stránku odtamtud navštívit. Mohou "
+"také snadno zadat jakékoliv vyhledávání a okamžitě si vytvořit aplikaci ke "
+"stažení nebo pro jednorázové použití. Vytváření a používání aplikací podle "
+"vlastní potřeby dává uživatelům úplnou kontrolu nad svým chytrým telefonem a "
+"umožní jim dostat přesně ten obsah, který chtěj a kdy jej chtějí."
 
 #. Translators:
 #. Page path: /2-0/frequently-asked-questions/
@@ -4339,7 +4394,7 @@ msgstr ""
 #. Page path: /1-3/frequently-asked-questions/
 #: db-strings.txt:7728 db-strings.txt.py:9906
 msgid "Can I use WhatsApp on this phone?"
-msgstr ""
+msgstr "Mohu na tomto telefonu používat WhatsApp?"
 
 #. Translators:
 #. Page path: /2-0/frequently-asked-questions/
@@ -4353,6 +4408,11 @@ msgid ""
 " create and use group chats and receive notifications of new messages, even "
 "when the app is closed."
 msgstr ""
+"Ne přímo, ale aplikace ConnectA2 umožňuje posílat zprávy vašim kontaktům z "
+"ConnectA2 a nebo WhatsApp. Můžete zdarma posílat a přijímat zprávy, "
+"smajlíky, obrázky, videa nebo audio soubory. Také můžete vytvářet a "
+"skupinové chaty a dostávat upozornění na nové zprávy i když je aplikace "
+"zavřená."
 
 #. Translators:
 #. Page path: /2-0/frequently-asked-questions/
@@ -4386,7 +4446,7 @@ msgstr ""
 #. Page path: /2-1/frequently-asked-questions/
 #: db-strings.txt:7809 db-strings.txt.py:9987 db-strings.txt.py:12292
 msgid "Exchange, POP3 and IMAP are currently supported."
-msgstr ""
+msgstr "Podporované jsou nyní Exchange, POP3 a IMAP."
 
 #. Translators:
 #. Page path: /2-0/about/
@@ -4492,7 +4552,7 @@ msgstr "Vše uvedené je s telefonem s Firefox OS ve skutečnosti možné."
 #: db-strings.txt:12427 db-strings.txt.py:12463 db-strings.txt.py:12607
 #: db-strings.txt:12850 db-strings.txt.py:12895
 msgid "There are more. Try again."
-msgstr ""
+msgstr "Je jich více. Zkuste to znovu."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -4825,7 +4885,7 @@ msgstr "Nastavte jazyk svého telefonu"
 #. Page path: /2-1/take-the-challenge/
 #: db-strings.txt:8646 db-strings.txt.py:10788 db-strings.txt.py:13129
 msgid "Control your data usage"
-msgstr ""
+msgstr "Mějte přehled o využívání dat"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -4833,7 +4893,7 @@ msgstr ""
 #. Page path: /2-1/take-the-challenge/
 #: db-strings.txt:8655 db-strings.txt.py:13138
 msgid "Create your own ringtones"
-msgstr ""
+msgstr "Vytvořte si vlastní vyzvánění"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -4854,7 +4914,7 @@ msgstr "Sdílení kontaktů"
 #. Page path: /2-1/take-the-challenge/
 #: db-strings.txt:8826 db-strings.txt.py:10977 db-strings.txt.py:13336
 msgid "Share images"
-msgstr ""
+msgstr "Sdílejte obrázky"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -4864,7 +4924,7 @@ msgstr ""
 #. Page path: /2-1/take-the-challenge/
 #: db-strings.txt:8835 db-strings.txt.py:10986 db-strings.txt.py:13345
 msgid "Share videos"
-msgstr ""
+msgstr "Sdílejte videa"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -4979,7 +5039,7 @@ msgstr ""
 #. Page path: /2-0/take-the-challenge/
 #: db-strings.txt:9024
 msgid "Track the location of your lost/stolen device"
-msgstr ""
+msgstr "Sledujte pozici svého ztraceného/ukradeného zařízení"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -4987,7 +5047,7 @@ msgstr ""
 #. Page path: /2-1/take-the-challenge/
 #: db-strings.txt:9033 db-strings.txt.py:13525
 msgid "Remotely wipe the device."
-msgstr ""
+msgstr "Vzdáleně své zařízení smažte."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -4995,7 +5055,7 @@ msgstr ""
 #. Page path: /2-1/take-the-challenge/
 #: db-strings.txt:9042 db-strings.txt.py:13534
 msgid "Remotely lock the device."
-msgstr ""
+msgstr "Vzdáleně své zařízení uzamkněte."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -5006,6 +5066,7 @@ msgstr ""
 #: db-strings.txt:9078 db-strings.txt.py:11202 db-strings.txt.py:13570
 msgid "Firefox OS is built entirely using HTML5 and Open Web standards."
 msgstr ""
+"Firefox OS je postavený celý na HTML5 a otevřených webových standardech."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -5142,20 +5203,27 @@ msgid ""
 "<li><em>1.3.0.0</em> means you have version 1.3</li> <li><em>2.0.0.0</em> "
 "means you have version 2.0</li> </ul> </li> </ol>"
 msgstr ""
+"<ol> <li>Otevřete ve svém zařízení aplikaci Nastavení.</li> <li>Přejeďte "
+"dolů a vyberte <strong>Informace o zařízení</strong>.</li> <li>Na obrazovce "
+"s informacemi vyberte <strong>Více informací</strong> a najděte čísla verzí "
+"pod <em>Verze OS</em> v horní části. <ul> <li><em>Firefox OS 1.0.1.0</em> "
+"znamená, že máte verzi 1.0.1</li> <li><em>Firefox OS 1.1.0.0</em> znamená, "
+"že máte verzi 1.1</li> <li><em>1.3.0.0</em> znamená verzi 1.3</li> "
+"<li><em>2.0.0.0</em> znamená verzi 2.0</li> </ul> </li> </ol>"
 
 #: masterfirefoxos/base/templates/base.html:35
 msgid "Submit"
-msgstr ""
+msgstr "Odeslat"
 
 #: masterfirefoxos/base/templates/base.html:40
 #: masterfirefoxos/base/templates/base.html:83
 #: masterfirefoxos/base/templates/home.html:12
 msgid "Mozilla"
-msgstr ""
+msgstr "Mozilla"
 
 #: masterfirefoxos/base/templates/base.html:65
 msgid "Menu"
-msgstr ""
+msgstr "Menu"
 
 #: masterfirefoxos/base/templates/base.html:88
 #, python-brace-format
@@ -5164,78 +5232,81 @@ msgid ""
 "available under a <a href=\"https://www.mozilla.org/foundation/licensing"
 "/website-content/\">Creative Commons license</a>."
 msgstr ""
+"Části tohoto obsahu jsou ©1998–{0} jednotlivými přispěvateli. Obsah je "
+"dostupný pod <a href=\"https://www.mozilla.org/foundation/licensing/website-"
+"content/\">licencí Creative Commons</a>."
 
 #: masterfirefoxos/base/templates/base.html:91
 msgid "Source code"
-msgstr ""
+msgstr "Zdrojový kód"
 
 #: masterfirefoxos/base/templates/base.html:96
 msgid "Contact Us"
-msgstr ""
+msgstr "Kontaktujte nás"
 
 #: masterfirefoxos/base/templates/base.html:97
 msgid "Partner with Us"
-msgstr ""
+msgstr "Partnerství s námi"
 
 #: masterfirefoxos/base/templates/base.html:98
 msgid "Donate"
-msgstr ""
+msgstr "Přispějte"
 
 #: masterfirefoxos/base/templates/base.html:99
 msgid "Privacy Policy"
-msgstr ""
+msgstr "Soukromí"
 
 #: masterfirefoxos/base/templates/base.html:100
 msgid "Legal Notices"
-msgstr ""
+msgstr "Právní informace"
 
 #: masterfirefoxos/base/templates/base.html:101
 msgid "Report Trademark Abuse"
-msgstr ""
+msgstr "Nahlásit zneužití ochranné známky"
 
 #: masterfirefoxos/base/templates/base.html:105
 msgid "Mozilla on Twitter"
-msgstr ""
+msgstr "Mozilla na Twitteru"
 
 #: masterfirefoxos/base/templates/base.html:106
 msgid "Firefox on Twitter"
-msgstr ""
+msgstr "Firefox na Twitteru"
 
 #: masterfirefoxos/base/templates/base.html:107
 msgid "Mozilla on Facebook"
-msgstr ""
+msgstr "Mozilla na Facebooku"
 
 #: masterfirefoxos/base/templates/base.html:108
 msgid "Firefox on Facebook"
-msgstr ""
+msgstr "Firefox na Facebooku"
 
 #: masterfirefoxos/base/templates/home.html:49
 msgid "Learn more"
-msgstr ""
+msgstr "Zjistěte více"
 
 #: masterfirefoxos/base/templates/includes/nav-information.html:3
 msgid "Home"
-msgstr ""
+msgstr "Domů"
 
 #: masterfirefoxos/base/templates/includes/nav-information.html:4
 msgid "About"
-msgstr ""
+msgstr "O stránce"
 
 #: masterfirefoxos/base/templates/includes/version-language-switcher.html:3
 msgid "Language"
-msgstr ""
+msgstr "Jazyk"
 
 #: masterfirefoxos/base/templates/includes/version-language-switcher.html:15
 msgid "Firefox OS version"
-msgstr ""
+msgstr "Verze Firefox OS"
 
 #: masterfirefoxos/base/templates/includes/version-language-switcher.html:23
 msgid "Which version do I have?"
-msgstr ""
+msgstr "Jakou verzi mám?"
 
 #: masterfirefoxos/base/templates/includes/version-language-switcher.html:25
 msgid "Change"
-msgstr ""
+msgstr "Změnit"
 
 #: masterfirefoxos/base/templates/includes/version-language-switcher.html:39
 #, python-brace-format
@@ -5243,31 +5314,33 @@ msgid ""
 "Documentation for Firefox OS {version} is not yet available in {language}, "
 "so we redirected you to the English version."
 msgstr ""
+"Dokumentace Firefox OS {version} není v jazyce {version} dostupná, a proto "
+"jste byli přesměrování na anglickou verzi."
 
 #: masterfirefoxos/base/templates/includes/version-language-switcher.html:41
 #, python-brace-format
 msgid "The latest version available in {language} is {version}."
-msgstr ""
+msgstr "Poslední verze dostupné pro jazyk {language} je {version}."
 
 #: masterfirefoxos/settings/base.py:189
 msgid "Afrikaans"
-msgstr ""
+msgstr "Afrikánština"
 
 #: masterfirefoxos/settings/base.py:190
 msgid "Arabic"
-msgstr ""
+msgstr "Arabština"
 
 #: masterfirefoxos/settings/base.py:191
 msgid "Bengali (Bangladesh)"
-msgstr ""
+msgstr "Bengálština (Bangladéš)"
 
 #: masterfirefoxos/settings/base.py:192
 msgid "Bengali (India)"
-msgstr ""
+msgstr "Bengálština (Indie)"
 
 #: masterfirefoxos/settings/base.py:193
 msgid "Croatian"
-msgstr ""
+msgstr "Chorvatština"
 
 #: masterfirefoxos/settings/base.py:194
 msgid "Czech"
@@ -5279,71 +5352,71 @@ msgstr ""
 
 #: masterfirefoxos/settings/base.py:196
 msgid "English"
-msgstr ""
+msgstr "Angličtina"
 
 #: masterfirefoxos/settings/base.py:197
 msgid "German"
-msgstr ""
+msgstr "Němčina"
 
 #: masterfirefoxos/settings/base.py:198
 msgid "Greek"
-msgstr ""
+msgstr "Řečtina"
 
 #: masterfirefoxos/settings/base.py:199
 msgid "Fulah"
-msgstr ""
+msgstr "Fulbština"
 
 #: masterfirefoxos/settings/base.py:200
 msgid "French"
-msgstr ""
+msgstr "Francouzština"
 
 #: masterfirefoxos/settings/base.py:201
 msgid "Hausa"
-msgstr ""
+msgstr "Hauština"
 
 #: masterfirefoxos/settings/base.py:202
 msgid "Hindi"
-msgstr ""
+msgstr "Hindština"
 
 #: masterfirefoxos/settings/base.py:203
 msgid "Hungarian"
-msgstr ""
+msgstr "Maďarština"
 
 #: masterfirefoxos/settings/base.py:204
 msgid "Igbo"
-msgstr ""
+msgstr "Igbo"
 
 #: masterfirefoxos/settings/base.py:205
 msgid "Italian"
-msgstr ""
+msgstr "Italština"
 
 #: masterfirefoxos/settings/base.py:206
 msgid "Japanese"
-msgstr ""
+msgstr "Japonština"
 
 #: masterfirefoxos/settings/base.py:207
 msgid "Lingala"
-msgstr ""
+msgstr "Lingala"
 
 #: masterfirefoxos/settings/base.py:208
 msgid "Polish"
-msgstr ""
+msgstr "Polština"
 
 #: masterfirefoxos/settings/base.py:209
 msgid "Portuguese"
-msgstr ""
+msgstr "Portugalština"
 
 #: masterfirefoxos/settings/base.py:210
 msgid "Romanian"
-msgstr ""
+msgstr "Rumunština"
 
 #: masterfirefoxos/settings/base.py:211
 msgid "Russian"
-msgstr ""
+msgstr "Ruština"
 
 #: masterfirefoxos/settings/base.py:212
 msgid "Serbian"
-msgstr ""
+msgstr "Srbština"
 
 #: masterfirefoxos/settings/base.py:213
 msgid "Kiswahili"
@@ -5351,19 +5424,19 @@ msgstr ""
 
 #: masterfirefoxos/settings/base.py:214
 msgid "Spanish"
-msgstr ""
+msgstr "Španělština"
 
 #: masterfirefoxos/settings/base.py:215
 msgid "Tamil"
-msgstr ""
+msgstr "Tamilština"
 
 #: masterfirefoxos/settings/base.py:216
 msgid "Wolof"
-msgstr ""
+msgstr "Volofština"
 
 #: masterfirefoxos/settings/base.py:217
 msgid "Xhosa"
-msgstr ""
+msgstr "Xhosština"
 
 #: masterfirefoxos/settings/base.py:218
 msgid "Pirate"
@@ -5371,11 +5444,11 @@ msgstr ""
 
 #: masterfirefoxos/settings/base.py:219
 msgid "Yoruba"
-msgstr ""
+msgstr "Jorubština"
 
 #: masterfirefoxos/settings/base.py:220
 msgid "Zulu"
-msgstr ""
+msgstr "Zulština"
 
 #~ msgid "z8IAfoqxOPI"
 #~ msgstr "v1tLRWtCkEs"
