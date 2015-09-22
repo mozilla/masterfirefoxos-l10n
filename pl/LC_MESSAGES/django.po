@@ -10,7 +10,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-08-21 17:46+0000\n"
 "PO-Revision-Date: 2015-02-20 11:48:21\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Last-Translator: gabixdev <gabixdev@gabixdev.cba.pl>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -54,7 +54,7 @@ msgstr ""
 #: db-strings.txt:15 db-strings.txt.py:2355 db-strings.txt.py:4695
 #: db-strings.txt:7044 db-strings.txt.py:9258 db-strings.txt.py:11382
 msgid "Welcome!"
-msgstr ""
+msgstr "Witamy!"
 
 #. Translators:
 #. Page path: /1-1/
@@ -75,6 +75,10 @@ msgid ""
 "effectively communicate the basics of Firefox OS. Select any topic to get "
 "started."
 msgstr ""
+"
+"Ten globalny partner i ośrodek szkolenia społeczności ma wszystko, czego potrzebujesz, aby "
+"skutecznie uczyć się podstaw Firefox OS. Wybierz dowolny temat, aby "
+"rozpocząć."
 
 #. Translators:
 #. Page path: /1-1/introduction/
@@ -111,6 +115,8 @@ msgid ""
 "Find out what makes Firefox OS perfect for new smartphone users by giving "
 "them just what they need."
 msgstr ""
+"Zobacz co powoduje, że Firefox OS jest idealny dla początkujących użytkowników smartfonów "
+"dając im tylko tego, co potrzebują."
 
 #. Translators:
 #. Page path: /1-1/introduction/
@@ -399,7 +405,7 @@ msgstr ""
 #. Page path: /1-1/take-the-challenge/
 #: db-strings.txt:195 db-strings.txt.py:1761
 msgid "HERE Maps"
-msgstr "HERE Maps"
+msgstr "Mapy HERE"
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
@@ -451,7 +457,7 @@ msgstr ""
 #: db-strings.txt:10932 db-strings.txt.py:10959 db-strings.txt.py:13174
 #: db-strings.txt:13255 db-strings.txt.py:13291 db-strings.txt.py:13318
 msgid "Firefox Browser"
-msgstr "Przeglądanie"
+msgstr "Przeglądarka Firefox"
 
 #. Translators:
 #. Page path: /1-1/demo-tips/
@@ -753,7 +759,8 @@ msgstr ""
 #, fuzzy
 #| msgid "<p>The Uncertain Upgrader</p>"
 msgid "The Uncertain Upgrader"
-msgstr "The Uncertain Upgrader"
+# ???
+msgstr "Niepewny aktualizator"
 
 #. Translators:
 #. Page path: /1-1/customer-guide/
@@ -770,7 +777,7 @@ msgstr "The Uncertain Upgrader"
 #: db-strings.txt:402 db-strings.txt.py:2688 db-strings.txt.py:5082
 #: db-strings.txt:7359 db-strings.txt.py:9573 db-strings.txt.py:11752
 msgid "\"It needs to be easy to use.\""
-msgstr ""
+msgstr "\"To musi być łatwe w użyciu.\""
 
 #. Translators:
 #. Page path: /1-1/customer-guide/
@@ -808,7 +815,7 @@ msgstr ""
 #, fuzzy
 #| msgid "<p>The Firefox Fan</p>"
 msgid "The Firefox Fan"
-msgstr "The Firefox Fan"
+msgstr "Fan Firefox\'a"
 
 #. Translators:
 #. Page path: /1-1/customer-guide/
@@ -825,7 +832,7 @@ msgstr "The Firefox Fan"
 #: db-strings.txt:429 db-strings.txt.py:2715 db-strings.txt.py:5109
 #: db-strings.txt:7386 db-strings.txt.py:9600 db-strings.txt.py:11779
 msgid "\"I love firefox!\""
-msgstr ""
+msgstr "\"Ja kocham Firefoxa!\""
 
 #. Translators:
 #. Page path: /1-1/customer-guide/
@@ -885,7 +892,7 @@ msgstr "Kluczowe funkcje"
 msgid ""
 "Discover what makes Firefox OS the most unique and exciting mobile operating"
 " system."
-msgstr ""
+msgstr "Sprawdź co powoduje, że Firefox OS jest unikalnym i ekscytującym mobilnym systemem operacyjnym."
 
 #. Translators:
 #. Page path: /1-1/key-features/
@@ -1055,7 +1062,7 @@ msgstr ""
 #: db-strings.txt:11959 db-strings.txt.py:13246 db-strings.txt.py:13273
 #: db-strings.txt:13309
 msgid "Contacts"
-msgstr "Fałsz"
+msgstr "Kontakty"
 
 #. Translators:
 #. Page path: /1-1/key-features/
@@ -1157,7 +1164,7 @@ msgstr ""
 #, fuzzy
 #| msgid "HERE Maps"
 msgid "Maps"
-msgstr "HERE Maps"
+msgstr "Mapy"
 
 #. Translators:
 #. Page path: /1-1/key-features/
@@ -1263,6 +1270,9 @@ msgid ""
 "Still have questions? Not for long! Find all the answers you're looking for "
 "here."
 msgstr ""
+"Nadal masz jakieś pytania? Nie na długo! Wszystkie pytania znajdziesz "
+"tutaj."
+
 
 #. Translators:
 #. Page path: /1-1/frequently-asked-questions/
