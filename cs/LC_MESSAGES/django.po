@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-08-21 17:46+0000\n"
-"PO-Revision-Date: 2015-09-26 09:03+0000\n"
+"PO-Revision-Date: 2015-10-07 20:41+0000\n"
 "Last-Translator: Tomáš <zelitomas@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: cs\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1443258233.0\n"
+"X-POOTLE-MTIME: 1444250519.0\n"
 
 #. Translators:
 #. Page path: /1-1/
@@ -4715,6 +4715,9 @@ msgid ""
 " set of Firefox OS, including social apps that are preloaded on the phone, "
 "all at great value."
 msgstr ""
+"Přesně tak. Takovému zákazníkovi ukažte všechny skvělé funkce Firefox OS, "
+"včetně aplikací sociálních sítí, které jsou v telefonu předinstalovány. "
+"Nezapomeňte také vyzdvihnout skvělou cenu."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -4727,6 +4730,9 @@ msgid ""
 "feature set of Firefox OS, including social apps that are preloaded on the "
 "phone, all at great value."
 msgstr ""
+"To není úplně ono. Ukažte tomuto zákazníkovi všechny skvělé funkce Firefox "
+"OS, včetně aplikací sociálních sítí, které jsou v telefonu předinstalovány. "
+"Nezapomeňte také vyzdvihnout skvělou cenu."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -4741,6 +4747,10 @@ msgid ""
 "of the Web in the hands of the people. And while all of these statements are"
 " true, only this one is the best response for this particular customer."
 msgstr ""
+"To je správně. Tento zákazník vypadá jako fanoušek Firefoxu. Mluvte o tom, "
+"jak telefony s Firefox OS od Mozilly ukazují odhodlání udržet sílu webu v "
+"rukou jeho uživatelů. A i když jsou všechna ostatní tvrzení správná, tohle "
+"nejlepší odpověď tomuto zákazníkovi."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -4988,6 +4998,10 @@ msgid ""
 "to use and allows for greater control, personalization and customization "
 "than many other smartphones on the market."
 msgstr ""
+"Při vytváření Firefox OS se myslelo na lidi jako vy, takže je jednoduché jej "
+"používat, umožňuje vám mít větší kontrolu nad přístrojem, jeho "
+"přizpůsobováním a personalizací než u mnohých jiných chytrých telefonů na "
+"trhu."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -5018,6 +5032,8 @@ msgid ""
 "If you love Firefox, you’ll love Firefox OS. Choosing Firefox OS keeps the "
 "power of the Web in your hands."
 msgstr ""
+"Jestli máte rádi Firefox, budete Firefox OS milovat. S Firefox OS budete mít "
+"sílu celého webu ve svých rukách."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -5029,6 +5045,8 @@ msgid ""
 "expect, including Messages, Facebook, email, maps and more, all at a better "
 "value."
 msgstr ""
+"Chytré telefony s Firefox OS obsahují vše, co očekáváte, včetně zpráv, "
+"e-mailu, Facebooku, map a mnoha dalších věcí, a to vše za skvělou cenu."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -5051,6 +5069,10 @@ msgid ""
 "accessible to all. And since Firefox OS is entirely built in HTML5, you get "
 "instant access to thousands of apps already built for the Web."
 msgstr ""
+"Mozilla, tvůrce Firefoxu, vytvořila operační systém pro chytré telefony aby "
+"mohla pomohla uchovat web dostupný pro každého. A jelikož je celý Firefox OS "
+"postaven na HTML5, okamžitě získáte přístup k tisícům aplikací vytvořených "
+"pro web."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -5091,7 +5113,7 @@ msgstr ""
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:9087 db-strings.txt.py:11211
 msgid "You can use it to create and set a daily budget for data usage."
-msgstr ""
+msgstr "Můžete ji použít k vytvoření a změnám denního limitu použití dat."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -5099,7 +5121,7 @@ msgstr ""
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:9096 db-strings.txt.py:11220
 msgid "It shows usage per app."
-msgstr ""
+msgstr "Ukazuje využití dat jednotlivými aplikacemi."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -5107,7 +5129,7 @@ msgstr ""
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:9105 db-strings.txt.py:11229
 msgid "It shows usage by time."
-msgstr ""
+msgstr "Ukazuje využití dat v čase."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -5145,7 +5167,7 @@ msgstr ""
 msgid ""
 "They’re packed with the features that made you want a smartphone in the "
 "first place."
-msgstr ""
+msgstr "Jsou plné věcí, které jste od smartphonu vždycky chtěli."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -5158,6 +5180,8 @@ msgid ""
 "They’re new and backed by a global community working to help keep the Web "
 "accessible to all."
 msgstr ""
+"Jsou to nové telefony podporované globální komunitou, která se snaží o to, "
+"aby byl web přístupný každému."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -5169,7 +5193,7 @@ msgstr ""
 msgid ""
 "It’s packed with the features that made you want a smartphone in the first "
 "place."
-msgstr ""
+msgstr "Je plný všech těch věcí, které jste od smartphonu vždycky chtěli."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -5182,6 +5206,8 @@ msgid ""
 "It’s new and backed by a global community working to help keep the Web "
 "accessible to all."
 msgstr ""
+"Je to nový telefon podporovaný globální komunitou, která se snaží o to, aby "
+"byl web přístupný každému."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
