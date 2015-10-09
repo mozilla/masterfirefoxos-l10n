@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-08-21 17:46+0000\n"
-"PO-Revision-Date: 2015-10-09 12:35+0000\n"
+"PO-Revision-Date: 2015-10-09 19:27+0000\n"
 "Last-Translator: Tomáš <zelitomas@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: cs\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1444394142.0\n"
+"X-POOTLE-MTIME: 1444418842.0\n"
 
 #. Translators:
 #. Page path: /1-1/
@@ -4835,6 +4835,8 @@ msgid ""
 "Which of the following statements are true of the Cost Control app that is "
 "preloaded on Firefox OS?"
 msgstr ""
+"Které z následujících výroků jsou pravdivé o aplikaci pro kontrolu nákladů "
+"předinstalované ve Firefox OS?"
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -5162,6 +5164,9 @@ msgid ""
 "relevant apps for the Firefox OS platform. New apps and content are added "
 "every day."
 msgstr ""
+"Firefox OS je podporován globální komunitou vývojářů a tvůrců obsahu, kteří "
+"pro něj nadšeně vytvářejí nový, zajímavý obsah, kam mimo jiné patří i mnohé "
+"oblíbené lokální aplikace. Nové aplikace vznikají každý den."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -5503,7 +5508,7 @@ msgstr "Xhosština"
 
 #: masterfirefoxos/settings/base.py:218
 msgid "Pirate"
-msgstr ""
+msgstr "Pirátština"
 
 #: masterfirefoxos/settings/base.py:219
 msgid "Yoruba"
