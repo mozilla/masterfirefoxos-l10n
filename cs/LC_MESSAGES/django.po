@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-08-21 17:46+0000\n"
-"PO-Revision-Date: 2015-10-07 20:41+0000\n"
+"PO-Revision-Date: 2015-10-09 12:35+0000\n"
 "Last-Translator: Tomáš <zelitomas@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: cs\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1444250519.0\n"
+"X-POOTLE-MTIME: 1444394142.0\n"
 
 #. Translators:
 #. Page path: /1-1/
@@ -3182,6 +3182,8 @@ msgid ""
 "New and backed by a global community working to help keep the Web accessible"
 " to all."
 msgstr ""
+"Tento nový telefon je podporován globální komunitou, která se snaží o to, "
+"aby byl web dostupný všem."
 
 #. Translators:
 #. Page path: /1-1/take-the-challenge/
@@ -4448,6 +4450,10 @@ msgid ""
 "like Twitter and Facebook, and for awesome local content from the best Web "
 "developers in your region."
 msgstr ""
+"Firefox Marketplace je obchod plný bezplatných aplikací, včetně těch "
+"oblíbených jako jsou například Twitter a Facebook aplikace. Kromě toho tam "
+"také naleznete úžasný lokální obsah od těch nejlepších webových vývojářů v "
+"okolí."
 
 #. Translators:
 #. Page path: /2-0/frequently-asked-questions/
@@ -4691,6 +4697,8 @@ msgid ""
 "That’s right. When you meet a Firefox fan, talk about how choosing Firefox "
 "OS shows a commitment to keeping the power of the Web in their hands."
 msgstr ""
+"Přesně tak. Když potkáte fanouška Firefoxu, mluvte o tom, jak výběr Firefox "
+"OS ukazuje odhodlání nechat sílu webu v jejich rukách."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -4704,6 +4712,8 @@ msgid ""
 "Actually, when you meet a Firefox fan, talk about how choosing Firefox OS "
 "shows a commitment to keeping power of the the Web in their hands."
 msgstr ""
+"Když potkáte fanouška Firefoxu, měli byste spíše mluvit o tom, jak výběr "
+"Firefox OS ukazuje odhodlání nechat sílu webu v jejich rukách."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -4766,6 +4776,10 @@ msgid ""
 "OS phones, made by Mozilla, help keep the power of the Web in the hands of "
 "the people."
 msgstr ""
+"Všechny výroky jsou správně, ale jen jeden z nich je pro tohoto zákazníka "
+"dobrou odpovědí. Tento zákazník vypadá jako fanoušek Firefoxu, mluvte tedy o "
+"tom, jak telefony s Firefox OS od Mozilly ukazují odhodlání udržet sílu "
+"webu v rukou jeho uživatelů."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -4850,6 +4864,8 @@ msgid ""
 "The ConnectA2 app is an instant messaging application compatible with "
 "WhatsApp for your Firefox OS device."
 msgstr ""
+"Aplikace ConnectA2 je chatovací aplikace kompatibilní s WhatsApp pro "
+"zařízení s Firefox OS."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -4861,6 +4877,8 @@ msgid ""
 "Actually, this is true. ConnectA2 allows you to send instant messages to "
 "your contacts using ConnectA2 and/or WhatsApp."
 msgstr ""
+"Vlastně je to pravda. ConnectA2 umožňuje posílat zprávy jak přes ConnectA2, "
+"tak i přes WhatsApp."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -5156,6 +5174,8 @@ msgid ""
 "Apps developers are slowly realizing the benefit of HTML5 in support of the "
 "Open Web."
 msgstr ""
+"Vývojáři aplikací si už pomalu začínají uvědomovat, jak je HTML5 důležité k "
+"podpoře otevřeného webu."
 
 #. Translators:
 #. Page path: /2-0/take-the-challenge/
@@ -5391,7 +5411,7 @@ msgstr "Čeština"
 
 #: masterfirefoxos/settings/base.py:195
 msgid "Ewe"
-msgstr ""
+msgstr "Eveština"
 
 #: masterfirefoxos/settings/base.py:196
 msgid "English"
@@ -5463,7 +5483,7 @@ msgstr "Srbština"
 
 #: masterfirefoxos/settings/base.py:213
 msgid "Kiswahili"
-msgstr ""
+msgstr "Svahilština"
 
 #: masterfirefoxos/settings/base.py:214
 msgid "Spanish"
