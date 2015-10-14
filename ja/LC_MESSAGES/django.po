@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-08-21 17:46+0000\n"
-"PO-Revision-Date: 2015-02-20 11:48:21\n"
+"PO-Revision-Date: 2015-10-14 14:50-0700\n"
 "Last-Translator: <nshimizu@mozilla-japan.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ja\n"
@@ -3358,148 +3358,139 @@ msgstr "変更"
 msgid ""
 "Documentation for Firefox OS {version} is not yet available in {language}, "
 "so we redirected you to the English version."
-msgstr "Firefox OS {version} の {language} 語版文書はまだ用意されていません。英語版をご覧ください。"
+msgstr "Firefox OS {version} の {language} 版文書はまだ用意されていません。英語版をご覧ください。"
 
 #: masterfirefoxos/base/templates/includes/version-language-switcher.html:41
 #, python-brace-format
 msgid "The latest version available in {language} is {version}."
-msgstr "{language}語の最新バージョンは {version} です。"
+msgstr "{language} の最新バージョンは {version} です。"
 
 #: masterfirefoxos/settings/base.py:189
 msgid "Afrikaans"
-msgstr "アフリカーンス"
+msgstr "アフリカーンス語"
 
 #: masterfirefoxos/settings/base.py:190
 msgid "Arabic"
-msgstr "アラビア"
+msgstr "アラビア語"
 
 #: masterfirefoxos/settings/base.py:191
 msgid "Bengali (Bangladesh)"
-msgstr ""
+msgstr "ベンガル語 (バングラデシュ)"
 
 #: masterfirefoxos/settings/base.py:192
 #, fuzzy
 #| msgid "Bengali"
 msgid "Bengali (India)"
-msgstr "ベンガル"
+msgstr "ベンガル語 (インド)"
 
 #: masterfirefoxos/settings/base.py:193
 msgid "Croatian"
-msgstr "クロアチア"
+msgstr "クロアチア語"
 
 #: masterfirefoxos/settings/base.py:194
 msgid "Czech"
-msgstr "チェコ"
+msgstr "チェコ語"
 
 #: masterfirefoxos/settings/base.py:195
 msgid "Ewe"
-msgstr ""
+msgstr "エウェ語"
 
 #: masterfirefoxos/settings/base.py:196
 msgid "English"
-msgstr "英"
+msgstr "英語"
 
 #: masterfirefoxos/settings/base.py:197
 msgid "German"
-msgstr "ドイツ"
+msgstr "ドイツ語"
 
 #: masterfirefoxos/settings/base.py:198
 msgid "Greek"
-msgstr "ギリシア"
+msgstr "ギリシア語"
 
 #: masterfirefoxos/settings/base.py:199
 msgid "Fulah"
-msgstr ""
+msgstr "フラニ語"
 
 #: masterfirefoxos/settings/base.py:200
 msgid "French"
-msgstr "フランス"
+msgstr "フランス語"
 
 #: masterfirefoxos/settings/base.py:201
 msgid "Hausa"
-msgstr ""
+msgstr "ハウサ語"
 
 #: masterfirefoxos/settings/base.py:202
 msgid "Hindi"
-msgstr "ヒンディー"
+msgstr "ヒンディー語"
 
 #: masterfirefoxos/settings/base.py:203
 msgid "Hungarian"
-msgstr "ハンガリー"
+msgstr "ハンガリー語"
 
 #: masterfirefoxos/settings/base.py:204
 msgid "Igbo"
-msgstr ""
+msgstr "イボ語"
 
 #: masterfirefoxos/settings/base.py:205
 msgid "Italian"
-msgstr "イタリア"
+msgstr "イタリア語"
 
 #: masterfirefoxos/settings/base.py:206
 msgid "Japanese"
-msgstr "日本"
+msgstr "日本語"
 
 #: masterfirefoxos/settings/base.py:207
 msgid "Lingala"
-msgstr ""
+msgstr "リンガラ語"
 
 #: masterfirefoxos/settings/base.py:208
 msgid "Polish"
-msgstr "ポーランド"
+msgstr "ポーランド語"
 
 #: masterfirefoxos/settings/base.py:209
 msgid "Portuguese"
-msgstr "ポルトガル"
+msgstr "ポルトガル語"
 
 #: masterfirefoxos/settings/base.py:210
 msgid "Romanian"
-msgstr ""
+msgstr "ルーマニア語"
 
 #: masterfirefoxos/settings/base.py:211
 msgid "Russian"
-msgstr ""
+msgstr "ロシア語"
 
 #: masterfirefoxos/settings/base.py:212
 msgid "Serbian"
-msgstr "セルビア"
+msgstr "セルビア語"
 
 #: masterfirefoxos/settings/base.py:213
 msgid "Kiswahili"
-msgstr "スワヒリ"
+msgstr "スワヒリ語"
 
 #: masterfirefoxos/settings/base.py:214
 msgid "Spanish"
-msgstr "スペイン"
+msgstr "スペイン語"
 
 #: masterfirefoxos/settings/base.py:215
 msgid "Tamil"
-msgstr "タミル"
+msgstr "タミル語"
 
 #: masterfirefoxos/settings/base.py:216
 msgid "Wolof"
-msgstr "ウォロフ"
+msgstr "ウォロフ語"
 
 #: masterfirefoxos/settings/base.py:217
 msgid "Xhosa"
-msgstr "コサ"
+msgstr "コサ語"
 
 #: masterfirefoxos/settings/base.py:218
 msgid "Pirate"
-msgstr "著作権侵害"
+msgstr "海賊英語"
 
 #: masterfirefoxos/settings/base.py:219
 msgid "Yoruba"
-msgstr ""
+msgstr "ヨルバ語"
 
 #: masterfirefoxos/settings/base.py:220
 msgid "Zulu"
-msgstr "ズールー"
-
-#~ msgid "z8IAfoqxOPI"
-#~ msgstr "z8IAfoqxOPI"
-
-#~ msgid "CqhwzZycdFU"
-#~ msgstr "CqhwzZycdFU"
-
-#~ msgid "<h2>Ready to explore the key benefits of Firefox OS?</h2>"
-#~ msgstr "<h2>Firefox OS の主な利点</h2>"
+msgstr "ズールー語"
