@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-10-27 10:43+0000\n"
-"PO-Revision-Date: 2015-10-16 21:30+0000\n"
-"Last-Translator: Michal <michal.stanke@mikk.cz>\n"
+"PO-Revision-Date: 2015-10-27 13:43+0000\n"
+"Last-Translator: Tomáš <zelitomas@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1445031021.0\n"
+"X-POOTLE-MTIME: 1445953416.0\n"
 
 #. Translators:
 #. Page path: /1-1/
@@ -4937,7 +4937,6 @@ msgstr ""
 #. Translators:
 #. Page path: /1-3/introduction/
 #: db-strings.txt:9321
-#, fuzzy
 #| msgid ""
 #| "Use your phone in your language, control your data usage and personalize it "
 #| "by creating your own ringtones. You can also download locally-relevant apps "
@@ -4949,35 +4948,33 @@ msgid ""
 "download locally-relevant apps that enrich and simplify your daily life. "
 "Firefox OS is truly a phone made with you in mind."
 msgstr ""
-"Používejte svůj telefon ve vlastním jazyce, mějte přehled jeho využívání dat"
-" a přizpůsobte si jej s vlastním vyzváněcím tónem. Můžete si také stáhnout "
-"aplikace o vašem okolí, které vám zpříjemní každý den. Firefox OS je "
-"skutečně telefon s vámi na prvním místě."
+"Používejte svůj telefon ve vlastním jazyce, mějte přehled jeho využívání dat "
+"a přizpůsobte si jej přidáním zkratek k vašim oblíbeným stránkám a "
+"aplikacím. Můžete si také stáhnout aplikace o vašem okolí, které vám "
+"zpříjemní každý den. Firefox OS je skutečně telefon s vámi na prvním místě."
 
 #. Translators:
 #. Page path: /1-3/demo-tips/
 #: db-strings.txt:9438
-#, fuzzy
 #| msgid "Rich media experience"
 msgid "Multimedia experience"
-msgstr "Bohatý mediální prožitek"
+msgstr "Multimediální zážitek"
 
 #. Translators:
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:10797
 msgid "Add website shortcuts on the homescreen"
-msgstr ""
+msgstr "Přidání zástupců webových stánek na domovskou obrazovku"
 
 #. Translators:
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:10806
 msgid "Modify the 4 direct access icons at the bottom of the screen"
-msgstr ""
+msgstr "Modifikace 4 ikon rychlého přístupu ve spodní části obrazovky"
 
 #. Translators:
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:11004
-#, fuzzy
 #| msgid ""
 #| "With the Firefox Marketplace, the best preloaded apps and an awesome user "
 #| "experience, Firefox OS is packed with the features that users are looking "
@@ -4987,13 +4984,14 @@ msgid ""
 "experience, Firefox OS is packed with the features that users are looking "
 "for in a smartphone. We focus on quality apps that are easy to discover!"
 msgstr ""
-"Díky Firefox Marketplace a desítkám nainstalovaných aplikací nabízí Firefox "
-"OS plno funkcí, které očekáváte od chytrého telefonu."
+"Díky Firefox Marketplace, těm nejlepším předinstalovaným aplikacím a "
+"skvělému uživatelskému zážitku je Firefox OS nabitý funkcemi, které "
+"uživatelé od chytrého telefonu chtějí. Zaměřujeme se na kvalitní aplikace, "
+"které vůbec není těžké nalézt!"
 
 #. Translators:
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:11013
-#, fuzzy
 #| msgid ""
 #| "Since it is built by Firefox, you can feel confident that Firefox OS is "
 #| "backed by a global community working on your behalf and with your interests "
@@ -5003,14 +5001,13 @@ msgid ""
 "confident that Firefox OS is backed by a global community working on your "
 "behalf and with your interests in mind."
 msgstr ""
-"Telefon Firefox OS vychází z prohlížeče Firefox, takže si můžete být jisti "
-"tím, že je podporován globální komunitou, která bude pracovat pro vás a bude"
-" mít vždy na mysli vaše zájmy."
+"Jelikož jej vytváří nezisková organizace Mozilla, můžete být jisti tím, že "
+"je podporován globální komunitou, která bude pracovat pro vás a bude mít "
+"vždy na mysli vaše zájmy."
 
 #. Translators:
 #. Page path: /1-3/take-the-challenge/
 #: db-strings.txt:11022
-#, fuzzy
 #| msgid ""
 #| "Since it is built by Firefox, you can feel confident that Firefox OS is "
 #| "backed by a global community working on your behalf and with your interests "
@@ -5020,9 +5017,9 @@ msgid ""
 "backed by a global community working on your behalf and with your interests "
 "in mind."
 msgstr ""
-"Telefon Firefox OS vychází z prohlížeče Firefox, takže si můžete být jisti "
-"tím, že je podporován globální komunitou, která bude pracovat pro vás a bude"
-" mít vždy na mysli vaše zájmy."
+"Jelikož jej vytváří nezisková organizace Mozilla, Firefox OS bude podporován "
+"globální komunitou, která bude pracovat pro vás a bude mít vždy na mysli "
+"vaše zájmy."
 
 #: masterfirefoxos/base/templates/base.html:35
 msgid "Submit"
