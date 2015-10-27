@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-10-27 10:23+0000\n"
+"POT-Creation-Date: 2015-10-27 10:43+0000\n"
 "PO-Revision-Date: 2015-08-07 21:18+0000\n"
 "Last-Translator: Théo <theo.chevalier11@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -811,8 +811,10 @@ msgstr "Où me rendre si j'ai d'autres questions ?"
 #. Page path: /2-0/frequently-asked-questions/
 #. Translators:
 #. Page path: /1-3/frequently-asked-questions/
+#. Translators:
+#. Page path: /2-1/frequently-asked-questions/
 #: db-strings.txt:852 db-strings.txt.py:3138 db-strings.txt.py:7827
-#: db-strings.txt:10005
+#: db-strings.txt:10005 db-strings.txt.py:12349
 msgid ""
 "Visit <a href=\"https://support.mozilla.org/en-US/products/firefox-"
 "os\">https://support.mozilla.org/en-US/products/firefox-os</a> for more "

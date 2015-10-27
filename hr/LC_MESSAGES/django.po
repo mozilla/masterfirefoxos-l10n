@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-10-27 10:23+0000\n"
+"POT-Creation-Date: 2015-10-27 10:43+0000\n"
 "PO-Revision-Date: 2015-02-21 02:56:51\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1549,8 +1549,10 @@ msgstr "Kome bih se trebao obratiti ako imam još pitanja?"
 #. Page path: /2-0/frequently-asked-questions/
 #. Translators:
 #. Page path: /1-3/frequently-asked-questions/
+#. Translators:
+#. Page path: /2-1/frequently-asked-questions/
 #: db-strings.txt:852 db-strings.txt.py:3138 db-strings.txt.py:7827
-#: db-strings.txt:10005
+#: db-strings.txt:10005 db-strings.txt.py:12349
 #, fuzzy
 #| msgid ""
 #| "f='https://support.mozilla.org/en-kb/firefox-r->https://support.mozilla.org"
