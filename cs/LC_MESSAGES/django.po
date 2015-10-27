@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-10-23 11:22+0000\n"
+"POT-Creation-Date: 2015-10-27 10:23+0000\n"
 "PO-Revision-Date: 2015-10-16 21:30+0000\n"
 "Last-Translator: Michal <michal.stanke@mikk.cz>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -4931,6 +4931,96 @@ msgstr ""
 "znamená, že máte verzi 1.0.1</li> <li><em>Firefox OS 1.1.0.0</em> znamená, "
 "že máte verzi 1.1</li> <li><em>1.3.0.0</em> znamená verzi 1.3</li> "
 "<li><em>2.0.0.0</em> znamená verzi 2.0</li> </ul> </li> </ol>"
+
+#. Translators:
+#. Page path: /1-3/introduction/
+#: db-strings.txt:9321
+#, fuzzy
+#| msgid ""
+#| "Use your phone in your language, control your data usage and personalize it "
+#| "by creating your own ringtones. You can also download locally-relevant apps "
+#| "that enrich and simplify your daily life. Firefox OS is truly a phone made "
+#| "with you in mind."
+msgid ""
+"Use your phone in your language, control your data usage and personalize it "
+"by adding shortcuts to your favorite websites and apps. You can also "
+"download locally-relevant apps that enrich and simplify your daily life. "
+"Firefox OS is truly a phone made with you in mind."
+msgstr ""
+"Používejte svůj telefon ve vlastním jazyce, mějte přehled jeho využívání dat"
+" a přizpůsobte si jej s vlastním vyzváněcím tónem. Můžete si také stáhnout "
+"aplikace o vašem okolí, které vám zpříjemní každý den. Firefox OS je "
+"skutečně telefon s vámi na prvním místě."
+
+#. Translators:
+#. Page path: /1-3/demo-tips/
+#: db-strings.txt:9438
+#, fuzzy
+#| msgid "Rich media experience"
+msgid "Multimedia experience"
+msgstr "Bohatý mediální prožitek"
+
+#. Translators:
+#. Page path: /1-3/take-the-challenge/
+#: db-strings.txt:10797
+msgid "Add website shortcuts on the homescreen"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3/take-the-challenge/
+#: db-strings.txt:10806
+msgid "Modify the 4 direct access icons at the bottom of the screen"
+msgstr ""
+
+#. Translators:
+#. Page path: /1-3/take-the-challenge/
+#: db-strings.txt:11004
+#, fuzzy
+#| msgid ""
+#| "With the Firefox Marketplace, the best preloaded apps and an awesome user "
+#| "experience, Firefox OS is packed with the features that users are looking "
+#| "for in a smartphone."
+msgid ""
+"With the Firefox Marketplace, the best preloaded apps and an awesome user "
+"experience, Firefox OS is packed with the features that users are looking "
+"for in a smartphone. We focus on quality apps that are easy to discover!"
+msgstr ""
+"Díky Firefox Marketplace a desítkám nainstalovaných aplikací nabízí Firefox "
+"OS plno funkcí, které očekáváte od chytrého telefonu."
+
+#. Translators:
+#. Page path: /1-3/take-the-challenge/
+#: db-strings.txt:11013
+#, fuzzy
+#| msgid ""
+#| "Since it is built by Firefox, you can feel confident that Firefox OS is "
+#| "backed by a global community working on your behalf and with your interests "
+#| "in mind."
+msgid ""
+"Since it is built by Mozilla, a non profit organisation, you can feel "
+"confident that Firefox OS is backed by a global community working on your "
+"behalf and with your interests in mind."
+msgstr ""
+"Telefon Firefox OS vychází z prohlížeče Firefox, takže si můžete být jisti "
+"tím, že je podporován globální komunitou, která bude pracovat pro vás a bude"
+" mít vždy na mysli vaše zájmy."
+
+#. Translators:
+#. Page path: /1-3/take-the-challenge/
+#: db-strings.txt:11022
+#, fuzzy
+#| msgid ""
+#| "Since it is built by Firefox, you can feel confident that Firefox OS is "
+#| "backed by a global community working on your behalf and with your interests "
+#| "in mind."
+msgid ""
+"Since it is built by Mozilla, a non profit organisation, Firefox OS is "
+"backed by a global community working on your behalf and with your interests "
+"in mind."
+msgstr ""
+"Telefon Firefox OS vychází z prohlížeče Firefox, takže si můžete být jisti "
+"tím, že je podporován globální komunitou, která bude pracovat pro vás a bude"
+" mít vždy na mysli vaše zájmy."
 
 #: masterfirefoxos/base/templates/base.html:35
 msgid "Submit"
