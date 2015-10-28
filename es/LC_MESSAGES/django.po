@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-10-27 10:43+0000\n"
+"POT-Creation-Date: 2015-10-28 12:52+0000\n"
 "PO-Revision-Date: 2015-08-26 01:12+0000\n"
 "Last-Translator: Daniel <danielscott171@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3121,7 +3121,7 @@ msgstr ""
 #. Translators:
 #. Page path: /2-1/which-version/
 #: db-strings.txt:2328 db-strings.txt.py:4668 db-strings.txt.py:7017
-#: db-strings.txt:9231 db-strings.txt.py:11355 db-strings.txt.py:13816
+#: db-strings.txt:9231 db-strings.txt.py:11355 db-strings.txt.py:13834
 msgid "Which Version Do I Have?"
 msgstr "¿Qué versión tengo?"
 
@@ -5572,18 +5572,14 @@ msgstr ""
 #. Translators:
 #. Page path: /2-1/take-the-challenge/
 #: db-strings.txt:13186
-msgid "Yes"
+msgid ""
+"That's right! WhatsApp is available for download from the Firefox "
+"Marketplace for the ZTE Open C2."
 msgstr ""
 
 #. Translators:
 #. Page path: /2-1/take-the-challenge/
-#: db-strings.txt:13195
-msgid "No"
-msgstr ""
-
-#. Translators:
-#. Page path: /2-1/take-the-challenge/
-#: db-strings.txt:13204
+#: db-strings.txt:13195 db-strings.txt.py:13204
 msgid ""
 "Actually, this is true. WhatsApp is now available for download from the "
 "Firefox Marketplace for the ZTE Open C2."
@@ -5670,8 +5666,24 @@ msgid "It includes Firefox Marketplace results."
 msgstr "Incluye resultados de Firefox Marketplace."
 
 #. Translators:
-#. Page path: /2-1/which-version/
+#. Page path: /2-1/take-the-challenge/
+#: db-strings.txt:13816
+#, fuzzy
+#| msgid "True"
+msgid "True."
+msgstr "Verdadero"
+
+#. Translators:
+#. Page path: /2-1/take-the-challenge/
 #: db-strings.txt:13825
+#, fuzzy
+#| msgid "False"
+msgid "False."
+msgstr "Falso"
+
+#. Translators:
+#. Page path: /2-1/which-version/
+#: db-strings.txt:13843
 msgid ""
 "<ol> <li>Open the Settings app on your device.</li> <li>Scroll down and "
 "select <strong>Device information</strong>.</li> <li>On the Device "
