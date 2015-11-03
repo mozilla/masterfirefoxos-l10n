@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-10-28 12:52+0000\n"
-"PO-Revision-Date: 2015-10-28 17:03+0000\n"
-"Last-Translator: Matjaž <m@owca.info>\n"
+"PO-Revision-Date: 2015-11-02 01:10+0000\n"
+"Last-Translator: Daniel <danielscott171@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.0\n"
-"X-POOTLE-MTIME: 1446051807.0\n"
+"X-POOTLE-MTIME: 1446426649.0\n"
 
 #. Translators:
 #. Page path: /1-1/
@@ -5204,7 +5204,7 @@ msgstr ""
 #. Page path: /2-1/key-features/
 #: db-strings.txt:11653 db-strings.txt.py:12124
 msgid "WhatsApp Messenger"
-msgstr ""
+msgstr "WhatsApp Messenger"
 
 #. Translators:
 #. Page path: /2-1/demo-tips/
@@ -5218,6 +5218,13 @@ msgid ""
 "search for WhatsApp on the Firefox Marketplace and follow the instructions "
 "in the video below."
 msgstr ""
+"WhatsApp Messenger es una aplicación de mensajería móvil multiplataforma que "
+"te permite intercambiar mensajes sin tener que pagar por SMS. WhatsApp "
+"Messenger usa e lmismo plan de datos de internet que usas para enviar "
+"correos y navegar la web. WhatsApp ahora está disponible para descargar en "
+"el ZTE Open C2 desde Firefox Marketplace. Para descargar, instalar, y "
+"activar WhatsApp tienes que buscarlo en Firefox Marketplace y seguir las "
+"instrucciones en el vídeo a continuación."
 
 #. Translators:
 #. Page path: /2-1/key-features/
@@ -5328,6 +5335,10 @@ msgid ""
 "contacts using data instead of paying for SMS.  It is now available for "
 "download for the ZTE Open C2 from the Firefox Marketplace."
 msgstr ""
+"WhatsApp es una aplicación de mensajería que te permite intercambiar "
+"mensajes con tus contactos usando datos móviles en lugar de pagar por SMS. "
+"Ahora está disponible para descargar en el ZTE Open C2 desde Firefox "
+"Marketplace."
 
 #. Translators:
 #. Page path: /2-1/frequently-asked-questions/
@@ -5367,7 +5378,7 @@ msgstr ""
 #. Page path: /2-1/frequently-asked-questions/
 #: db-strings.txt:12358
 msgid "Does Firefox OS support WhatsApp Messenger?"
-msgstr ""
+msgstr "¿Firefox OS es compatible con WhatsApp Messenger?"
 
 #. Translators:
 #. Page path: /2-1/frequently-asked-questions/
@@ -5376,6 +5387,8 @@ msgid ""
 "Yes, WhatsApp is now available for download from the Firefox Marketplace for"
 " the ZTE Open C2."
 msgstr ""
+"Sí, WhatsApp ya está disponible para su descarga desde Firefox Marketplace "
+"para el ZTE Open C2."
 
 #. Translators:
 #. Page path: /2-1/take-the-challenge/
@@ -5567,7 +5580,7 @@ msgstr ""
 #. Page path: /2-1/take-the-challenge/
 #: db-strings.txt:13177
 msgid "True or False - WhatsApp is available on Firefox OS?"
-msgstr ""
+msgstr "Verdadero o falso: ¿WhatsApp está disponible en Firefox OS?"
 
 #. Translators:
 #. Page path: /2-1/take-the-challenge/
@@ -5576,6 +5589,8 @@ msgid ""
 "That's right! WhatsApp is available for download from the Firefox "
 "Marketplace for the ZTE Open C2."
 msgstr ""
+"¡Correcto! WhatsApp ahora está disponible para descargar desde Firefox "
+"Marketplace en el ZTE Open C2."
 
 #. Translators:
 #. Page path: /2-1/take-the-challenge/
@@ -5584,6 +5599,8 @@ msgid ""
 "Actually, this is true. WhatsApp is now available for download from the "
 "Firefox Marketplace for the ZTE Open C2."
 msgstr ""
+"De hecho, es cierto. WhatsApp ahora está disponible para descargar desde "
+"Firefox Marketplace en el ZTE Open C2."
 
 #. Translators:
 #. Page path: /2-1/take-the-challenge/
@@ -5668,18 +5685,16 @@ msgstr "Incluye resultados de Firefox Marketplace."
 #. Translators:
 #. Page path: /2-1/take-the-challenge/
 #: db-strings.txt:13816
-#, fuzzy
 #| msgid "True"
 msgid "True."
-msgstr "Verdadero"
+msgstr "Verdadero."
 
 #. Translators:
 #. Page path: /2-1/take-the-challenge/
 #: db-strings.txt:13825
-#, fuzzy
 #| msgid "False"
 msgid "False."
-msgstr "Falso"
+msgstr "Falso."
 
 #. Translators:
 #. Page path: /2-1/which-version/
